@@ -109,5 +109,4 @@ colors:
   - Titanium White
   - Midnight Black
   - Prussian Blue
-  - Liquid White
 ```
