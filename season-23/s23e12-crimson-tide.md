@@ -6,7 +6,8 @@
 - Expansive sky filled with billowing crimson and purple storm clouds
 - Foaming wave crests catching highlight in the foreground and middle distance
 - No structures, pure natural drama of sea meeting storm-laden sky
-- Compositional archetype: **Asymmetric coastal drama with silhouetted landform anchor**
+
+Compositional archetype: **Asymmetric coastal drama with silhouetted landform anchor**
 
 ## 2. Palette
 - Deep purples and crimson reds create the dramatic stormy sky
@@ -62,11 +63,11 @@
 
 ```yaml
 tags:
-  composition_archetype: "Asymmetric coastal drama with silhouetted landform anchor"
-  palette_identity: "Crimson-purple storm symphony"
-  depth_style: "Atmospheric perspective through silhouette contrast"
-  lighting_type: "Stormy twilight glow"
-  motion_profile: "Surging oceanic turbulence"
+  composition_archetype: "asymmetric coastal drama with silhouetted landform anchor"
+  palette_identity: "crimson-purple storm symphony"
+  depth_style: "atmospheric perspective through silhouette contrast"
+  lighting_type: "stormy twilight glow"
+  motion_profile: "surging oceanic turbulence"
 
 episode:
   season: 23

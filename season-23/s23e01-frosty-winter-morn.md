@@ -7,7 +7,8 @@
 - Bare deciduous tree anchoring the right side with weathered fence post
 - Misty mountain range or distant forest dissolving into atmospheric haze
 - Serene winter sky with soft gradient from pale blue to white
-- Compositional archetype: **Cabin refuge in balanced winter solitude**
+
+Compositional archetype: **Cabin refuge in balanced winter solitude**
 
 ## 2. Palette
 - Titanium White dominates the snow field and illuminated sky

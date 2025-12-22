@@ -7,7 +7,8 @@
 - No water features or structural elements present
 - Bright atmospheric glow emanates from background forest, suggesting clearing or sunlit canopy beyond
 - Dark undergrowth and grasses populate the foreground floor
-- Compositional archetype: **forest corridor with invitational pathway**
+
+Compositional archetype: **Forest corridor with invitational pathway**
 
 ## 2. Palette
 - Vibrant luminous greens dominate (Sap Green, Phthalo Green) creating ethereal forest glow

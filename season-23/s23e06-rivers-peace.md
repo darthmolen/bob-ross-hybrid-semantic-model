@@ -9,7 +9,8 @@
 - Small structure (cabin or fence) visible on left riverbank
 - Grassy banks bordering the water's edge
 - Dark, dramatic sky suggesting approaching storm or twilight hour
-- Compositional archetype: **riverside tranquility with sentinel trees**
+
+Compositional archetype: **Riverside tranquility with sentinel trees**
 
 ## 2. Palette
 - Midnight Black and Prussian Blue creating moody, stormy sky foundation

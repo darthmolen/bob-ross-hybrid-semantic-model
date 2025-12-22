@@ -7,7 +7,8 @@
 - Misty background trees and bushes on left providing atmospheric depth
 - Serene winter sky with soft cloud formations in cool blue tones
 - Vignette framing with darkened, rounded edges drawing focus inward
-- Compositional archetype: **Vignetted winter sanctuary**
+
+Compositional archetype: **Vignetted winter sanctuary**
 
 ## 2. Palette
 - Deep Prussian and Phthalo Blues dominate sky, shadows, and icy surfaces

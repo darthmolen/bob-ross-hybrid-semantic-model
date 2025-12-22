@@ -28,11 +28,11 @@ The canvas began with a Black Gesso base coat, providing a dark foundation that 
 
 ```yaml
 tags:
-  composition_archetype: "Vertical forest interior with rhythmic tree trunks"
-  palette_identity: "Cool evergreen depths with luminous birch sentinels"
-  depth_style: "Layered vertical planes with atmospheric recession"
-  lighting_type: "Soft diffused forest light"
-  motion_profile: "Stillness embodied—vertical contemplation"
+  composition_archetype: "vertical forest interior with rhythmic tree trunks"
+  palette_identity: "cool evergreen depths with luminous birch sentinels"
+  depth_style: "layered vertical planes with atmospheric recession"
+  lighting_type: "soft diffused forest light"
+  motion_profile: "stillness embodied—vertical contemplation"
 
 episode:
   season: 22

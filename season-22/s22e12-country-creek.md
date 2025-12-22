@@ -34,11 +34,11 @@ This episode employs Black Gesso as the canvas treatment, coating the surface in
 
 ```yaml
 tags:
-  composition_archetype: "Forest Cathedral with Illuminated Center"
-  palette_identity: "Shadowed Forest with Golden Accent"
-  depth_style: "Atmospheric Tunnel with Central Radiance"
-  lighting_type: "Filtered Spotlight"
-  motion_profile: "Flowing Stream Through Still Forest"
+  composition_archetype: "forest cathedral with illuminated center"
+  palette_identity: "shadowed forest with golden accent"
+  depth_style: "atmospheric tunnel with central radiance"
+  lighting_type: "filtered spotlight"
+  motion_profile: "flowing stream through still forest"
 
 episode:
   season: 22

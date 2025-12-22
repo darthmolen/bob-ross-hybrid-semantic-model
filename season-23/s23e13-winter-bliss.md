@@ -68,11 +68,11 @@ The oval format foundation creates an intimate portal framing the alpine vista.
 
 ```yaml
 tags:
-  composition_archetype: "High alpine sanctuary within twilight vignette"
-  palette_identity: "Twilight alpenglow pastels"
-  depth_style: "Layered alpine recession with atmospheric perspective"
-  lighting_type: "Alpenglow twilight"
-  motion_profile: "Suspended winter tranquility"
+  composition_archetype: "high alpine sanctuary within twilight vignette"
+  palette_identity: "twilight alpenglow pastels"
+  depth_style: "layered alpine recession with atmospheric perspective"
+  lighting_type: "alpenglow twilight"
+  motion_profile: "suspended winter tranquility"
 
 episode:
   season: 23

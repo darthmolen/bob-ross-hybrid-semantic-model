@@ -9,7 +9,8 @@
 - No water features, structures, or mountains—pure forest interior focus
 - Dark tree trunks provide structural contrast against luminous foliage
 - Ground path leads the eye from foreground through midground into atmospheric distance
-- Compositional archetype: **Symmetrical autumn corridor with central pathway recession**
+
+Compositional archetype: **Symmetrical autumn corridor with central pathway recession**
 
 ## 2. Palette
 - Cadmium Yellow and Indian Yellow create the brilliant golden autumn foliage

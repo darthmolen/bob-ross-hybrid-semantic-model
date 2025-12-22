@@ -8,7 +8,8 @@
 - Rocky stream in the foreground with white-capped water flowing toward the viewer
 - Verdant hillsides with bright highlighting suggesting soft, diffused illumination
 - No structures present; pure wilderness composition
-- Compositional archetype: **Vertical cascade through mountain valley**
+
+Compositional archetype: **Vertical cascade through mountain valley**
 
 ## 2. Palette
 - Deep Prussian Blue and Phthalo Blue dominate the waterfall and sky
@@ -70,11 +71,11 @@
 
 ```yaml
 tags:
-  composition_archetype: "Vertical cascade through mountain valley"
-  palette_identity: "Storm-lit verdant valley"
-  depth_style: "Layered vertical descent"
-  lighting_type: "Diffused overcast"
-  motion_profile: "Vertical cascade with forward stream flow"
+  composition_archetype: "vertical cascade through mountain valley"
+  palette_identity: "storm-lit verdant valley"
+  depth_style: "layered vertical descent"
+  lighting_type: "diffused overcast"
+  motion_profile: "vertical cascade with forward stream flow"
 
 episode:
   season: 23

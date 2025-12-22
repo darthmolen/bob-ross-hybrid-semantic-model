@@ -40,11 +40,11 @@ The canvas received a wet initial coating, likely Liquid White or a thinned mixt
 
 ```yaml
 tags:
-  composition_archetype: "Mountain lake with spring awakening"
-  palette_identity: "Pastel spring transition with alpine clarity"
-  depth_style: "Layered alpine recession with atmospheric perspective"
-  lighting_type: "Late afternoon spring glow"
-  motion_profile: "Serene stillness with seasonal anticipation"
+  composition_archetype: "mountain lake with spring awakening"
+  palette_identity: "pastel spring transition with alpine clarity"
+  depth_style: "layered alpine recession with atmospheric perspective"
+  lighting_type: "late afternoon spring glow"
+  motion_profile: "serene stillness with seasonal anticipation"
 
 episode:
   season: 22

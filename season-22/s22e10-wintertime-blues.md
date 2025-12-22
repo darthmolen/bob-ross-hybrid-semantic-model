@@ -40,11 +40,11 @@ The canvas likely received a treatment of Liquid White or a very light blue base
 
 ```yaml
 tags:
-  composition_archetype: "Framed mountain valley with atmospheric blue haze"
-  palette_identity: "Monochromatic blue winter atmosphere with brilliant white accents"
-  depth_style: "Progressive atmospheric perspective with blue-toned recession"
-  lighting_type: "Bright winter daylight"
-  motion_profile: "Crystalline stillness with ethereal atmospheric drift"
+  composition_archetype: "framed mountain valley with atmospheric blue haze"
+  palette_identity: "monochromatic blue winter atmosphere with brilliant white accents"
+  depth_style: "progressive atmospheric perspective with blue-toned recession"
+  lighting_type: "bright winter daylight"
+  motion_profile: "crystalline stillness with ethereal atmospheric drift"
 
 episode:
   season: 22

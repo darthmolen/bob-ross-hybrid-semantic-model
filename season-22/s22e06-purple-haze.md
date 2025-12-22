@@ -34,11 +34,11 @@ The canvas began with a Black Gesso treatment, creating a dark, absorbent founda
 
 ```yaml
 tags:
-  composition_archetype: "Atmospheric woodland clearing with backlit haze"
-  palette_identity: "Purple atmospheric dominance with golden autumn accents"
-  depth_style: "Atmospheric perspective with luminous central recession"
-  lighting_type: "Diffused backlight"
-  motion_profile: "Static with atmospheric drift"
+  composition_archetype: "atmospheric woodland clearing with backlit haze"
+  palette_identity: "purple atmospheric dominance with golden autumn accents"
+  depth_style: "atmospheric perspective with luminous central recession"
+  lighting_type: "diffused backlight"
+  motion_profile: "static with atmospheric drift"
 
 episode:
   season: 22

@@ -8,7 +8,8 @@
 - Tall coniferous tree anchors the left foreground with dark vertical presence
 - Deciduous trees cluster around the cabin and populate the right side with bright sunlit foliage
 - Rolling grassy banks and meadows provide gentle horizontal flow
-- Compositional archetype: **Pastoral sanctuary with meandering water**
+
+Compositional archetype: **Pastoral sanctuary with meandering water**
 
 ## 2. Palette
 - Deep Prussian Blue and Phthalo Blue create the moody storm clouds on the left
@@ -71,11 +72,11 @@ The foundation establishes a complete value range from dark storm clouds to brig
 
 ```yaml
 tags:
-  composition_archetype: "Pastoral sanctuary with meandering water"
-  palette_identity: "Transitional afternoon with storm-light contrast"
-  depth_style: "Multi-layered atmospheric recession from intimate foreground to distant peak"
-  lighting_type: "Late afternoon clearing light"
-  motion_profile: "Gentle flowing transitions with departing weather"
+  composition_archetype: "pastoral sanctuary with meandering water"
+  palette_identity: "transitional afternoon with storm-light contrast"
+  depth_style: "multi-layered atmospheric recession from intimate foreground to distant peak"
+  lighting_type: "late afternoon clearing light"
+  motion_profile: "gentle flowing transitions with departing weather"
 
 episode:
   season: 23

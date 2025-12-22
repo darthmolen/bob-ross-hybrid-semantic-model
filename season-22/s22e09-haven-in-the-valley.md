@@ -33,11 +33,11 @@ The canvas began with a light blue base coat applied to establish the cool atmos
 
 ```yaml
 tags:
-  composition_archetype: "Mountain sanctuary with lakeside refuge in oval frame"
-  palette_identity: "Alpine majesty with spring valley warmth"
-  depth_style: "Layered recession from intimate foreground refuge to monumental alpine backdrop"
-  lighting_type: "Golden hour backlight"
-  motion_profile: "Suspended tranquility with gentle topographic flow"
+  composition_archetype: "mountain sanctuary with lakeside refuge in oval frame"
+  palette_identity: "alpine majesty with spring valley warmth"
+  depth_style: "layered recession from intimate foreground refuge to monumental alpine backdrop"
+  lighting_type: "golden hour backlight"
+  motion_profile: "suspended tranquility with gentle topographic flow"
 
 episode:
   season: 22
