@@ -39,7 +39,7 @@ Palette identity: **Golden Amber Atmosphere with Luminous Mist**
 - Hopeful and uplifting
 - Soft and gentle emotional resonance
 
-Lighting: **Radiant Backlit Glow** with intense golden light source creating dramatic atmospheric illumination through morning mist.
+**Lighting: "Radiant Backlit Glow"** with intense golden light source creating dramatic atmospheric illumination through morning mist.
 
 ## 4. Structural Layout
 
