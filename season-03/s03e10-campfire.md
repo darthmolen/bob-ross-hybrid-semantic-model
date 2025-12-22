@@ -68,3 +68,30 @@ Signature technique: **Dramatic glow-from-darkness with radiant light source bui
 - Light colors built progressively from center outward
 - Glow area likely established early to guide value relationships
 Foundation approach builds from complete darkness toward a single radiant light source, reversing the typical Bob Ross light-to-dark painting sequence.
+
+---
+
+```yaml
+tags:
+  composition_archetype: "Radiant nocturnal focal point with symmetrical dark framing and reflective foreground"
+  palette_identity: "Monochromatic fire-glow spectrum with black silhouettes"
+  depth_style: "Theatrical spotlight depth with center illumination fading to darkness"
+  lighting_type: "Single-source radiant firelight illuminating complete nocturnal scene"
+  motion_profile: "Radial emanation with vertical flame thrust"
+
+episode:
+  season: 3
+  episode: 10
+  title: "Campfire"
+  year: 1984
+  painting_index: 265
+
+colors:
+  - Cadmium Yellow
+  - Bright Red
+  - Burnt Sienna
+  - Midnight Black
+  - Van Dyke Brown
+  - Yellow Ochre
+  - Alizarin Crimson
+```

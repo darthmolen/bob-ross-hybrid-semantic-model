@@ -64,3 +64,32 @@ Signature technique: **Knife-built architectural structure with atmospheric mist
 - Water area likely covered with gesso or light blue undertone to enhance reflective quality
 - Dark value blocking for barn placement to anchor the composition's focal weight
 Canvas foundation emphasizes atmospheric gradation from bright sky through misty middle to reflective foreground, creating the envelope for the rustic architectural subject.
+
+---
+
+```yaml
+tags:
+  composition_archetype: "Centered monument with water barrier—a nostalgic study in rural decay framed by nature's renewal"
+  palette_identity: "Autumn warmth meets spring vitality—rust and gold against fresh greens"
+  depth_style: "Atmospheric perspective with strong foreground reflection and misty background dissolution"
+  lighting_type: "Soft diffused daylight with misty atmospheric scattering"
+  motion_profile: "Contemplative stillness with subtle atmospheric drift"
+
+episode:
+  season: 3
+  episode: 11
+  title: "Rustic Barn"
+  year: 1984
+  painting_index: 266
+
+colors:
+  - Burnt Sienna
+  - Van Dyke Brown
+  - Cadmium Yellow
+  - Yellow Ochre
+  - Sap Green
+  - Prussian Blue
+  - Alizarin Crimson
+  - Titanium White
+  - Midnight Black
+```

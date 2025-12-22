@@ -73,3 +73,30 @@ Signature technique: **Vibrant fan brush foliage work with electric spring green
 - Base allowed to remain wet throughout painting process for seamless blending and soft transitions
 
 The foundation emphasizes maintaining a luminous, light-filled base that allows the bright spring greens to glow with maximum vitality against the flowing water channel.
+
+---
+
+```yaml
+tags:
+  composition_archetype: "pastoral stream corridor"
+  palette_identity: "Luminous spring verdancy with electric green vitality"
+  depth_style: "Linear perspective through receding water channel with atmospheric lightening"
+  lighting_type: "Bright overhead sunlight with diffused canopy filtering"
+  motion_profile: "Dynamic water flow with cascading energy along central axis"
+
+episode:
+  season: 3
+  episode: 3
+  title: "Bubbling Stream"
+  year: 1984
+  painting_index: 258
+
+colors:
+  - Sap Green
+  - Cadmium Yellow
+  - Yellow Ochre
+  - Prussian Blue
+  - Titanium White
+  - Van Dyke Brown
+  - Dark Sienna
+```

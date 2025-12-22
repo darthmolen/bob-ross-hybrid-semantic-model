@@ -99,3 +99,34 @@ Signature technique: **brilliant white water highlights contrasting with dark fo
 - Standard smooth surface preparation
 
 A traditional Liquid White foundation enabling bright, high-key tonality and smooth color transitions.
+
+---
+
+```yaml
+tags:
+  composition_archetype: "bright, sunlit forest-and-river corridor composition with seasonal contrast"
+  palette_identity: "sunlit autumn-and-spring contrast palette with brilliant water"
+  depth_style: "high-key atmospheric recession with bright value compression"
+  lighting_type: "direct sunlight"
+  motion_profile: "relaxed center-pull perspective"
+
+episode:
+  season: 2
+  episode: 10
+  title: "Lazy River"
+  year: 1984
+  painting_index: 278
+
+colors:
+  - Cadmium Yellow
+  - Indian Yellow
+  - Alizarin Crimson
+  - Sap Green
+  - Phthalo Green
+  - Van Dyke Brown
+  - Burnt Umber
+  - Titanium White
+  - Prussian Blue
+  - Phthalo Blue
+  - Yellow Ochre
+```

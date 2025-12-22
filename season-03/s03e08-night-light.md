@@ -67,3 +67,32 @@ Signature technique: **Dual-light nocturne with contrasting warm-cool atmospheri
 - **Minimal initial sky work** preserving dark base for light source painting
 - **Strategic placement** of light zones planned before paint application
 The canvas begins in complete darkness, a void from which two sources of light will gradually emerge to create a study in contrasts and hope.
+
+---
+
+```yaml
+tags:
+  composition_archetype: "dual-light nocturne archetype"
+  palette_identity: "Chiaroscuro nocturne with theatrical warm-cool contrast"
+  depth_style: "Dramatic atmospheric perspective with dual light source gradient"
+  lighting_type: "Dual-source nocturnal illumination—warm artificial beacon and cool natural moonlight"
+  motion_profile: "Turbulent maritime flow with stationary light anchors"
+
+episode:
+  season: 3
+  episode: 8
+  title: "Night Light"
+  year: 1984
+  painting_index: 263
+
+colors:
+  - Prussian Blue
+  - Phthalo Blue
+  - Midnight Black
+  - Bright Red
+  - Cadmium Yellow
+  - Yellow Ochre
+  - Sap Green
+  - Titanium White
+  - Alizarin Crimson
+```

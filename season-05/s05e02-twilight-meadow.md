@@ -107,7 +107,8 @@ episode:
   season: 5
   episode: 2
   title: "Twilight Meadow"
-  year: 1987
+  year: 1986
+  painting_index: 231
 
 colors:
   - Liquid White
@@ -120,23 +121,4 @@ colors:
   - Van Dyke Brown
   - Burnt Umber
   - Titanium White
-
-techniques:
-  - fan brush foliage
-  - palette knife
-  - wet-on-wet
-  - highlight layering
-  - liquid reflection
-  - horizontal grass strokes
-  - push-up trees
-  - atmospheric perspective
-
-featured_elements:
-  - foreground tree
-  - still pond
-  - open meadow
-  - background trees
-  - cumulus clouds
-  - sunlit foliage
-  - grassy field
 ```

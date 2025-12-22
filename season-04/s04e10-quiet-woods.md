@@ -97,13 +97,14 @@ tags:
   palette_identity: "misty morning with autumn contrast"
   depth_style: "atmospheric perspective through progressive mist saturation"
   lighting_type: "soft diffused through morning mist"
-  motion_profile: "S-curve path with horizontal atmospheric flow"
+  motion_profile: "S curve path with horizontal atmospheric flow"
 
 episode:
   season: 4
   episode: 10
   title: "Quiet Woods"
   year: 1985
+  painting_index: 252
 
 colors:
   - Titanium White
@@ -118,24 +119,4 @@ colors:
   - Yellow Ochre
   - Indian Yellow
   - Bright Red
-
-techniques:
-  - wet-on-wet blending
-  - fan brush evergreens
-  - palette knife highlights
-  - atmospheric perspective
-  - liner brush detail work
-  - progressive mist saturation
-  - cross-hatch foliage
-  - graduated color blending
-
-featured_elements:
-  - winding dirt path
-  - misty purple mountains
-  - evergreen conifers
-  - golden deciduous tree
-  - grassy meadow
-  - atmospheric fog
-  - forest solitude
-  - seasonal transition
 ```

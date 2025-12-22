@@ -89,17 +89,18 @@ Signature technique: **purple atmospheric glazing over luminous white base**
 
 ```yaml
 tags:
-  composition_archetype: "framed_winter_refuge"
-  palette_identity: "lavender_winter_dreamscape"
-  depth_style: "layered_atmospheric_perspective"
-  lighting_type: "diffused_purple_glow"
-  motion_profile: "diagonal_contour_flow"
+  composition_archetype: "framed winter refuge"
+  palette_identity: "lavender winter dreamscape"
+  depth_style: "layered atmospheric perspective"
+  lighting_type: "diffused purple glow"
+  motion_profile: "diagonal contour flow"
 
 episode:
   season: 4
   episode: 1
   title: "Purple Splendor"
   year: 1985
+  painting_index: 243
 
 colors:
   - Alizarin Crimson
@@ -108,23 +109,4 @@ colors:
   - Midnight Black
   - Dark Sienna
   - Phthalo Blue
-
-techniques:
-  - fan_brush_evergreens
-  - knife_cabin_structure
-  - purple_atmospheric_glazing
-  - wet_on_wet_blending
-  - liquid_white_base
-  - crisscross_sky_blending
-  - snow_contour_highlights
-  - misty_forest_effect
-
-featured_elements:
-  - snow_covered_cabin
-  - frozen_water
-  - evergreen_trees
-  - purple_sky
-  - misty_forest
-  - wooden_fence
-  - rolling_snow_hills
 ```

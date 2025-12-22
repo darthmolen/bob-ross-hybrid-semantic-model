@@ -91,13 +91,13 @@ A foundational dark-base woodland scene emphasizing contrast and atmospheric dep
 
 ---
 
-## Metadata
+---
 
 ```yaml
 tags:
-  composition_archetype: "forest corridor"
+  composition_archetype: "dark-toned forest-and-river corridor composition"
   palette_identity: "dark woodland palette with luminous water highlights"
-  depth_style: "tunnel depth"
+  depth_style: "tunnel-like depth with strong value contrast"
   lighting_type: "backlit glow"
   motion_profile: "center-pull perspective"
 
@@ -106,6 +106,7 @@ episode:
   episode: 6
   title: "Black River"
   year: 1984
+  painting_index: 274
 
 colors:
   - Midnight Black
@@ -114,17 +115,4 @@ colors:
   - Sap Green
   - Titanium White
   - Yellow Ochre
-
-techniques:
-  - Dark gesso underpainting
-  - Fan brush evergreens
-  - Palette knife tree trunks
-  - Pull-down water reflections
-  - Liner brush details
-
-featured_elements:
-  - River
-  - Forest
-  - Atmospheric glow
-  - Dark corridor composition
 ```

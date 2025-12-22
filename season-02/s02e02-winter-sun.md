@@ -86,3 +86,35 @@ Signature technique: **crimson-tinted frost effects with radial sun glow blendin
 - Standard bright foundation for luminous winter atmosphere
 
 A foundational Liquid White approach supporting seamless blending of warm atmospheric tones with traditional winter whites and creating radiant sun effects.
+
+---
+
+```yaml
+tags:
+  composition_archetype: "winter pathway with centered sun composition"
+  palette_identity: "warm winter palette with pink-tinted frost and golden sun radiance"
+  depth_style: "radial depth with centered light source"
+  lighting_type: "centered radiant sunlight"
+  motion_profile: "radial luminosity with gentle forward progression toward light source"
+
+episode:
+  season: 2
+  episode: 2
+  title: "Winter Sun"
+  year: 1984
+  painting_index: 270
+
+colors:
+  - Titanium White
+  - Alizarin Crimson
+  - Bright Red
+  - Cadmium Yellow
+  - Indian Yellow
+  - Phthalo Blue
+  - Prussian Blue
+  - Van Dyke Brown
+  - Burnt Umber
+  - Sap Green
+  - Phthalo Green
+  - Yellow Ochre
+```

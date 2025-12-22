@@ -66,3 +66,29 @@ Signature technique: **Nocturnal painting with dark canvas foundation and lumino
 - Allows white and light blue highlights to achieve maximum luminosity and contrast
 - Creates immediate depth and establishes the nighttime environment
 The **dark canvas foundation technique** transforms the painting surface into night itself, making every highlight a captured moment of moonlight.
+
+---
+
+```yaml
+tags:
+  composition_archetype: "romantic nocturnal seascape archetype"
+  palette_identity: "Monochromatic blue nocturne with luminous white accents"
+  depth_style: "Atmospheric perspective through value contrast and reflected light"
+  lighting_type: "Single-source lunar illumination with diffused moonlight"
+  motion_profile: "Horizontal atmospheric drift with vertical reflected light pathway"
+
+episode:
+  season: 3
+  episode: 2
+  title: "Blue Moon"
+  year: 1984
+  painting_index: 257
+
+colors:
+  - Prussian Blue
+  - Ultramarine Blue
+  - Phthalo Blue
+  - Midnight Black
+  - Titanium White
+  - Cadmium Yellow
+```

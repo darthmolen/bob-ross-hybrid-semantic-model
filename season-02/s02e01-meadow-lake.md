@@ -78,3 +78,34 @@ Signature technique: **vibrant autumn foliage highlights contrasting with dark e
 - Traditional wet-on-wet foundation
 
 A classic Liquid White foundation supporting bright, luminous colors and smooth atmospheric transitions in a celebratory mountain landscape.
+
+---
+
+```yaml
+tags:
+  composition_archetype: "mountain-lake-meadow composition with seasonal autumn colors"
+  palette_identity: "bright alpine palette with golden autumn accents"
+  depth_style: "layered atmospheric planes with clear foreground-to-background progression"
+  lighting_type: "direct overhead sunlight"
+  motion_profile: "upward-sweeping perspective"
+
+episode:
+  season: 2
+  episode: 1
+  title: "Meadow Lake"
+  year: 1984
+  painting_index: 269
+
+colors:
+  - Prussian Blue
+  - Phthalo Blue
+  - Titanium White
+  - Cadmium Yellow
+  - Indian Yellow
+  - Sap Green
+  - Phthalo Green
+  - Van Dyke Brown
+  - Burnt Umber
+  - Alizarin Crimson
+  - Bright Red
+```

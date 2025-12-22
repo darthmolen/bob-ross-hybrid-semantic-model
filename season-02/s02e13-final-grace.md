@@ -89,3 +89,35 @@ Signature technique: **palette knife snow peaks with dimensional shadow modeling
 - Standard bright foundation supporting snow brilliance and water reflections
 
 A foundational Liquid White approach enabling luminous alpine atmosphere, crisp mountain definition, and brilliant reflective water effects.
+
+---
+
+```yaml
+tags:
+  composition_archetype: "alpine mountain reflection with balanced lakeside framing"
+  palette_identity: "luminous alpine palette with brilliant snow peaks and vibrant yellow-green foliage"
+  depth_style: "layered atmospheric perspective with clear foreground-to-mountain progression"
+  lighting_type: "full daylight illumination"
+  motion_profile: "serene stillness with dynamic cloud energy above"
+
+episode:
+  season: 2
+  episode: 13
+  title: "Final Grace"
+  year: 1984
+  painting_index: 281
+
+colors:
+  - Titanium White
+  - Prussian Blue
+  - Phthalo Blue
+  - Cadmium Yellow
+  - Indian Yellow
+  - Phthalo Green
+  - Sap Green
+  - Van Dyke Brown
+  - Burnt Umber
+  - Alizarin Crimson
+  - Bright Red
+  - Yellow Ochre
+```

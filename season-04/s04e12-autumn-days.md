@@ -94,6 +94,7 @@ episode:
   episode: 12
   title: "Autumn Days"
   year: 1985
+  painting_index: 254
 
 colors:
   - Prussian Blue
@@ -107,21 +108,4 @@ colors:
   - Titanium White
   - Burnt Sienna
   - Cadmium Orange
-
-techniques:
-  - fan_brush_foliage
-  - palette_knife_bark_texture
-  - wet_on_wet_blending
-  - atmospheric_mist_layering
-  - liner_brush_branches
-  - liquid_white_foundation
-  - vertical_reflection_technique
-
-featured_elements:
-  - birch_trees
-  - autumn_foliage
-  - meadow
-  - reflective_pond
-  - atmospheric_mist
-  - deep_blue_sky
 ```

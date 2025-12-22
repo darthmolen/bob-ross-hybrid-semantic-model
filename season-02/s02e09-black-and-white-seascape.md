@@ -81,3 +81,31 @@ Signature technique: **dramatic white foam highlights over dark monochromatic ba
 - Wet-on-wet technique over dark base
 
 A foundational black gesso approach creating maximum contrast for the monochromatic storm seascape with concentrated atmospheric light.
+
+---
+
+```yaml
+tags:
+  composition_archetype: "dramatic storm seascape with diagonal wave motion"
+  palette_identity: "monochromatic storm palette with dramatic white highlights and golden atmospheric glow"
+  depth_style: "diagonal dynamic depth with atmospheric storm layers"
+  lighting_type: "breakthrough storm light"
+  motion_profile: "turbulent diagonal motion with breaking wave dynamics"
+
+episode:
+  season: 2
+  episode: 9
+  title: "Black and White Seascape"
+  year: 1984
+  painting_index: 277
+
+colors:
+  - Black Gesso
+  - Prussian Blue
+  - Phthalo Blue
+  - Titanium White
+  - Van Dyke Brown
+  - Indian Yellow
+  - Cadmium Yellow
+  - Phthalo Green
+```

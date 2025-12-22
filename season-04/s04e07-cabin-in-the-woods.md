@@ -91,7 +91,7 @@ Canvas prepared with dark base to amplify atmospheric luminescence and depth con
 tags:
   composition_archetype: "forest enclosure with ethereal depth"
   palette_identity: "ethereal forest mysticism with cool atmospheric luminescence"
-  depth_style: "atmospheric perspective with mist-enhanced recession"
+  depth_style: "atmospheric perspective with mist enhanced recession"
   lighting_type: "diffused atmospheric glow with misty forest filtering"
   motion_profile: "winding path with vertical rhythmic emphasis"
 
@@ -100,6 +100,7 @@ episode:
   episode: 7
   title: "Cabin in the Woods"
   year: 1985
+  painting_index: 249
 
 colors:
   - Liquid White
@@ -112,22 +113,4 @@ colors:
   - Sap Green
   - Bright Red
   - Midnight Black
-
-techniques:
-  - Wet-on-wet blending
-  - Knife painting
-  - Fan brush foliage
-  - Liner brush details
-  - Atmospheric layering
-  - Push-up grass technique
-  - Vertical bark highlighting
-  - Thin paint atmospheric effects
-
-featured_elements:
-  - Birch forest
-  - Rustic cabin
-  - Winding stream/path
-  - Turquoise atmospheric mist
-  - Forest floor undergrowth
-  - Vertical tree composition
 ```

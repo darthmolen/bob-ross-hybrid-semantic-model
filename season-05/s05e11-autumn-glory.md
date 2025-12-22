@@ -97,17 +97,18 @@ Foundation established for maximum color blending and autumn vibrancy.
 
 ```yaml
 tags:
-  composition_archetype: "lakeside_autumn_showcase"
-  palette_identity: "peak_autumn_radiance"
-  depth_style: "layered_horizontal_recession"
-  lighting_type: "bright_midday"
-  motion_profile: "still_reflection"
+  composition_archetype: "lakeside autumn showcase"
+  palette_identity: "peak autumn radiance"
+  depth_style: "layered horizontal recession"
+  lighting_type: "bright midday"
+  motion_profile: "still reflection"
 
 episode:
   season: 5
   episode: 11
   title: "Autumn Glory"
-  year: 1987
+  year: 1986
+  painting_index: 240
 
 colors:
   - Alizarin Crimson
@@ -121,23 +122,4 @@ colors:
   - Titanium White
   - Van Dyke Brown
   - Dark Sienna
-
-techniques:
-  - fan_brush_foliage
-  - palette_knife_rocks
-  - wet_on_wet
-  - water_reflections
-  - liner_brush_details
-  - birch_tree_technique
-  - highlight_placement
-  - atmospheric_perspective
-
-featured_elements:
-  - autumn_foliage
-  - birch_tree
-  - mountain_peak
-  - lake_reflection
-  - rocky_shore
-  - fall_colors
-  - snow_cap
 ```

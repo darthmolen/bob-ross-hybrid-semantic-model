@@ -63,3 +63,30 @@ Signature technique: **Luminous liquid white base with vibrant knife-work foliag
 - Sky area likely pre-worked with warm yellows and whites while wet
 - Generous wet medium ensures smooth mountain transitions and atmospheric effects
 The ultra-bright liquid base creates the signature high-key, glowing quality that suffuses this peaceful inlet scene.
+
+---
+
+```yaml
+tags:
+  composition_archetype: "sheltered cove sanctuary"
+  palette_identity: "High-key luminous pastels with vibrant spring foliage"
+  depth_style: "Layered atmospheric perspective with strong value contrast"
+  lighting_type: "Diffused warm glow, suggesting dawn or dusk backlighting"
+  motion_profile: "Meditative stillness with subtle atmospheric drift"
+
+episode:
+  season: 3
+  episode: 7
+  title: "Quiet Inlet"
+  year: 1984
+  painting_index: 262
+
+colors:
+  - Alizarin Crimson
+  - Prussian Blue
+  - Sap Green
+  - Cadmium Yellow
+  - Yellow Ochre
+  - Titanium White
+  - Van Dyke Brown
+```

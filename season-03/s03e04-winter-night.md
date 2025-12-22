@@ -72,3 +72,29 @@ Signature technique: **Controlled contrast between warm cabin light and cool noc
 - This foundation allows white snow highlights to achieve maximum luminosity and contrast
 
 The painting begins in darkness, honoring the night, so that light — both in snow and cabin windows — can truly shine.
+
+---
+
+```yaml
+tags:
+  composition_archetype: "intimate winter refuge archetype"
+  palette_identity: "Nocturnal winter serenity with a beacon of warmth"
+  depth_style: "Atmospheric perspective with fog-enhanced recession and strong foreground-to-background flow"
+  lighting_type: "Single-source nocturnal illumination from cabin windows against ambient winter twilight"
+  motion_profile: "静中有动 (stillness containing movement) — static serenity with directional pull"
+
+episode:
+  season: 3
+  episode: 4
+  title: "Winter Night"
+  year: 1984
+  painting_index: 259
+
+colors:
+  - Prussian Blue
+  - Alizarin Crimson
+  - Midnight Black
+  - Sap Green
+  - Cadmium Yellow
+  - Titanium White
+```

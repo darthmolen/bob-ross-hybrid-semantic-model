@@ -109,7 +109,8 @@ episode:
   season: 5
   episode: 4
   title: "Winter Stillness"
-  year: 1987
+  year: 1986
+  painting_index: 233
 
 colors:
   - Titanium White
@@ -121,22 +122,4 @@ colors:
   - Dark Sienna
   - Sap Green
   - Midnight Black
-
-techniques:
-  - Fan brush blending
-  - Knife work
-  - Liner brush detail
-  - Wet-on-wet
-  - Atmospheric layering
-  - Corner-tapping for evergreens
-  - Horizontal blending
-
-featured_elements:
-  - Frozen stream
-  - Birch trees
-  - Evergreen conifer
-  - Golden mist
-  - Snow banks
-  - Winter atmosphere
-  - Bare branches
 ```

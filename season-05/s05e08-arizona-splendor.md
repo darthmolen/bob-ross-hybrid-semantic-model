@@ -96,17 +96,18 @@ Foundation emphasizes luminous desert sky as backdrop for dramatic landforms.
 
 ```yaml
 tags:
-  composition_archetype: "mountain_stream_corridor"
-  palette_identity: "desert_warmth_meets_stone"
-  depth_style: "linear_stream_perspective"
-  lighting_type: "overhead_desert_sun"
-  motion_profile: "flowing_stream_with_vertical_anchors"
+  composition_archetype: "mountain stream corridor"
+  palette_identity: "desert warmth meets stone"
+  depth_style: "linear stream perspective"
+  lighting_type: "overhead desert sun"
+  motion_profile: "flowing stream with vertical anchors"
 
 episode:
   season: 5
   episode: 8
   title: "Arizona Splendor"
-  year: 1987
+  year: 1986
+  painting_index: 237
 
 colors:
   - Titanium White
@@ -118,23 +119,4 @@ colors:
   - Yellow Ochre
   - Burnt Sienna
   - Van Dyke Brown
-
-techniques:
-  - Knife painting
-  - Highlight scraping
-  - Fan brush trees
-  - Liner brush details
-  - Liquid clear water
-  - Push-pull vegetation
-  - Vertical pulling strokes
-  - Atmospheric blending
-
-featured_elements:
-  - Rocky cliffs
-  - Desert stream
-  - Bare deciduous trees
-  - Desert vegetation
-  - Sandy banks
-  - Clear sky
-  - Water reflections
 ```

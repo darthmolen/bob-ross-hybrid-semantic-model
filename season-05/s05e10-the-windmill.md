@@ -112,7 +112,8 @@ episode:
   season: 5
   episode: 10
   title: "The Windmill"
-  year: 1987
+  year: 1986
+  painting_index: 239
 
 colors:
   - Titanium White
@@ -124,24 +125,4 @@ colors:
   - Bright Red
   - Cadmium Yellow
   - Phthalo Blue
-
-techniques:
-  - Palette knife
-  - Liquid White
-  - Fan brush
-  - Oval brush
-  - Wet-on-wet
-  - Dry brush
-  - Knife pulls
-  - Cross-hatching
-
-featured_elements:
-  - Windmill
-  - Snow-covered hills
-  - Farm buildings
-  - Winding stream
-  - Purple sky
-  - Fence posts
-  - Winter landscape
-  - Round barn
 ```

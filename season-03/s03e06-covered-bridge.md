@@ -63,3 +63,31 @@ Signature technique: **Architectural palette knife detailing for weathered wood 
 - **Dark baseline** established for pathway and shadow areas
 - **Thin background wash** creating atmospheric foundation for foliage areas
 The canvas was prepared with strong value contrasts—deep darks for the architectural element against lighter atmospheric preparation—establishing the dramatic portal effect from the start.
+
+---
+
+```yaml
+tags:
+  composition_archetype: "portal archetype"
+  palette_identity: "Spring pastoral with romantic undertones"
+  depth_style: "Strong linear perspective with architectural framing"
+  lighting_type: "Soft diffused backlighting with atmospheric glow"
+  motion_profile: "Linear journey with threshold crossing"
+
+episode:
+  season: 3
+  episode: 6
+  title: "Covered Bridge"
+  year: 1984
+  painting_index: 261
+
+colors:
+  - Sap Green
+  - Cadmium Yellow
+  - Yellow Ochre
+  - Van Dyke Brown
+  - Dark Sienna
+  - Midnight Black
+  - Alizarin Crimson
+  - Titanium White
+```

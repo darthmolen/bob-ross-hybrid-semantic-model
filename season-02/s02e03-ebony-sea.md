@@ -105,3 +105,35 @@ Signature technique: **black canvas foundation with dramatic wave action and aut
 - Dry black foundation allows for dramatic layering and contrast
 
 A foundational black gesso technique creating exceptional depth for a dramatic seascape with autumn elements.
+
+---
+
+```yaml
+tags:
+  composition_archetype: "dramatic oceanscape with autumn forest and turbulent surf"
+  palette_identity: "dramatic sunset oceanscape with autumn-fire palette over ebony foundation"
+  depth_style: "layered atmospheric depth with silhouette contrast and dynamic foreground action"
+  lighting_type: "backlit crimson sunset"
+  motion_profile: "dynamic crashing surf with powerful directional wave flow"
+
+episode:
+  season: 2
+  episode: 3
+  title: "Ebony Sea"
+  year: 1984
+  painting_index: 271
+
+colors:
+  - Alizarin Crimson
+  - Bright Red
+  - Phthalo Blue
+  - Prussian Blue
+  - Black Gesso
+  - Cadmium Yellow
+  - Indian Yellow
+  - Van Dyke Brown
+  - Burnt Umber
+  - Sap Green
+  - Phthalo Green
+  - Titanium White
+```

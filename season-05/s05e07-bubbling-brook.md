@@ -109,7 +109,8 @@ episode:
   season: 5
   episode: 7
   title: "Bubbling Brook"
-  year: 1987
+  year: 1986
+  painting_index: 236
 
 colors:
   - Liquid White
@@ -122,24 +123,4 @@ colors:
   - Van Dyke Brown
   - Dark Sienna
   - Midnight Black
-
-techniques:
-  - Wet-on-wet blending
-  - Palette knife highlights
-  - Fan brush grass
-  - Vertical tree trunk strokes
-  - Horizontal water flow strokes
-  - Atmospheric perspective
-  - Highlight tapping
-  - Liner brush detail work
-
-featured_elements:
-  - Bubbling brook
-  - Birch tree
-  - Grassy meadow
-  - Deciduous trees
-  - Misty background
-  - Water reflections
-  - Small cabin
-  - Sunlit foliage
 ```

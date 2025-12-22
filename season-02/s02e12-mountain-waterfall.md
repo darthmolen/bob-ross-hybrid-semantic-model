@@ -87,3 +87,35 @@ Signature technique: **luminous waterfall cascade with heavy white paint over da
 - Standard smooth surface preparation allowing for atmospheric blending and dramatic value contrasts
 
 A foundational Liquid White technique with strategic darker areas supporting the dramatic interplay between luminous waterfall and shadowed rock formations.
+
+---
+
+```yaml
+tags:
+  composition_archetype: "waterfall-to-mountain vista with mirrored lake reflection"
+  palette_identity: "dramatic alpine palette with sunset warmth and cascading water brilliance"
+  depth_style: "layered atmospheric depth with foreground drama transitioning to distant serenity"
+  lighting_type: "backlit sunset glow"
+  motion_profile: "cascading downward flow anchored by reflective stillness"
+
+episode:
+  season: 2
+  episode: 12
+  title: "Mountain Waterfall"
+  year: 1984
+  painting_index: 280
+
+colors:
+  - Prussian Blue
+  - Phthalo Blue
+  - Titanium White
+  - Burnt Umber
+  - Van Dyke Brown
+  - Cadmium Yellow
+  - Indian Yellow
+  - Yellow Ochre
+  - Phthalo Green
+  - Sap Green
+  - Alizarin Crimson
+  - Bright Red
+```

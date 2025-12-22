@@ -67,3 +67,30 @@ Signature technique: **Atmospheric layering with temperature-based depth**
 - Water area prepared with smooth blue base to establish reflection surface
 - Canvas likely treated with liquid white or clear base for blending ease
 The foundational approach emphasizes atmospheric continuity from sky through mountains to water, creating unified tonal harmony before detail work begins.
+
+---
+
+```yaml
+tags:
+  composition_archetype: "classic alpine lake vista"
+  palette_identity: "Alpine clarity with autumn gold accents"
+  depth_style: "Layered atmospheric recession with pronounced color temperature shift"
+  lighting_type: "Bright clear daylight from above"
+  motion_profile: "Complete stillness—meditative calm"
+
+episode:
+  season: 3
+  episode: 13
+  title: "Peaceful Waters"
+  year: 1984
+  painting_index: 268
+
+colors:
+  - Prussian Blue
+  - Ultramarine Blue
+  - Sap Green
+  - Cadmium Yellow
+  - Yellow Ochre
+  - Alizarin Crimson
+  - Titanium White
+```
