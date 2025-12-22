@@ -29,52 +29,61 @@ You are generating structured markdown entries for Bob Ross "Joy of Painting" ep
       - Local path: /home/user/bob-ross-hybrid-semantic-model/images/painting{index}.png
       - If found, use the local image
       - If not found, fallback to GitHub URL: https://raw.githubusercontent.com/jwilber/Bob_Ross_Paintings/master/data/paintings/painting{index}.png
+
    2. Analyze the image using Claude's vision capabilities
-   3. Generate the 8-section markdown entry following the template
-   4. Include all semantic identity tags
-   5. Return the complete markdown content
-   ```
 
-   Launch all 13 subagents concurrently. Each subagent handles:
+   3. Generate the complete 8-section markdown entry following the template at:
+      /home/user/bob-ross-hybrid-semantic-model/TEMPLATE.md
 
-   a. Fetching the painting image from local images/ folder (primary) or GitHub URL (fallback)
-
-   b. Vision analysis to generate all 8 sections:
-      - Composition
-      - Palette
-      - Mood & Atmosphere
-      - Structural Layout
-      - Motion
-      - Technique
-      - Narrative Layer
-      - Initial Canvas Treatment
-
-   c. Generating semantic identity tags:
+   4. Include all semantic identity tags:
       - palette_identity
       - depth_style
       - lighting_type
       - motion_profile
       - composition_archetype
 
-   d. Returning formatted markdown
+   5. WRITE the file directly to:
+      /home/user/bob-ross-hybrid-semantic-model/season-{XX}/s{XX}e{YY}-{title-slug}.md
 
-3. **Collect results from all subagents**
-
-   As each Task completes, collect the markdown output.
-
-4. **Save each episode** as:
-   ```
-   season-{XX}/s{XX}e{YY}-{title-slug}.md
+   6. Return confirmation: "Episode {Y}: {Title} - COMPLETED"
    ```
 
-5. **Update INDEX.md** with new entries including tags and raw URLs
+   **Launch all subagents concurrently in a single response.** Each subagent independently:
+   - Reads the painting image (local or remote)
+   - Analyzes all 8 sections
+   - Generates semantic identity tags
+   - **Writes its own markdown file directly**
+   - Reports completion
+
+3. **Verify completion**
+
+   After all Task agents complete:
+   - Check how many episodes were successfully written
+   - Verify files exist in the season-{XX}/ folder
+   - Report any failures or missing episodes
+
+4. **Commit and push to git**
+
+   Once all episodes are written:
+   ```bash
+   git checkout -b claude/season-{XX}-generation-IDp4y
+   git add season-{XX}/*.md
+   git commit -m "Generate Season {XX} episodes (X/13)"
+   git push -u origin claude/season-{XX}-generation-IDp4y
+   ```
+
+5. **Note:** INDEX.md updates happen separately using `/update-index` or `/rebuild-index`
 
 ## Parallel Processing Notes
 
-- Spawn all episode tasks simultaneously—do NOT process sequentially
+- Spawn all episode tasks simultaneously in a SINGLE response—do NOT process sequentially
 - Each subagent operates independently with its own context
-- Main agent coordinates and collects results
-- This dramatically reduces total processing time (13 parallel vs 13 sequential)
+- Each subagent WRITES ITS OWN FILE directly (no sequential bottleneck)
+- Main agent only coordinates and verifies completion
+- This achieves TRUE parallel processing:
+  - 13 parallel image analyses ✓
+  - 13 parallel file writes ✓
+- Total processing time: ~same as slowest single episode (vs 13x sequential)
 - If a subagent fails, note the failure and continue with others
 
 ## Output Format
@@ -125,6 +134,7 @@ See Season 2, Episode 6 "Black River" as the reference implementation.
 ## After Completion
 
 Report:
-- Number of episodes processed
-- Any episodes that couldn't be analyzed (missing images, etc.)
-- List of generated files
+- Number of episodes successfully written (verify with ls season-{XX}/*.md)
+- Any episodes that failed (missing images, errors, etc.)
+- Git commit status and branch name
+- Reminder: Run `/update-index` after merging to main
