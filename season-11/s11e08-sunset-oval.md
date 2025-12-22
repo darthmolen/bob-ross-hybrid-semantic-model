@@ -81,11 +81,11 @@ Canvas prepared with liquid white base and dark oval border, enabling radial lum
 
 ```yaml
 tags:
-  composition_archetype: "vignetted_mountain_sanctuary"
-  palette_identity: "sunset_amber_meets_alpine_frost"
-  depth_style: "radial_vignette_compression"
-  lighting_type: "backlit_sunset_glow"
-  motion_profile: "inward_focusing_radial_draw"
+  composition_archetype: "vignetted mountain sanctuary"
+  palette_identity: "sunset amber meets alpine frost"
+  depth_style: "radial vignette compression"
+  lighting_type: "backlit sunset glow"
+  motion_profile: "inward focusing radial draw"
 
 episode:
   season: 11
