@@ -19,12 +19,12 @@
 - **Black Gesso**: Creates the dark foundational base
 - **Liquid Clear**: Allows for smooth blending of the atmospheric elements
 
-**Palette identity**: Dramatic Cool Mountain Majesty
+Palette identity: **Dramatic Cool Mountain Majesty**
 
 ## 3. Mood & Atmosphere
 The painting evokes a sense of awe and grandeur, presenting nature's raw power through the thundering waterfall against ancient stone. The stormy color palette and vertical drama create a sublime, almost overwhelming atmosphere. The contrast between the dark silhouetted trees and the brilliant white cascade emphasizes the untamed wilderness. There's a reverent quality to the scene, suggesting both danger and beauty in equal measure.
 
-**Lighting type**: Diffused Stormy Dramatic
+Lighting: **Diffused Stormy Dramatic**
 
 ## 4. Structural Layout
 - **Left**: Dark silhouetted evergreen trees create a framing element, leading the eye upward
@@ -34,12 +34,12 @@ The painting evokes a sense of awe and grandeur, presenting nature's raw power t
 - **Midground**: The base of the waterfall with misty spray creates atmospheric transition
 - **Background**: Towering cliff faces rise vertically with purple-blue atmospheric perspective
 
-**Depth style**: Vertical Monumental Layering
+Depth style: **Vertical Monumental Layering**
 
 ## 5. Motion
 The waterfall provides the primary motion, cascading downward with tremendous force from the heights to the misty base below. Vertical striations in the rock face guide the eye upward and downward simultaneously. The atmospheric sky suggests wind movement through the mountain pass. The compositional flow creates a circular pattern - eyes rise along the trees and cliffs, then cascade down with the waterfall, only to rise again.
 
-**Motion profile**: Cascading Vertical Flow
+Motion profile: **Cascading Vertical Flow**
 
 ## 6. Technique
 - **Brush types**: Fan brush for the waterfall's flowing texture and evergreen foliage, liner brush for fine tree branches and details, large brushes for atmospheric sky blending

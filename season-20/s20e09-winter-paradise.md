@@ -4,31 +4,31 @@
 
 A serene winter twilight scene centers on a calm mountain lake framed by towering evergreens. In the background, a majestic snow-covered mountain rises with soft pink and lavender highlights catching the fading light. The water body dominates the middle ground, its surface still and reflective, bordered by a gentle shoreline adorned with frosted deciduous bushes and small trees. Large, dark evergreen trees frame the composition on both left and right sides, creating natural portals through which to view the scene. A small snow-covered peninsula extends into the water from the left shore, adding asymmetrical interest. The entire landscape is blanketed in fresh snow, with the pristine white contrasting against the deep blues and purples of the twilight atmosphere.
 
-**composition_archetype**: Mountain Lake With Framing Trees
+Composition archetype: **Mountain Lake With Framing Trees**
 
 ## 2. Palette
 
 Titanium White creates the abundant snow coverage across mountains, shorelines, and tree branches, forming the dominant visual element. Phthalo Blue and Prussian Blue combine to render the deep, cold waters of the mountain lake and provide the foundation for the dark evergreens. Midnight Black adds depth and shadow to the pine trees and creates strong contrast against the snow. Alizarin Crimson blends with white to produce the delicate pink and lavender highlights illuminating the mountain peaks and reflecting in the twilight sky. Dark Sienna provides warmth in tree trunks and subtle undertones in shadows. The palette balances cool blues and purples with warm pink accents, evoking the ethereal quality of winter twilight.
 
-**palette_identity**: Cool Twilight Winter
+Palette identity: **Cool Twilight Winter**
 
 ## 3. Mood & Atmosphere
 
 The painting radiates profound tranquility and winter stillness, capturing that magical moment when day transitions to dusk. The soft pink and purple illumination suggests either dawn or sunset, bathing the snowy landscape in an otherworldly glow. The atmosphere is crisp and cold yet inviting, with the peaceful water and silent trees creating a meditative quality. The lighting is diffused and gentle, with no harsh shadows, contributing to the dreamlike serenity. The scene evokes solitude without loneliness, presenting winter as a time of peaceful reflection and natural beauty. The overall emotional tone is contemplative and calming, inviting the viewer to pause and absorb the quiet majesty of the frozen landscape.
 
-**lighting_type**: Twilight Glow
+Lighting: **Twilight Glow**
 
 ## 4. Structural Layout
 
 The composition employs a classical three-plane structure with strong lateral framing. In the foreground, a large dark evergreen anchors the right side, its detailed branches and snow-laden boughs creating immediate visual interest and scale. The left foreground features similar towering pines that create a natural frame. The midground is dominated by the expansive lake, with its reflective surface leading the eye inward, while the near shoreline features smaller frosted bushes and deciduous trees that add texture and depth transition. A small peninsula extends from the left shore into the water, breaking the horizontal shoreline and adding asymmetry. The background presents the snow-covered mountain as the focal destination, with its pink-highlighted peaks drawing the viewer's gaze upward. The framing trees create a natural vignette effect, focusing attention on the central vista while providing depth through overlapping planes.
 
-**depth_style**: Layered Framed Vista
+Depth style: **Layered Framed Vista**
 
 ## 5. Motion
 
 The scene captures perfect stillness, with the glassy lake surface reflecting the surrounding landscape in quiet repose. No wind disturbs the water or shakes snow from the branches—everything is frozen in tranquil suspension. The compositional motion guides the viewer's eye in a gentle inward flow: from the framing evergreens at the edges, across the calm water surface, and up to the illuminated mountain peak. The diagonal shoreline on the left creates subtle directional movement, while the vertical thrust of the tall pines contrasts with the horizontal expanse of the lake. The pink highlights on the mountain create an upward pull, drawing attention skyward. The overall motion profile is contemplative rather than dynamic, encouraging slow visual exploration and peaceful observation.
 
-**motion_profile**: Tranquil Stillness
+Motion profile: **Tranquil Stillness**
 
 ## 6. Technique
 

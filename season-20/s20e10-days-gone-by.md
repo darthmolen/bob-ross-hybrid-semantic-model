@@ -2,23 +2,33 @@
 
 ## 1. Composition
 
-A weathered cabin stands sentinel on the right side of the composition, its dark silhouette emerging from banks of atmospheric mist. Towering evergreen trees dominate the left foreground, their dark forms creating a strong vertical anchor against the soft, hazy background. Layers of misty mountains recede into the distance, their forms barely visible through the thick fog that blankets the valley. A rustic fence line traces through the lower foreground, partially obscured by clusters of autumn foliage in warm orange and gold tones. The scene captures a forgotten homestead, abandoned to time and nature, with the mist lending an ethereal quality to this memory of **composition_archetype**: Misty Mountain Homestead
+A weathered cabin stands sentinel on the right side of the composition, its dark silhouette emerging from banks of atmospheric mist. Towering evergreen trees dominate the left foreground, their dark forms creating a strong vertical anchor against the soft, hazy background. Layers of misty mountains recede into the distance, their forms barely visible through the thick fog that blankets the valley. A rustic fence line traces through the lower foreground, partially obscured by clusters of autumn foliage in warm orange and gold tones. The scene captures a forgotten homestead, abandoned to time and nature, with the mist lending an ethereal quality to this memory of
+
+Composition archetype: **Misty Mountain Homestead**
 
 ## 2. Palette
 
-Phthalo Blue and Prussian Blue establish the cool, atmospheric base of the misty sky and distant mountains, creating depth through graduated washes. Midnight Black, Van Dyke Brown, and Dark Sienna build the deep shadows of the foreground evergreens and the weathered cabin structure. Indian Yellow and Cadmium Yellow illuminate the autumn foliage, their warm glow punctuating the cooler tones. Alizarin Crimson and Bright Red add accent touches to the fall vegetation. Sap Green provides subtle life to the understory bushes and grasses. Yellow Ochre contributes earthy warmth to the cabin and fence elements. Titanium White serves the critical role of creating the pervasive mist that unifies the entire scene, softening edges and building atmospheric perspective. **palette_identity**: Misty Autumn Blues
+Phthalo Blue and Prussian Blue establish the cool, atmospheric base of the misty sky and distant mountains, creating depth through graduated washes. Midnight Black, Van Dyke Brown, and Dark Sienna build the deep shadows of the foreground evergreens and the weathered cabin structure. Indian Yellow and Cadmium Yellow illuminate the autumn foliage, their warm glow punctuating the cooler tones. Alizarin Crimson and Bright Red add accent touches to the fall vegetation. Sap Green provides subtle life to the understory bushes and grasses. Yellow Ochre contributes earthy warmth to the cabin and fence elements. Titanium White serves the critical role of creating the pervasive mist that unifies the entire scene, softening edges and building atmospheric perspective.
+
+Palette identity: **Misty Autumn Blues**
 
 ## 3. Mood & Atmosphere
 
-The painting evokes profound nostalgia and quiet melancholy, a meditation on memories and the passage of time. Thick mist softens every form, creating a dreamlike quality that separates the viewer from the scene as if viewing it through the veil of memory. The lighting is completely diffused, with no direct sun visible, suggesting either early morning or late afternoon when fog settles heavily in mountain valleys. The abandoned cabin adds a narrative weight, suggesting stories of lives once lived, now faded like the misty forms around it. The overall atmosphere is contemplative and peaceful, tinged with gentle sadness. **lighting_type**: Diffused Mist Veil
+The painting evokes profound nostalgia and quiet melancholy, a meditation on memories and the passage of time. Thick mist softens every form, creating a dreamlike quality that separates the viewer from the scene as if viewing it through the veil of memory. The lighting is completely diffused, with no direct sun visible, suggesting either early morning or late afternoon when fog settles heavily in mountain valleys. The abandoned cabin adds a narrative weight, suggesting stories of lives once lived, now faded like the misty forms around it. The overall atmosphere is contemplative and peaceful, tinged with gentle sadness.
+
+Lighting: **Diffused Mist Veil**
 
 ## 4. Structural Layout
 
-The left side is anchored by tall, dark evergreen trees that frame the composition and provide scale. The right side features the old cabin, positioned in the middle ground on slightly elevated terrain. The center opens to reveal misty valley depths, with barely-visible mountain ridges layering into the distance. The foreground is activated by the diagonal fence line and scattered autumn foliage that lead the eye into the scene. The middle ground holds the cabin and transitional mist layers. The background dissolves into atmospheric blues and whites, with mountain forms suggested rather than defined. Depth is achieved primarily through atmospheric perspective, with each receding layer becoming softer and lighter. **depth_style**: Atmospheric Layering
+The left side is anchored by tall, dark evergreen trees that frame the composition and provide scale. The right side features the old cabin, positioned in the middle ground on slightly elevated terrain. The center opens to reveal misty valley depths, with barely-visible mountain ridges layering into the distance. The foreground is activated by the diagonal fence line and scattered autumn foliage that lead the eye into the scene. The middle ground holds the cabin and transitional mist layers. The background dissolves into atmospheric blues and whites, with mountain forms suggested rather than defined. Depth is achieved primarily through atmospheric perspective, with each receding layer becoming softer and lighter.
+
+Depth style: **Atmospheric Layering**
 
 ## 5. Motion
 
-This is a scene of profound stillness, frozen in a moment of quiet contemplation. The mist appears to hang motionless in the valley, though its presence suggests the slow, imperceptible drift of fog through the forest. There is no wind disturbing the trees, no movement of water or wildlife. The compositional flow moves gently from the dark foreground anchors through the misty middle ground to the soft, dissolving background, creating a recession into memory rather than physical space. The eye travels along the fence line before being drawn upward by the vertical trees, then floating into the ethereal mist beyond. **motion_profile**: Suspended Stillness
+This is a scene of profound stillness, frozen in a moment of quiet contemplation. The mist appears to hang motionless in the valley, though its presence suggests the slow, imperceptible drift of fog through the forest. There is no wind disturbing the trees, no movement of water or wildlife. The compositional flow moves gently from the dark foreground anchors through the misty middle ground to the soft, dissolving background, creating a recession into memory rather than physical space. The eye travels along the fence line before being drawn upward by the vertical trees, then floating into the ethereal mist beyond.
+
+Motion profile: **Suspended Stillness**
 
 ## 6. Technique
 

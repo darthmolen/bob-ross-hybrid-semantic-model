@@ -9,7 +9,7 @@
 - Dark conifers on left balance the bright autumn foliage on right
 - Sky occupies upper third with billowing white clouds suggesting depth and atmosphere
 
-**Composition archetype: Valley Stream with Autumn Accent**
+Composition archetype: **Valley Stream with Autumn Accent**
 
 ## 2. Palette
 - **Phthalo Blue** — bright sky foundation
@@ -23,7 +23,7 @@
 - **Van Dyke Brown** — tree trunks, shadows, and earth tones
 - **Dark Sienna** — warm shadows and tree details
 
-**Palette identity: Autumn Gold and Mountain Lavender**
+Palette identity: **Autumn Gold and Mountain Lavender**
 
 ## 3. Mood & Atmosphere
 - Cheerful and expansive autumn day with brilliant clarity
@@ -33,7 +33,7 @@
 - Peaceful yet dynamic with the flowing stream adding life to stillness
 - Golden hour quality suggesting late afternoon sunlight on the landscape
 
-**Lighting: Clear Direct Sunlight**
+Lighting: **Clear Direct Sunlight**
 
 ## 4. Structural Layout
 **Left:** Dark evergreen trees, stream bank with grassy vegetation, shadow areas
@@ -43,7 +43,7 @@
 **Midground:** Dark conifer forest, golden rolling hills, grassy meadow areas
 **Background:** Layered purple mountain ranges, bright sky with clouds
 
-**Depth style: Layered Atmospheric Progression**
+Depth style: **Layered Atmospheric Progression**
 
 ## 5. Motion
 - Stream flows dynamically from center toward lower left with visible current
@@ -53,7 +53,7 @@
 - Autumn tree appears caught in gentle breeze with delicate foliage
 - Overall sense of peaceful flow rather than dramatic movement
 
-**Motion profile: Gentle Stream Flow**
+Motion profile: **Gentle Stream Flow**
 
 ## 6. Technique
 - Wet-on-wet foundation allowing seamless sky and cloud blending
@@ -64,7 +64,7 @@
 - Cloud formations using circular titanium white motions
 - Push-up technique for grassy banks along stream edges
 
-**Signature technique: Autumn Highlight Stippling**
+Signature technique: **Autumn Highlight Stippling**
 
 ## 7. Narrative Layer
 "A wilderness stream tumbles through a mountain valley at the peak of autumn's glory, where a single golden tree blazes against the dark evergreen forest like nature's own torch. The water has traveled far from those distant purple peaks, gathering stories from each bend and pool, now rushing joyfully through this hidden meadow. Here, in this perfect moment of seasonal transition, the warm earth meets cool mountains, the moving water reflects the still sky, and the golden light of autumn holds back winter's approach for just a little while longer."

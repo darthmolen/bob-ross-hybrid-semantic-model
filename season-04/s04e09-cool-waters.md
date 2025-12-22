@@ -25,7 +25,7 @@
 - Sap Green and Van Dyke Brown for evergreens
 - Titanium White and Phthalo Blue for sky and clouds
 
-**Palette identity: Cool alpine waters against warm autumn foliage**
+Palette identity: **Cool alpine waters against warm autumn foliage**
 
 ---
 
@@ -37,7 +37,7 @@
 - Pristine wilderness atmosphere
 - Inviting yet remote sensibility
 
-**Lighting: Bright diffused daylight with soft cloud cover**
+Lighting: **Bright diffused daylight with soft cloud cover**
 
 ---
 
@@ -48,7 +48,7 @@
 - **Foreground:** Vibrant autumn bushes in yellow, orange, and purple-red
 - **Background:** Layered mountain peaks with snow coverage, light blue-grey atmospheric perspective
 
-**Depth style: Clear atmospheric layering with color temperature shift**
+Depth style: **Clear atmospheric layering with color temperature shift**
 
 ---
 
@@ -72,7 +72,7 @@
 - Stippling and dabbing motions for autumn foliage texture
 - Highlight placement on water to suggest surface smoothness
 
-**Signature technique: Vibrant push-up foliage contrasted with knife-worked mountains**
+Signature technique: **Vibrant push-up foliage contrasted with knife-worked mountains**
 
 ---
 

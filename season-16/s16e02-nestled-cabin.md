@@ -8,7 +8,7 @@
 - Distant rolling hills or mountains form the background beneath a glowing sky
 - Dramatic sunset or sunrise sky with intense yellow-orange glow breaking through blues
 - Foreground features dark grassy mounds on either side, establishing depth
-- **composition_archetype**: Valley Refuge With Natural Framing
+Composition archetype: **Valley Refuge With Natural Framing**
 
 ## 2. Palette
 - Vibrant yellows and oranges create the dramatic glowing sky (Cadmium Yellow, Indian Yellow)
@@ -18,7 +18,7 @@
 - Bright whites provide highlights on foliage and sky transitions (Titanium White)
 - Yellows blended into greens create illuminated grass on the sunlit hillsides
 - Dark grays and browns define the humble cabin structure
-- **palette_identity**: Sunset Valley Radiance
+Palette identity: **Sunset Valley Radiance**
 
 ## 3. Mood & Atmosphere
 - Warm and inviting, with the glowing sky suggesting either dawn's hope or evening's peace
@@ -27,7 +27,7 @@
 - Peaceful solitude emanates from the small structure surrounded by nature's embrace
 - The winding path invites the viewer into this secluded world
 - Harmonious balance between the vibrant sky and the shadowed, protective foreground
-- **lighting_type**: Radiant Backlit Glow
+Lighting: **Radiant Backlit Glow**
 
 ## 4. Structural Layout
 - **Left**: Tall evergreen trees with full, layered foliage creating vertical strength and shadow
@@ -37,7 +37,7 @@
 - **Midground**: Valley floor with cabin, illuminated grassy hills, and the winding pathway
 - **Background**: Layered rolling hills receding into atmospheric haze beneath the glowing sky
 - Strong triangular composition with trees forming sides and sky forming apex
-- **depth_style**: Framed Valley Perspective
+Depth style: **Framed Valley Perspective**
 
 ## 5. Motion
 - Winding path creates strong directional flow from foreground deep into the valley toward the cabin
@@ -46,7 +46,7 @@
 - Hills roll and undulate, creating rhythmic visual flow across the landscape
 - Eye naturally follows the path inward, then rises through the valley to the glowing sky
 - Circular visual journey: enter through path, discover cabin, lift to sky, return via tree framing
-- **motion_profile**: Inward Journey To Light
+Motion profile: **Inward Journey To Light**
 
 ## 6. Technique
 - Fan brush creates the distinctive layered evergreen foliage with overlapping strokes

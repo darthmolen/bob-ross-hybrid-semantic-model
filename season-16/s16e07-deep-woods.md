@@ -8,7 +8,7 @@
 - Golden atmospheric glow emanating from the background, suggesting light breaking through the canopy
 - Vertical tree trunks create a natural frame directing the eye toward the luminous center
 - Forest floor scattered with debris and undergrowth
-- **composition_archetype**: Forest Stream With Backlighting
+Composition archetype: **Forest Stream With Backlighting**
 
 ## 2. Palette
 - **Titanium White** for misty highlights, water reflections, and atmospheric glow
@@ -18,7 +18,7 @@
 - **Midnight Black** for deep shadows and dark tree bark
 - **Prussian Blue** for cool shadows in water and atmospheric depth
 - **Alizarin Crimson** for subtle warmth in rocks and shadows
-- **palette_identity**: Golden Forest Glow
+Palette identity: **Golden Forest Glow**
 
 ## 3. Mood & Atmosphere
 - Serene and mystical, evoking the quietude of a deep primeval forest
@@ -26,7 +26,7 @@
 - Peaceful morning light filtering through ancient trees
 - Sense of solitude and reverence for nature's cathedral
 - Misty quality suggests cool, damp forest air
-- **lighting_type**: Atmospheric Backlight
+Lighting: **Atmospheric Backlight**
 
 ## 4. Structural Layout
 - **Left**: Cluster of tall evergreen trees with dark trunks and delicate foliage
@@ -35,7 +35,7 @@
 - **Foreground**: Rocky stream bed with prominent stones and fallen timber
 - **Midground**: Dark tree trunks anchoring the composition and providing scale
 - **Background**: Soft, glowing atmospheric haze with barely-visible distant peaks
-- **depth_style**: Atmospheric Perspective
+Depth style: **Atmospheric Perspective**
 
 ## 5. Motion
 - Gentle water flow through rocks suggesting quiet movement
@@ -43,7 +43,7 @@
 - Static, sentinel-like trees provide stable vertical rhythm
 - Compositional flow draws eye from dark foreground toward luminous background
 - Subtle sense of air movement in the delicate tree foliage
-- **motion_profile**: Gentle Forest Flow
+Motion profile: **Gentle Forest Flow**
 
 ## 6. Technique
 - **Fan brush** for delicate evergreen foliage with downward strokes

@@ -7,7 +7,7 @@
 - Golden yellow sky with soft cloud formations
 - Rocky outcrop or dark landmass at lower left
 - Horizontal bands creating sky, distant ocean, and foreground waves
-- **composition_archetype**: Tropical Seascape With Palm
+Composition archetype: **Tropical Seascape With Palm**
 
 ## 2. Palette
 - Cadmium Yellow and Indian Yellow creating the glowing golden sky
@@ -18,7 +18,7 @@
 - Van Dyke Brown for palm trunk structure
 - Dark Sienna for earth tones in rocky area
 - Midnight Black for deep shadows and contrast
-- **palette_identity**: Golden Tropical Sea
+Palette identity: **Golden Tropical Sea**
 
 ## 3. Mood & Atmosphere
 - Dramatic and energetic with powerful wave action
@@ -26,7 +26,7 @@
 - Raw natural power expressed through crashing surf
 - Tropical warmth contrasted with dynamic water movement
 - Sense of both beauty and force in nature's display
-- **lighting_type**: Golden Atmospheric Glow
+Lighting: **Golden Atmospheric Glow**
 
 ## 4. Structural Layout
 - Left: Palm tree and rocky outcrop anchor the composition
@@ -35,7 +35,7 @@
 - Foreground: Crashing waves with detailed white water effects
 - Midground: Rolling ocean swells building toward shore
 - Background: Golden sky meeting distant horizon line
-- **depth_style**: Horizontal Banded Layers
+Depth style: **Horizontal Banded Layers**
 
 ## 5. Motion
 - Waves rolling and breaking with powerful forward momentum
@@ -43,7 +43,7 @@
 - Palm fronds curved by coastal wind
 - Directional flow from right to left in wave patterns
 - Sense of continuous ocean energy and tidal surge
-- **motion_profile**: Dynamic Wave Action
+Motion profile: **Dynamic Wave Action**
 
 ## 6. Technique
 - Bold palette knife work for wave formations and structure

@@ -8,7 +8,7 @@
 - Prominent evergreen tree anchors right foreground as repoussoir element
 - No water features; entirely terrestrial alpine landscape
 - Sky transitions from blue at top to warm pink-coral tones near horizon
-- **composition_archetype**: Monumental Mountain With Foreground Sentinel
+Composition archetype: **Monumental Mountain With Foreground Sentinel**
 
 ## 2. Palette
 - Titanium White dominates the snow-covered mountain peaks and slopes
@@ -18,7 +18,7 @@
 - Midnight Black and Van Dyke Brown construct the silhouetted evergreen
 - Sap Green and Dark Sienna create the misty middle-ground forest
 - Indian Yellow adds warmth to atmospheric transitions
-- **palette_identity**: Alpine Sunset Gradient
+Palette identity: **Alpine Sunset Gradient**
 
 ## 3. Mood & Atmosphere
 - Serene and contemplative winter majesty with minimal human presence
@@ -26,7 +26,7 @@
 - Misty veil between foreground and mountain suggests mystery and depth
 - Solitary evergreen evokes themes of resilience and quiet solitude
 - Soft atmospheric perspective creates dreamlike quality matching "mirage" title
-- **lighting_type**: Alpenglow Sunset
+Lighting: **Alpenglow Sunset**
 
 ## 4. Structural Layout
 - **Left**: Mountain face with prominent shadow ridges and snow-covered slopes
@@ -35,7 +35,7 @@
 - **Foreground**: Dark evergreen tree establishes immediate depth and scale
 - **Midground**: Hazy tree line floats in atmospheric mist
 - **Background**: Massive mountain anchors composition with sky beyond
-- **depth_style**: Three-Layer Atmospheric Separation
+Depth style: **Three-Layer Atmospheric Separation**
 
 ## 5. Motion
 - Mountain contours guide eye upward along diagonal snow ridges
@@ -43,7 +43,7 @@
 - Sky gradient pulls vision from cool blue down to warm horizon
 - Evergreen branches direct attention inward toward mountain
 - Overall compositional flow moves from foreground tree, through mist, to mountain summit
-- **motion_profile**: Upward Ascension Through Mist
+Motion profile: **Upward Ascension Through Mist**
 
 ## 6. Technique
 - Palette knife work creates crisp mountain peaks and snow-covered ridges

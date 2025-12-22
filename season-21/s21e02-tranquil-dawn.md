@@ -18,12 +18,12 @@
 - **Dark Sienna**: Tree bark texture and warm shadows
 - **Liquid Clear**: Foundation for seamless atmospheric blending
 
-**Palette identity**: Misty Dawn With Golden Warmth
+Palette identity: **Misty Dawn With Golden Warmth**
 
 ## 3. Mood & Atmosphere
 The painting evokes profound serenity and quiet contemplation, capturing the hushed moment when night surrenders to day. Soft golden light diffuses through layers of morning mist, creating an ethereal, dreamlike quality that suggests hope and renewal. The stillness is palpable—no breeze disturbs the water, no movement stirs the trees—only the gentle emergence of light through vapor. This is a scene of peaceful solitude and natural grace, where the viewer witnesses the intimate awakening of a winter landscape.
 
-**Lighting type**: Soft Dawn Backlight Through Mist
+Lighting: **Soft Dawn Backlight Through Mist**
 
 ## 4. Structural Layout
 - **Left**: Bare deciduous tree anchors the foreground with its dark trunk catching warm golden highlights, creating a strong vertical element
@@ -33,7 +33,7 @@ The painting evokes profound serenity and quiet contemplation, capturing the hus
 - **Midground**: Reflective water surface or low-lying mist creates a horizontal band that mirrors the golden light
 - **Background**: Multiple layers of atmospheric perspective with warm yellows and soft grays fading into the distance
 
-**Depth style**: Layered Atmospheric Perspective
+Depth style: **Layered Atmospheric Perspective**
 
 ## 5. Motion
 - **Water flow**: Completely still and glassy, reflecting the dawn light without ripples or disturbance
@@ -41,7 +41,7 @@ The painting evokes profound serenity and quiet contemplation, capturing the hus
 - **Compositional flow**: Vertical movement along the tree trunks draws the eye upward, while horizontal layers of mist guide vision from foreground to background; the golden light in the center acts as a focal magnet, pulling attention through the misty veil
 - **Atmospheric movement**: Implied gentle rising of morning mist, though frozen in a moment of perfect stillness
 
-**Motion profile**: Tranquil Stillness With Vertical Flow
+Motion profile: **Tranquil Stillness With Vertical Flow**
 
 ## 6. Technique
 - **Brush types**: Fan brush for evergreen foliage and delicate mist layers; liner brush for fine tree branches and twigs

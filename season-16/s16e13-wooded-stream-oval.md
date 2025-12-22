@@ -8,7 +8,7 @@
 - Atmospheric mist fills the background, creating mysterious depth
 - Moss-covered stones and boulders populate the foreground shoreline
 - No sky visible—the oval is entirely filled with woodland elements
-- **composition_archetype**: Oval Stream Portal
+Composition archetype: **Oval Stream Portal**
 
 ## 2. Palette
 - Midnight Black forms the foundation for rocks and dark shadows
@@ -18,7 +18,7 @@
 - Titanium White generates the ethereal mist and water highlights
 - Van Dyke Brown defines tree trunks and deeper shadows
 - Dark Sienna adds warmth to rocky surfaces and earth tones
-- **palette_identity**: Misty Woodland Green
+Palette identity: **Misty Woodland Green**
 
 ## 3. Mood & Atmosphere
 - Mysterious and contemplative, as if discovering a hidden woodland grotto
@@ -26,7 +26,7 @@
 - Peaceful sanctuary feeling enhanced by the oval frame's intimate viewpoint
 - Cool, damp atmosphere suggesting early morning or twilight hours
 - The mist creates a dreamlike quality, separating viewer from the distant woods
-- **lighting_type**: Diffused Mist Light
+Lighting: **Diffused Mist Light**
 
 ## 4. Structural Layout
 - Left: Overhanging deciduous tree with full foliage cascading down, dark rocks beneath creating strong vertical anchor
@@ -35,7 +35,7 @@
 - Foreground: Dark rocky shore with moss and small stones providing immediate detail
 - Midground: The stream surface with gentle ripples and reflections
 - Background: Soft misty void with suggestion of distant trees dissolving into atmosphere
-- **depth_style**: Oval Atmospheric Recession
+Depth style: **Oval Atmospheric Recession**
 
 ## 5. Motion
 - Stream flows gently forward from the misty background toward the viewer
@@ -44,7 +44,7 @@
 - Compositional flow follows the stream's path through the center
 - Tree foliage suggests gentle stillness, no wind movement
 - The oval frame itself creates circular visual flow around the perimeter
-- **motion_profile**: Gentle Stream Through Mist
+Motion profile: **Gentle Stream Through Mist**
 
 ## 6. Technique
 - Oval vignette format with soft-edged fading into the dark background

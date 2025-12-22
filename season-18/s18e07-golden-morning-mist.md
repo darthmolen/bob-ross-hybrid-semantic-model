@@ -26,7 +26,7 @@ A **Misty Forest Glade with Radiant Backlight** composition featuring ethereal m
 - Yellow Ochre for subtle warm earth tones
 - Overall extremely warm palette with golden-amber dominance
 
-**Palette identity: "Golden Amber Atmosphere with Luminous Mist"**
+Palette identity: **Golden Amber Atmosphere with Luminous Mist**
 
 ## 3. Mood & Atmosphere
 
@@ -39,7 +39,7 @@ A **Misty Forest Glade with Radiant Backlight** composition featuring ethereal m
 - Hopeful and uplifting
 - Soft and gentle emotional resonance
 
-**Lighting: "Radiant Backlit Glow"** with intense golden light source creating dramatic atmospheric illumination through morning mist.
+Lighting: **Radiant Backlit Glow** with intense golden light source creating dramatic atmospheric illumination through morning mist.
 
 ## 4. Structural Layout
 
@@ -62,7 +62,7 @@ A **Misty Forest Glade with Radiant Backlight** composition featuring ethereal m
 - Visual pull toward the brilliant light source
 - Compositional flow: **radial expansion from central light source**
 
-**Motion profile: "Rising Mist with Radial Light Diffusion"**
+Motion profile: **Rising Mist with Radial Light Diffusion**
 
 ## 6. Technique
 
@@ -77,7 +77,7 @@ A **Misty Forest Glade with Radiant Backlight** composition featuring ethereal m
 - Titanium White loaded heavily for brightest glow areas
 - Delicate glazing techniques for translucent mist
 
-**Signature technique: "Layered atmospheric blending creating luminous golden mist"**
+Signature technique: **Layered atmospheric blending creating luminous golden mist**
 
 ## 7. Narrative Layer
 

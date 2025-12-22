@@ -11,7 +11,7 @@
 
 A peaceful forest stream scene with a small waterfall flowing over rocks, framed by lush vegetation under a colorful summer sky.
 
-**Composition archetype: "Forest Stream with Cascading Waterfall and Sunset Sky"**
+Composition archetype: **Forest Stream with Cascading Waterfall and Sunset Sky**
 
 ## 2. Palette
 
@@ -20,7 +20,7 @@ A peaceful forest stream scene with a small waterfall flowing over rocks, framed
 - **High-contrast vs low-contrast**: Moderate to high contrast, with bright white water foam against dark rocks and shadowed forest base
 - **Signature color relationships**: Warm sunset yellows blending into cool blues in sky, white water highlights against dark liquid black foundation, lavender tree trunks created by blending colors into liquid black
 
-**Palette identity: "Sunset Stream Palette with Liquid Black Forest Base and Golden Sky Glow"**
+Palette identity: **Sunset Stream Palette with Liquid Black Forest Base and Golden Sky Glow**
 
 ## 3. Mood & Atmosphere
 
@@ -30,7 +30,7 @@ A peaceful forest stream scene with a small waterfall flowing over rocks, framed
 
 The painting evokes a tranquil summer retreat where a gentle waterfall provides the soundtrack to a peaceful forest sanctuary beneath a colorful sky.
 
-**Lighting: "Warm Sunset Glow with Shadowed Forest Base"**
+Lighting: **Warm Sunset Glow with Shadowed Forest Base**
 
 ## 4. Structural Layout
 
@@ -43,7 +43,7 @@ The painting evokes a tranquil summer retreat where a gentle waterfall provides 
 
 The composition uses liquid black in the lower portion to create depth and shadow, while the upper sky opens to warm colorful light.
 
-**Depth style: "Shadowed Forest Corridor with Vertical Waterfall Focus"**
+Depth style: **Shadowed Forest Corridor with Vertical Waterfall Focus**
 
 ## 5. Motion
 
@@ -55,7 +55,7 @@ The composition uses liquid black in the lower portion to create depth and shado
 
 The waterfall provides the primary motion element, with water continuously flowing over rocks and creating dynamic splashing effects at the base.
 
-**Motion profile: "Cascading Waterfall with Gentle Stream Flow"**
+Motion profile: **Cascading Waterfall with Gentle Stream Flow**
 
 ## 6. Technique
 
@@ -67,7 +67,7 @@ The waterfall provides the primary motion element, with water continuously flowi
 
 The split-canvas foundation with liquid white on top and liquid black on bottom is the signature technical approach.
 
-**Signature technique: "Liquid black and white split foundation with waterfall foam effects and dimensional rock placement"**
+Signature technique: **Liquid black and white split foundation with waterfall foam effects and dimensional rock placement**
 
 ## 7. Narrative Layer
 

@@ -9,7 +9,7 @@
 - Bright golden-yellow glow illuminating the sky within both ovals, suggesting sunrise or sunset
 - Additional evergreen trees in the lower corners framing the scene
 - Lush green bushes and deciduous foliage at the bottom center providing contrast
-- **composition_archetype**: Double Vignette Mountain Portal
+Composition archetype: **Double Vignette Mountain Portal**
 
 ## 2. Palette
 - **Phthalo Blue** forms the oval vignette borders and sky gradients
@@ -20,7 +20,7 @@
 - **Prussian Blue** adds depth to mountain shadows and water reflections
 - **Van Dyke Brown** establishes tree trunks and earth tones
 - **Yellow Ochre** creates warm transitions in the glowing sky areas
-- **palette_identity**: Golden Portal Radiance
+Palette identity: **Golden Portal Radiance**
 
 ## 3. Mood & Atmosphere
 - Ethereal and dreamlike quality enhanced by the dual oval framing device
@@ -29,7 +29,7 @@
 - Contemplative atmosphere inviting the viewer to look through these windows into nature
 - Balance between the bright illuminated sky and dark grounding evergreens
 - Sense of discovery and wonder as if peering into magical realms
-- **lighting_type**: Dual Portal Backlight
+Lighting: **Dual Portal Backlight**
 
 ## 4. Structural Layout
 - **Left Oval**: Snow-capped mountain peaks with golden sky and gray-lavender clouds
@@ -38,7 +38,7 @@
 - **Foreground**: Calm reflective water with green meadow banks and bright bushes
 - **Midground**: Rolling hills and foliage leading toward the oval windows
 - **Background**: Mountains and sky visible only within the oval frames
-- **depth_style**: Layered Vignette Portals
+Depth style: **Layered Vignette Portals**
 
 ## 5. Motion
 - Strong vertical movement in the central evergreen trees drawing eyes upward
@@ -47,7 +47,7 @@
 - Soft radial glow emanating from behind the mountains within each oval
 - Clouds appear to drift gently through the oval windows
 - Overall sense of balanced symmetry with subtle dynamic tension
-- **motion_profile**: Dual Circular Gateway Flow
+Motion profile: **Dual Circular Gateway Flow**
 
 ## 6. Technique
 - Innovative oval vignette masking technique using carefully shaped borders

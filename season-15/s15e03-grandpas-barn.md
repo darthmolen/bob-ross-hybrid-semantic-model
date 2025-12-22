@@ -10,7 +10,7 @@
 - Vertical barn structure contrasts with horizontal landscape elements
 - Rusty red-brown roof provides warm color anchor
 
-**Composition archetype:** Central structure with atmospheric forest veil
+Composition archetype: **Central structure with atmospheric forest veil**
 
 ## 2. Palette
 - **Alizarin Crimson** — rusty barn roof tones
@@ -26,7 +26,7 @@
 - **Prussian Blue** — cool tones in misty atmosphere
 - **Liquid White** — base for blendable misty effects
 
-**Palette identity:** Nostalgic earth tones with atmospheric mist
+Palette identity: **Nostalgic earth tones with atmospheric mist**
 
 ## 3. Mood & Atmosphere
 - Nostalgic and contemplative, evoking memories of rural heritage
@@ -36,7 +36,7 @@
 - Rural pastoral tranquility
 - Soft, diffused golden light filtering through fog
 
-**Lighting:** Diffused morning backlight through mist
+Lighting: **Diffused morning backlight through mist**
 
 ## 4. Structural Layout
 - **Left:** Split-rail fence in foreground; large tree trunk framing the edge
@@ -46,7 +46,7 @@
 - **Midground:** The barn structure and immediate surroundings
 - **Background:** Misty forest with trees dissolving into atmospheric haze
 
-**Depth style:** Atmospheric perspective with layered fog
+Depth style: **Atmospheric perspective with layered fog**
 
 ## 5. Motion
 - Predominantly still and peaceful composition
@@ -55,7 +55,7 @@
 - Subtle atmospheric flow in background trees
 - Quiet, suspended moment in time
 
-**Motion profile:** Tranquil stillness with misty atmosphere
+Motion profile: **Tranquil stillness with misty atmosphere**
 
 ## 6. Technique
 - Wet-on-wet blending for soft, diffused misty background
@@ -67,7 +67,7 @@
 - Highlight touches on fence posts for dimension
 - Layered glazing for misty tree forms
 
-**Signature technique:** Atmospheric mist with wet-on-wet blending
+Signature technique: **Atmospheric mist with wet-on-wet blending**
 
 ## 7. Narrative Layer
 "This weathered barn stands as a silent monument to rural heritage, its rusty roof and worn vertical boards speaking of generations of hard work and simpler times gone by. Morning mist softly embraces the old structure like a gentle memory, as if nature itself is tenderly preserving Grandpa's legacy. The peaceful meadow and protective trees create a sanctuary where past and present meet in quiet reverence, inviting us to pause and remember the values of patience, craftsmanship, and connection to the land."
