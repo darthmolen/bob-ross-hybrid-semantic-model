@@ -43,10 +43,32 @@ You are generating structured markdown entries for Bob Ross "Joy of Painting" ep
       - motion_profile
       - composition_archetype
 
-   5. **REQUIRED: Add YAML metadata section at the end of the file** with:
-      - tags: (all 5 semantic identity values)
-      - episode: (season, episode, title, year, painting_index)
-      - colors: (array of Bob Ross colors used)
+   5. **REQUIRED: Add YAML metadata section at the end of the file**
+      The metadata MUST be wrapped in code fences exactly like this:
+
+      ---
+
+      ```yaml
+      tags:
+        composition_archetype: "..."
+        palette_identity: "..."
+        depth_style: "..."
+        lighting_type: "..."
+        motion_profile: "..."
+
+      episode:
+        season: X
+        episode: Y
+        title: "..."
+        year: YYYY
+        painting_index: NNN
+
+      colors:
+        - Color1
+        - Color2
+      ```
+
+      **CRITICAL: Include both opening ```yaml and closing ``` fences!**
 
    6. WRITE the file directly to:
       /home/user/bob-ross-hybrid-semantic-model/season-{XX}/s{XX}e{YY}-{title-slug}.md
