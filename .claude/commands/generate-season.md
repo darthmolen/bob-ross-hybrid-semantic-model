@@ -270,6 +270,37 @@ Extract the tag values from the inline content in each section (e.g., `Palette i
 - No conversational language
 - No references to the indexing process
 
+## ⚠️ Official Bob Ross Colors — ONLY USE THESE
+
+The `colors` array in the YAML metadata must ONLY include colors from this official list:
+
+**Oil Colors (13):**
+- Alizarin Crimson
+- Bright Red
+- Cadmium Yellow
+- Dark Sienna
+- Indian Yellow
+- Midnight Black
+- Phthalo Blue
+- Phthalo Green
+- Prussian Blue
+- Sap Green
+- Titanium White
+- Van Dyke Brown
+- Yellow Ochre
+
+**Mediums (used for thinning/base coats):**
+- Liquid White
+- Liquid Black
+- Liquid Clear
+
+**DO NOT use:**
+- Invented colors (e.g., "Lavender", "Sky Blue", "Forest Green")
+- Color descriptions (e.g., "warm brown", "deep blue")
+- Mixed color names (e.g., "Blue-Green")
+
+If a color appears in the painting that isn't on this list, identify which official colors were mixed to create it, and list only those official colors.
+
 ## Example
 
 See Season 2, Episode 6 "Black River" as the reference implementation.
