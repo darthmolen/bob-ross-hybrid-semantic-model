@@ -1,4 +1,4 @@
-# Season 13, Episode 3 — "Meadow Brook" (1986)
+# Season 13, Episode 3 — "Meadow Brook" (1987)
 
 ## 1. Composition
 
@@ -58,7 +58,7 @@ episode:
   season: 13
   episode: 3
   title: "Meadow Brook"
-  year: 1986
+  year: 1987
   painting_index: 126
 
 colors:

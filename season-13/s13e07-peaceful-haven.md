@@ -1,4 +1,4 @@
-# Season 13, Episode 7 — "Peaceful Haven" (1986)
+# Season 13, Episode 7 — "Peaceful Haven" (1987)
 
 ## 1. Composition
 - Tranquil lake occupies the center and foreground, creating a mirror-like surface of calm water
@@ -88,7 +88,7 @@ episode:
   season: 13
   episode: 7
   title: "Peaceful Haven"
-  year: 1986
+  year: 1987
   painting_index: 130
 
 colors:

@@ -1,4 +1,4 @@
-# Season 13, Episode 6 — "Hidden Creek" (1986)
+# Season 13, Episode 6 — "Hidden Creek" (1987)
 
 ## 1. Composition
 The painting presents a misty forest creek scene with a strong central water feature flanked by evergreen trees on both sides, creating a natural tunnel or corridor effect. The composition draws the eye from the dark foreground water through the middle ground's grassy banks toward the atmospheric background where trees dissolve into luminous fog. The creek flows diagonally from background to foreground, serving as the primary visual pathway. Tall evergreens on the right stand in sharp silhouette, while softer, more ethereal trees on the left fade into mist. The low horizon line emphasizes the vertical nature of the forest environment, with trees reaching upward into the obscured canopy. The framing trees create a portal effect, inviting the viewer into this secluded sanctuary. **Compositional archetype: Misty forest corridor with central water pathway**
@@ -70,7 +70,7 @@ episode:
   season: 13
   episode: 6
   title: "Hidden Creek"
-  year: 1986
+  year: 1987
   painting_index: 129
 
 colors:

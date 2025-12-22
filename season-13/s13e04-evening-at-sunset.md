@@ -1,4 +1,4 @@
-# Season 13, Episode 4 — "Evening at Sunset" (1986)
+# Season 13, Episode 4 — "Evening at Sunset" (1987)
 
 ## 1. Composition
 The painting captures a breathtaking sunset vista with a small rustic cabin positioned on the right side of the canvas, nestled against a backdrop of silhouetted evergreen forest. A reflective stream or pond dominates the foreground, its surface mirroring the spectacular sky colors in warm golden-orange tones. Large, distinctive trees with full, luminous foliage anchor the left side, their leaves catching the last golden rays of sunlight and glowing with warm yellows and oranges. The middle ground features gentle, rolling terrain in muted greens and browns leading to the cabin. A dense line of evergreen trees creates a dark horizontal band across the upper third, separating the terrestrial elements from the celestial display above. The sky itself is a tour de force—dramatic sweeping clouds in deep purples, vibrant reds, oranges, and golden yellows create powerful horizontal movement across the upper canvas. The composition follows a classic asymmetrical balance with the glowing trees on the left counterweighting the cabin structure on the right, while the water anchors the base. Compositional archetype: **Horizontal sunset panorama with reflective foreground and asymmetric terrestrial framing**.
@@ -50,7 +50,7 @@ episode:
   season: 13
   episode: 4
   title: "Evening at Sunset"
-  year: 1986
+  year: 1987
   painting_index: 127
 
 colors:

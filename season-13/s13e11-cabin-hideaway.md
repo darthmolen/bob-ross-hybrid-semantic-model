@@ -1,4 +1,4 @@
-# Season 13, Episode 11 — "Cabin Hideaway" (1986)
+# Season 13, Episode 11 — "Cabin Hideaway" (1987)
 
 ## 1. Composition
 
@@ -58,7 +58,7 @@ episode:
   season: 13
   episode: 11
   title: "Cabin Hideaway"
-  year: 1986
+  year: 1987
   painting_index: 134
 
 colors:

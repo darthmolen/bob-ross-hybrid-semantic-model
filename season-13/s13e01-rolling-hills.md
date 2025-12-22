@@ -1,4 +1,4 @@
-# Season 13, Episode 1 — "Rolling Hills" (1986)
+# Season 13, Episode 1 — "Rolling Hills" (1987)
 
 ## 1. Composition
 - Serene lake dominates the foreground with mirror-like reflective surface capturing the surrounding landscape
@@ -100,7 +100,7 @@ episode:
   season: 13
   episode: 1
   title: "Rolling Hills"
-  year: 1986
+  year: 1987
   painting_index: 124
 
 colors:

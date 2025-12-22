@@ -1,4 +1,4 @@
-# Season 13, Episode 8 — "Mountain Exhibition" (1986)
+# Season 13, Episode 8 — "Mountain Exhibition" (1987)
 
 ## 1. Composition
 
@@ -58,7 +58,7 @@ episode:
   season: 13
   episode: 8
   title: "Mountain Exhibition"
-  year: 1986
+  year: 1987
   painting_index: 131
 
 colors:

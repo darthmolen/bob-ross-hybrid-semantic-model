@@ -1,4 +1,4 @@
-# Season 13, Episode 9 — "Emerald Waters" (1986)
+# Season 13, Episode 9 — "Emerald Waters" (1987)
 
 ## 1. Composition
 - Brilliant emerald-green water body dominates the center and foreground of the canvas
@@ -89,7 +89,7 @@ episode:
   season: 13
   episode: 9
   title: "Emerald Waters"
-  year: 1986
+  year: 1987
   painting_index: 132
 
 colors:

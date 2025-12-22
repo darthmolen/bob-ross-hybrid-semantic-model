@@ -1,4 +1,4 @@
-# Season 13, Episode 12 — "Oval Essence" (1986)
+# Season 13, Episode 12 — "Oval Essence" (1987)
 
 ## 1. Composition
 
@@ -46,7 +46,7 @@ episode:
   season: 13
   episode: 12
   title: "Oval Essence"
-  year: 1986
+  year: 1987
   painting_index: 135
 
 colors:

@@ -1,4 +1,4 @@
-# Season 13, Episode 5 — "Mountain View" (1986)
+# Season 13, Episode 5 — "Mountain View" (1987)
 
 ## 1. Composition
 - Towering mountain range dominates the center and background, with multiple layered peaks creating dramatic vertical presence
@@ -87,7 +87,7 @@ episode:
   season: 13
   episode: 5
   title: "Mountain View"
-  year: 1986
+  year: 1987
   painting_index: 128
 
 colors:

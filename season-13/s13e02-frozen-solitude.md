@@ -1,4 +1,4 @@
-# Season 13, Episode 2 — "Frozen Solitude" (1986)
+# Season 13, Episode 2 — "Frozen Solitude" (1987)
 
 ## 1. Composition
 - Expansive frozen lake or snow-covered valley stretching across the lower portion of the canvas
@@ -94,7 +94,7 @@ episode:
   season: 13
   episode: 2
   title: "Frozen Solitude"
-  year: 1986
+  year: 1987
   painting_index: 125
 
 colors:

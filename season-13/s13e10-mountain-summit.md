@@ -1,4 +1,4 @@
-# Season 13, Episode 10 — "Mountain Summit" (1986)
+# Season 13, Episode 10 — "Mountain Summit" (1987)
 
 ## 1. Composition
 
@@ -46,7 +46,7 @@ episode:
   season: 13
   episode: 10
   title: "Mountain Summit"
-  year: 1986
+  year: 1987
   painting_index: 133
 
 colors:

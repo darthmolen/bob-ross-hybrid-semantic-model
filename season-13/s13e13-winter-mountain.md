@@ -1,4 +1,4 @@
-# Season 13, Episode 13 — "Winter Mountain" (1986)
+# Season 13, Episode 13 — "Winter Mountain" (1987)
 
 ## 1. Composition
 - Distinctive circular vignette format creating a natural window into the wilderness scene
@@ -106,7 +106,7 @@ episode:
   season: 13
   episode: 13
   title: "Winter Mountain"
-  year: 1986
+  year: 1987
   painting_index: 136
 
 colors:
