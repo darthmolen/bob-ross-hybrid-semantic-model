@@ -13,7 +13,7 @@
 
 A serene mountain lake composition framed in a distinctive half-oval vignette format with vertical evergreen anchors.
 
-Composition archetype: **Half Oval Lake Vista with Evergreen Sentinels**
+**Composition archetype: "Half Oval Lake Vista with Evergreen Sentinels"**
 
 ## 2. Palette
 
@@ -27,7 +27,7 @@ Composition archetype: **Half Oval Lake Vista with Evergreen Sentinels**
 - **Water tones**: Soft blues and whites creating peaceful reflections
 - **Warm and cool balance**: Cool blues and purples contrasted with warm yellows and greens
 
-Palette identity: **Soft Mountain Mist with Golden Highlights**
+**Palette identity: "Soft Mountain Mist with Golden Highlights"**
 
 ## 3. Mood & Atmosphere
 
@@ -38,7 +38,7 @@ Palette identity: **Soft Mountain Mist with Golden Highlights**
 - **Morning or midday clarity**: Bright but soft illumination
 - **Dreamy quality**: The half-oval frame adds a romantic, picture-perfect feeling
 
-Lighting: **Diffuse Atmospheric Glow** with soft highlights on foliage and water.
+**Lighting: "Diffuse Atmospheric Glow"** with soft highlights on foliage and water.
 
 ## 4. Structural Layout
 
@@ -50,7 +50,7 @@ Lighting: **Diffuse Atmospheric Glow** with soft highlights on foliage and water
 - **Background**: Purple mountain range enveloped in atmospheric mist, soft sky
 - **Vignette frame**: Dark edges creating the distinctive half-oval boundary
 
-Depth style: **Atmospheric Fade with Layered Planes**
+**Depth style: "Atmospheric Fade with Layered Planes"**
 
 ## 5. Motion
 
@@ -60,7 +60,7 @@ Depth style: **Atmospheric Fade with Layered Planes**
 - **Vertical stability**: Tall evergreens provide static anchoring points
 - **Minimal motion profile**: Overall impression of peaceful stillness
 
-Motion profile: **Tranquil Stillness with Atmospheric Drift**
+**Motion profile: "Tranquil Stillness with Atmospheric Drift"**
 
 ## 6. Technique
 
@@ -74,7 +74,7 @@ Motion profile: **Tranquil Stillness with Atmospheric Drift**
 - **Pull-down reflections**: Gentle vertical strokes for water reflections
 - **Liner brush details**: Fine branches and small vegetation details
 
-Signature technique: **Contact paper vignette framing combined with atmospheric mountain misting**
+**Signature technique: "Contact paper vignette framing combined with atmospheric mountain misting"**
 
 ## 7. Narrative Layer
 
@@ -119,5 +119,4 @@ colors:
   - Titanium White
   - Van Dyke Brown
   - Yellow Ochre
-  - Liquid White
 ```

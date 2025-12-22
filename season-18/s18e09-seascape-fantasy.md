@@ -11,7 +11,7 @@
 
 A dramatic ocean wave composition with powerful surf under a golden sunset sky.
 
-Composition archetype: **Dynamic Ocean Wave with Sunset Horizon**
+**Composition archetype: "Dynamic Ocean Wave with Sunset Horizon"**
 
 ## 2. Palette
 
@@ -20,7 +20,7 @@ Composition archetype: **Dynamic Ocean Wave with Sunset Horizon**
 - **High-contrast vs low-contrast**: High contrast between dark wave shadows and brilliant white foam crests, medium contrast in the glowing sky
 - **Signature color relationships**: Golden yellow sunset glow reflected into green ocean water, warm peachy clouds against cool ocean, dramatic light-to-dark transitions in wave structures
 
-Palette identity: **Golden Sunset Oceanscape with Emerald Wave Energy**
+**Palette identity: "Golden Sunset Oceanscape with Emerald Wave Energy"**
 
 ## 3. Mood & Atmosphere
 
@@ -30,7 +30,7 @@ Palette identity: **Golden Sunset Oceanscape with Emerald Wave Energy**
 
 The painting evokes both the dynamic energy of crashing waves and the serene beauty of a sunset, creating a sense of natural wonder and peaceful power.
 
-Lighting: **Warm Golden Sunset Glow** illuminating the entire seascape from behind.
+**Lighting: "Warm Golden Sunset Glow"** illuminating the entire seascape from behind.
 
 ## 4. Structural Layout
 
@@ -41,7 +41,7 @@ Lighting: **Warm Golden Sunset Glow** illuminating the entire seascape from behi
 - **Midground**: Rolling wave crests with foam, capturing light and creating movement
 - **Background**: Distant wave lines, peachy-gold clouds, and luminous sunset atmosphere
 
-Depth style: **Layered Wave Planes with Atmospheric Horizon Fade**
+**Depth style: "Layered Wave Planes with Atmospheric Horizon Fade"**
 
 ## 5. Motion
 
@@ -51,7 +51,7 @@ Depth style: **Layered Wave Planes with Atmospheric Horizon Fade**
 - **Compositional flow lines**: Diagonal wave lines pull the eye from left foreground toward the center horizon
 - **Atmospheric motion**: Birds in flight adding dynamic movement to the sky
 
-Motion profile: **Dynamic Wave Energy with Diagonal Ocean Flow**
+**Motion profile: "Dynamic Wave Energy with Diagonal Ocean Flow"**
 
 ## 6. Technique
 
@@ -61,7 +61,7 @@ Motion profile: **Dynamic Wave Energy with Diagonal Ocean Flow**
 - **Reflection techniques**: Golden sky tones pulled into foreground water, reflective highlights on wave surfaces
 - **Special effects**: Foam spray effect on wave crests, atmospheric glow in sunset, translucent wave curl showing light through water
 
-Signature technique: **Palette knife wave construction with dramatic foam highlights and golden atmospheric blending**
+**Signature technique: "Palette knife wave construction with dramatic foam highlights and golden atmospheric blending"**
 
 ## 7. Narrative Layer
 

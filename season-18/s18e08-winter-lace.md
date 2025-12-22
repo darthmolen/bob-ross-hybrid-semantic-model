@@ -14,7 +14,7 @@
 
 An oval-framed winter clearing with frosted forest and pink sunset sky.
 
-Composition archetype: **Oval Framed Winter Lake With Frosted Forest**
+**Composition archetype: "Oval Framed Winter Lake With Frosted Forest"**
 
 ## 2. Palette
 
@@ -27,7 +27,7 @@ Composition archetype: **Oval Framed Winter Lake With Frosted Forest**
 
 Cool-dominant palette with warm pink sunset contrasting against white frost and lavender shadows. High contrast between dark tree trunks and bright frost-covered branches creates delicate lace-like patterns.
 
-Palette identity: **Pink Lavender Winter Sunset Palette**
+**Palette identity: "Pink Lavender Winter Sunset Palette"**
 
 ## 3. Mood & Atmosphere
 
@@ -40,7 +40,7 @@ Palette identity: **Pink Lavender Winter Sunset Palette**
 
 The frosted trees create a magical, almost fairy-tale atmosphere. The warm pink sky contrasts beautifully with the cool lavender shadows in the snow, creating a harmonious winter twilight scene.
 
-Lighting: **Soft Pink Sunset Glow** illuminating the frost and creating lavender shadows
+**Lighting: "Soft Pink Sunset Glow"** illuminating the frost and creating lavender shadows
 
 ## 4. Structural Layout
 
@@ -53,7 +53,7 @@ Lighting: **Soft Pink Sunset Glow** illuminating the frost and creating lavender
 
 The oval frame creates a vignette effect, concentrating attention on the central frozen clearing. Depth is achieved through progressive lightening of values and atmospheric perspective.
 
-Depth style: **Layered Atmospheric Fade With Oval Vignette**
+**Depth style: "Layered Atmospheric Fade With Oval Vignette"**
 
 ## 5. Motion
 
@@ -66,7 +66,7 @@ Depth style: **Layered Atmospheric Fade With Oval Vignette**
 
 The painting emphasizes absolute winter stillness and tranquility. The only implied motion is the gentle glow of the setting sun washing across the frozen landscape.
 
-Motion profile: **Still Frozen Tranquility**
+**Motion profile: "Still Frozen Tranquility"**
 
 ## 6. Technique
 
@@ -81,7 +81,7 @@ Motion profile: **Still Frozen Tranquility**
 - Gentle horizontal strokes for frozen lake surface
 - Subtle pull-down reflections in the frozen lake area
 
-Signature technique: **Delicate frost tapping with fan brush to create intricate lace patterns on branches**
+**Signature technique: "Delicate frost tapping with fan brush to create intricate lace patterns on branches"**
 
 ## 7. Narrative Layer
 

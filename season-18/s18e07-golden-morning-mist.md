@@ -26,7 +26,7 @@ A **Misty Forest Glade with Radiant Backlight** composition featuring ethereal m
 - Yellow Ochre for subtle warm earth tones
 - Overall extremely warm palette with golden-amber dominance
 
-Palette identity: **Golden Amber Atmosphere with Luminous Mist**
+**Palette identity: "Golden Amber Atmosphere with Luminous Mist"**
 
 ## 3. Mood & Atmosphere
 
@@ -62,7 +62,7 @@ Palette identity: **Golden Amber Atmosphere with Luminous Mist**
 - Visual pull toward the brilliant light source
 - Compositional flow: **radial expansion from central light source**
 
-Motion profile: **Rising Mist with Radial Light Diffusion**
+**Motion profile: "Rising Mist with Radial Light Diffusion"**
 
 ## 6. Technique
 
