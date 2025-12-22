@@ -14,6 +14,7 @@ You are generating structured markdown entries for Bob Ross "Joy of Painting" ep
    - https://raw.githubusercontent.com/jwilber/Bob_Ross_Paintings/master/data/bob_ross_paintings.csv
    - Filter to the requested season number
    - Build a list of episodes to process (typically 13 per season)
+   - **CRITICAL: Extract the `painting_index` column value for each episode** (see Image Numbering section below)
 
 2. **Spawn parallel subagents using the Task Tool**
 
@@ -62,17 +63,104 @@ You are generating structured markdown entries for Bob Ross "Joy of Painting" ep
    - Verify files exist in the season-{XX}/ folder
    - Report any failures or missing episodes
 
-4. **Commit and push to git**
+4. **Generate SOURCE_IMAGES.md manifest**
 
-   Once all episodes are written:
-   ```bash
-   git checkout -b claude/season-{XX}-generation-IDp4y
-   git add season-{XX}/*.md
-   git commit -m "Generate Season {XX} episodes (X/13)"
-   git push -u origin claude/season-{XX}-generation-IDp4y
+   Create a manifest file documenting the image sources used for each episode:
+
+   **File:** `/home/user/bob-ross-hybrid-semantic-model/season-{XX}/SOURCE_IMAGES.md`
+
+   **Format:**
+   ```markdown
+   # Season {XX} Source Images
+
+   This file documents the painting images used to generate the semantic entries for Season {XX}.
+
+   | Episode | Title | Painting Index | Image Source |
+   |---------|-------|----------------|--------------|
+   | S{XX}E01 | {Title} | {painting_index} | [local/github] painting{index}.png |
+   | S{XX}E02 | {Title} | {painting_index} | [local/github] painting{index}.png |
+   | ... | ... | ... | ... |
+
+   ## Source URLs
+
+   - **Local images:** `/home/user/bob-ross-hybrid-semantic-model/images/painting{index}.png`
+   - **GitHub fallback:** `https://raw.githubusercontent.com/jwilber/Bob_Ross_Paintings/master/data/paintings/painting{index}.png`
+
+   ## CSV Data Source
+
+   Episode metadata from: `https://raw.githubusercontent.com/jwilber/Bob_Ross_Paintings/master/data/bob_ross_paintings.csv`
+
+   Generated: {YYYY-MM-DD}
    ```
 
-5. **Note:** INDEX.md updates happen separately using `/update-index` or `/rebuild-index`
+   This manifest provides traceability for:
+   - Which painting image was analyzed for each episode
+   - Whether local or remote images were used
+   - The painting_index mapping for verification
+
+5. **Commit and push to git**
+
+   Once all episodes and the SOURCE_IMAGES.md manifest are written:
+   ```bash
+   git checkout -b claude/season-{XX}-generation-{ID}
+   git add season-{XX}/*.md
+   git add season-{XX}/SOURCE_IMAGES.md
+   git commit -m "Generate Season {XX} episodes (X/13)"
+   git push -u origin claude/season-{XX}-generation-{ID}
+   ```
+
+6. **Note:** INDEX.md updates happen separately using `/update-index` or `/rebuild-index`
+
+## ⚠️ Image Numbering — CRITICAL
+
+The `painting{index}.png` filename uses the **`painting_index` column** from the CSV dataset. This is **NOT**:
+- ❌ The episode number (1-13)
+- ❌ The row number in the CSV
+- ❌ A sequential number per season
+
+**The `painting_index` is a unique identifier for each painting in the entire Bob Ross catalog.**
+
+### How to find the correct painting_index
+
+1. Fetch the CSV: `https://raw.githubusercontent.com/jwilber/Bob_Ross_Paintings/master/data/bob_ross_paintings.csv`
+2. Filter rows where `season` equals your target season
+3. For each episode, read the **`painting_index`** column value
+4. Use that value in the image filename: `painting{painting_index}.png`
+
+### Example: Season 3
+
+| Episode | Title | painting_index | Image File |
+|---------|-------|----------------|------------|
+| S03E01 | Mountain Retreat | 27 | painting27.png |
+| S03E02 | Blue Moon | 28 | painting28.png |
+| S03E03 | Bubbling Stream | 29 | painting29.png |
+| ... | ... | ... | ... |
+| S03E13 | Peaceful Waters | 39 | painting39.png |
+
+### Quick Reference by Season
+
+| Season | painting_index Range |
+|--------|---------------------|
+| Season 1 | 1-13 |
+| Season 2 | 14-26 |
+| Season 3 | 27-39 |
+| Season 4 | 40-52 |
+| Season 5 | 53-65 |
+| ... | (add 13 per season) |
+
+**Formula:** `painting_index = ((season - 1) * 13) + episode`
+
+### Verification
+
+Before spawning subagents, verify you have the correct painting indices by logging them:
+```
+Season 3 Episodes:
+- S03E01 "Mountain Retreat" -> painting_index: 27
+- S03E02 "Blue Moon" -> painting_index: 28
+...
+```
+
+---
 
 ## Parallel Processing Notes
 
@@ -134,7 +222,9 @@ See Season 2, Episode 6 "Black River" as the reference implementation.
 ## After Completion
 
 Report:
-- Number of episodes successfully written (verify with ls season-{XX}/*.md)
+- Number of episodes successfully written (verify with `ls season-{XX}/*.md`)
+- Confirm SOURCE_IMAGES.md manifest was generated (verify with `cat season-{XX}/SOURCE_IMAGES.md`)
 - Any episodes that failed (missing images, errors, etc.)
+- The painting_index range used (e.g., "Used painting indices 27-39 for Season 3")
 - Git commit status and branch name
 - Reminder: Run `/update-index` after merging to main
