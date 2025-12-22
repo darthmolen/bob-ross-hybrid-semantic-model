@@ -5,6 +5,10 @@ on:
     branches:
       - 'claude/**'
 
+permissions:
+  contents: read
+  pull-requests: write
+
 jobs:
   create-pr:
     runs-on: ubuntu-latest
@@ -18,7 +22,7 @@ jobs:
       - name: Check if PR exists
         id: check-pr
         env:
-          GH_TOKEN: ${{ secrets.PAT_TOKEN }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           PR_EXISTS=$(gh pr list --head "${{ github.ref_name }}" --json number --jq 'length')
           echo "exists=$PR_EXISTS" >> $GITHUB_OUTPUT
@@ -27,7 +31,7 @@ jobs:
         if: steps.check-pr.outputs.exists == '0'
         id: pr-content
         env:
-          GH_TOKEN: ${{ secrets.PAT_TOKEN }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           # Extract readable title from branch name
           # claude/setup-github-cli-HpgIZ -> Setup github cli
@@ -55,7 +59,7 @@ BODY_EOF
       - name: Create Pull Request
         if: steps.check-pr.outputs.exists == '0'
         env:
-          GH_TOKEN: ${{ secrets.PAT_TOKEN }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           gh pr create \
             --title "${{ steps.pr-content.outputs.title }}" \
