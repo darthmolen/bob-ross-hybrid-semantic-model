@@ -226,9 +226,9 @@ A foundational dark-base woodland scene emphasizing contrast and atmospheric dep
 
 ---
 
-## Metadata Section (Optional)
+## Metadata Section (REQUIRED)
 
-Add structured metadata for programmatic access:
+Add structured metadata for programmatic access. **This section is mandatory for all episode entries:**
 
 ```yaml
 tags:

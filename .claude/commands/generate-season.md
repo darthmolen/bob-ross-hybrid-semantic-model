@@ -36,17 +36,22 @@ You are generating structured markdown entries for Bob Ross "Joy of Painting" ep
    3. Generate the complete 8-section markdown entry following the template at:
       /home/user/bob-ross-hybrid-semantic-model/TEMPLATE.md
 
-   4. Include all semantic identity tags:
+   4. Include all semantic identity tags inline in the text:
       - palette_identity
       - depth_style
       - lighting_type
       - motion_profile
       - composition_archetype
 
-   5. WRITE the file directly to:
+   5. **REQUIRED: Add YAML metadata section at the end of the file** with:
+      - tags: (all 5 semantic identity values)
+      - episode: (season, episode, title, year, painting_index)
+      - colors: (array of Bob Ross colors used)
+
+   6. WRITE the file directly to:
       /home/user/bob-ross-hybrid-semantic-model/season-{XX}/s{XX}e{YY}-{title-slug}.md
 
-   6. Return confirmation: "Episode {Y}: {Title} - COMPLETED"
+   7. Return confirmation: "Episode {Y}: {Title} - COMPLETED"
    ```
 
    **Launch all subagents concurrently in a single response.** Each subagent independently:
@@ -174,7 +179,7 @@ Season 3 Episodes (from CSV):
 
 ## Output Format
 
-Each episode file should follow this structure:
+Each episode file MUST follow this structure, including the YAML metadata section:
 
 ```markdown
 # Season X, Episode Y — "Title" (Year)
@@ -202,7 +207,37 @@ Each episode file should follow this structure:
 
 ## 8. Initial Canvas Treatment
 [bullets]
+
+---
+
+```yaml
+tags:
+  composition_archetype: "[from section 1]"
+  palette_identity: "[from section 2]"
+  depth_style: "[from section 4]"
+  lighting_type: "[from section 3]"
+  motion_profile: "[from section 5]"
+
+episode:
+  season: X
+  episode: Y
+  title: "Title"
+  year: YYYY
+  painting_index: NNN
+
+colors:
+  - [Bob Ross colors from section 2]
 ```
+```
+
+## ⚠️ YAML Metadata Section — REQUIRED
+
+**Every episode file MUST include the YAML metadata block at the end.** This is NOT optional. The metadata section provides:
+- Structured semantic identity tags for programmatic access
+- Episode identification (season, episode, title, year, painting_index)
+- Color palette array for searchability
+
+Extract the tag values from the inline content in each section (e.g., `Palette identity: **dark woodland palette**` becomes `palette_identity: "dark woodland palette"`).
 
 ## Style Rules
 
