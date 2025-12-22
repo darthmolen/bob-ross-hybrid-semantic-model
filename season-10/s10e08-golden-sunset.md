@@ -35,3 +35,35 @@ Primary techniques include fan brush work for the varied autumn foliage masses, 
 
 ## 8. Initial Canvas Treatment
 The canvas was prepared with a Liquid White base coat, applied evenly across the entire surface to enable the smooth wet-on-wet blending essential for the graduated sky transitions and the soft atmospheric effects surrounding the sunset. This foundation allows the darker values to be laid in while maintaining the luminosity of the lighter areas, and facilitates the seamless blending between the warm yellows and cool purples in the clouds. The Liquid White base is critical for achieving the glowing, radiant quality of the sunset and the soft, atmospheric depth throughout the composition.
+
+---
+
+```yaml
+tags:
+  composition_archetype: "framed vista with radiant center point"
+  palette_identity: "autumn sunset warmth with purple-gold contrast"
+  depth_style: "atmospheric perspective with strong light-dark contrast"
+  lighting_type: "dramatic backlit sunset"
+  motion_profile: "radiant outward flow contained by framing elements"
+
+episode:
+  season: 10
+  episode: 8
+  title: "Golden Sunset"
+  year: 1988
+  painting_index: 171
+
+colors:
+  - Cadmium Yellow
+  - Yellow Ochre
+  - Alizarin Crimson
+  - Prussian Blue
+  - Indian Yellow
+  - Bright Red
+  - Van Dyke Brown
+  - Burnt Umber
+  - Sap Green
+  - Titanium White
+  - Dark Sienna
+  - Midnight Black
+```

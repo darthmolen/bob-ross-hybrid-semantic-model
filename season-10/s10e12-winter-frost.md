@@ -35,3 +35,31 @@ The painting showcases classic Bob Ross winter techniques. **Palette knife work*
 
 ## 8. Initial Canvas Treatment
 The canvas receives a **Liquid White** base application, spread thin and even to enable wet-on-wet technique throughout. The sky area likely includes pre-blended tones of **Phthalo Blue** and touches of **Alizarin Crimson** worked into the wet base before detail work begins, creating the characteristic gradient foundation. This preparation allows the soft color transitions and atmospheric effects while maintaining workability for mountains, trees, and reflections. **Foundation: Liquid White base with pre-blended sky gradients enabling seamless winter atmosphere and reflection work.**
+
+---
+
+```yaml
+tags:
+  composition_archetype: "Classic mountain lake refuge with triadic balance between evergreen forest, alpine peaks, and winter waterscape"
+  palette_identity: "Frosted pastel gradient with solar warmth"
+  depth_style: "Multi-layered atmospheric recession with strong foreground-to-background progression"
+  lighting_type: "Diffused low-angle winter sunlight creating soft atmospheric glow with gentle pink and lavender sky gradients"
+  motion_profile: "Static winter tableau with subtle horizontal eye movement and upward lift toward celestial light"
+
+episode:
+  season: 10
+  episode: 12
+  title: "Winter Frost"
+  year: 1988
+  painting_index: 175
+
+colors:
+  - Titanium White
+  - Prussian Blue
+  - Phthalo Blue
+  - Alizarin Crimson
+  - Cadmium Yellow
+  - Midnight Black
+  - Van Dyke Brown
+  - Indian Yellow
+```

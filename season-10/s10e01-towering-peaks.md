@@ -45,3 +45,31 @@ Signature technique: **Dramatic knife-scraped mountain with perfect mirror-still
 The canvas was pre-treated with a thin, even coat of Liquid White applied with the 2-inch brush, covering the entire surface. This wet base enables the wet-on-wet technique, allowing the sky colors to blend smoothly, the mountain whites to glide on with the knife, and the dark evergreens to stick and blend seamlessly. The Liquid White also facilitates the creation of perfect reflections by keeping the water area workable throughout the painting process, allowing colors to be pulled and softened for the mirror effect.
 
 Foundation: **Liquid White base enabling wet-on-wet technique and seamless reflections**
+
+---
+
+```yaml
+tags:
+  composition_archetype: "mountain-lake reflection archetype with natural foliage framing"
+  palette_identity: "Bright alpine spring with acidic yellow-greens contrasting cool snow blues"
+  depth_style: "Multi-layered atmospheric recession with mirror reflection doubling"
+  lighting_type: "High overhead sunlight"
+  motion_profile: "Perfect stillness with contemplative circular flow"
+
+episode:
+  season: 10
+  episode: 1
+  title: "Towering Peaks"
+  year: 1988
+  painting_index: 163
+
+colors:
+  - Phthalo Blue
+  - Titanium White
+  - Prussian Blue
+  - Van Dyke Brown
+  - Cadmium Yellow
+  - Indian Yellow
+  - Sap Green
+  - Midnight Black
+```

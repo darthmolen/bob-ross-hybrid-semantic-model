@@ -35,3 +35,33 @@ The dramatic sunset sky showcases masterful wet-on-wet blending with large brush
 
 ## 8. Initial Canvas Treatment
 The canvas was prepared with Liquid White, essential for the extensive wet-on-wet blending required in the dramatic sunset sky. This foundation allows the seamless gradations from golden yellows through pinks and crimsons to purple-blues, all blending into each other without harsh transitions. The Liquid White also facilitates the soft atmospheric mist effects in the background and the subtle color variations in the grassy hills where warm sunset tones intermingle with cooler greens. The treatment enables both the soft, indistinct background trees and the precise evergreen details to coexist on the same surface, supporting the full range from atmospheric softness to crisp focal points. Foundation: Liquid White application enabling both dramatic sky blending and atmospheric depth effects throughout the composition.
+
+---
+
+```yaml
+tags:
+  composition_archetype: "Diagonal pastoral with human habitation as focal anchor beneath celestial drama"
+  palette_identity: "Warm sunset pastoral with vibrant crimson accents"
+  depth_style: "Atmospheric layering with mist-softened recession"
+  lighting_type: "Backlit golden sunset"
+  motion_profile: "Diagonal ascent with horizontal atmospheric drift and implied settling mist"
+
+episode:
+  season: 10
+  episode: 2
+  title: "Cabin at Sunset"
+  year: 1988
+  painting_index: 164
+
+colors:
+  - Alizarin Crimson
+  - Bright Red
+  - Indian Yellow
+  - Yellow Ochre
+  - Phthalo Blue
+  - Titanium White
+  - Midnight Black
+  - Sap Green
+  - Phthalo Green
+  - Van Dyke Brown
+```

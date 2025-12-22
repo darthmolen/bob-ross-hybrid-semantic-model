@@ -55,3 +55,32 @@ Signature technique: **Palette knife foam sculpting combined with fan brush spra
 The canvas received a complete Liquid White base coat, essential for the extensive wet-on-wet blending required in both sky and ocean passages. This slick foundation allows the dramatic color transitions in the sunset clouds, where warm and cool hues merge without harsh boundaries. The Liquid White also facilitates the ocean's smooth gradations and enables the foam's bright whites to sit atop the blue water with crisp definition. The beach area may have received slightly less medium to allow better color saturation in the warm sand tones.
 
 Foundation: **Full Liquid White application enabling fluid blending across all zones while maintaining color vibrancy and foam highlight brilliance**.
+
+---
+
+```yaml
+tags:
+  composition_archetype: "Classic dramatic seascape with monumental wave foreground anchored beneath expansive sunset sky"
+  palette_identity: "Warm sunset radiance against cool ocean depth with brilliant white wave contrast"
+  depth_style: "Layered atmospheric perspective with dramatic foreground scale contrast"
+  lighting_type: "Horizontal sunset backlighting"
+  motion_profile: "Convergent ocean surge meeting radiating sunset energy in dynamic equilibrium"
+
+episode:
+  season: 10
+  episode: 10
+  title: "Ocean Sunset"
+  year: 1988
+  painting_index: 173
+
+colors:
+  - Cadmium Yellow
+  - Bright Red
+  - Alizarin Crimson
+  - Prussian Blue
+  - Phthalo Blue
+  - Titanium White
+  - Indian Yellow
+  - Van Dyke Brown
+  - Dark Sienna
+```

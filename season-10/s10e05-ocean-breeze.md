@@ -45,3 +45,31 @@ The ocean displays powerful directional movement with waves rolling from right t
 The canvas was prepared with **Liquid White** as the base medium, enabling the wet-on-wet technique essential for blending the dramatic cloud transitions and smooth ocean gradations. This slick foundation allowed the pink and blue cloud tones to merge seamlessly while maintaining the ability to create sharp highlights with the palette knife. The dark rocky outcropping was likely blocked in early over the wet base, establishing the composition's anchor point before developing the surrounding water and foam effects.
 
 **Foundation: Liquid White base enabling smooth atmospheric blending and crisp knife-work highlights throughout the seascape.**
+
+---
+
+```yaml
+tags:
+  composition_archetype: "Classic seascape with dramatic sky dominance and minimal land features"
+  palette_identity: "Cool oceanic with warm pink-mauve atmospheric drama"
+  depth_style: "Horizontal atmospheric layering with wave rhythm and cloud volumetrics"
+  lighting_type: "Diffused atmospheric lighting with warm-tinted clouds suggesting late afternoon or storm-filtered sunlight"
+  motion_profile: "Dynamic diagonal with rolling wave action and upward cloud billowing"
+
+episode:
+  season: 10
+  episode: 5
+  title: "Ocean Breeze"
+  year: 1988
+  painting_index: 167
+
+colors:
+  - Prussian Blue
+  - Phthalo Blue
+  - Titanium White
+  - Alizarin Crimson
+  - Bright Red
+  - Van Dyke Brown
+  - Midnight Black
+  - Cadmium Yellow
+```

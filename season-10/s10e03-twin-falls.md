@@ -57,3 +57,32 @@ Signature technique: **Knife-struck dark rocks against fan-brushed foliage, with
 
 ## 8. Initial Canvas Treatment
 The canvas was treated with **Liquid White**, applied in a thin, even coat across the entire surface. This foundation is essential for the wet-on-wet technique, enabling the soft blending visible in the sky's lavenders and blues, and providing luminosity beneath the water surfaces. The Liquid White allows for the smooth atmospheric transitions in the background hills and creates the glowing quality in the rainbow. The darker foreground elements were likely applied with less Liquid White or on areas where it was partially removed, allowing for deeper, more opaque darks in the silhouetted rocks and tree. **Foundation: Traditional Liquid White base enabling both soft atmospheric blending and contrasting dark silhouettes.**
+
+---
+tags:
+  composition_archetype: "Vertical cascade gateway leading into horizontal valley vista"
+  palette_identity: "Dramatic silhouette contrasts transitioning to pastoral luminosity"
+  depth_style: "Theatrical foreground portal with atmospheric recession"
+  lighting_type: "Post-storm diffused light"
+  motion_profile: "Vertical cascade energy resolving into horizontal tranquility"
+
+episode:
+  season: 10
+  episode: 3
+  title: "Twin Falls"
+  year: 1988
+  painting_index: 165
+
+colors:
+  - Prussian Blue
+  - Midnight Black
+  - Phthalo Blue
+  - Titanium White
+  - Sap Green
+  - Yellow Ochre
+  - Cadmium Yellow
+  - Van Dyke Brown
+  - Dark Sienna
+  - Alizarin Crimson
+  - Lavender
+  - Bright Red

@@ -43,3 +43,28 @@ Signature technique: **Contrasting palette knife mountains with delicate fan bru
 
 ## 8. Initial Canvas Treatment
 Canvas prepared with a complete coat of Liquid White spread evenly across the entire surface using the 2-inch background brush. This wet foundation enables the wet-on-wet technique essential for blending the sky's soft clouds, creating the water's reflective surface, and allowing the background evergreens to merge seamlessly into the atmospheric perspective. The Liquid White remains active throughout the painting process, facilitating the smooth transitions between warm autumn tones and cool mountain grays while maintaining the soft, luminous quality characteristic of Bob Ross's mountain lake compositions.
+
+---
+tags:
+  composition_archetype: "mountain lake with seasonal forest frame"
+  palette_identity: "Autumn warmth against alpine cool"
+  depth_style: "Layered atmospheric recession"
+  lighting_type: "Diffused midday illumination"
+  motion_profile: "Contemplative stillness with subtle atmospheric drift"
+
+episode:
+  season: 10
+  episode: 6
+  title: "Autumn Woods"
+  year: 1988
+  painting_index: 168
+
+colors:
+  - Prussian Blue
+  - Titanium White
+  - Van Dyke Brown
+  - Burnt Sienna
+  - Yellow Ochre
+  - Bright Red
+  - Sap Green
+  - Midnight Black

@@ -23,3 +23,31 @@ Palette knife work dominates the mountain construction, creating bold, angular p
 
 ## 8. Initial Canvas Treatment
 The canvas was prepared with Liquid White to facilitate the smooth wet-on-wet blending essential for the atmospheric sky and water reflections. The oval vignette shape was likely established early, either through careful planning or template use, with the outer edges left dark or painted over to create the distinctive framing effect. The center working area received full Liquid White coverage to ensure proper paint movement and blending, particularly crucial for the subtle sky transitions and reflective water surface. This foundation allowed for both the delicate atmospheric effects and the bold, impasto mountain work within a single composition.
+
+---
+
+```yaml
+tags:
+  composition_archetype: "Vignetted alpine lake scene with asymmetrical tree framing"
+  palette_identity: "Cool alpine serenity with warm atmospheric accents"
+  depth_style: "Layered atmospheric recession with strong foreground-background contrast"
+  lighting_type: "Soft diffused dawn or dusk illumination"
+  motion_profile: "Contemplative stillness with diagonal compositional energy"
+
+episode:
+  season: 10
+  episode: 9
+  title: "Mountain Oval"
+  year: 1988
+  painting_index: 172
+
+colors:
+  - Prussian Blue
+  - Phthalo Blue
+  - Titanium White
+  - Sap Green
+  - Midnight Black
+  - Van Dyke Brown
+  - Alizarin Crimson
+  - Yellow Ochre
+```

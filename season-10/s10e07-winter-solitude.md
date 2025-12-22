@@ -43,3 +43,27 @@ Signature technique: **Lavender shadow casting using mixed complementaries to cr
 
 ## 8. Initial Canvas Treatment
 The canvas was prepared with Liquid White, applied relatively thinly to allow the soft blending of the pink and lavender tones in both the sky and the shadow work on the snow. The white base enables the delicate color transitions and prevents the dark blues and reds from becoming muddy when mixed for the purple shadows. This treatment creates the luminous, glowing quality that characterizes the entire painting and allows the pastel tones to remain vibrant and ethereal throughout the composition.
+
+---
+tags:
+  composition_archetype: "minimalist winter landscape archetype with gentle curves and vertical counterpoints"
+  palette_identity: "Pastel winter dreamscape"
+  depth_style: "Atmospheric layering with shadow-defined contours"
+  lighting_type: "Diffused winter twilight"
+  motion_profile: "Static serenity with gentle horizontal and diagonal flow"
+
+episode:
+  season: 10
+  episode: 7
+  title: "Winter Solitude"
+  year: 1988
+  painting_index: 170
+
+colors:
+  - Alizarin Crimson
+  - Phthalo Blue
+  - Titanium White
+  - Prussian Blue
+  - Van Dyke Brown
+  - Burnt Umber
+  - Bright Red
