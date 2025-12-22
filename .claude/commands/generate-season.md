@@ -127,36 +127,34 @@ The `painting{index}.png` filename uses the **`painting_index` column** from the
 3. For each episode, read the **`painting_index`** column value
 4. Use that value in the image filename: `painting{painting_index}.png`
 
-### Example: Season 3
+### Example: Season 3 (from actual CSV data)
 
 | Episode | Title | painting_index | Image File |
 |---------|-------|----------------|------------|
-| S03E01 | Mountain Retreat | 27 | painting27.png |
-| S03E02 | Blue Moon | 28 | painting28.png |
-| S03E03 | Bubbling Stream | 29 | painting29.png |
+| S03E01 | Mountain Retreat | 256 | painting256.png |
+| S03E02 | Blue Moon | 257 | painting257.png |
+| S03E03 | Bubbling Stream | 258 | painting258.png |
 | ... | ... | ... | ... |
-| S03E13 | Peaceful Waters | 39 | painting39.png |
+| S03E13 | Peaceful Waters | 268 | painting268.png |
 
-### Quick Reference by Season
+### ⚠️ DO NOT USE FORMULAS
 
-| Season | painting_index Range |
-|--------|---------------------|
-| Season 1 | 1-13 |
-| Season 2 | 14-26 |
-| Season 3 | 27-39 |
-| Season 4 | 40-52 |
-| Season 5 | 53-65 |
-| ... | (add 13 per season) |
+**There is NO formula to calculate painting_index.** The `painting_index` values in the CSV do NOT follow a predictable pattern:
 
-**Formula:** `painting_index = ((season - 1) * 13) + episode`
+- Season 1, Episode 1 has `painting_index = 282` (not 1!)
+- Season 3 has indices 256-268 (not 27-39!)
+- Season 6 has indices 217-229 (not 66-78!)
+- The indices are NOT sequential by season
+
+**You MUST read the actual `painting_index` column from the CSV for each episode.** Never try to calculate or guess these values.
 
 ### Verification
 
 Before spawning subagents, verify you have the correct painting indices by logging them:
 ```
-Season 3 Episodes:
-- S03E01 "Mountain Retreat" -> painting_index: 27
-- S03E02 "Blue Moon" -> painting_index: 28
+Season 3 Episodes (from CSV):
+- S03E01 "Mountain Retreat" -> painting_index: 256
+- S03E02 "Blue Moon" -> painting_index: 257
 ...
 ```
 
