@@ -50,7 +50,7 @@ Palette identity: **Golden Amber Atmosphere with Luminous Mist**
 - **Midground:** Stream, misty trees, transitional atmospheric effects
 - **Background:** Brilliant golden light source with layers of barely visible trees dissolving into mist
 
-Depth style: **Atmospheric Fade with Radial Light Diffusion** creating tunnel-like depth through luminous mist.
+**Depth style: "Atmospheric Fade with Radial Light Diffusion"** creating tunnel-like depth through luminous mist.
 
 ## 5. Motion
 
