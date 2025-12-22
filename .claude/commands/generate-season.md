@@ -55,6 +55,15 @@ You are generating structured markdown entries for Bob Ross "Joy of Painting" ep
       - motion_profile
       - composition_archetype
 
+   ⚠️ **CRITICAL: Tag Value Formatting**
+      - Use **Title Case with Spaces** for all tag values
+      - ✅ CORRECT: "Layered Mountain Valley with Lake Reflection"
+      - ✅ CORRECT: "Warm Sunset Radiance with Cool Mountain Tones"
+      - ❌ WRONG: "layered_mountain_valley_with_lake_reflection" (snake_case)
+      - ❌ WRONG: "layered mountain valley" (all lowercase)
+      - Format inline tags as: **tag_name**: Tag Value in Title Case
+      - Use the SAME formatting in both inline text AND YAML metadata
+
    5. **REQUIRED: Add YAML metadata section at the end of the file**
       The metadata MUST be wrapped in code fences exactly like this:
 
