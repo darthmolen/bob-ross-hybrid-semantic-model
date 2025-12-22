@@ -77,7 +77,7 @@ Motion profile: **Rising Mist with Radial Light Diffusion**
 - Titanium White loaded heavily for brightest glow areas
 - Delicate glazing techniques for translucent mist
 
-Signature technique: **Layered atmospheric blending creating luminous golden mist** with intense backlighting effects.
+**Signature technique: "Layered atmospheric blending creating luminous golden mist"**
 
 ## 7. Narrative Layer
 
