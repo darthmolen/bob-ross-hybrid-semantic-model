@@ -8,9 +8,6 @@ on:
 jobs:
   create-pr:
     runs-on: ubuntu-latest
-    permissions:
-      contents: read
-      pull-requests: write
 
     steps:
       - name: Checkout
@@ -21,7 +18,7 @@ jobs:
       - name: Check if PR exists
         id: check-pr
         env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.PAT_TOKEN }}
         run: |
           PR_EXISTS=$(gh pr list --head "${{ github.ref_name }}" --json number --jq 'length')
           echo "exists=$PR_EXISTS" >> $GITHUB_OUTPUT
@@ -29,6 +26,8 @@ jobs:
       - name: Generate PR title and body
         if: steps.check-pr.outputs.exists == '0'
         id: pr-content
+        env:
+          GH_TOKEN: ${{ secrets.PAT_TOKEN }}
         run: |
           # Extract readable title from branch name
           # claude/setup-github-cli-HpgIZ -> Setup github cli
@@ -41,25 +40,22 @@ jobs:
           COMMITS=$(git log origin/$DEFAULT_BRANCH..HEAD --pretty=format:"- %s" 2>/dev/null || echo "- Initial commit")
 
           # Create PR body
-          BODY="## Summary
+          cat <<BODY_EOF >> $GITHUB_OUTPUT
+body<<EOF
+## Summary
 
-          Auto-generated PR from Claude Code session.
+Auto-generated PR from Claude Code session.
 
-          ## Commits
+## Commits
 
-          $COMMITS"
-
-          # Handle multiline output
-          echo "body<<EOF" >> $GITHUB_OUTPUT
-          echo "$BODY" >> $GITHUB_OUTPUT
-          echo "EOF" >> $GITHUB_OUTPUT
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+$COMMITS
+EOF
+BODY_EOF
 
       - name: Create Pull Request
         if: steps.check-pr.outputs.exists == '0'
         env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.PAT_TOKEN }}
         run: |
           gh pr create \
             --title "${{ steps.pr-content.outputs.title }}" \
