@@ -104,5 +104,4 @@ colors:
   - Yellow Ochre
   - Phthalo Blue
   - Van Dyke Brown
-  - Liquid White
 ```
