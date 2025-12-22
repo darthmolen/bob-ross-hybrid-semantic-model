@@ -1,4 +1,4 @@
-# Season 17, Episode 10: Old Country Mill (1989)
+# Season 17, Episode 10: Old Country Mill
 
 ## 1. Composition
 
