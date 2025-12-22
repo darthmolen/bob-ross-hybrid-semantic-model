@@ -1,0 +1,63 @@
+name: Auto-create PR for Claude branches
+
+on:
+  push:
+    branches:
+      - 'claude/**'
+
+jobs:
+  create-pr:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Check if PR exists
+        id: check-pr
+        env:
+          GH_TOKEN: ${{ secrets.PAT_TOKEN }}
+        run: |
+          PR_EXISTS=$(gh pr list --head "${{ github.ref_name }}" --json number --jq 'length')
+          echo "exists=$PR_EXISTS" >> $GITHUB_OUTPUT
+
+      - name: Generate PR title and body
+        if: steps.check-pr.outputs.exists == '0'
+        id: pr-content
+        env:
+          GH_TOKEN: ${{ secrets.PAT_TOKEN }}
+        run: |
+          # Extract readable title from branch name
+          # claude/setup-github-cli-HpgIZ -> Setup github cli
+          BRANCH="${{ github.ref_name }}"
+          TITLE=$(echo "$BRANCH" | sed 's|claude/||' | sed 's|-[A-Za-z0-9]*$||' | tr '-' ' ' | sed 's/\b\(.\)/\u\1/')
+          echo "title=$TITLE" >> $GITHUB_OUTPUT
+
+          # Get commit messages for PR body
+          DEFAULT_BRANCH=$(gh api repos/${{ github.repository }} --jq '.default_branch')
+          COMMITS=$(git log origin/$DEFAULT_BRANCH..HEAD --pretty=format:"- %s" 2>/dev/null || echo "- Initial commit")
+
+          # Create PR body
+          cat <<BODY_EOF >> $GITHUB_OUTPUT
+body<<EOF
+## Summary
+
+Auto-generated PR from Claude Code session.
+
+## Commits
+
+$COMMITS
+EOF
+BODY_EOF
+
+      - name: Create Pull Request
+        if: steps.check-pr.outputs.exists == '0'
+        env:
+          GH_TOKEN: ${{ secrets.PAT_TOKEN }}
+        run: |
+          gh pr create \
+            --title "${{ steps.pr-content.outputs.title }}" \
+            --body "${{ steps.pr-content.outputs.body }}" \
+            --head "${{ github.ref_name }}"
