@@ -84,6 +84,5 @@ colors:
   - Van Dyke Brown
   - Dark Sienna
   - Alizarin Crimson
-  - Lavender
   - Bright Red
 ```
