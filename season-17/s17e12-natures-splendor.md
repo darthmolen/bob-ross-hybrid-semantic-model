@@ -26,7 +26,7 @@ This painting demonstrates Bob Ross's mastery of **atmospheric perspective** and
 
 ## 7. Narrative Layer
 
-"Nature's Splendor" tells the story of wilderness grandeur at golden hour. This is a remote alpine lake, accessible perhaps only after a long hike through dense forest. The viewer stands at the water's edge, rewarded with this spectacular vista—a towering peak bathed in the warm light of approaching sunset. The tall trees suggest an ancient, undisturbed forest, a place where nature reigns supreme. The bright yellow-green bush in the foreground might represent new growth or a touch of autumn color, a reminder of nature's cycles. This is the kind of scene that makes one pause and breathe deeply, feeling both humbled by the mountain's magnitude and connected to something larger than oneself.
+"Nature's Splendor tells the story of wilderness grandeur at golden hour. This is a remote alpine lake, accessible perhaps only after a long hike through dense forest. The viewer stands at the water's edge, rewarded with this spectacular vista—a towering peak bathed in the warm light of approaching sunset. The tall trees suggest an ancient, undisturbed forest, a place where nature reigns supreme. The bright yellow-green bush in the foreground might represent new growth or a touch of autumn color, a reminder of nature's cycles. This is the kind of scene that makes one pause and breathe deeply, feeling both humbled by the mountain's magnitude and connected to something larger than oneself."
 
 ## 8. Initial Canvas Treatment
 
