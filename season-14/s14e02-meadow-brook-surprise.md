@@ -6,7 +6,7 @@
 - **Trees/vegetation:** Tall evergreen conifers framing left and right edges; misty purple forest in background; lush green grasses in foreground meadow
 - **Sky conditions:** Purple-blue atmospheric sky with soft cloud formations and ethereal light
 - **Structures:** None
-- **Overall archetype:** Forest-framed meadow with central waterway; bilateral symmetry with vertical evergreens creating natural gateway to misty wilderness beyond. **Compositional archetype: Forest-framed meadow stream**
+- **Overall archetype:** Forest-framed meadow with central waterway; bilateral symmetry with vertical evergreens creating natural gateway to misty wilderness beyond.
 
 ## 2. Palette
 - **Dominant colors:** Phthalo Blue, Alizarin Crimson, Titanium White (sky and atmospheric mist); Sap Green, Yellow Ochre, Cadmium Yellow (meadow); Midnight Black, Prussian Blue, Van Dyke Brown (trees); Dark Sienna (tree trunks)
