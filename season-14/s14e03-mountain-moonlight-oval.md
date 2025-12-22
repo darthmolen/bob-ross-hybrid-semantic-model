@@ -90,12 +90,12 @@ episode:
   painting_index: 113
 
 colors:
-  - Alizarin Crimson
-  - Dark Sienna
-  - Midnight Black
-  - Phthalo Blue
   - Prussian Blue
-  - Sap Green
+  - Phthalo Blue
   - Titanium White
+  - Midnight Black
+  - Sap Green
   - Van Dyke Brown
+  - Dark Sienna
+  - Alizarin Crimson
 ```
