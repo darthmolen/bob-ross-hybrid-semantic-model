@@ -22,7 +22,7 @@ The **Cascading Vertical** motion profile defines this painting's kinetic charac
 
 ## 6. Technique
 
-This painting demonstrates Bob Ross's mastery of wet-on-wet technique with specialized applications for water and atmosphere. The background mountains show confident palette knife work, with broad strokes establishing the angular peaks and careful highlighting defining snow-covered ridges using Titanium White with subtle purple undertones. The sky displays smooth blending achieved through large brush work, creating seamless gradations from deep blue to lavender. The waterfall itself is rendered with bold, decisive vertical strokes using a fan brush or liner brush loaded with white paint, pulled downward in parallel sweeps to capture the cascade's linear flow. The evergreen trees employ the classic push-and-pull technique with a fan brush, creating convincing foliage texture through dark base tones highlighted with lighter greens. Rocky elements show knife work and textural scraping. The painting likely began on a canvas treated with a dark base or Liquid Black, allowing the lights to emerge with dramatic contrast against the moody background.
+This painting demonstrates Bob Ross's mastery of wet-on-wet technique with specialized applications for water and atmosphere. The background mountains show confident palette knife work, with broad strokes establishing the angular peaks and careful highlighting defining snow-covered ridges using Titanium White with subtle purple undertones. The sky displays smooth blending achieved through large brush work, creating seamless gradations from deep blue to lavender. The waterfall itself is rendered with bold, decisive vertical strokes using a fan brush or liner brush loaded with white paint, pulled downward in parallel sweeps to capture the cascade's linear flow. The evergreen trees employ the classic push-and-pull technique with a fan brush, creating convincing foliage texture through dark base tones highlighted with lighter greens. Rocky elements show knife work and textural scraping. The painting likely began on a canvas treated with Black Gesso, allowing the lights to emerge with dramatic contrast against the moody background.
 
 ## 7. Narrative Layer
 
@@ -30,7 +30,7 @@ This painting demonstrates Bob Ross's mastery of wet-on-wet technique with speci
 
 ## 8. Initial Canvas Treatment
 
-The canvas was likely prepared with **Liquid Black** or a dark-toned base coat to establish the moody, twilight atmosphere essential to this composition. This dark foundation allows the subsequent layers—particularly the purple-blue sky tones and the luminous waterfall whites—to emerge with dramatic contrast and depth. The wet surface enables smooth blending in the atmospheric sky while providing the perfect base for highlighting techniques on mountains and water. The dark underpainting shows through in the evergreen trees and shadowed areas, creating natural depth without additional painting. This preparation is crucial for achieving the painting's signature twilight glow, where lights appear to emanate from within the scene rather than merely sitting on top of the canvas.
+The canvas was prepared with **Black Gesso** to establish the moody, twilight atmosphere essential to this composition. This dark foundation allows the subsequent layers—particularly the purple-blue sky tones and the luminous waterfall whites—to emerge with dramatic contrast and depth. After the Black Gesso dried, Liquid Clear was applied to enable the wet-on-wet technique, providing smooth blending in the atmospheric sky while providing the perfect base for highlighting techniques on mountains and water. The dark underpainting shows through in the evergreen trees and shadowed areas, creating natural depth without additional painting. This preparation is crucial for achieving the painting's signature twilight glow, where lights appear to emanate from within the scene rather than merely sitting on top of the canvas.
 
 ---
 
@@ -50,13 +50,19 @@ episode:
   painting_index: 77
 
 colors:
-  - Prussian Blue
-  - Phthalo Blue
-  - Midnight Black
-  - Titanium White
   - Alizarin Crimson
-  - Van Dyke Brown
+  - Black Gesso
+  - Bright Red
+  - Cadmium Yellow
   - Dark Sienna
-  - Sap Green
   - Indian Yellow
+  - Liquid Clear
+  - Midnight Black
+  - Phthalo Blue
+  - Phthalo Green
+  - Prussian Blue
+  - Sap Green
+  - Titanium White
+  - Van Dyke Brown
+  - Yellow Ochre
 ```
