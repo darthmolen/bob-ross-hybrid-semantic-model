@@ -91,6 +91,7 @@ colors:
   - Prussian Blue
   - Sap Green
   - Titanium White
+  - Liquid White
   - Van Dyke Brown
   - Yellow Ochre
 ```
