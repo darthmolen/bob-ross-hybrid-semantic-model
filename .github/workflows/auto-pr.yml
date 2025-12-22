@@ -46,9 +46,10 @@ jobs:
             --title "$TITLE" \
             --body "## Summary
 
-          Auto-generated PR from Claude Code session.
+Auto-generated PR from Claude Code session.
 
-          ## Commits
+## Commits
 
-          $COMMITS" \
+$COMMITS" \
+            --base "$DEFAULT_BRANCH" \
             --head "${{ github.ref_name }}"
