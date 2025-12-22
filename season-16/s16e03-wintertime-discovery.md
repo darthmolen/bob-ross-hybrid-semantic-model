@@ -7,7 +7,7 @@
 - Rolling snow-covered hills recede into misty atmospheric distance
 - Golden-yellow sky glow suggests winter sunrise or sunset breaking through fog
 - Horizontal snow plane contrasts with vertical tree elements
-- **composition_archetype**: Cabin In Winter Mist
+Composition archetype: **Cabin In Winter Mist**
 
 ## 2. Palette
 - Cadmium Yellow and Yellow Ochre create the luminous golden sky glow
@@ -16,7 +16,7 @@
 - Van Dyke Brown and Dark Sienna construct the weathered cabin structure
 - Soft grays blend sky and distant hills in atmospheric perspective
 - Cool blue-grays in snow shadows suggest reflected skylight
-- **palette_identity**: Winter Gold And Shadow
+Palette identity: **Winter Gold And Shadow**
 
 ## 3. Mood & Atmosphere
 - Quiet solitude of winter morning with ethereal mist softening all edges
@@ -24,7 +24,7 @@
 - Peaceful isolation emphasized by single dwelling in vast landscape
 - Mysterious quality in the fog-shrouded background invites contemplation
 - Soft transitions and muted contrasts evoke gentle awakening
-- **lighting_type**: Misty Dawn Glow
+Lighting: **Misty Dawn Glow**
 
 ## 4. Structural Layout
 - Left: Snow-laden cabin with dark evergreens providing mass and shelter
@@ -33,7 +33,7 @@
 - Foreground: Textured snow with shadows establishing ground plane
 - Midground: Cabin and immediate trees define human scale and habitation
 - Background: Misty hills dissolve into glowing sky with atmospheric depth
-- **depth_style**: Atmospheric Recession
+Depth style: **Atmospheric Recession**
 
 ## 5. Motion
 - Vertical thrust of evergreens and bare branches implies stillness
@@ -42,7 +42,7 @@
 - Soft atmospheric gradations suggest gentle air movement through mist
 - Delicate bare branches sway slightly in implied winter breeze
 - Eye flows from dark cabin through center snow to luminous distance
-- **motion_profile**: Winter Stillness
+Motion profile: **Winter Stillness**
 
 ## 6. Technique
 - Palette knife constructs cabin with confident angular strokes for walls and roof

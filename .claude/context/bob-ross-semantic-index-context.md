@@ -119,8 +119,31 @@ Document the foundation:
 
 ## Semantic Identity Tags
 
-Optional tags for advanced filtering and natural-language queries:
+Each section ends with an identity label. The **CORRECT format** is:
 
+```
+Label: **value**
+```
+
+The label is in Title Case, followed by colon+space, then value wrapped in bold.
+
+**CORRECT examples:**
+```markdown
+Palette identity: **dark woodland palette with luminous water highlights**
+Lighting: **backlit glow** illuminating the river and distant trees.
+Depth style: **tunnel-like depth with strong value contrast**
+Motion profile: **center-pull perspective**
+Signature technique: **light water highlights over a dark river base**
+```
+
+**INCORRECT (DO NOT USE):**
+```markdown
+❌ **Palette identity**: value          (bold on label, not value)
+❌ **palette_identity**: value          (snake_case)
+❌ **Palette identity: "value"**        (bold wrapping everything, quotes)
+```
+
+Tags for YAML metadata (use snake_case in YAML only):
 - `palette_identity` - e.g., "dark woodland palette with luminous water highlights"
 - `depth_style` - e.g., "tunnel-like depth", "atmospheric fade", "silhouette depth"
 - `lighting_type` - e.g., "backlit glow", "diffuse", "stormy"
@@ -334,7 +357,7 @@ https://raw.githubusercontent.com/{username}/bob-ross-semantic-index/main/season
 
 ## Quick Reference: Bob Ross Palette Colors
 
-Standard colors used across episodes:
+**Oil Colors (for YAML `colors` array):**
 - Alizarin Crimson
 - Bright Red
 - Cadmium Yellow
@@ -349,11 +372,13 @@ Standard colors used across episodes:
 - Van Dyke Brown
 - Yellow Ochre
 
-Base coatings:
+**Canvas Treatments (PROSE ONLY - NOT in `colors` array):**
 - Liquid White
 - Liquid Clear
 - Black Gesso
 - Grey Gesso
+
+⚠️ Canvas treatments are mentioned in Section 6 (Technique) and Section 8 (Initial Canvas Treatment), but should NOT be listed in the YAML `colors` array.
 
 ---
 

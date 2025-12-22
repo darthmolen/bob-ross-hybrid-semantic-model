@@ -72,12 +72,59 @@ Ensure all 8 sections are present with appropriate content:
 7. Narrative Layer - 2-4 sentence interpretation in quotes
 8. Initial Canvas Treatment - foundation preparation
 
+## Identity Label Formatting (CRITICAL)
+
+Each section (except 1, 7, 8) ends with an identity label. The **CORRECT format** is:
+
+```
+Label: **value**
+```
+
+**CORRECT:**
+```markdown
+Palette identity: **golden autumn palette with warm yellow-dominant foliage**
+Lighting: **dappled sunlight** filtering through autumn canopy.
+Depth style: **tunnel-like pathway depth**
+Motion profile: **gentle forward flow**
+Signature technique: **fan brush autumn foliage**
+```
+
+**INCORRECT (flag these patterns):**
+```markdown
+❌ **Palette identity: "value"**     (bold wrapping everything, quotes)
+❌ **Palette identity**: value       (bold on label, not value)
+❌ - **palette_identity**: value     (list item with snake_case)
+❌ **palette_identity**: value       (snake_case)
+❌ Palette identity: "value"         (quotes around value)
+```
+
+**Key rules:**
+1. Bold goes on the VALUE, not the label
+2. No quotes inside the bold
+3. Use Title Case for labels (not snake_case)
+4. Standalone lines, not inline within paragraphs
+5. Not list items
+
+## Colors in YAML
+
+The `colors` YAML array should contain ONLY actual paint colors applied to the painting.
+
+**Do NOT include in colors list:**
+- Liquid White
+- Liquid Clear
+- Black Gesso
+- Grey Gesso
+
+These are canvas treatments, mentioned in Section 8 (Initial Canvas Treatment) and sometimes Section 6 (Technique), but not in the YAML colors array.
+
 ## Common Issues to Flag
 
 - Missing or incorrect painting_index **(only after CSV verification - never guess)**
 - Episode title doesn't match CSV **(only after CSV verification)**
 - Colors not in standard Bob Ross palette
+- **Liquid White/Clear/Gesso in the colors YAML array**
 - Missing semantic identity tags
+- **Wrong identity label formatting** (bold on label instead of value, snake_case, quotes, etc.)
 - Empty or placeholder sections
 - Narrative layer not in quotation marks
 - YAML metadata malformed or incomplete

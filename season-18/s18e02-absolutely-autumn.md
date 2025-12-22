@@ -11,7 +11,7 @@
 
 A dramatic autumn lakeside scene with storm clouds overhead and vibrant golden trees creating a warm contrast.
 
-**Composition archetype: Autumn Lake With Dramatic Storm Sky**
+Composition archetype: **Autumn Lake With Dramatic Storm Sky**
 
 ## 2. Palette
 
@@ -20,7 +20,7 @@ A dramatic autumn lakeside scene with storm clouds overhead and vibrant golden t
 - **High-contrast vs low-contrast**: High contrast between dark storm clouds and bright autumn foliage; moderate contrast in water reflections
 - **Signature color relationships**: Dramatic purple-grey clouds against golden yellow trees; cool blue mountains receding behind warm foreground vegetation
 
-**Palette identity: Dramatic Autumn Palette with Storm Cloud Contrast**
+Palette identity: **Dramatic Autumn Palette with Storm Cloud Contrast**
 
 ## 3. Mood & Atmosphere
 
@@ -30,7 +30,7 @@ A dramatic autumn lakeside scene with storm clouds overhead and vibrant golden t
 
 The painting captures the tension between warm autumn tranquility and the approaching drama of a storm.
 
-**Lighting: Diffuse Stormy Light With Selective Autumn Glow**
+Lighting: **Diffuse Stormy Light With Selective Autumn Glow**
 
 ## 4. Structural Layout
 
@@ -41,7 +41,7 @@ The painting captures the tension between warm autumn tranquility and the approa
 - **Midground**: Water body with reflections; autumn trees flanking both sides
 - **Background**: Blue-purple mountain range; dramatic grey and purple storm clouds; small blue sky opening
 
-**Depth style: Layered Atmospheric Depth With Storm Drama**
+Depth style: **Layered Atmospheric Depth With Storm Drama**
 
 ## 5. Motion
 
@@ -51,7 +51,7 @@ The painting captures the tension between warm autumn tranquility and the approa
 - **Compositional flow lines**: Vertical emphasis from tall trees; horizontal calm of water; diagonal drama in cloud formations
 - **Atmospheric motion**: Active cloud movement suggesting approaching storm; wind implied in sky
 
-**Motion profile: Stormy Cloud Movement Over Calm Water**
+Motion profile: **Stormy Cloud Movement Over Calm Water**
 
 ## 6. Technique
 
@@ -61,7 +61,7 @@ The painting captures the tension between warm autumn tranquility and the approa
 - **Reflection techniques**: Horizontal pull-down strokes for subtle water reflections
 - **Special effects**: Wet-on-wet blending for clouds; layered foliage with multiple colors; atmospheric perspective for distant mountains; highlight touches for water sparkle
 
-**Signature technique: Dramatic wet-on-wet cloud formations contrasted with vibrant fan-brush autumn foliage**
+Signature technique: **Dramatic wet-on-wet cloud formations contrasted with vibrant fan-brush autumn foliage**
 
 ## 7. Narrative Layer
 

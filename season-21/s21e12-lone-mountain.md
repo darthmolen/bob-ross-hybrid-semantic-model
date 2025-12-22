@@ -17,11 +17,11 @@
 - **Cadmium Yellow & Indian Yellow**: Warm sky glow at horizon, atmospheric lighting, sunset/sunrise tones
 - **Yellow Ochre**: Transitional sky tones, warm atmospheric effects
 - **Alizarin Crimson & Bright Red**: Subtle warm accents in sky gradient, atmospheric depth
-**Palette identity**: Alpine Twilight Majesty
+Palette identity: **Alpine Twilight Majesty**
 
 ## 3. Mood & Atmosphere
 The painting evokes a sense of serene isolation and natural grandeur. The lone mountain rises majestically against a glowing sky, creating a meditative atmosphere of peaceful solitude. Dark silhouetted trees frame the scene like natural cathedral walls, enhancing the spiritual quality of the wilderness. The calm reflective water amplifies the tranquil mood, while the warm-cool color contrast suggests the transitional magic hour of dawn or dusk, infusing the scene with quiet reverence for nature's magnificent scale.
-**Lighting type**: Golden Hour Mountain Glow
+Lighting: **Golden Hour Mountain Glow**
 
 ## 4. Structural Layout
 - **Left**: Silhouetted evergreen trees in middle ground creating depth; darker shadowed areas leading eye inward
@@ -30,13 +30,13 @@ The painting evokes a sense of serene isolation and natural grandeur. The lone m
 - **Foreground**: Lush green grassy bank on right; dark water surface with subtle reflections
 - **Midground**: Expansive alpine lake with mirror-like quality; shoreline contours; silhouetted tree line
 - **Background**: Majestic mountain with snow, ice, and exposed rock faces; gradient sky creating atmospheric perspective
-**Depth style**: Layered Alpine Perspective
+Depth style: **Layered Alpine Perspective**
 
 ## 5. Motion
 - **Water flow**: Perfectly still lake surface creating mirror reflections; no visible current or ripples suggesting complete calm
 - **Wind**: Absent—trees stand perfectly still, reinforcing the serene, breathless quality of the scene
 - **Compositional flow**: Eye moves from bright foreground grass across reflective water to the powerful vertical thrust of the mountain; framing trees guide vision toward central peak; horizontal water plane contrasts with vertical mountain creating dynamic balance
-**Motion profile**: Tranquil Mountain Stillness
+Motion profile: **Tranquil Mountain Stillness**
 
 ## 6. Technique
 - **Brush types**: Large flat brush for sky gradients and water; fan brush for evergreen foliage and grassy textures; liner brush for fine tree branches and details

@@ -13,7 +13,7 @@
 
 A mystical forest tunnel composition with radiant central illumination.
 
-**Composition archetype: Enchanted Forest Corridor with Central Luminous Portal**
+Composition archetype: **Enchanted Forest Corridor with Central Luminous Portal**
 
 ## 2. Palette
 
@@ -28,7 +28,7 @@ A mystical forest tunnel composition with radiant central illumination.
 - **Cool-to-warm transition**: Purple atmosphere shifting to warm yellow highlights
 - **Ethereal color relationships**: Purple glow contrasting with yellow-green foliage
 
-**Palette identity: Mystical Purple Glow with Luminous Yellow-Green Foliage**
+Palette identity: **Mystical Purple Glow with Luminous Yellow-Green Foliage**
 
 ## 3. Mood & Atmosphere
 
@@ -50,7 +50,7 @@ A mystical forest tunnel composition with radiant central illumination.
 - **Midground**: Dense bushes and trees forming the corridor walls
 - **Background**: Atmospheric purple-pink glow dissolving into light
 
-**Depth style: Tunnel Perspective with Radiant Central Vanishing Point**
+Depth style: **Tunnel Perspective with Radiant Central Vanishing Point**
 
 ## 5. Motion
 
@@ -60,7 +60,7 @@ A mystical forest tunnel composition with radiant central illumination.
 - **Static foliage**: Trees and bushes frame the scene without wind motion
 - **Path flow**: Ground elements guide eye toward luminous portal
 
-**Motion profile: Radial Light Emanation with Strong Inward Perspective Pull**
+Motion profile: **Radial Light Emanation with Strong Inward Perspective Pull**
 
 ## 6. Technique
 
@@ -74,7 +74,7 @@ A mystical forest tunnel composition with radiant central illumination.
 - **Edge highlighting technique**: Cadmium yellow highlights on bush edges
 - **Vertical stroke work**: Tree trunk definition with liner brush details
 
-**Signature technique: Luminous atmospheric glow contrasted with heavily highlighted foliage masses**
+Signature technique: **Luminous atmospheric glow contrasted with heavily highlighted foliage masses**
 
 ## 7. Narrative Layer
 

@@ -8,7 +8,7 @@
 - Billowing cumulus clouds positioned in the upper right, balancing the left-side tree
 - Sky transitions from deep blue at top to golden yellow near the horizon
 - Foreground bushes framing lower corners in deep shadow tones
-- **composition_archetype**: Layered Mountain Lake Vista
+Composition archetype: **Layered Mountain Lake Vista**
 
 ## 2. Palette
 - Phthalo Blue and Prussian Blue create the upper sky gradient and water base
@@ -18,7 +18,7 @@
 - Sap Green and Phthalo Green render the lush foliage and evergreen tree
 - Alizarin Crimson adds subtle warmth to clouds and water reflections
 - Dark Sienna enriches the tree trunks and shore details
-- **palette_identity**: Atmospheric Twilight Harmony
+Palette identity: **Atmospheric Twilight Harmony**
 
 ## 3. Mood & Atmosphere
 - Serene and contemplative mood suggesting the transitional quality of seasonal change
@@ -27,7 +27,7 @@
 - Still water amplifies the sense of tranquility and timelessness
 - The title "That Time of Year" evokes autumn's reflective quality
 - Soft cloud formations add gentle movement to an otherwise calm composition
-- **lighting_type**: Golden Atmospheric Glow
+Lighting: **Golden Atmospheric Glow**
 
 ## 4. Structural Layout
 - **Left**: Tall evergreen tree creates vertical anchor, dark foliage frames corner
@@ -36,7 +36,7 @@
 - **Foreground**: Dark bushes and shoreline vegetation create immediate depth
 - **Midground**: Tree line and water's edge establish the middle plane
 - **Background**: Three to four layers of mountains recede with progressive atmospheric perspective
-- **depth_style**: Multi-Plane Atmospheric Recession
+Depth style: **Multi-Plane Atmospheric Recession**
 
 ## 5. Motion
 - Water surface perfectly still, creating glassy mirror reflections
@@ -45,7 +45,7 @@
 - Horizontal banding of mountains creates restful, stable rhythm
 - Soft atmospheric gradients imply subtle air movement
 - Overall energy is meditative and stationary
-- **motion_profile**: Tranquil Stillness
+Motion profile: **Tranquil Stillness**
 
 ## 6. Technique
 - Fan brush creates the soft, billowing cloud formations with gentle tapping

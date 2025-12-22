@@ -7,7 +7,7 @@
 - Warm golden and ochre tones define the facial planes and features
 - Loose, impressionistic rendering with visible brushwork throughout
 - No landscape elements—this is a pure portrait study
-- **composition_archetype**: Portrait Study
+Composition archetype: **Portrait Study**
 
 ## 2. Palette
 - Warm golden yellows dominate the illuminated areas of the face
@@ -17,7 +17,7 @@
 - Titanium White provides subtle highlights on nose and facial features
 - Indian Yellow adds warmth to transitional skin tones
 - Dark Sienna and Van Dyke Brown define shadows and facial contours
-- **palette_identity**: Warm Golden Portraiture
+Palette identity: **Warm Golden Portraiture**
 
 ## 3. Mood & Atmosphere
 - Contemplative and introspective, matching the episode title perfectly
@@ -25,7 +25,7 @@
 - The subject's gentle expression conveys quiet thoughtfulness
 - Soft focus and impressionistic treatment create a dreamlike quality
 - The warm palette evokes emotional warmth and human connection
-- **lighting_type**: Warm Interior Glow
+Lighting: **Warm Interior Glow**
 
 ## 4. Structural Layout
 - **Center**: The woman's face dominates, with eyes positioned in the upper-middle zone
@@ -34,7 +34,7 @@
 - **Foreground**: Close-cropped framing creates intimacy and immediacy
 - **Midground**: The facial features and planes occupy the primary viewing space
 - **Background**: Deep reddish-brown field provides tonal contrast and depth
-- **depth_style**: Frontal Intimacy
+Depth style: **Frontal Intimacy**
 
 ## 5. Motion
 - The directional gaze creates subtle compositional movement to the left
@@ -42,7 +42,7 @@
 - Light flows across the facial planes from upper left to lower right
 - Impressionistic technique implies captured movement rather than static posing
 - The warm color transitions create visual flow across the surface
-- **motion_profile**: Quiet Contemplation
+Motion profile: **Quiet Contemplation**
 
 ## 6. Technique
 - Large brush work with bold, confident strokes builds facial structure

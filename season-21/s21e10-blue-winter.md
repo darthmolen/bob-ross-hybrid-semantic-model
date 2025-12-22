@@ -8,22 +8,22 @@ This monochromatic winter scene features snow-laden mountains as the central foc
 ## 2. Palette
 The painting employs a severely limited three-color palette that creates a cohesive monochromatic winter atmosphere. **Prussian Blue** dominates the composition, establishing the cool foundation for sky, water, shadows, and evergreen trees. **Titanium White** provides the snow coverage, cloud highlights, mountain peaks, and icy reflections, while also serving as the mixing base for various blue-white tones. **Midnight Black** deepens the shadows in the evergreens, adds definition to tree trunks and branches, and creates the darkest values in the cloud formations. The interplay between these three colors generates a full range of cool values from deep shadow to brilliant highlight, all within the blue spectrum.
 
-**Palette identity**: Monochromatic Blue Winter
+Palette identity: **Monochromatic Blue Winter**
 
 ## 3. Mood & Atmosphere
 The painting evokes a profound sense of stillness and cold isolation, capturing the hushed tranquility of a winter wilderness. The dramatic sky suggests either early morning or late afternoon light filtering through winter clouds, casting a cool blue luminescence across the frozen landscape. There is a peaceful melancholy to the scene, with the absence of warm colors reinforcing the sharp chill of winter air. The pristine snow and frozen water convey an untouched quality, as if the viewer is witnessing a secret moment in nature's deep winter sleep. Despite the cold palette, there is beauty and serenity rather than harshness, inviting contemplation of winter's stark elegance.
 
-**Lighting type**: Diffused Winter Overcast
+Lighting: **Diffused Winter Overcast**
 
 ## 4. Structural Layout
 The **left side** features prominently placed evergreen trees in the foreground, their dark forms creating strong vertical elements that frame the scene. The **right side** mirrors this arrangement with additional evergreens, maintaining compositional balance. The **center** is dominated by the mountain range, with its snow-covered peaks drawing the eye upward, while the frozen water in the lower center pulls the viewer into the composition. The **foreground** consists of snow banks and frozen water with visible ice patterns and shadows that establish the immediate viewing plane. The **midground** contains a tree line of smaller evergreens that separate the foreground from the mountains, creating atmospheric perspective through diminished size and detail. The **background** layers the mountain range against the dramatic sky, with clouds providing both depth and movement in the uppermost region.
 
-**Depth style**: Layered Mountain Recession
+Depth style: **Layered Mountain Recession**
 
 ## 5. Motion
 The frozen water in the foreground suggests stillness, yet the curves and patterns in the ice hint at the water's former flow now suspended by winter's grip. The most dramatic motion appears in the sky, where billowing clouds sweep across the upper canvas with implied wind movement, their forms suggesting turbulent air masses typical of winter weather systems. The evergreen trees stand static and snow-laden, their branches weighted and still. The compositional flow guides the eye from the dark foreground trees inward toward the central mountain peaks, then upward into the dynamic cloud formations. The diagonal sweep of the snowbanks and ice patterns creates subtle directional movement from lower left to upper right.
 
-**Motion profile**: Frozen Stillness With Cloud Drama
+Motion profile: **Frozen Stillness With Cloud Drama**
 
 ## 6. Technique
 The painting demonstrates classic Bob Ross wet-on-wet techniques adapted to a minimal palette. **Fan brush** work creates the detailed evergreen trees with characteristic downward strokes to build the layered branch structure. **Palette knife** techniques sculpt the mountain peaks and ridges, using horizontal strokes to establish snow-covered slopes and sharp edges for peak definition. **Oval brush** or large brush blending creates the soft, billowing clouds with gentle circular motions and criss-cross strokes. **Highlight techniques** apply thick Titanium White for snow-covered areas, ice reflections, and cloud brightness. **Shadow work** layers Prussian Blue and Midnight Black mixtures for tree shadows, water depth, and dimensional snow banks. **Reflections** in the frozen water use vertical pull-down strokes to mirror the environment. **Atmospheric perspective** achieved through value gradation and softer edges in distant elements.

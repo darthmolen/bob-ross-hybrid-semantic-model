@@ -9,7 +9,7 @@
 - Misty atmospheric haze unifying the forest layers
 - Simple, classic winter landscape with strong horizontal emphasis
 
-**Composition archetype:** Cabin-in-clearing with atmospheric forest backdrop
+Composition archetype: **Cabin-in-clearing with atmospheric forest backdrop**
 
 ## 2. Palette
 - **Phthalo Blue**: Dominant sky gradient and cool shadow tones in snow
@@ -21,7 +21,7 @@
 - **Dark Sienna**: Warm accents on cabin and tree bark
 - **Sap Green**: Subtle evergreen foliage undertones
 
-**Palette identity:** Cool winter blues with crimson twilight warmth
+Palette identity: **Cool winter blues with crimson twilight warmth**
 
 ## 3. Mood & Atmosphere
 - Serene and isolated winter tranquility
@@ -31,7 +31,7 @@
 - Gentle transition between day and night, caught in the pink-tinged sky
 - Quiet stillness of fresh snowfall
 
-**Lighting:** Soft ambient backlight with cool atmospheric diffusion
+Lighting: **Soft ambient backlight with cool atmospheric diffusion**
 
 ## 4. Structural Layout
 - **Left**: Bare winter bushes and small saplings creating foreground interest
@@ -41,7 +41,7 @@
 - **Midground**: Cabin structure with immediate surrounding evergreens
 - **Background**: Layered misty forest creating strong atmospheric perspective
 
-**Depth style:** Atmospheric layering with progressive value shifts
+Depth style: **Atmospheric layering with progressive value shifts**
 
 ## 5. Motion
 - Horizontal flow of snow planes drawing the eye toward the cabin
@@ -50,7 +50,7 @@
 - Static, peaceful quality with no active water or wind elements
 - Gentle atmospheric fade creating depth recession
 
-**Motion profile:** Calm horizontal flow with vertical accents
+Motion profile: **Calm horizontal flow with vertical accents**
 
 ## 6. Technique
 - **Fan brush**: Layered evergreen trees with varying pressure for depth
@@ -61,7 +61,7 @@
 - **Highlight detailing**: Sharp white accents on cabin roof and snow mounds
 - **Negative space**: Dark foreground elements contrasting against bright snow
 
-**Signature technique:** Atmospheric perspective through layered misty evergreens
+Signature technique: **Atmospheric perspective through layered misty evergreens**
 
 ## 7. Narrative Layer
 "A humble log cabin stands as a testament to self-sufficiency and simple living, nestled in a snow-blanketed clearing where the forest meets the sky. The soft pink glow suggests either the promise of a new winter day or the peaceful close of an evening, while the surrounding evergreens stand as silent guardians. This is a place where one might escape the complexity of modern life, finding solace in the essential beauty of wood, snow, and stillness."

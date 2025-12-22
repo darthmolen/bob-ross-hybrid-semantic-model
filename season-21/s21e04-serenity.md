@@ -6,12 +6,12 @@ A woodland stream scene dominated by an ethereal purple-pink misty background. A
 ## 2. Palette
 **Alizarin Crimson** and **Bright Red** blend with white to create the distinctive pink-purple glow in the misty background. **Phthalo Blue** provides atmospheric depth and water highlights. **Midnight Black** and **Van Dyke Brown** form the dark, twisted tree trunk and shadowed areas. **Dark Sienna** adds warmth to tree bark details. **Sap Green** creates the lush foliage throughout. **Cadmium Yellow** and **Indian Yellow** brighten the grassy banks and highlight vegetation. **Yellow Ochre** warms the foreground grass. **Titanium White** powers the mist effect and water highlights. **Black Gesso** likely establishes the initial dark foundation for contrast.
 
-**Palette identity**: Ethereal Lavender Forest
+Palette identity: **Ethereal Lavender Forest**
 
 ## 3. Mood & Atmosphere
 The painting evokes a dreamlike, mystical quality through its unusual purple-pink atmospheric glow. The mood is peaceful yet otherworldly, as if depicting a magical forest glade at dawn or dusk. The soft, diffused light creates an almost sacred or transcendent feeling. The gentle stream sounds and lush vegetation suggest vitality within the serene space. The twisted tree adds a touch of drama and age to an otherwise tranquil scene. The overall effect is calming and contemplative, inviting the viewer into a fantastical natural sanctuary.
 
-**Lighting type**: Ethereal Atmospheric Glow
+Lighting: **Ethereal Atmospheric Glow**
 
 ## 4. Structural Layout
 **Left**: The dominant gnarled tree trunk angles from lower left toward center, with green foliage clustering at its crown. Dark shadows anchor this side.
@@ -21,12 +21,12 @@ The painting evokes a dreamlike, mystical quality through its unusual purple-pin
 **Midground**: The twisted tree trunk and surrounding vegetation frame the view.
 **Background**: Ethereal purple-pink mist with suggested tree forms creates atmospheric depth and mystery.
 
-**Depth style**: Atmospheric Perspective With Color
+Depth style: **Atmospheric Perspective With Color**
 
 ## 5. Motion
 The stream provides primary movement, flowing dynamically from the misty background through rocks toward the viewer, with white highlights suggesting turbulent water over stones. The leaning tree creates a strong diagonal line that guides the eye inward and adds compositional energy. The soft mist appears to glow and perhaps drift through the forest. Foliage masses create organic, curved movements on both sides. The overall flow leads the viewer's eye from foreground rocks, along the stream, past the twisted tree, into the glowing atmospheric center.
 
-**Motion profile**: Stream Flow With Diagonal Tree
+Motion profile: **Stream Flow With Diagonal Tree**
 
 ## 6. Technique
 **Brush types**: Large brushes for the misty background glow; fan brush for grass and delicate foliage; liner brush for fine details in water highlights and tree branches; oval brush for leafy masses.

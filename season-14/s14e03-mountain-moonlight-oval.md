@@ -22,7 +22,7 @@
 - **Sap Green** (foreground meadow grass)
 - **Alizarin Crimson** (subtle warmth in clouds and atmospheric effects)
 
-**Palette identity: Nocturnal blues with luminous moonlight whites**
+Palette identity: **Nocturnal blues with luminous moonlight whites**
 
 ## 3. Mood & Atmosphere
 
@@ -31,7 +31,7 @@
 - **Atmospheric quality:** Misty, ethereal, with soft diffusion around moon creating dreamy quality
 - **Temperature:** Cool blues warmed subtly by moon's gentle radiance
 
-**Lighting: Full moonlight with atmospheric glow**
+Lighting: **Full moonlight with atmospheric glow**
 
 ## 4. Structural Layout
 
@@ -42,7 +42,7 @@
 - **Midground:** Silhouetted evergreen forest creating horizontal band; misty valley atmosphere
 - **Background:** Mountain peaks, moon, deep night sky with wispy clouds
 
-**Depth style: Layered atmospheric perspective with oval vignette**
+Depth style: **Layered atmospheric perspective with oval vignette**
 
 ## 5. Motion
 
@@ -51,7 +51,7 @@
 - **Compositional flow:** Diagonal mountain slope guides eye toward moon; vertical tree creates upward thrust; oval format contains and focuses all movement inward
 - **Water movement:** None (dry landscape)
 
-**Motion profile: Gentle atmospheric drift with lunar focal point**
+Motion profile: **Gentle atmospheric drift with lunar focal point**
 
 ## 6. Technique
 

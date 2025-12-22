@@ -7,7 +7,7 @@
 - Tall evergreen trees along the left cliff edge providing scale and life
 - Misty atmospheric spray surrounding the waterfall base creating ethereal transitions
 - Deep gorge creating a natural vertical corridor leading the eye upward
-- **composition_archetype**: Vertical Waterfall Gorge
+Composition archetype: **Vertical Waterfall Gorge**
 
 ## 2. Palette
 - Prussian Blue and Phthalo Blue create the cool atmospheric sky and water shadows
@@ -16,7 +16,7 @@
 - Sap Green and Dark Sienna bring life to the evergreen trees
 - Phthalo Green adds depth to the foliage shadows
 - Yellow Ochre provides subtle warmth in misty transitions
-- **palette_identity**: Cool Misty Mountain Drama
+Palette identity: **Cool Misty Mountain Drama**
 
 ## 3. Mood & Atmosphere
 - Powerful yet serene energy emanating from the cascading water
@@ -25,7 +25,7 @@
 - Sense of isolation and pristine natural beauty untouched by civilization
 - Ethereal quality from the mist softening the harsh rocky edges
 - Both peaceful contemplation and raw natural power coexisting harmoniously
-- **lighting_type**: Diffused Overcast Mountain Light
+Lighting: **Diffused Overcast Mountain Light**
 
 ## 4. Structural Layout
 - **Left**: Tall evergreen trees clinging to rocky cliff edge, dark boulders in stream
@@ -34,7 +34,7 @@
 - **Foreground**: Turbulent stream with white rapids rushing over dark angular rocks
 - **Midground**: Misty transition zone where waterfall meets rocky base, spray rising
 - **Background**: Upper portion of waterfall emerging from cliff opening, atmospheric depth
-- **depth_style**: Layered Mountain Gorge Depth
+Depth style: **Layered Mountain Gorge Depth**
 
 ## 5. Motion
 - Powerful vertical drop of the waterfall creating strong downward visual momentum
@@ -43,7 +43,7 @@
 - White water churning over rocks suggesting constant turbulent energy
 - Diagonal compositional flow from upper waterfall down through the gorge to lower stream
 - Static rocky elements contrasting with dynamic water movement throughout
-- **motion_profile**: Cascading Vertical To Horizontal Flow
+Motion profile: **Cascading Vertical To Horizontal Flow**
 
 ## 6. Technique
 - Heavy palette knife work creating angular, textured rocky surfaces and boulders

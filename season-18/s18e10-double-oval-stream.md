@@ -12,7 +12,7 @@
 
 A tranquil mountain stream scene centered around a majestic birch tree, framed within an oval vignette.
 
-**Composition archetype: "Oval Framed Mountain Stream with Birch Focal Point"**
+Composition archetype: **Oval Framed Mountain Stream with Birch Focal Point**
 
 ## 2. Palette
 
@@ -21,7 +21,7 @@ A tranquil mountain stream scene centered around a majestic birch tree, framed w
 - **High-contrast vs low-contrast**: Moderate contrast, with the white birch tree providing the strongest value statement against darker surroundings
 - **Signature color relationships**: White birch against green foliage, blue-gray mountain against warmer foreground
 
-**Palette identity: "Balanced Mountain Stream Palette with Birch White Focal Contrast"**
+Palette identity: **Balanced Mountain Stream Palette with Birch White Focal Contrast**
 
 ## 3. Mood & Atmosphere
 
@@ -31,7 +31,7 @@ A tranquil mountain stream scene centered around a majestic birch tree, framed w
 
 The painting evokes a quiet mountain retreat where sunlight filters softly through the trees.
 
-**Lighting: "Soft Diffuse Mountain Daylight"**
+Lighting: **Soft Diffuse Mountain Daylight**
 
 ## 4. Structural Layout
 
@@ -44,7 +44,7 @@ The painting evokes a quiet mountain retreat where sunlight filters softly throu
 
 The oval vignette creates natural depth by darkening the edges and drawing focus to the illuminated center.
 
-**Depth style: "Oval Vignette Depth with Centered Focal Plane"**
+Depth style: **Oval Vignette Depth with Centered Focal Plane**
 
 ## 5. Motion
 
@@ -56,7 +56,7 @@ The oval vignette creates natural depth by darkening the edges and drawing focus
 
 The stream provides the primary motion element, flowing from background to foreground through the rocky channel.
 
-**Motion profile: "Gentle Stream Flow Through Centered Channel"**
+Motion profile: **Gentle Stream Flow Through Centered Channel**
 
 ## 6. Technique
 
@@ -68,7 +68,7 @@ The stream provides the primary motion element, flowing from background to foreg
 
 The oval vignette framing is the signature technical element of this piece.
 
-**Signature technique: "Oval vignette masking with birch bark vertical texture and stream rock knife work"**
+Signature technique: **Oval vignette masking with birch bark vertical texture and stream rock knife work**
 
 ## 7. Narrative Layer
 

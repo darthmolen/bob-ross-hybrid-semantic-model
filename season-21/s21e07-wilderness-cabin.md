@@ -13,12 +13,12 @@ A tranquil mountain wilderness scene featuring a rustic log cabin nestled in a g
 ## 2. Palette
 **Midnight Black and Prussian Blue** create the deep mountain shadows and water reflections. **Titanium White** forms the snow-capped peaks and adds atmospheric mist. **Phthalo Blue** establishes the cool sky tones. **Sap Green and Phthalo Green** build the rich evergreen foliage. **Indian Yellow and Cadmium Yellow** illuminate the sunlit meadow with golden warmth. **Yellow Ochre** adds subtle highlights to the grassy areas. **Van Dyke Brown and Dark Sienna** construct the cabin's log texture and earthy tones. **Alizarin Crimson and Bright Red** provide subtle warmth in the cabin details and background tree tones. **Black Gesso** establishes the initial dark foundation. **Liquid Clear** creates the transparent base for blending.
 
-**Palette identity**: Alpine Meadow Harmony
+Palette identity: **Alpine Meadow Harmony**
 
 ## 3. Mood & Atmosphere
 The painting emanates profound serenity and peaceful isolation, capturing the essence of wilderness solitude. The soft, diffused light suggests a gentle spring or early summer day when mountain snow still lingers on the peaks while the valleys bloom with life. The atmospheric haze surrounding the mountains creates a dreamy, ethereal quality that evokes contemplative tranquility. The mirror-calm water reinforces the sense of absolute stillness and harmony, inviting the viewer to imagine the quiet sounds of nature and the simple contentment of cabin life in an untouched alpine paradise.
 
-**Lighting type**: Soft Daylight Diffusion
+Lighting: **Soft Daylight Diffusion**
 
 ## 4. Structural Layout
 **Left side**: Evergreen trees frame the left edge, with misty deciduous trees creating depth in the mid-left background. The lake's reflection extends across the lower left corner.
@@ -33,12 +33,12 @@ The painting emanates profound serenity and peaceful isolation, capturing the es
 
 **Background**: Snow-capped mountains dissolve into atmospheric perspective, with soft blues and whites creating distant majesty.
 
-**Depth style**: Layered Alpine Recession
+Depth style: **Layered Alpine Recession**
 
 ## 5. Motion
 This painting celebrates stillness rather than movement. The lake's mirror-perfect surface suggests absolutely calm conditions without a breath of wind. The vertical stability of the evergreen trees reinforces this sense of motionless tranquility. The only implied motion exists in the gentle atmospheric flow of mist around the mountain peaks, creating soft transitions and ethereal movement in the background. The eye flows naturally from the foreground reflections upward through the meadow to the cabin, then rises along the evergreen tree to rest on the mountain peaks, creating a gentle S-curve compositional flow that guides contemplative viewing.
 
-**Motion profile**: Pristine Stillness
+Motion profile: **Pristine Stillness**
 
 ## 6. Technique
 **Brush techniques**: Fan brush creates the delicate evergreen needles with upward pulling strokes. Large brushes establish the mountain forms with cross-hatching and circular blending motions. Liner brush details the cabin logs and fine tree branches. Background trees use the fan brush with tapping and pushing techniques to create misty, soft-edged foliage.

@@ -7,7 +7,7 @@
 - Lake or water body visible in the middle ground on the left side
 - Central vertical divider creates dramatic contrast between warm and cool seasons
 - Foreground vegetation on both sides anchors the composition with bushes and trees
-- **composition_archetype**: Split Season Diptych
+Composition archetype: **Split Season Diptych**
 
 ## 2. Palette
 - Left side: Sap Green and Yellow Ochre for autumn foliage, creating warm verdant tones
@@ -17,7 +17,7 @@
 - Titanium White dominates the right side for snow coverage on mountains and trees
 - Midnight Black for the dark evergreen tree structure before snow highlighting
 - Alizarin Crimson possibly used for subtle warm undertones in mountain shadows
-- **palette_identity**: Seasonal Contrast Spectrum
+Palette identity: **Seasonal Contrast Spectrum**
 
 ## 3. Mood & Atmosphere
 - Contemplative study of nature's cyclical transformation through the seasons
@@ -25,7 +25,7 @@
 - Right side captures the crisp clarity and stillness of deep winter
 - Strong emotional contrast between the welcoming warmth and serene coldness
 - Atmospheric perspective creates depth through graduated haziness on the left versus sharp clarity on the right
-- **lighting_type**: Dual Ambient Seasonal Light
+Lighting: **Dual Ambient Seasonal Light**
 
 ## 4. Structural Layout
 - **Left**: Misty mountains recede into atmospheric haze with deciduous trees in foreground
@@ -34,7 +34,7 @@
 - **Foreground**: Left shows bushes and rounded vegetation; right displays snow-covered ground with small evergreens
 - **Midground**: Left features water reflection area; right shows middle-distance snow fields
 - **Background**: Mountain ranges on both sides with contrasting atmospheric treatments
-- **depth_style**: Parallel Seasonal Depth
+Depth style: **Parallel Seasonal Depth**
 
 ## 5. Motion
 - Vertical division creates visual tension and draws the eye to compare both halves
@@ -42,7 +42,7 @@
 - Right side shows static, frozen quality with snow-laden branches held in stillness
 - Compositional flow encourages side-to-side scanning between contrasting seasons
 - Cloud formations on both sides create subtle horizontal movement across the sky
-- **motion_profile**: Static Seasonal Juxtaposition
+Motion profile: **Static Seasonal Juxtaposition**
 
 ## 6. Technique
 - Liquid White base likely used on left for blending warm atmospheric effects

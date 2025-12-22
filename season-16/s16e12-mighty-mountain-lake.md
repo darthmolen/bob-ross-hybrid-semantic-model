@@ -8,7 +8,7 @@
 - Still mountain lake in foreground creates perfect mirror reflections
 - Grassy shoreline with wildflowers and earth tones anchors the bottom edge
 - Tall evergreen trees on left side provide vertical accents
-- **composition_archetype**: Alpine Lake Reflection
+Composition archetype: **Alpine Lake Reflection**
 
 ## 2. Palette
 - Prussian Blue and Phthalo Blue create the vibrant sky and lake waters
@@ -18,7 +18,7 @@
 - Sap Green adds life to the coniferous trees and foliage
 - Yellow Ochre brings warmth to the grassy shoreline and meadow highlights
 - Alizarin Crimson likely used for mountain shadow undertones
-- **palette_identity**: Alpine Majesty
+Palette identity: **Alpine Majesty**
 
 ## 3. Mood & Atmosphere
 - Majestic and awe-inspiring grandeur of towering mountain wilderness
@@ -26,7 +26,7 @@
 - Crisp, clear alpine air suggested by sharp contrasts and vivid blues
 - Sense of isolation and pristine natural beauty
 - Peaceful harmony between earth, water, and sky
-- **lighting_type**: Bright Overhead Daylight
+Lighting: **Bright Overhead Daylight**
 
 ## 4. Structural Layout
 - **Left**: Tall evergreen trees, white clouds, darker flanking mountain
@@ -35,7 +35,7 @@
 - **Foreground**: Reflective lake surface with perfect mirror imagery, grassy bank
 - **Midground**: Dense dark evergreen forest creating horizontal band
 - **Background**: Towering central mountain peak, blue sky with clouds
-- **depth_style**: Layered Mountain Grandeur
+Depth style: **Layered Mountain Grandeur**
 
 ## 5. Motion
 - Perfectly still water creates flawless mirror reflections
@@ -43,7 +43,7 @@
 - Vertical thrust of the central peak draws eye upward
 - Horizontal forest band creates sweeping lateral movement
 - Grassy shoreline guides viewer into the scene
-- **motion_profile**: Tranquil Stillness
+Motion profile: **Tranquil Stillness**
 
 ## 6. Technique
 - Palette knife creates bold rocky mountain faces with angular strokes

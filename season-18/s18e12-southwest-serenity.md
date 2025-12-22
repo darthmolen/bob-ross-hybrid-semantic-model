@@ -11,7 +11,7 @@
 
 A classic Southwest desert landscape composition with horizontal mountain layers and warm sunset atmosphere.
 
-**Composition archetype: Layered Desert Mountain Panorama**
+Composition archetype: **Layered Desert Mountain Panorama**
 
 ## 2. Palette
 
@@ -20,7 +20,7 @@ A classic Southwest desert landscape composition with horizontal mountain layers
 - **High-contrast vs low-contrast**: High contrast between brilliant yellow sky and dark purple clouds; softer contrast in layered mountain transitions
 - **Signature color relationships**: Complementary warm yellows against cool purples; atmospheric fade through multiple purple-lavender mountain layers
 
-**Palette identity: Warm Desert Sunset with Lavender Mountain Layers**
+Palette identity: **Warm Desert Sunset with Lavender Mountain Layers**
 
 ## 3. Mood & Atmosphere
 
@@ -53,7 +53,7 @@ A classic Southwest desert landscape composition with horizontal mountain layers
 - No wind indicated in vegetation
 - Horizontal layering creates sense of stillness and peace
 
-**Motion profile: Desert Stillness with Subtle Sky Movement**
+Motion profile: **Desert Stillness with Subtle Sky Movement**
 
 ## 6. Technique
 

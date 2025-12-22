@@ -100,6 +100,67 @@ When reviewing semantic model changes, use web search to verify:
 
 4. **Painting Index**: Fetch the CSV data to verify painting_index values
 
+## Markdown Formatting Standards
+
+### Identity Label Formatting
+
+Each section ends with an identity label that summarizes the key characteristic. The **CORRECT format** is:
+
+```
+Label: **value**
+```
+
+The label is in Title Case, followed by a colon and space, then the value wrapped in bold (`**...**`).
+
+**CORRECT examples:**
+```markdown
+Palette identity: **golden autumn palette with warm yellow-dominant foliage**
+Lighting: **dappled sunlight** filtering through autumn canopy with soft background glow.
+Depth style: **tunnel-like pathway depth with atmospheric luminosity**
+Motion profile: **gentle forward flow with vertical-horizontal interplay**
+Signature technique: **fan brush autumn foliage with layered warm-over-cool color application**
+```
+
+**INCORRECT examples (DO NOT USE):**
+```markdown
+❌ **Palette identity: "value"**          (bold wrapping everything, quotes)
+❌ **Palette identity**: value            (bold on label only)
+❌ - **palette_identity**: value          (list item with snake_case)
+❌ **palette_identity**: value            (snake_case, bold on label)
+❌ Palette identity: "value"              (quotes around value)
+```
+
+### Identity Labels by Section
+
+| Section | Label Format |
+|---------|--------------|
+| 1. Composition | (Summary prose paragraph, no label) |
+| 2. Palette | `Palette identity: **value**` |
+| 3. Mood & Atmosphere | `Lighting: **type** optional additional text.` |
+| 4. Structural Layout | `Depth style: **value**` |
+| 5. Motion | `Motion profile: **value**` |
+| 6. Technique | `Signature technique: **value**` |
+| 7. Narrative Layer | (Quoted narrative, no label) |
+| 8. Initial Canvas Treatment | (Summary prose, no label) |
+
+### Key Formatting Rules
+
+1. **Bold goes on the VALUE, not the label** - `Label: **value**` not `**Label**: value`
+2. **No quotes inside the bold** - `**golden autumn**` not `**"golden autumn"**`
+3. **Use Title Case for labels** - `Palette identity:` not `palette_identity:`
+4. **Standalone lines** - Identity labels should be on their own line, not inline within paragraphs
+5. **No list items** - Identity labels are standalone lines, not bullet points
+
+### Colors in YAML vs Prose
+
+**In the `colors` YAML array:**
+- List ONLY the paint colors actually applied during painting
+- Do NOT include Liquid White, Liquid Clear, Black Gesso, or Grey Gesso here (these are canvas treatments, not applied colors)
+
+**In the prose sections:**
+- Mention Liquid White/Clear/Black Gesso/Grey Gesso in Section 8 (Initial Canvas Treatment) and Section 6 (Technique)
+- These are valid to discuss as techniques but should NOT be in the final `colors` YAML list unless they were used as an actual applied color (rare)
+
 ## File Naming Convention
 
 Episode files must follow: `s{SS}e{EE}-{slug-title}.md`

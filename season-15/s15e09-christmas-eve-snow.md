@@ -7,7 +7,7 @@
 - Rolling snowdrifts create gentle undulations across the foreground
 - Billowing clouds in deep twilight sky create dynamic contrast with stark white mountain peaks
 - Single warm light source (cabin) provides emotional anchor against the vast cold wilderness
-- **composition_archetype**: Mountain sanctuary with human refuge
+Composition archetype: **Mountain sanctuary with human refuge**
 
 ## 2. Palette
 - **Prussian Blue** — deep twilight sky and shadow tones

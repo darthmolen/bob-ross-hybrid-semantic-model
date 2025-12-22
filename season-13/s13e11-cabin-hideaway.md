@@ -4,31 +4,31 @@
 
 A secluded mountain valley scene anchored by a rustic cabin positioned in the lower-center of the canvas. Majestic purple mountains dominate the background, their peaks partially shrouded in atmospheric mist. Dark evergreen trees provide vertical structure on both left and right sides, framing the composition. The left foreground features golden-brown autumn foliage contrasting against the winter snow, while the right side shows additional conifers creating depth. A frozen expanse of snow-covered ground spreads across the foreground, with delicate grasses and shrubs breaking through the white surface. The cabin sits nestled in the middle ground, dwarfed by the surrounding wilderness, emphasizing solitude and scale.
 
-**composition_archetype**: Mountain Valley Refuge
+Composition archetype: **Mountain Valley Refuge**
 
 ## 2. Palette
 
 Cool tones dominate with Phthalo Blue and Prussian Blue creating the foundation for both sky and shadow work in the snow. The mountains display rich purples achieved through mixing blues with Bright Red, creating atmospheric depth. Van Dyke Brown and Dark Sienna construct the weathered cabin structure, while Midnight Black mixed with Sap Green produces the deep, shadowy evergreens. Titanium White serves dual purpose—both for snow highlights and sky luminosity. The unexpected warmth comes from Yellow Ochre and Cadmium Yellow in the left-side foliage, creating a striking seasonal contrast. This palette balances winter's chill with autumn's final warmth.
 
-**palette_identity**: Twilight Winter Blues with Amber Accent
+Palette identity: **Twilight Winter Blues with Amber Accent**
 
 ## 3. Mood & Atmosphere
 
 A hushed tranquility pervades this isolated mountain sanctuary. The muted color scheme and soft-edged mountains suggest either overcast conditions or the gentle light of late afternoon. Mist clings to the mountain peaks, creating a dreamlike quality that separates earth from sky. The cabin's small scale against vast wilderness evokes both solitude and security—a safe haven in the immensity of nature. The coexistence of golden foliage and snow suggests a transitional moment, perhaps early winter's first substantial snowfall preserving autumn's last remnants. The overall feeling is contemplative, inviting the viewer to imagine warmth inside the cabin while witnessing the serene coldness outside.
 
-**lighting_type**: Diffused Overcast
+Lighting: **Diffused Overcast**
 
 ## 4. Structural Layout
 
 Three distinct planes create spatial depth: the immediate foreground of textured snow and grasses, the middle ground containing the cabin and sentinel evergreens, and the distant mountain range forming the backdrop. Atmospheric perspective is powerfully employed—the mountains fade from deeper purples at their base to lighter, mistier tones at their peaks, suggesting considerable distance. The evergreen trees act as both vertical anchors and scale indicators, their placement on alternating sides creating a zigzag visual path that draws the eye deeper into the scene. The cabin's placement slightly off-center provides natural focal point while maintaining compositional balance. Snow contours suggest gentle terrain rolling toward the cabin.
 
-**depth_style**: Layered Atmospheric Recession
+Depth style: **Layered Atmospheric Recession**
 
 ## 5. Motion
 
 This is a study in stillness. The snow lies undisturbed in smooth drifts, suggesting recent snowfall with no wind. The cabin shows no smoke from the chimney, adding to the sense of frozen time. The evergreens stand rigid and vertical, their branches heavy with accumulated snow rather than swaying in breeze. The only implied movement comes from the wispy grasses and brush on the left, which lean slightly, frozen mid-gesture. The misty mountains appear locked in place, their fog settled rather than rolling. Even the sky shows no dramatic cloud movement—just a gentle gradation. This stillness amplifies the sense of remote isolation.
 
-**motion_profile**: Frozen Serenity
+Motion profile: **Frozen Serenity**
 
 ## 6. Technique
 

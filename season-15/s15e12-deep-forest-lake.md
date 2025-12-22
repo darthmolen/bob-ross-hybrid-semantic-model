@@ -10,7 +10,7 @@
 - Strong contrast between shadowed forest edges and radiant central glow
 - Intimate, enclosed feeling of a secret hidden place deep in the woods
 
-**Composition archetype:** *Illuminated forest sanctuary*
+Composition archetype: **Illuminated forest sanctuary**
 
 ## 2. Palette
 - **Phthalo Green** — dense forest foliage and deep shadows

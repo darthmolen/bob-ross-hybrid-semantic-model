@@ -7,7 +7,7 @@
 - Snow-blanketed ground flows from foreground to midground with gentle undulations
 - Split-rail fence cuts diagonally through lower portion, leading eye toward barn
 - Oval vignette frames entire scene, softening edges and creating intimate window effect
-- **composition_archetype**: Centered Structure With Mountain Backdrop
+Composition archetype: **Centered Structure With Mountain Backdrop**
 
 ## 2. Palette
 - Titanium White creates thick snow coverage on barn roof, silo, and ground
@@ -17,7 +17,7 @@
 - Yellow Ochre warms the barn siding and provides subtle ground variations
 - Sap Green tints the evergreen trees on the left
 - Alizarin Crimson adds subtle warmth to shadow areas and barn undertones
-- **palette_identity**: Winter Gray And Snow White
+Palette identity: **Winter Gray And Snow White**
 
 ## 3. Mood & Atmosphere
 - Quiet solitude of abandoned farm in deep winter evokes nostalgic melancholy
@@ -25,7 +25,7 @@
 - Misty mountains fade into atmospheric haze, creating dreamlike distance
 - Oval framing enhances sense of peering into memory or forgotten place
 - Cool color dominance establishes serene, hushed winter stillness
-- **lighting_type**: Overcast Winter Diffusion
+Lighting: **Overcast Winter Diffusion**
 
 ## 4. Structural Layout
 - Left: Cluster of dark evergreen trees provides vertical anchor and depth reference
@@ -34,7 +34,7 @@
 - Foreground: Snow-covered ground with fence posts creates entry path
 - Midground: Barn and immediate surroundings establish focal zone
 - Background: Layered mountains recede into soft atmospheric blue-gray
-- **depth_style**: Oval Vignette With Atmospheric Recession
+Depth style: **Oval Vignette With Atmospheric Recession**
 
 ## 5. Motion
 - Fence line creates diagonal movement from lower right toward barn entrance
@@ -42,7 +42,7 @@
 - Mountain ridges create horizontal sweep across composition
 - Evergreen branches lean slightly, implying winter wind presence
 - Soft vignette edges draw eye inward toward central barn focus
-- **motion_profile**: Converging Lines To Center
+Motion profile: **Converging Lines To Center**
 
 ## 6. Technique
 - Knife work builds thick impasto for snow on roof, silo top, and ground highlights

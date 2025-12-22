@@ -55,14 +55,39 @@ You are generating structured markdown entries for Bob Ross "Joy of Painting" ep
       - motion_profile
       - composition_archetype
 
-   ⚠️ **CRITICAL: Tag Value Formatting**
-      - Use **Title Case with Spaces** for all tag values
-      - ✅ CORRECT: "Layered Mountain Valley with Lake Reflection"
-      - ✅ CORRECT: "Warm Sunset Radiance with Cool Mountain Tones"
-      - ❌ WRONG: "layered_mountain_valley_with_lake_reflection" (snake_case)
-      - ❌ WRONG: "layered mountain valley" (all lowercase)
-      - Format inline tags as: **tag_name**: Tag Value in Title Case
-      - Use the SAME formatting in both inline text AND YAML metadata
+   ⚠️ **CRITICAL: Identity Label Formatting**
+      Each section ends with an identity label. The **CORRECT format** is:
+
+      ```
+      Label: **value**
+      ```
+
+      The label is in Title Case, followed by colon+space, then value wrapped in bold.
+
+      ✅ **CORRECT examples:**
+      ```
+      Palette identity: **Warm Sunset Radiance with Cool Mountain Tones**
+      Lighting: **dappled sunlight** filtering through autumn canopy.
+      Depth style: **Layered Mountain Valley with Lake Reflection**
+      Motion profile: **gentle forward flow**
+      Signature technique: **fan brush autumn foliage**
+      ```
+
+      ❌ **INCORRECT (DO NOT USE):**
+      ```
+      ❌ **Palette identity**: value          (bold on label, not value)
+      ❌ **palette_identity**: value          (snake_case, bold on label)
+      ❌ **Palette identity: "value"**        (bold wrapping everything, quotes)
+      ❌ - **palette_identity**: value        (list item format)
+      ❌ Palette identity: "value"            (quotes around value)
+      ```
+
+      **Key rules:**
+      - Bold goes on the VALUE, not the label
+      - No quotes inside the bold
+      - Use Title Case for labels (not snake_case)
+      - Standalone lines, not inline within paragraphs
+      - The YAML metadata uses snake_case (palette_identity), but prose uses Title Case (Palette identity)
 
    5. **REQUIRED: Add YAML metadata section at the end of the file**
       The metadata MUST be wrapped in code fences exactly like this:
@@ -300,7 +325,7 @@ Extract the tag values from the inline content in each section (e.g., `Palette i
 
 The `colors` array in the YAML metadata must ONLY include colors from this official list:
 
-**Oil Colors (13):**
+**Oil Colors (13) — ONLY THESE IN THE `colors` YAML ARRAY:**
 - Alizarin Crimson
 - Bright Red
 - Cadmium Yellow
@@ -315,12 +340,19 @@ The `colors` array in the YAML metadata must ONLY include colors from this offic
 - Van Dyke Brown
 - Yellow Ochre
 
-**Mediums (used for thinning/base coats):**
+**Canvas Treatments — MENTION IN PROSE ONLY (Sections 6 & 8), NOT in `colors` array:**
 - Liquid White
 - Liquid Black
 - Liquid Clear
+- Black Gesso
+- Grey Gesso
 
-**DO NOT use:**
+⚠️ **CRITICAL: Liquid White/Black/Clear and Gesso are canvas preparation mediums, NOT painting colors.**
+- Mention them in Section 6 (Technique) and Section 8 (Initial Canvas Treatment)
+- Do NOT include them in the YAML `colors` array
+
+**DO NOT use in `colors` array:**
+- Canvas treatments (Liquid White, Liquid Clear, Black Gesso, etc.)
 - Invented colors (e.g., "Lavender", "Sky Blue", "Forest Green")
 - Color descriptions (e.g., "warm brown", "deep blue")
 - Mixed color names (e.g., "Blue-Green")

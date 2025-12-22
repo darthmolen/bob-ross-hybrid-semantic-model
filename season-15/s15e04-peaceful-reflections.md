@@ -7,7 +7,7 @@
 - Dark evergreen trees frame both left and right edges, creating natural borders
 - Dense forest line stretches across the middle ground beneath the mountains
 - Light blue sky with golden glow suggests dawn or dusk atmosphere
-- **Composition archetype:** Mountain Lake Sanctuary
+Composition archetype: **Mountain Lake Sanctuary**
 
 ## 2. Palette
 - **Titanium White** — snow caps, mountain highlights, sky blending

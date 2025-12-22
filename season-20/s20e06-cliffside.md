@@ -4,19 +4,19 @@
 
 A dramatic seascape dominated by powerful, crashing waves against a towering coastal cliff. The right side features a massive dark rock formation that rises vertically from the turbulent ocean, its striated surface catching subtle warm highlights. Multiple wave formations cascade across the foreground and middle ground, each crest illuminated with brilliant white foam and spray. The background reveals a moody sky transitioning from deep purple-gray to warm pinkish tones near the horizon, suggesting either dawn or dusk. The ocean stretches horizontally across the canvas, punctuated by rolling swells and breaking water. No trees or structures interrupt this raw display of nature's power. The cliff anchors the composition on the right while the waves provide dynamic diagonal movement from left to center.
 
-**composition_archetype**: Coastal Seascape With Dominant Rock Formation
+Composition archetype: **Coastal Seascape With Dominant Rock Formation**
 
 ## 2. Palette
 
 **Midnight Black** and **Van Dyke Brown** establish the deep, weathered tones of the cliff face and darkest water shadows. **Phthalo Blue** mixed with black creates the deep ocean valleys between waves. **Titanium White** dominates the wave crests, foam, and spray, providing brilliant contrast against the darker elements. **Alizarin Crimson** and **Bright Red** blend into the sky's warm glow, creating the atmospheric sunset or sunrise effect. **Indian Yellow** and **Cadmium Yellow** add subtle warmth to the sky's transitional zones and highlight edges on the cliff. **Yellow Ochre** provides earthy warmth to the rock face highlights. **Dark Sienna** enriches the cliff's mid-tones and adds warmth to shadowed areas. **Sap Green** appears minimally, perhaps in subtle undertones or atmospheric blending. The palette emphasizes dramatic contrast between the dark, solid cliff and the luminous, moving water.
 
-**palette_identity**: Dramatic Oceanic Contrast
+Palette identity: **Dramatic Oceanic Contrast**
 
 ## 3. Mood & Atmosphere
 
 The painting radiates raw power and untamed energy, capturing the perpetual battle between ocean and stone. The atmosphere is turbulent yet majestic, with the warm sky tones softening what might otherwise feel purely violent. The lighting suggests either dawn's first light or evening's last glow, casting warm highlights on the cliff's edge while leaving deep shadows in the rock's crevices. This transitional light creates a sense of fleeting beauty amid chaos. The mood is simultaneously threatening and awe-inspiring, inviting contemplation of nature's overwhelming force and endurance. The mist and spray suggest moisture-laden air, thick with salt and sound. There's a romantic quality to the scene despite its ferocity, a reminder of nature's sublime indifference to human presence.
 
-**lighting_type**: Warm Atmospheric Glow With Dramatic Contrast
+Lighting: **Warm Atmospheric Glow With Dramatic Contrast**
 
 ## 4. Structural Layout
 
@@ -32,13 +32,13 @@ The painting radiates raw power and untamed energy, capturing the perpetual batt
 
 The spatial arrangement creates a powerful diagonal flow from lower left to upper right, with the cliff serving as both destination and barrier for the wave's implied motion.
 
-**depth_style**: Layered Ocean With Vertical Rock Anchor
+Depth style: **Layered Ocean With Vertical Rock Anchor**
 
 ## 5. Motion
 
 The painting pulses with kinetic energy centered entirely on water movement. Waves roll from the distant horizon toward the viewer and cliff, each crest captured at the moment of breaking or crashing. The primary foreground wave sweeps diagonally across the canvas, its foam and spray suggesting violent impact and upward explosion. Secondary waves behind it create a rhythmic pattern of swells and troughs, implying endless ocean motion extending beyond the frame. The cliff remains stoic and immobile, emphasizing its contrast with the fluid chaos surrounding it. Water spray appears to mist upward where waves meet rock, creating vertical motion elements that echo the cliff's height. The sky remains relatively calm, its subtle gradations suggesting slow atmospheric transition rather than active weather. The overall motion profile is one of relentless, powerful flow meeting immovable resistance.
 
-**motion_profile**: Crashing Waves Against Immovable Cliff
+Motion profile: **Crashing Waves Against Immovable Cliff**
 
 ## 6. Technique
 

@@ -6,7 +6,7 @@
 - **Trees/vegetation**: Tall saguaro cactus silhouetted on left side; suggestion of desert vegetation
 - **Sky**: Dramatic sunset sky with horizontal cloud bands in warm yellows, oranges, pinks, and purples
 - **Structures**: None
-**Composition archetype**: Desert Sunset Silhouette
+Composition archetype: **Desert Sunset Silhouette**
 
 ## 2. Palette
 - **Bright Red, Alizarin Crimson**: Warm sunset tones in sky and rock highlights
@@ -16,12 +16,12 @@
 - **Sap Green**: Subtle vegetation undertones
 - **Titanium White**: Sky blending and atmospheric effects
 
-**Palette identity**: Desert Sunset Warmth
+Palette identity: **Desert Sunset Warmth**
 
 ## 3. Mood & Atmosphere
 The painting evokes a serene and contemplative desert evening, bathed in the warm golden glow of sunset. The silhouetted forms create a sense of stillness and timelessness, while the vibrant sky radiates with peaceful energy. The atmosphere is both majestic and intimate, capturing the quiet beauty of the American Southwest at day's end.
 
-**Lighting type**: Golden Hour Sunset
+Lighting: **Golden Hour Sunset**
 
 ## 4. Structural Layout
 - **Left**: Tall saguaro cactus silhouette anchoring the left edge
@@ -31,14 +31,14 @@ The painting evokes a serene and contemplative desert evening, bathed in the war
 - **Midground**: Silhouetted distant mesas and rock formations
 - **Background**: Luminous sunset sky with horizontal cloud bands
 
-**Depth style**: Atmospheric Layering
+Depth style: **Atmospheric Layering**
 
 ## 5. Motion
 - **Water flow**: None
 - **Wind**: Horizontal cloud bands sweep across the sky, suggesting gentle movement
 - **Compositional flow**: Eye moves from the dark silhouette on left, across the glowing horizon, to the illuminated rock formation on right; vertical elements contrast with horizontal sky movement
 
-**Motion profile**: Horizontal Sky Sweep
+Motion profile: **Horizontal Sky Sweep**
 
 ## 6. Technique
 - **Brush types**: Large soft brushes for sky blending; liner brush for cactus details
