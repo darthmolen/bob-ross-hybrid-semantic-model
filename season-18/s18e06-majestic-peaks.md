@@ -22,7 +22,7 @@ A classic **Mountain Lake Reflection** composition with dramatic snow-capped pea
 - Soft grays and lavenders for atmospheric mist
 - Cool to neutral temperature with warm accent in foreground
 
-Palette identity: **Crisp Alpine Palette with Luminous Spring Foliage**
+**Palette identity: "Crisp Alpine Palette with Luminous Spring Foliage"**
 
 ## 3. Mood & Atmosphere
 
@@ -33,7 +33,7 @@ Palette identity: **Crisp Alpine Palette with Luminous Spring Foliage**
 - Fresh spring or early summer feeling
 - Sense of vastness and grandeur
 
-Lighting: **Direct Overhead Illumination** creating sharp snow highlights and clear reflections.
+**Lighting: "Direct Overhead Illumination"** creating sharp snow highlights and clear reflections.
 
 ## 4. Structural Layout
 
@@ -44,7 +44,7 @@ Lighting: **Direct Overhead Illumination** creating sharp snow highlights and cl
 - **Midground:** Calm water surface and misty atmospheric zone
 - **Background:** Snow-covered mountain range and blue sky
 
-Depth style: **Layered Atmospheric Planes** with distinct foreground, mist zone, and mountain backdrop.
+**Depth style: "Layered Atmospheric Planes"** with distinct foreground, mist zone, and mountain backdrop.
 
 ## 5. Motion
 
@@ -54,7 +54,7 @@ Depth style: **Layered Atmospheric Planes** with distinct foreground, mist zone,
 - Vertical evergreen creates upward visual pull
 - Overall sense of calm stillness
 
-Motion profile: **Alpine Stillness with Reflective Calm**
+**Motion profile: "Alpine Stillness with Reflective Calm"**
 
 ## 6. Technique
 
@@ -67,7 +67,7 @@ Motion profile: **Alpine Stillness with Reflective Calm**
 - Bold color application for foreground bushes
 - Horizontal smoothing strokes for water surface
 
-Signature technique: **Dramatic palette knife mountains with mirror-perfect water reflections**
+**Signature technique: "Dramatic palette knife mountains with mirror-perfect water reflections"**
 
 ## 7. Narrative Layer
 
@@ -109,5 +109,4 @@ colors:
   - Phthalo Green
   - Cadmium Yellow
   - Yellow Ochre
-  - Liquid White
 ```

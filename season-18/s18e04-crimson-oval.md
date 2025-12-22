@@ -1,4 +1,4 @@
-# Season 18, Episode 4: Crimson Oval
+# Season 18, Episode 4 — "Crimson Oval" (1988)
 
 ## 1. Composition
 
@@ -74,5 +74,4 @@ colors:
   - Dark Sienna
   - Phthalo Blue
   - Sap Green
-  - Liquid White
 ```

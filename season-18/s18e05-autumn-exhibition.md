@@ -20,7 +20,7 @@ A golden autumn window composition framing a peaceful lake view.
 - **High-contrast vs low-contrast**: Medium contrast with soft atmospheric blending; bright autumn colors against muted pastel sky
 - **Signature color relationships**: Golden yellows dominating the tree masses, cool purples and pinks creating atmospheric depth, blue-green water providing color relief
 
-Palette identity: **Luminous Autumn Gold with Lavender Atmosphere**
+**Palette identity: "Luminous Autumn Gold with Lavender Atmosphere"**
 
 ## 3. Mood & Atmosphere
 
@@ -30,7 +30,7 @@ Palette identity: **Luminous Autumn Gold with Lavender Atmosphere**
 
 The painting creates a sense of gentle nostalgia and peaceful celebration of autumn's golden hour. The soft pink-lavender sky suggests either dawn or dusk, creating a dreamlike quality that enhances the warmth of the golden foliage.
 
-Lighting: **Diffused Atmospheric Glow with Warm Autumn Ambiance**
+**Lighting: "Diffused Atmospheric Glow with Warm Autumn Ambiance"**
 
 ## 4. Structural Layout
 
@@ -43,7 +43,7 @@ Lighting: **Diffused Atmospheric Glow with Warm Autumn Ambiance**
 
 The composition creates a natural window or portal effect, with the symmetrical tree masses on either side framing the central lake view. This creates an inviting, balanced structure that draws the eye through the golden archway to the peaceful water beyond.
 
-Depth style: **Portal Depth with Atmospheric Fade**
+**Depth style: "Portal Depth with Atmospheric Fade"**
 
 ## 5. Motion
 
@@ -55,7 +55,7 @@ Depth style: **Portal Depth with Atmospheric Fade**
 
 The composition emphasizes stillness and peace. The symmetrical framing creates a centered, meditative quality rather than dynamic movement. The eye is gently guided through the golden trees toward the tranquil lake center.
 
-Motion profile: **Centered Stillness with Bilateral Balance**
+**Motion profile: "Centered Stillness with Bilateral Balance"**
 
 ## 6. Technique
 
@@ -67,7 +67,7 @@ Motion profile: **Centered Stillness with Bilateral Balance**
 
 The technique emphasizes soft, atmospheric blending contrasted with textural foliage work. The golden trees are built up with multiple layers of yellows and highlights to create luminous depth.
 
-Signature technique: **Layered luminous foliage over atmospheric background wash**
+**Signature technique: "Layered luminous foliage over atmospheric background wash"**
 
 ## 7. Narrative Layer
 

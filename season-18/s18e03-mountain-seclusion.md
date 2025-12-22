@@ -1,4 +1,4 @@
-# Season 18, Episode 3: Mountain Seclusion
+# Season 18, Episode 3 — "Mountain Seclusion" (1988)
 
 ## 1. Composition
 
@@ -58,5 +58,4 @@ colors:
   - Sap Green
   - Titanium White
   - Van Dyke Brown
-  - Liquid White
 ```
