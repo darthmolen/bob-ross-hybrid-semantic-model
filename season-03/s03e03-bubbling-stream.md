@@ -1,64 +1,75 @@
 # Season 3, Episode 3 — "Bubbling Stream" (1984)
 
 ## 1. Composition
-- Snow-capped mountain range dominates the background with multiple angular peaks
-- Calm alpine lake occupies the middle ground with mirror-like reflections
-- Dark evergreen trees frame both left and right edges in strong vertical lines
-- Grassy banks and small landforms define the water's edge in foreground
-- Sky gradient transitions from golden yellow at horizon to turquoise blue above
-- No structures present
-This composition follows the **alpine sanctuary archetype** with symmetrical framing and central mountain focus.
+- Central stream flows dynamically from background to foreground, creating a strong diagonal path through the scene
+- Lush grassy banks slope gently on both sides, creating a natural channel for the water
+- Large deciduous trees with brilliant spring foliage frame the composition on left and right
+- Cluster of slender birch or aspen trees anchors the right background with vertical white trunks
+- Bright blue sky peeks through the canopy at the top, suggesting open atmosphere
+- Dark rocks punctuate the stream bed, creating white water and visual interest
+- Low grassy foreground invites the viewer into the luminous spring landscape
+
+This is a **pastoral stream corridor** archetype, where the water serves as both journey and destination through verdant seasonal abundance.
 
 ## 2. Palette
-- **Prussian Blue and Phthalo Blue** create deep water and shadow areas
-- **Titanium White** highlights snow caps and mountain peaks
-- **Yellow Ochre and Cadmium Yellow** produce warm horizon glow
-- **Sap Green and Bright Green** form grassy foreground banks
-- **Midnight Black** (or Van Dyke Brown and Prussian Blue mix) establishes dark evergreen silhouettes
-- **Lavender and Blue-grey** tones model mountain faces
-Palette identity: **Cool alpine blues with warm horizon accent**
+- **Bright chartreuse and lime greens** dominate the tree foliage, creating vivid spring energy
+- **Rich cerulean blue** fills the sky and reflects in the stream water
+- **Titanium white** animates the bubbling water and birch trunks with pure light
+- **Yellow-green and sage tones** build the grassy banks with dimensional warmth
+- **Deep forest green** provides shadow depth in the foliage masses
+- **Gray and umber browns** ground the rocks and stream bed
+- **Touches of yellow** brighten highlights on the most sunlit leaves
+
+Palette identity: **Luminous spring verdancy with electric green vitality**
 
 ## 3. Mood & Atmosphere
-- Serene and contemplative with profound stillness
-- Crisp mountain air quality with clear visibility
-- Peaceful solitude of an undisturbed alpine setting
-- Dawn or dusk ambiance from golden horizon glow
-- Tranquil sanctuary quality despite active episode title
-Lighting: **Soft ambient light with warm horizon backlighting**
+- Exuberant and life-affirming, celebrating the peak of spring growth
+- Fresh and invigorating, with the sound of rushing water almost audible
+- Peaceful yet energized by the constant motion of the bubbling stream
+- Sunlit and optimistic, with no shadows to darken the mood
+- Inviting and accessible, a perfect spot to rest and refresh
+
+Lighting: **Bright overhead sunlight with diffused canopy filtering**
 
 ## 4. Structural Layout
-- **Left:** Tall dark evergreen sentinel tree, portion of highest mountain peak
-- **Right:** Cluster of evergreen trees with grassy bank extending to water's edge
-- **Center:** Dominant mountain range with reflections in calm lake surface
-- **Foreground:** Bright green grassy banks with varied texture and small land masses
-- **Midground:** Still lake water with mirror reflections of mountains and trees
-- **Background:** Jagged snow-capped peaks against gradient sky
-Depth style: **Atmospheric perspective with strong foreground-to-background contrast**
+- **Left:** Large deciduous tree with abundant bright foliage anchors the left frame; grassy bank slopes downward toward stream with knife-textured grass
+- **Right:** Companion deciduous tree mirrors the left; cluster of slender birch trees adds vertical accent and depth in the background
+- **Center:** Stream channel dominates, flowing from upper background down center to lower foreground with visible current and white water
+- **Foreground:** Stream bed with dark rocks creating white water rapids; low grassy edges frame the water on both sides
+- **Midground:** Stream continues its journey; tree trunks and foliage create natural gateway framing the water
+- **Background:** Lighter forest suggestions and blue sky visible through tree canopy; birch grove provides atmospheric depth
+
+Depth style: **Linear perspective through receding water channel with atmospheric lightening**
 
 ## 5. Motion
-- Water appears completely still despite "bubbling stream" title, creating mirror reflections
-- Sky gradient suggests gentle atmospheric transition from warm to cool
-- Compositional flow draws eye upward from grassy banks through lake to mountain peaks
-- Evergreen trees create vertical movement lines on both flanks
-- No visible water flow, rapids, or cascading elements
-Motion profile: **Static contemplation with vertical compositional pull**
+- Stream flows vigorously from background to foreground, creating strong directional pull into the scene
+- White water bubbles and froths over rocks, suggesting audible movement and energy
+- Gentle curve in the stream path creates natural, organic flow rather than rigid linearity
+- Grassy banks seem to slope and guide the eye downward alongside the water
+- Tree foliage suggests gentle breeze with soft, rounded forms
+- Overall compositional flow follows the water's diagonal journey from upper right to lower center
+
+Motion profile: **Dynamic water flow with cascading energy along central axis**
 
 ## 6. Technique
-- Palette knife work creates angular mountain peaks with sharp snow-cap highlights
-- Fan brush produces dark evergreen silhouettes with characteristic layered texture
-- Wet-on-wet blending achieves smooth sky gradient transition
-- Liquid white base enables mirror-like water reflections
-- Highlighting technique brings dimension to foreground grasses
-- Thin paint application for water allows reflective quality
-- Knife edge used for mountain ridgelines and snow definition
-Signature technique: **Palette knife mountain construction with mirror-still water reflections**
+- **Fan brush foliage** creates the characteristic rounded, puffy tree masses with individual highlight strokes
+- **Palette knife grass** builds the banks with quick upward flicking strokes showing texture and direction
+- **Wet-on-wet water technique** allows sky blue to blend with white for realistic stream reflections
+- **Liquid white base** shows through in the brightest water highlights and sky areas
+- **Vertical dry-brush strokes** create the distinctive white birch trunks with minimal paint
+- **Light touch highlights** add dimension to rocks with quick titanium white accents
+- **Layered foliage** builds depth by applying darker greens first, then progressively lighter yellowy-greens
+
+Signature technique: **Vibrant fan brush foliage work with electric spring greens creating luminous canopy**
 
 ## 7. Narrative Layer
-"Despite its name, this painting captures a moment of perfect stillness in an alpine sanctuary. The water lies mirror-calm, reflecting the grandeur of snow-capped peaks in absolute clarity. This is a place where time seems suspended, where the only movement is the slow transition of light across the sky. The dark evergreens stand as silent witnesses to the profound peace of untouched wilderness."
+"This is the creek where winter finally surrenders to spring's unstoppable advance. The water, fed by melting snow from distant hills, rushes with purpose and joy over smooth stones worn by countless seasons. The trees have exploded into their brightest green, that electric chartreuse that lasts only a few precious weeks before deepening into summer's more somber tones. Here, in this sheltered corridor, everything speaks of renewal, energy, and the simple abundance of a world coming back to life."
 
 ## 8. Initial Canvas Treatment
-- Liquid white applied across entire canvas for wet-on-wet technique
-- Sky area prepared with thin white base to enable gradient blending
-- Water section treated with smooth liquid white for reflective quality
-- Dark base values established early to anchor evergreen silhouettes
-The foundation emphasizes blending capability for atmospheric transitions and reflective water surfaces.
+- Canvas coated with Liquid White or Magic White to enable wet-on-wet blending throughout
+- Sky blue applied first at the top, using horizontal strokes and leaving areas thin for luminosity
+- Stream channel established early with blue-white mixture, creating the water's basic path
+- Darker values laid in for stream banks and distant forest before adding bright foreground elements
+- Base allowed to remain wet throughout painting process for seamless blending and soft transitions
+
+The foundation emphasizes maintaining a luminous, light-filled base that allows the bright spring greens to glow with maximum vitality against the flowing water channel.
