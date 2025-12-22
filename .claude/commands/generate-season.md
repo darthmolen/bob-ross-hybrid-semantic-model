@@ -25,7 +25,10 @@ You are generating structured markdown entries for Bob Ross "Joy of Painting" ep
    Task: "Process Season X Episode Y - {Title}"
 
    Instructions for subagent:
-   1. Fetch painting image from: {img_src_url}
+   1. Check for painting image in local images/ folder first:
+      - Local path: /home/user/bob-ross-hybrid-semantic-model/images/painting{index}.png
+      - If found, use the local image
+      - If not found, fallback to GitHub URL: https://raw.githubusercontent.com/jwilber/Bob_Ross_Paintings/master/data/paintings/painting{index}.png
    2. Analyze the image using Claude's vision capabilities
    3. Generate the 8-section markdown entry following the template
    4. Include all semantic identity tags
@@ -34,7 +37,7 @@ You are generating structured markdown entries for Bob Ross "Joy of Painting" ep
 
    Launch all 13 subagents concurrently. Each subagent handles:
 
-   a. Fetching the painting image from the `img_src` URL
+   a. Fetching the painting image from local images/ folder (primary) or GitHub URL (fallback)
 
    b. Vision analysis to generate all 8 sections:
       - Composition
