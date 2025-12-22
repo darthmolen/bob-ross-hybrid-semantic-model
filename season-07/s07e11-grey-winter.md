@@ -1,0 +1,25 @@
+# Season 7, Episode 11 — "Grey Winter" (1986)
+
+## 1. Composition
+This ethereal winter landscape features a misty mountain valley framed by snow-laden evergreen trees on both sides. The center opens to a fog-filled vista where distant evergreen forests emerge as dark silhouettes through thick atmospheric haze. A snow-covered foreground suggests a frozen stream or snowy bank leading into the misty depths. The composition follows a classic "window" archetype, where foreground trees frame a mysterious central view, creating a portal-like effect into the foggy wilderness beyond.
+
+## 2. Palette
+Cool grays and deep purples dominate the atmospheric haze and distant forest silhouettes, while soft lavenders and pale pinks tint the misty sky above. Brilliant whites mark the snow on evergreen branches and foreground banks, creating stark contrast against the dark tree forms. Touches of warm gray-brown appear in the distant tree line. The overall effect is nearly monochromatic, emphasizing atmospheric perspective through value rather than color variation. **Palette Identity: Monochromatic cool-toned winter with lavender-gray atmospheric haze**
+
+## 3. Mood & Atmosphere
+The painting evokes profound stillness and mystery, capturing that hushed moment when winter fog settles deep in mountain valleys. Soft, diffused light filters through heavy overcast conditions, creating no distinct shadows—just gradual value transitions from foreground clarity to background obscurity. The mood is contemplative and peaceful, with a sense of isolation and quiet beauty. The thick mist creates an almost dreamlike quality where the landscape dissolves into atmospheric layers. **Lighting Type: Overcast diffused winter light with heavy atmospheric fog**
+
+## 4. Structural Layout
+**Left:** Snow-covered evergreen trees stand as dark silhouettes with white-laden branches, anchoring the left frame edge. **Right:** Taller, more prominent evergreen trees mirror the left side, creating stronger vertical framing elements with distinctive snow patterns on their branches. **Center:** The heart of the composition opens to a misty void where dark forest shapes float in purple-gray haze. **Foreground:** Bright snow banks with subtle contours suggest a frozen waterway or snowy path leading toward the center. **Midground:** Dense fog obscures detail, creating a transition zone of pure atmosphere. **Background:** Barely visible dark evergreen masses emerge through the mist as ghostly presences. **Depth Style: Extreme atmospheric perspective with fog-induced spatial ambiguity**
+
+## 5. Motion
+The dominant motion element is the implied drift of fog and mist through the valley, creating a sense of slow, horizontal movement across the scene. The compositional flow draws the eye from the sharply defined foreground trees inward toward the mysterious misty center, then back again to the anchoring verticals. Cloud vapors appear to settle and hang rather than blow, suggesting stillness and calm air. The slight diagonal of the foreground snow bank provides subtle directional movement from lower left toward center. **Motion Profile: Minimal movement with hanging mist and static winter stillness**
+
+## 6. Technique
+Fan brush creates the delicate evergreen trees with their characteristic drooping branch structure, loaded with snow applied via palette knife taps and scrapes. Heavy wet-on-wet blending builds the misty atmosphere through multiple layers of softened grays and purples, likely using large brushes and cross-hatching circular motions. The snow highlights employ thick impasto knife work with pure white titanium, creating dimensional texture. Atmospheric perspective achieved through progressive lightening and softening of edges as forms recede. Special misting effects created by lightly dragging and feathering paint to simulate fog. **Signature Technique: Layered atmospheric blending with wet-on-wet mist creation**
+
+## 7. Narrative Layer
+"In the deep quiet of a winter morning, fog has swallowed the mountain valley whole, transforming the familiar landscape into something mysterious and unknown. The evergreens stand sentinel at the edge of visibility, their snow-heavy branches the last solid things before the world dissolves into gray mystery. This is winter's most introspective face—not the bright diamond sparkle of sunshine on fresh snow, but the soft, muffled hush when clouds descend to walk among the trees."
+
+## 8. Initial Canvas Treatment
+The canvas began with a base coat of mixed grays and purples, creating the foundational atmospheric tone that permeates the entire scene. Lavender and pale pink were likely blended into the upper portions to establish the soft sky glow that filters through the overcast conditions. This cool-toned foundation provided the perfect base for building layers of mist and fog through subsequent wet-on-wet applications. The dark initial treatment in the background areas allowed the distant forest silhouettes to emerge through lifting and negative space techniques rather than direct application.
