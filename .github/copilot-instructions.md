@@ -23,12 +23,16 @@ This CSV contains:
 - There is **NO FORMULA** to calculate painting_index from season/episode
 - Season 1, Episode 1 → painting_index: 282 (not 1)
 - Season 3, Episode 1 → painting_index: 256 (not 27)
-- Always verify against the CSV source
+- The mapping is non-sequential and unpredictable
 
-When reviewing changes to episode files, use web search to fetch the CSV and confirm:
-```
-painting_index matches CSV row where season={X} AND episode={Y}
-```
+**IMPORTANT**: Do NOT flag painting_index issues based on assumptions or guesses. You MUST:
+
+1. **Actually fetch the CSV** from: `https://raw.githubusercontent.com/jwilber/Bob_Ross_Paintings/master/data/bob_ross_paintings.csv`
+2. **Find the exact row** where `season` and `episode` columns match the file being reviewed
+3. **Compare the `painting_index` value** from that CSV row against the file's YAML metadata
+4. **Only flag an issue** if there is a verified mismatch between the CSV data and the file
+
+If you cannot fetch or parse the CSV data, do NOT flag painting_index issues - skip this validation instead of guessing.
 
 ### 2. Episode Title Verification
 

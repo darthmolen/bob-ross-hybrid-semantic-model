@@ -10,15 +10,22 @@ When reviewing Bob Ross episode semantic model files, perform these validations:
 
 ## CSV Cross-Reference (REQUIRED)
 
-Use web search to fetch and verify against:
+The authoritative data source is:
 `https://raw.githubusercontent.com/jwilber/Bob_Ross_Paintings/master/data/bob_ross_paintings.csv`
 
 ### Mandatory Checks:
 
 1. **painting_index**: Must match CSV exactly for this season/episode combination
-   - Search: "site:github.com jwilber Bob_Ross_Paintings bob_ross_paintings.csv"
-   - Or fetch the raw CSV and find the matching row
-   - **NEVER trust calculated indices** - they must come from CSV
+
+   **⚠️ DO NOT GUESS - VERIFY FIRST**: The painting_index mapping is non-sequential and cannot be calculated. Before flagging ANY painting_index issue:
+
+   1. **Fetch the actual CSV** from the URL above
+   2. **Locate the row** where `season` and `episode` columns match the file under review
+   3. **Extract the `painting_index`** from that specific row
+   4. **Compare** the CSV value against the file's YAML `painting_index`
+   5. **Only flag if there is a verified mismatch**
+
+   If you cannot fetch or read the CSV, **skip painting_index validation entirely** - do not assume the index is wrong
 
 2. **Episode Title**: Must match CSV `title` field exactly (including punctuation)
 
@@ -67,8 +74,8 @@ Ensure all 8 sections are present with appropriate content:
 
 ## Common Issues to Flag
 
-- Missing or incorrect painting_index
-- Episode title doesn't match CSV
+- Missing or incorrect painting_index **(only after CSV verification - never guess)**
+- Episode title doesn't match CSV **(only after CSV verification)**
 - Colors not in standard Bob Ross palette
 - Missing semantic identity tags
 - Empty or placeholder sections
