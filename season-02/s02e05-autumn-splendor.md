@@ -106,3 +106,34 @@ Signature technique: **palette knife birch trees with distinctive white bark aga
 - Bright luminous foundation for warm autumn atmosphere
 
 A foundational Liquid White approach enabling vibrant autumn color blending and atmospheric luminosity with seamless wet-on-wet transitions.
+
+---
+
+```yaml
+tags:
+  composition_archetype: "serene autumn pond composition with birch trees and golden foliage"
+  palette_identity: "brilliant golden autumn palette with birch tree highlights and luminous atmosphere"
+  depth_style: "atmospheric fade with layered color planes"
+  lighting_type: "bright diffuse sunlight"
+  motion_profile: "stillness and calm with soft atmospheric drift"
+
+episode:
+  season: 2
+  episode: 5
+  title: "Autumn Splendor"
+  year: 1984
+  painting_index: 273
+
+colors:
+  - Cadmium Yellow
+  - Yellow Ochre
+  - Bright Red
+  - Alizarin Crimson
+  - Sap Green
+  - Phthalo Green
+  - Van Dyke Brown
+  - Burnt Umber
+  - Titanium White
+  - Phthalo Blue
+  - Prussian Blue
+```

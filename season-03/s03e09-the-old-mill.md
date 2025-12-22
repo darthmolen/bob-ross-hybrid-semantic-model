@@ -76,3 +76,32 @@ Signature technique: **Brilliant fan brush foliage highlights contrasting with k
 - Foundation layer creates luminosity beneath bright foliage highlights
 
 The initial treatment prioritizes atmospheric depth through early background establishment, allowing the mill and brilliant foliage to emerge with maximum impact against the prepared foundation.
+
+---
+
+```yaml
+tags:
+  composition_archetype: "pastoral mill scene archetype"
+  palette_identity: "Luminous autumn contrasts with weathered nostalgia"
+  depth_style: "Atmospheric perspective with color temperature shift from warm foreground to cool background"
+  lighting_type: "Bright autumn daylight from upper left creating strong highlights"
+  motion_profile: "Cascading water energy with meandering stream flow"
+
+episode:
+  season: 3
+  episode: 9
+  title: "The Old Mill"
+  year: 1984
+  painting_index: 264
+
+colors:
+  - Sap Green
+  - Cadmium Yellow
+  - Yellow Ochre
+  - Van Dyke Brown
+  - Dark Sienna
+  - Alizarin Crimson
+  - Prussian Blue
+  - Titanium White
+  - Midnight Black
+```

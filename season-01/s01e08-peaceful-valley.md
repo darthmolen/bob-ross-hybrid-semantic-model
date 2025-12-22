@@ -87,3 +87,30 @@ Signature technique: **layered atmospheric perspective using progressive value s
 - Traditional wet surface preparation for seamless atmospheric transitions
 
 A foundational Liquid White approach enabling soft sky gradients and smooth color blending typical of early Joy of Painting episodes.
+
+---
+
+```yaml
+tags:
+  composition_archetype: "mountain-valley with expansive meadow"
+  palette_identity: "cool mountain palette with luminous valley meadow"
+  depth_style: "layered planes with atmospheric perspective"
+  lighting_type: "soft diffuse daylight"
+  motion_profile: "vertical mountain thrust with receding depth"
+
+episode:
+  season: 1
+  episode: 8
+  title: "Peaceful Valley"
+  year: 1983
+  painting_index: 289
+
+colors:
+  - Prussian Blue
+  - Titanium White
+  - Alizarin Crimson
+  - Phthalo Green
+  - Sap Green
+  - Cadmium Yellow
+  - Van Dyke Brown
+```

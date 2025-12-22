@@ -85,3 +85,26 @@ Signature technique: **three-color monochromatic study emphasizing value relatio
 - Standard wet foundation approach for value blending
 
 A foundational wet canvas approach supporting seamless monochromatic blending and emphasizing the three-color palette limitation as artistic study.
+
+---
+
+```yaml
+tags:
+  composition_archetype: "mountain reflection with winter storm atmosphere"
+  palette_identity: "monochromatic grey-scale mountain palette with three-color limitation"
+  depth_style: "layered planes with mirror reflection"
+  lighting_type: "diffuse stormy overcast"
+  motion_profile: "atmospheric turbulence above static winter stillness"
+
+episode:
+  season: 2
+  episode: 4
+  title: "Shades of Grey"
+  year: 1984
+  painting_index: 272
+
+colors:
+  - Prussian Blue
+  - Titanium White
+  - Van Dyke Brown
+```

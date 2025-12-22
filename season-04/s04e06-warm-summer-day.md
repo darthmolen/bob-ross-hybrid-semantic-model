@@ -83,17 +83,18 @@ Foundational approach emphasizes fluidity for atmospheric haze and seamless valu
 
 ```yaml
 tags:
-  composition_archetype: "misty_forest_corridor"
-  palette_identity: "golden_woodland_luminosity"
-  depth_style: "atmospheric_perspective"
-  lighting_type: "diffused_backlighting"
-  motion_profile: "drifting_mist_horizontal_flow"
+  composition_archetype: "misty forest corridor"
+  palette_identity: "golden woodland luminosity"
+  depth_style: "atmospheric perspective"
+  lighting_type: "diffused backlighting"
+  motion_profile: "drifting mist horizontal flow"
 
 episode:
   season: 4
   episode: 6
   title: "Warm Summer Day"
   year: 1985
+  painting_index: 248
 
 colors:
   - Titanium White
@@ -104,24 +105,4 @@ colors:
   - Phthalo Green
   - Van Dyke Brown
   - Dark Sienna
-
-techniques:
-  - wet-on-wet blending
-  - atmospheric perspective
-  - fan brush foliage
-  - palette knife bark texture
-  - liner brush details
-  - mist diffusion
-  - cross-hatching
-  - highlight glazing
-
-featured_elements:
-  - forest interior
-  - atmospheric mist
-  - deciduous trees
-  - sun-drenched foliage
-  - tree corridor
-  - undergrowth
-  - depth recession
-  - golden haze
 ```

@@ -78,3 +78,35 @@ Signature technique: **perfect pull-down reflections creating mirror symmetry be
 - Traditional wet-on-wet foundation
 
 A classic Liquid White foundation supporting luminous sunset colors and perfect mirror reflections in a balanced alpine composition.
+
+---
+
+```yaml
+tags:
+  composition_archetype: "mountain-lake reflection composition with waterfall accent and seasonal autumn color"
+  palette_identity: "sunset alpine palette with golden autumn reflections"
+  depth_style: "mirror-reflection depth with foreground-to-background vertical symmetry"
+  lighting_type: "warm sunset backlight"
+  motion_profile: "vertical mirror symmetry"
+
+episode:
+  season: 2
+  episode: 8
+  title: "Reflections"
+  year: 1984
+  painting_index: 276
+
+colors:
+  - Prussian Blue
+  - Phthalo Blue
+  - Titanium White
+  - Cadmium Yellow
+  - Indian Yellow
+  - Sap Green
+  - Phthalo Green
+  - Van Dyke Brown
+  - Burnt Umber
+  - Alizarin Crimson
+  - Bright Red
+  - Yellow Ochre
+```

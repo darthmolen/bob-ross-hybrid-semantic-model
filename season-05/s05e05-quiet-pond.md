@@ -106,7 +106,8 @@ episode:
   season: 5
   episode: 5
   title: "Quiet Pond"
-  year: 1987
+  year: 1986
+  painting_index: 234
 
 colors:
   - Liquid White
@@ -116,20 +117,4 @@ colors:
   - Prussian Blue
   - Vandyke Brown
   - Midnight Black
-
-techniques:
-  - wet-on-wet blending
-  - atmospheric glazing
-  - fan brush blending
-  - palette knife grass
-  - liner brush branches
-  - tonal gradation
-
-featured_elements:
-  - pond
-  - morning mist
-  - bare tree
-  - golden meadow
-  - atmospheric haze
-  - minimalist composition
 ```

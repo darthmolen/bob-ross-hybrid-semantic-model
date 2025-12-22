@@ -68,3 +68,34 @@ Signature technique: **Palette knife mountain construction with fan brush evergr
 - Canvas likely treated with slightly thicker application in water area for reflective effects
 - Base coat allowed proper color adhesion while maintaining workability throughout the painting process
 The foundation establishes a high-key base that supports both the luminous sky gradient and the reflective water surface, essential for this sunset alpine scene.
+
+---
+
+```yaml
+tags:
+  composition_archetype: "tranquil lakeside retreat archetype"
+  palette_identity: "Sunset alpine warmth with cool water contrast"
+  depth_style: "Atmospheric layering with distinct foreground, midground, and background separation"
+  lighting_type: "Golden hour backlighting with atmospheric sunset glow"
+  motion_profile: "Contemplative stillness with subtle vertical water flow"
+
+episode:
+  season: 3
+  episode: 1
+  title: "Mountain Retreat"
+  year: 1984
+  painting_index: 256
+
+colors:
+  - Bright Crimson
+  - Prussian Blue
+  - Midnight Black
+  - Dark Sienna
+  - Van Dyke Brown
+  - Alizarin Crimson
+  - Sap Green
+  - Cadmium Yellow
+  - Yellow Ochre
+  - Indian Yellow
+  - Titanium White
+```

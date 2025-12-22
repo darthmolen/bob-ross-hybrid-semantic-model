@@ -107,7 +107,8 @@ episode:
   season: 5
   episode: 3
   title: "Mountain Blossoms"
-  year: 1987
+  year: 1986
+  painting_index: 232
 
 colors:
   - Alizarin Crimson
@@ -120,22 +121,4 @@ colors:
   - Dark Sienna
   - Sap Green
   - Yellow Ochre
-
-techniques:
-  - Palette knife mountains
-  - Fan brush evergreens
-  - Stippling technique for blossoms
-  - Liner brush for branches
-  - Wet-on-wet blending
-  - Atmospheric glazing
-  - Layered depth building
-
-featured_elements:
-  - Snow-capped mountains
-  - Pink flowering bushes
-  - Dead trees
-  - Evergreen trees
-  - Mountain mist
-  - Spring blossoms
-  - Atmospheric haze
 ```

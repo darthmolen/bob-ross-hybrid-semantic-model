@@ -108,7 +108,8 @@ episode:
   season: 5
   episode: 9
   title: "Anatomy of a Wave"
-  year: 1987
+  year: 1986
+  painting_index: 238
 
 colors:
   - Prussian Blue
@@ -118,22 +119,4 @@ colors:
   - Pthalo Blue
   - Bright Red (minimal)
   - Indian Yellow (minimal)
-
-techniques:
-  - wet-on-wet blending
-  - fan brush foam
-  - palette knife highlights
-  - horizontal brush strokes
-  - transparent glazing
-  - layered whites
-  - translucent wave technique
-
-featured_elements:
-  - breaking wave
-  - wave crest
-  - foam and spray
-  - translucent water
-  - seabirds
-  - ocean horizon
-  - rippled water surface
 ```

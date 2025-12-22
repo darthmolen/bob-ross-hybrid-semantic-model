@@ -89,9 +89,9 @@ The foundational Liquid White treatment supports both delicate sky work and bold
 ```yaml
 tags:
   composition_archetype: "alpine valley with dominant peaks"
-  palette_identity: "high-altitude spring with snow-grass contrast"
-  depth_style: "dramatic foreground-to-background compression with vertical emphasis"
-  lighting_type: "direct diagonal sunlight with high-altitude clarity"
+  palette_identity: "high altitude spring with snow grass contrast"
+  depth_style: "dramatic foreground to background compression with vertical emphasis"
+  lighting_type: "direct diagonal sunlight with high altitude clarity"
   motion_profile: "ascending visual flow from valley to peaks"
 
 episode:
@@ -99,6 +99,7 @@ episode:
   episode: 3
   title: "Majestic Mountains"
   year: 1985
+  painting_index: 245
 
 colors:
   - Titanium White
@@ -111,23 +112,4 @@ colors:
   - Phthalo Blue
   - Cadmium Yellow
   - Alizarin Crimson
-
-techniques:
-  - palette knife mountain peaks
-  - fan brush evergreens
-  - sweeping meadow strokes
-  - liquid white blending
-  - vertical cliff pulling
-  - highlight layering
-  - wet-on-wet technique
-  - atmospheric perspective
-
-featured_elements:
-  - snow-capped mountains
-  - rocky cliff faces
-  - rolling meadows
-  - conifer trees
-  - foreground stream
-  - alpine sky
-  - spring grass
 ```

@@ -108,6 +108,7 @@ episode:
   episode: 9
   title: "Cool Waters"
   year: 1985
+  painting_index: 251
 
 colors:
   - Titanium White
@@ -122,23 +123,4 @@ colors:
   - Alizarin Crimson
   - Sap Green
   - Van Dyke Brown
-
-techniques:
-  - Fan brush evergreens
-  - Palette knife mountains
-  - Push-up foliage technique
-  - Horizontal liquid strokes
-  - Wet-on-wet blending
-  - Stippling and dabbing
-  - Highlight placement
-  - Atmospheric perspective
-
-featured_elements:
-  - Snow-capped mountains
-  - Turquoise alpine lake
-  - Autumn foliage
-  - Evergreen trees
-  - Rocky shoreline
-  - Distant forest
-  - Seasonal transition
 ```

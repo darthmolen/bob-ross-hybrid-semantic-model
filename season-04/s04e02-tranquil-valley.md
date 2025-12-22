@@ -93,8 +93,8 @@ Initial treatment establishes atmospheric unity with purple-blue tonality allowi
 ```yaml
 tags:
   composition_archetype: "symmetrical portal framing with depth corridor"
-  palette_identity: "purple-atmospheric mountain valley"
-  depth_style: "multi-plane atmospheric recession"
+  palette_identity: "purple atmospheric mountain valley"
+  depth_style: "multi plane atmospheric recession"
   lighting_type: "diffused ambient glow"
   motion_profile: "still water with vertical cloud thrust"
 
@@ -103,6 +103,7 @@ episode:
   episode: 2
   title: "Tranquil Valley"
   year: 1985
+  painting_index: 244
 
 colors:
   - Alizarin Crimson
@@ -117,25 +118,4 @@ colors:
   - Titanium White
   - Van Dyke Brown
   - Yellow Ochre
-
-techniques:
-  - wet-on-wet blending
-  - palette knife mountains
-  - fan brush foliage
-  - vertical tapping
-  - water reflections
-  - atmospheric layering
-  - cloud technique
-  - liner brush detail
-  - highlight knife work
-  - cross-hatch texture
-
-featured_elements:
-  - layered mountain ranges
-  - deciduous framing trees
-  - reflective lake
-  - billowing clouds
-  - valley grassland
-  - atmospheric haze
-  - symmetrical composition
 ```

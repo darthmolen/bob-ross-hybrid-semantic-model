@@ -85,3 +85,31 @@ Signature technique: **palette knife mountain peaks with crisp snow definition a
 - Bright foundation to support luminous sky, snow, and water reflections
 
 A foundational Liquid White technique creating a bright, blendable surface ideal for crisp mountain definition and luminous atmospheric effects.
+
+---
+
+```yaml
+tags:
+  composition_archetype: "mountain reflection with lakeside framing"
+  palette_identity: "bright alpine palette with luminous snow"
+  depth_style: "atmospheric perspective"
+  lighting_type: "full daylight"
+  motion_profile: "serene stillness with vertical majesty"
+
+episode:
+  season: 1
+  episode: 2
+  title: "Mt. McKinley"
+  year: 1983
+  painting_index: 283
+
+colors:
+  - Titanium White
+  - Prussian Blue
+  - Phthalo Green
+  - Sap Green
+  - Cadmium Yellow
+  - Van Dyke Brown
+  - Alizarin Crimson
+  - Bright Red
+```

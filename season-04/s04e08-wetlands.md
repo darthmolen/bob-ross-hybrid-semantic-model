@@ -100,6 +100,7 @@ episode:
   episode: 8
   title: "Wetlands"
   year: 1985
+  painting_index: 250
 
 colors:
   - Titanium White
@@ -111,23 +112,4 @@ colors:
   - Dark Sienna
   - Phthalo Blue
   - Alizarin Crimson
-
-techniques:
-  - Fan brush Spanish moss
-  - Palette knife bark texture
-  - Push-up foliage technique
-  - Wet-on-wet sky blending
-  - Water reflection pulls
-  - Liner brush detail work
-  - Atmospheric softening
-
-featured_elements:
-  - Spanish moss
-  - Still water
-  - Autumn foliage
-  - Overcast sky
-  - Wetland trees
-  - Reflections
-  - Atmospheric haze
-  - Natural corridor
 ```

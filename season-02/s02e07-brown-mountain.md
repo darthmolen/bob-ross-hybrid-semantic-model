@@ -84,3 +84,34 @@ Signature technique: **textured palette knife mountain faces with warm ochre-bro
 - Traditional wet surface preparation
 
 A classic Liquid White foundation enabling vibrant color mixing and smooth transitions between warm mountain tones and cool water luminosity.
+
+---
+
+```yaml
+tags:
+  composition_archetype: "monumental mountain-lake composition with human presence element"
+  palette_identity: "warm earth-tone mountain palette with brilliant turquoise water contrast"
+  depth_style: "monumental vertical emphasis with layered horizontal planes"
+  lighting_type: "direct overhead sunlight"
+  motion_profile: "tranquil stillness anchored by vertical monumentality"
+
+episode:
+  season: 2
+  episode: 7
+  title: "Brown Mountain"
+  year: 1984
+  painting_index: 275
+
+colors:
+  - Yellow Ochre
+  - Burnt Umber
+  - Cadmium Yellow
+  - Phthalo Blue
+  - Prussian Blue
+  - Titanium White
+  - Sap Green
+  - Phthalo Green
+  - Van Dyke Brown
+  - Alizarin Crimson
+  - Bright Red
+```

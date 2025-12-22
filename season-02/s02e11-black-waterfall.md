@@ -103,3 +103,35 @@ Signature technique: **dramatic waterfall highlights over dark rocky cliff with 
 - Dark-base technique for maximum contrast
 
 A foundational black gesso approach emphasizing dramatic contrast between dark rock formations and luminous waterfall with storm-lit atmospheric effects.
+
+---
+
+```yaml
+tags:
+  composition_archetype: "dramatic waterfall and cliff composition with storm-lit sky"
+  palette_identity: "stormy blue-purple palette with dramatic golden foliage accent and cascading white water"
+  depth_style: "dramatic vertical depth with atmospheric storm layers"
+  lighting_type: "storm-filtered illumination"
+  motion_profile: "cascading waterfall energy with turbulent sky movement"
+
+episode:
+  season: 2
+  episode: 11
+  title: "Black Waterfall"
+  year: 1984
+  painting_index: 279
+
+colors:
+  - Black Gesso
+  - Prussian Blue
+  - Phthalo Blue
+  - Alizarin Crimson
+  - Cadmium Yellow
+  - Indian Yellow
+  - Titanium White
+  - Van Dyke Brown
+  - Burnt Umber
+  - Sap Green
+  - Phthalo Green
+  - Yellow Ochre
+```

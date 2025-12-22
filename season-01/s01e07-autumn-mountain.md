@@ -83,3 +83,31 @@ Signature technique: **vibrant autumn foliage clusters using fan brush loaded wi
 - Traditional wet surface preparation for seamless color transitions
 
 A foundational Liquid White approach enabling vibrant color mixing and smooth atmospheric blending typical of early Joy of Painting episodes.
+
+---
+
+```yaml
+tags:
+  composition_archetype: "mountain-and-meadow with autumn foliage"
+  palette_identity: "warm autumn palette with cool mountain contrast"
+  depth_style: "layered planes with atmospheric perspective"
+  lighting_type: "bright direct sunlight"
+  motion_profile: "upward vertical thrust"
+
+episode:
+  season: 1
+  episode: 7
+  title: "Autumn Mountain"
+  year: 1983
+  painting_index: 288
+
+colors:
+  - Alizarin Crimson
+  - Bright Red
+  - Cadmium Yellow
+  - Prussian Blue
+  - Titanium White
+  - Sap Green
+  - Phthalo Green
+  - Van Dyke Brown
+```

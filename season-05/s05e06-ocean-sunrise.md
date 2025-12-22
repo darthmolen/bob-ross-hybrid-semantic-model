@@ -107,7 +107,8 @@ episode:
   season: 5
   episode: 6
   title: "Ocean Sunrise"
-  year: 1987
+  year: 1986
+  painting_index: 235
 
 colors:
   - Cadmium Yellow
@@ -118,24 +119,4 @@ colors:
   - Titanium White
   - Midnight Black
   - Van Dyke Brown
-
-techniques:
-  - wet-on-wet blending
-  - fan brush grasses
-  - palette knife highlights
-  - silhouette technique
-  - horizontal ocean strokes
-  - atmospheric blending
-  - light scratching
-  - gradient transitions
-
-featured_elements:
-  - ocean sunrise
-  - beach grasses
-  - rocky shores
-  - seabirds
-  - sun reflection path
-  - silhouetted foreground
-  - atmospheric sky gradient
-  - horizon line
 ```

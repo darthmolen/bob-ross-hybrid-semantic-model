@@ -106,6 +106,7 @@ episode:
   episode: 11
   title: "Northwest Majesty"
   year: 1985
+  painting_index: 253
 
 colors:
   - Alizarin Crimson
@@ -119,24 +120,4 @@ colors:
   - Van Dyke Brown
   - Dark Sienna
   - Midnight Black
-
-techniques:
-  - fan brush foliage
-  - liner brush detail work
-  - knife mountains
-  - atmospheric perspective
-  - layered foliage technique
-  - vertical trunk highlights
-  - sky blending
-  - color graduation
-
-featured_elements:
-  - snow-capped mountains
-  - autumn forest
-  - dead trees
-  - aspen/birch foliage
-  - orange-red deciduous tree
-  - purple sky
-  - cumulus clouds
-  - wilderness landscape
 ```

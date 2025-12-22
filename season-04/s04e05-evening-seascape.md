@@ -85,17 +85,18 @@ Foundational approach establishes dramatic nocturnal seascape through comprehens
 
 ```yaml
 tags:
-  composition_archetype: "turbulent_coastal_bilateral"
-  palette_identity: "nocturnal_oceanic"
-  depth_style: "layered_wave_progression"
-  lighting_type: "evening_ambient_selective"
-  motion_profile: "explosive_crash"
+  composition_archetype: "turbulent coastal bilateral"
+  palette_identity: "nocturnal oceanic"
+  depth_style: "layered wave progression"
+  lighting_type: "evening ambient selective"
+  motion_profile: "explosive crash"
 
 episode:
   season: 4
   episode: 5
   title: "Evening Seascape"
   year: 1985
+  painting_index: 247
 
 colors:
   - Prussian Blue
@@ -107,22 +108,4 @@ colors:
   - Burnt Umber
   - Indian Yellow
   - Yellow Ochre
-
-techniques:
-  - fan_brush_foam
-  - palette_knife_rocks
-  - wet_on_wet_blending
-  - push_pull_waves
-  - dark_to_light_layering
-  - heavy_white_loading
-  - circular_cloud_strokes
-
-featured_elements:
-  - crashing_waves
-  - rocky_outcroppings
-  - foam_spray
-  - storm_clouds
-  - evening_sky
-  - beach_stones
-  - translucent_water
 ```

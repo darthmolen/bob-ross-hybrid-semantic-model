@@ -103,6 +103,7 @@ episode:
   episode: 13
   title: "Mountain Challenge"
   year: 1985
+  painting_index: 255
 
 colors:
   - Titanium White
@@ -113,24 +114,4 @@ colors:
   - Yellow Ochre
   - Alizarin Crimson
   - Cadmium Yellow
-
-techniques:
-  - Palette knife (exclusive)
-  - Impasto texturing
-  - Angular edge definition
-  - Horizontal water strokes
-  - Vertical tree construction
-  - Knife scraping for clouds
-  - Reflection technique
-  - Layered knife work
-
-featured_elements:
-  - Snow-capped mountain peak
-  - Alpine lake
-  - Mountain reflections
-  - Evergreen trees
-  - Deciduous foliage mass
-  - Grassy shoreline
-  - Wispy clouds
-  - Rolling foothills
 ```

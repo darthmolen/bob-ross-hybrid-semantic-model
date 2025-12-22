@@ -65,3 +65,30 @@ Signature technique: **Atmospheric layering with progressive color cooling to cr
 - Misty valley area left very thin to allow the base color to contribute to the atmospheric effect
 - Foreground trees painted last to ensure crisp detail against the soft background
 **Foundation approach: Cool pastel underpainting establishing atmospheric unity before warm autumn details anchor the foreground.**
+
+---
+
+```yaml
+tags:
+  composition_archetype: "Asymmetrical mountain vista with autumn trees framing layered atmospheric recession"
+  palette_identity: "Autumn warmth dissolving into pastel mountain dreamscape"
+  depth_style: "Extreme atmospheric recession through color temperature and value gradation"
+  lighting_type: "Soft diffused light filtered through atmospheric haze with warm directional glow on foreground trees"
+  motion_profile: "Sweeping diagonal sky energy balanced by horizontal mountain rhythm"
+
+episode:
+  season: 3
+  episode: 5
+  title: "Distant Hills"
+  year: 1984
+  painting_index: 260
+
+colors:
+  - Burnt Sienna
+  - Yellow Ochre
+  - Alizarin Crimson
+  - Bright Red
+  - Titanium White
+  - Van Dyke Brown
+  - Dark Sienna
+```

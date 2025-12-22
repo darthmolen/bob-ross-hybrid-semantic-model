@@ -88,3 +88,32 @@ Signature technique: **horizontal wave strokes with push-up foam highlights**
 - Smooth wet surface for blending sky and water transitions
 
 A foundational Liquid White approach enabling soft atmospheric blending and gentle coastal color transitions.
+
+---
+
+```yaml
+tags:
+  composition_archetype: "coastal oceanscape with beach"
+  palette_identity: "soft pastel coastal palette"
+  depth_style: "horizontal layered planes"
+  lighting_type: "soft diffuse atmospheric glow"
+  motion_profile: "calm rolling surf"
+
+episode:
+  season: 1
+  episode: 9
+  title: "Seascape"
+  year: 1983
+  painting_index: 290
+
+colors:
+  - Prussian Blue
+  - Phthalo Blue
+  - Titanium White
+  - Cadmium Yellow
+  - Alizarin Crimson
+  - Bright Red
+  - Van Dyke Brown
+  - Sap Green
+  - Phthalo Green
+```

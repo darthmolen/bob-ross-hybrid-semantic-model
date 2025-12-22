@@ -113,7 +113,8 @@ episode:
   season: 5
   episode: 12
   title: "Indian Girl"
-  year: 1987
+  year: 1986
+  painting_index: 241
 
 colors:
   - Titanium White
@@ -127,23 +128,4 @@ colors:
   - Dark Sienna
   - Midnight Black
   - Phthalo Blue
-
-techniques:
-  - Radial blending
-  - Circular brush strokes
-  - Wet-on-wet blending
-  - Fine detail work
-  - Highlighting
-  - Layering
-  - Color gradation
-  - Geometric pattern work
-
-featured_elements:
-  - Portrait
-  - Native American cultural elements
-  - Feather
-  - Headband
-  - Beaded necklace
-  - Radiant background
-  - Geometric patterns
 ```

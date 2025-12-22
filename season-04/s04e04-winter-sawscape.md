@@ -92,7 +92,7 @@ The unconventional circular canvas required adapted wet-on-wet technique to main
 ```yaml
 tags:
   composition_archetype: "centered reflective with asymmetric flanking"
-  palette_identity: "cool-dominant winter blues with warm accent"
+  palette_identity: "cool dominant winter blues with warm accent"
   depth_style: "layered horizontal with doubled reflection"
   lighting_type: "diffused winter daylight"
   motion_profile: "stillness with directional guides"
@@ -102,6 +102,7 @@ episode:
   episode: 4
   title: "Winter Sawscape"
   year: 1985
+  painting_index: 246
 
 colors:
   - Prussian Blue
@@ -111,23 +112,4 @@ colors:
   - Midnight Black
   - Burnt Umber
   - Alizarin Crimson
-
-techniques:
-  - Knife work
-  - Fan brush evergreens
-  - Liner brush
-  - Wet-on-wet blending
-  - Water reflection
-  - Highlight scraping
-  - Circular canvas adaptation
-
-featured_elements:
-  - Sawblade canvas
-  - Frozen lake
-  - Mountain peak
-  - Rustic cabin
-  - Bare deciduous tree
-  - Split-rail fence
-  - Perfect reflection
-  - Snow-covered evergreens
 ```

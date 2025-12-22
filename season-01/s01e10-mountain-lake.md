@@ -85,3 +85,31 @@ Signature technique: **sharp palette knife mountains with soft pull-down reflect
 - Traditional wet-on-wet foundation
 
 A classic Liquid White foundation enabling smooth blending and soft atmospheric transitions throughout the composition.
+
+---
+
+```yaml
+tags:
+  composition_archetype: "mountain-and-lake reflection"
+  palette_identity: "cool mountain palette with crisp highlights"
+  depth_style: "layered planes with mirror reflection"
+  lighting_type: "diffuse natural daylight"
+  motion_profile: "tranquil stillness"
+
+episode:
+  season: 1
+  episode: 10
+  title: "Mountain Lake"
+  year: 1983
+  painting_index: 291
+
+colors:
+  - Prussian Blue
+  - Van Dyke Brown
+  - Titanium White
+  - Sap Green
+  - Phthalo Green
+  - Cadmium Yellow
+  - Alizarin Crimson
+  - Bright Red
+```

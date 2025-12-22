@@ -111,7 +111,8 @@ episode:
   season: 5
   episode: 1
   title: "Mountain Waterfall"
-  year: 1987
+  year: 1986
+  painting_index: 230
 
 colors:
   - Prussian Blue
@@ -124,24 +125,4 @@ colors:
   - Yellow Ochre
   - Bright Red
   - Alizarin Crimson
-
-techniques:
-  - wet-on-wet
-  - palette knife
-  - fan brush
-  - script liner
-  - horizontal water strokes
-  - atmospheric blending
-  - stippling
-  - push-pull technique
-
-featured_elements:
-  - snow-capped mountains
-  - waterfall
-  - alpine lake
-  - evergreen trees
-  - rocky shoreline
-  - meadow grasses
-  - atmospheric mist
-  - reflections
 ```

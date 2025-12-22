@@ -108,7 +108,8 @@ episode:
   season: 5
   episode: 13
   title: "Meadow Stream"
-  year: 1987
+  year: 1986
+  painting_index: 242
 
 colors:
   - Liquid White
@@ -121,22 +122,4 @@ colors:
   - Titanium White
   - Van Dyke Brown
   - Dark Sienna
-
-techniques:
-  - Fan brush grass strokes
-  - Liquid White foundation
-  - Knife work
-  - Wet-on-wet blending
-  - Highlight loading
-  - Liner brush details
-  - Push-stroke grasses
-
-featured_elements:
-  - meadow stream
-  - weathered barn
-  - spring grasses
-  - rolling hills
-  - deciduous trees
-  - bright sunlight
-  - pastoral landscape
 ```

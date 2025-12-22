@@ -70,3 +70,30 @@ Signature technique: **Chromatic fantasy layering**, building unconventional pur
 - Background mountain and forest established first with purple and violet tones
 - Layering built from distant background forward to immediate foreground
 The foundational approach created a luminous base that allows the fantastical purple tones to glow while supporting the bright yellow-green vegetation highlights in the foreground.
+
+---
+
+```yaml
+tags:
+  composition_archetype: "mountain lake sanctuary archetype"
+  palette_identity: "Fantastical contrast spectrum"
+  depth_style: "Chromatic recession"
+  lighting_type: "Bright midday radiance"
+  motion_profile: "Inward journey"
+
+episode:
+  season: 3
+  episode: 12
+  title: "Hidden Lake"
+  year: 1984
+  painting_index: 267
+
+colors:
+  - Alizarin Crimson
+  - Prussian Blue
+  - Sap Green
+  - Cadmium Yellow
+  - Yellow Ochre
+  - Van Dyke Brown
+  - Titanium White
+```

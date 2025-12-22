@@ -85,3 +85,27 @@ Signature technique: **dramatic diagonal sky strokes creating weather movement o
 - Traditional wet-on-wet foundation
 
 A foundational Liquid White canvas enabling smooth atmospheric blending and dramatic contrast between dark trees and brilliant snow.
+
+---
+
+```yaml
+tags:
+  composition_archetype: "mountain valley with river corridor"
+  palette_identity: "high-contrast winter palette"
+  depth_style: "layered planes with atmospheric perspective"
+  lighting_type: "diffuse overcast with directional wind"
+  motion_profile: "diagonal atmospheric movement"
+
+episode:
+  season: 1
+  episode: 12
+  title: "Snow Fall"
+  year: 1983
+  painting_index: 293
+
+colors:
+  - Titanium White
+  - Prussian Blue
+  - Van Dyke Brown
+  - Alizarin Crimson
+```

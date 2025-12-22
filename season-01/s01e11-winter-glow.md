@@ -89,3 +89,31 @@ Signature technique: **warm atmospheric glow blending over cool winter landscape
 - Traditional wet-on-wet foundation
 
 A classic Liquid White foundation enabling soft atmospheric blending of warm sunset glow with cool winter tones throughout the composition.
+
+---
+
+```yaml
+tags:
+  composition_archetype: "winter cabin with receding path"
+  palette_identity: "winter warmth palette with peachy sunset glow"
+  depth_style: "atmospheric fade with path-guided recession"
+  lighting_type: "diffuse sunset glow"
+  motion_profile: "tranquil winter stillness"
+
+episode:
+  season: 1
+  episode: 11
+  title: "Winter Glow"
+  year: 1983
+  painting_index: 292
+
+colors:
+  - Cadmium Yellow
+  - Alizarin Crimson
+  - Prussian Blue
+  - Titanium White
+  - Phthalo Green
+  - Sap Green
+  - Van Dyke Brown
+  - Bright Red
+```

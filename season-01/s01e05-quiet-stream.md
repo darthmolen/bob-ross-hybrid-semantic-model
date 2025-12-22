@@ -80,3 +80,31 @@ Signature technique: **flowing water with reflective highlights and ripple effec
 - Standard smooth surface preparation
 
 A traditional Liquid White foundation enabling soft blending and luminous color layering typical of early Joy of Painting episodes.
+
+---
+
+```yaml
+tags:
+  composition_archetype: "woodland stream"
+  palette_identity: "vibrant autumn-touched woodland palette"
+  depth_style: "layered atmospheric recession"
+  lighting_type: "diffuse daylight"
+  motion_profile: "meandering diagonal pull"
+
+episode:
+  season: 1
+  episode: 5
+  title: "Quiet Stream"
+  year: 1983
+  painting_index: 286
+
+colors:
+  - Prussian Blue
+  - Phthalo Green
+  - Sap Green
+  - Van Dyke Brown
+  - Cadmium Yellow
+  - Bright Red
+  - Alizarin Crimson
+  - Titanium White
+```

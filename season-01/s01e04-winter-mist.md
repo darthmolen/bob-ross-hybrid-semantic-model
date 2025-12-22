@@ -81,3 +81,26 @@ Signature technique: **three-color winter study emphasizing atmospheric blending
 - Simple foundational wash approach
 
 A foundational blue-toned canvas emphasizing the three-color limitation and atmospheric winter study.
+
+---
+
+```yaml
+tags:
+  composition_archetype: "winter woodland with cabin"
+  palette_identity: "monochromatic winter palette"
+  depth_style: "atmospheric fade"
+  lighting_type: "diffuse overcast mist"
+  motion_profile: "stillness and atmospheric suspension"
+
+episode:
+  season: 1
+  episode: 4
+  title: "Winter Mist"
+  year: 1983
+  painting_index: 285
+
+colors:
+  - Prussian Blue
+  - Titanium White
+  - Van Dyke Brown
+```
