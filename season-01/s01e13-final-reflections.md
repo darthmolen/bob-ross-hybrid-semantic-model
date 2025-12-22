@@ -89,3 +89,31 @@ Signature technique: **mirror-still water reflections beneath brilliant autumn f
 - Traditional bright foundation for maximum color vibrancy
 
 A foundational Liquid White approach enabling vibrant autumn colors and perfect water reflections, characteristic of Season 1's luminous painting style.
+
+---
+
+```yaml
+tags:
+  composition_archetype: "mountain-lake reflection with autumn foliage"
+  palette_identity: "bright autumn-lake palette with alpine clarity"
+  depth_style: "mirror-plane depth"
+  lighting_type: "direct sunlight"
+  motion_profile: "static reflection with vertical mountain thrust"
+
+episode:
+  season: 1
+  episode: 13
+  title: "Final Reflections"
+  year: 1983
+  painting_index: 294
+
+colors:
+  - Cadmium Yellow
+  - Alizarin Crimson
+  - Bright Red
+  - Phthalo Green
+  - Sap Green
+  - Prussian Blue
+  - Titanium White
+  - Van Dyke Brown
+```

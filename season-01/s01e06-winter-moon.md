@@ -90,3 +90,26 @@ Signature technique: **bright white snow highlights over black gesso base creati
 - Dark base allows maximum contrast for snow and moonlight
 
 A foundational black gesso approach optimized for dramatic nighttime winter scene with high-contrast luminosity.
+
+---
+
+```yaml
+tags:
+  composition_archetype: "nighttime winter mountain with cabin"
+  palette_identity: "stark winter moonlight palette"
+  depth_style: "atmospheric moonlight depth"
+  lighting_type: "bright moonlight glow"
+  motion_profile: "atmospheric stillness with radial moon glow"
+
+episode:
+  season: 1
+  episode: 6
+  title: "Winter Moon"
+  year: 1983
+  painting_index: 287
+
+colors:
+  - Prussian Blue
+  - Titanium White
+  - Van Dyke Brown
+```

@@ -87,3 +87,31 @@ Signature technique: **black canvas foundation with crimson overlay for unpreced
 - Dry black foundation allows for unique layering approach
 
 A foundational black gesso technique with crimson overlay, creating exceptional depth and dramatic contrast for a sunset silhouette composition.
+
+---
+
+```yaml
+tags:
+  composition_archetype: "sunset lakeside with forest silhouettes"
+  palette_identity: "crimson-dominant sunset palette"
+  depth_style: "silhouette depth"
+  lighting_type: "backlit sunset glow"
+  motion_profile: "suspended stillness with radiant light"
+
+episode:
+  season: 1
+  episode: 3
+  title: "Ebony Sunset"
+  year: 1983
+  painting_index: 284
+
+colors:
+  - Alizarin Crimson
+  - Bright Red
+  - Cadmium Yellow
+  - Van Dyke Brown
+  - Prussian Blue
+  - Sap Green
+  - Phthalo Green
+  - Titanium White
+```

@@ -84,3 +84,31 @@ Signature technique: **fan brush autumn foliage with layered warm-over-cool colo
 - Standard bright foundation for warm autumn scene
 
 A foundational Liquid White approach enabling seamless wet-on-wet blending for luminous autumn atmosphere and vibrant foliage effects.
+
+---
+
+```yaml
+tags:
+  composition_archetype: "forest pathway corridor"
+  palette_identity: "golden autumn palette with warm yellow-dominant foliage"
+  depth_style: "tunnel-like pathway depth"
+  lighting_type: "dappled sunlight"
+  motion_profile: "gentle forward flow"
+
+episode:
+  season: 1
+  episode: 1
+  title: "A Walk in the Woods"
+  year: 1983
+  painting_index: 282
+
+colors:
+  - Cadmium Yellow
+  - Bright Red
+  - Alizarin Crimson
+  - Sap Green
+  - Phthalo Green
+  - Van Dyke Brown
+  - Titanium White
+  - Prussian Blue
+```
