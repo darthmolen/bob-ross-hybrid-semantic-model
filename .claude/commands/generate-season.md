@@ -36,12 +36,33 @@ You are generating structured markdown entries for Bob Ross "Joy of Painting" ep
    3. Generate the complete 8-section markdown entry following the template at:
       /home/user/bob-ross-hybrid-semantic-model/TEMPLATE.md
 
+   ⚠️ **CRITICAL: Section headings MUST be numbered exactly like this:**
+      - ## 1. Composition
+      - ## 2. Palette
+      - ## 3. Mood & Atmosphere
+      - ## 4. Structural Layout
+      - ## 5. Motion
+      - ## 6. Technique
+      - ## 7. Narrative Layer
+      - ## 8. Initial Canvas Treatment
+
+   **DO NOT omit the numbers. "## Composition" is WRONG. "## 1. Composition" is CORRECT.**
+
    4. Include all semantic identity tags inline in the text:
       - palette_identity
       - depth_style
       - lighting_type
       - motion_profile
       - composition_archetype
+
+   ⚠️ **CRITICAL: Tag Value Formatting**
+      - Use **Title Case with Spaces** for all tag values
+      - ✅ CORRECT: "Layered Mountain Valley with Lake Reflection"
+      - ✅ CORRECT: "Warm Sunset Radiance with Cool Mountain Tones"
+      - ❌ WRONG: "layered_mountain_valley_with_lake_reflection" (snake_case)
+      - ❌ WRONG: "layered mountain valley" (all lowercase)
+      - Format inline tags as: **tag_name**: Tag Value in Title Case
+      - Use the SAME formatting in both inline text AND YAML metadata
 
    5. **REQUIRED: Add YAML metadata section at the end of the file**
       The metadata MUST be wrapped in code fences exactly like this:
@@ -68,7 +89,12 @@ You are generating structured markdown entries for Bob Ross "Joy of Painting" ep
         - Color2
       ```
 
-      **CRITICAL: Include both opening ```yaml and closing ``` fences!**
+      ⚠️ **CRITICAL CODE FENCE REQUIREMENTS:**
+      - You MUST include the opening fence: ```yaml (three backticks + yaml)
+      - You MUST include the closing fence: ``` (three backticks alone on a line)
+      - Missing either fence will break YAML parsing
+      - The --- horizontal rule comes BEFORE the code fence
+      - Verify your output includes BOTH fences before writing the file
 
    6. WRITE the file directly to:
       /home/user/bob-ross-hybrid-semantic-model/season-{XX}/s{XX}e{YY}-{title-slug}.md
