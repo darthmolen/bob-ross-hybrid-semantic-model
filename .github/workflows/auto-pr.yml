@@ -1,9 +1,14 @@
 name: Auto-create PR for Claude branches
+# Automatically creates a PR when pushing to claude/* branches
 
 on:
   push:
     branches:
       - 'claude/**'
+
+permissions:
+  contents: read
+  pull-requests: write
 
 jobs:
   create-pr:
@@ -18,46 +23,31 @@ jobs:
       - name: Check if PR exists
         id: check-pr
         env:
-          GH_TOKEN: ${{ secrets.PAT_TOKEN }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           PR_EXISTS=$(gh pr list --head "${{ github.ref_name }}" --json number --jq 'length')
           echo "exists=$PR_EXISTS" >> $GITHUB_OUTPUT
 
-      - name: Generate PR title and body
+      - name: Create Pull Request
         if: steps.check-pr.outputs.exists == '0'
-        id: pr-content
         env:
-          GH_TOKEN: ${{ secrets.PAT_TOKEN }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           # Extract readable title from branch name
           # claude/setup-github-cli-HpgIZ -> Setup github cli
           BRANCH="${{ github.ref_name }}"
           TITLE=$(echo "$BRANCH" | sed 's|claude/||' | sed 's|-[A-Za-z0-9]*$||' | tr '-' ' ' | sed 's/\b\(.\)/\u\1/')
-          echo "title=$TITLE" >> $GITHUB_OUTPUT
 
           # Get commit messages for PR body
           DEFAULT_BRANCH=$(gh api repos/${{ github.repository }} --jq '.default_branch')
           COMMITS=$(git log origin/$DEFAULT_BRANCH..HEAD --pretty=format:"- %s" 2>/dev/null || echo "- Initial commit")
 
-          # Create PR body
-          cat <<BODY_EOF >> $GITHUB_OUTPUT
-body<<EOF
-## Summary
+          # Build PR body
+          BODY=$(printf "## Summary\n\nAuto-generated PR from Claude Code session.\n\n## Commits\n\n%s" "$COMMITS")
 
-Auto-generated PR from Claude Code session.
-
-## Commits
-
-$COMMITS
-EOF
-BODY_EOF
-
-      - name: Create Pull Request
-        if: steps.check-pr.outputs.exists == '0'
-        env:
-          GH_TOKEN: ${{ secrets.PAT_TOKEN }}
-        run: |
+          # Create PR
           gh pr create \
-            --title "${{ steps.pr-content.outputs.title }}" \
-            --body "${{ steps.pr-content.outputs.body }}" \
+            --title "$TITLE" \
+            --body "$BODY" \
+            --base "$DEFAULT_BRANCH" \
             --head "${{ github.ref_name }}"
