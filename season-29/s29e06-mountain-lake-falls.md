@@ -59,9 +59,7 @@ Motion profile: **gentle cascade within stillness**
 Signature technique: **aggressive palette knife sculpting for dramatic mountain architecture**
 
 ## 7. Narrative Layer
-
 "Here stands a sanctuary of stone and snow, where ancient peaks cradle a mirror of sky and the only sound is water's patient journey downward. The lone birch witnesses what the steadfast pines have seen for centuries—the eternal conversation between summit and basin, between frozen heights and liquid depths. This is a place where human presence feels both humbling and welcome, where the waterfall whispers that even in paradise, everything flows toward something else."
-
 ## 8. Initial Canvas Treatment
 - Canvas likely prepared with Liquid White for smooth blending of sky and water
 - The white base allows the cool blues to maintain luminosity
