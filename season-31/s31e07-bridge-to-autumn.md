@@ -81,7 +81,7 @@ tags:
   palette_identity: "rich autumn warmth with atmospheric haze and weathered wood tones"
   depth_style: "horizontal layering with atmospheric perspective"
   lighting_type: "soft diffused daylight"
-  motion_profile: "still stillness with atmospheric softness"
+  motion_profile: "stillness with atmospheric softness and bridge as anchoring element"
 
 episode:
   season: 31
