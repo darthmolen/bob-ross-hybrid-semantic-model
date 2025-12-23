@@ -1,7 +1,9 @@
 # Season 30, Episode 1 — "Babbling Brook" (1994)
 
 ## 1. Composition
-A misty forest sanctuary centered around a dramatic bare tree that dominates the left-center composition. Dark weathered rocks anchor the left foreground, while a delicate waterfall cascades through the lower center. Verdant evergreen foliage frames the right side, contrasting with the skeletal tree. The background dissolves into a luminous amber haze, creating an atmospheric portal through the forest depths. An oval vignette softens the edges, drawing focus to the mystical interplay of light and shadow. **Forest cathedral with focal tree**
+A misty forest sanctuary centered around a dramatic bare tree that dominates the left-center composition. Dark weathered rocks anchor the left foreground, while a delicate waterfall cascades through the lower center. Verdant evergreen foliage frames the right side, contrasting with the skeletal tree. The background dissolves into a luminous amber haze, creating an atmospheric portal through the forest depths. An oval vignette softens the edges, drawing focus to the mystical interplay of light and shadow.
+
+Compositional archetype: **Forest cathedral with focal tree**
 
 ## 2. Palette
 Yellow Ochre and Titanium White merge to create the ethereal golden background glow. Van Dyke Brown and Dark Sienna construct the weathered tree trunk and branches. Midnight Black deepens the shadows and rock crevices. Sap Green brings life to the evergreen foliage on the right. Prussian Blue and Phthalo Blue tint the water and atmospheric depths. Subtle touches of Alizarin Crimson warm the misty background.

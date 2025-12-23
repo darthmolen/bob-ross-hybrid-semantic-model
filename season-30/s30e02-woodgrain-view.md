@@ -1,7 +1,9 @@
 # Season 30, Episode 2 — "Woodgrain View" (1994)
 
 ## 1. Composition
-A majestic mountain rises through morning mist in the background, its slopes highlighted with warm coral tones. A serene alpine lake occupies the midground, its still waters reflecting the atmospheric haze. Towering birch trees frame the scene, with a prominent trunk dominating the right foreground, displaying characteristic white bark with dark horizontal markings. Misty evergreens populate the middle distance along the shoreline, while a small canoe rests at the water's edge in the lower foreground. The composition creates a natural window effect, with the framing trees directing attention toward the illuminated mountain beyond. **Mountain vista framed by birch woodland portal**
+A majestic mountain rises through morning mist in the background, its slopes highlighted with warm coral tones. A serene alpine lake occupies the midground, its still waters reflecting the atmospheric haze. Towering birch trees frame the scene, with a prominent trunk dominating the right foreground, displaying characteristic white bark with dark horizontal markings. Misty evergreens populate the middle distance along the shoreline, while a small canoe rests at the water's edge in the lower foreground. The composition creates a natural window effect, with the framing trees directing attention toward the illuminated mountain beyond.
+
+Compositional archetype: **Mountain vista framed by birch woodland portal**
 
 ## 2. Palette
 Prussian Blue and Phthalo Blue establish the cool atmospheric foundation, creating the misty lake and shadowed forest depths. Titanium White mixes throughout for the foggy atmosphere and birch bark highlights. Alizarin Crimson blends with white to form the warm alpenglow on the mountain peaks. Midnight Black defines the dark markings on birch bark and deepest shadows. Van Dyke Brown and Dark Sienna ground the earthy tones in tree bark and shoreline elements. Phthalo Green contributes to the evergreen foliage emerging from the mist.

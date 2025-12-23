@@ -1,7 +1,9 @@
 # Season 30, Episode 9 — "Mountains of Grace" (1994)
 
 ## 1. Composition
-A dramatic layered mountain range anchors the composition, with snow-capped peaks rising majestically against a bright blue sky dotted with soft clouds. The foreground features a lush green meadow with a small reflective pond at center-bottom, surrounded by grassy banks. A weathered dead tree with bare white branches stands prominently on the right, creating vertical contrast against the horizontal mountain ridges. Evergreen trees frame both sides of the scene—darker pines on the right and medium-toned firs on the left. Rolling terrain in earth tones and greens transitions from the meadow to the tree line. **Alpine meadow sanctuary**
+A dramatic layered mountain range anchors the composition, with snow-capped peaks rising majestically against a bright blue sky dotted with soft clouds. The foreground features a lush green meadow with a small reflective pond at center-bottom, surrounded by grassy banks. A weathered dead tree with bare white branches stands prominently on the right, creating vertical contrast against the horizontal mountain ridges. Evergreen trees frame both sides of the scene—darker pines on the right and medium-toned firs on the left. Rolling terrain in earth tones and greens transitions from the meadow to the tree line.
+
+Compositional archetype: **Alpine meadow sanctuary**
 
 ## 2. Palette
 Phthalo Blue creates the vibrant sky, while Titanium White shapes the clouds and snow-capped peaks. Prussian Blue and Van Dyke Brown build the shadowed mountain faces and rocky textures. Dark Sienna adds warmth to the mountain base and rocky outcroppings. Sap Green dominates the evergreen trees and meadow foliage. Yellow Ochre and Cadmium Yellow create bright highlights in the grassy meadow. Midnight Black defines the dark tree trunks and deepest shadows. Subtle touches of Alizarin Crimson may warm the foreground earth tones.

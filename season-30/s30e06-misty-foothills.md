@@ -1,7 +1,9 @@
 # Season 30, Episode 6 — "Misty Foothills" (1994)
 
 ## 1. Composition
-A majestic purple mountain peak dominates the background, rising dramatically above multiple layers of progressively darker foothills that fade into atmospheric haze. Tall evergreen trees frame both sides of the composition, with a cluster on the left and a grouping on the right. A gently rolling grassy meadow occupies the foreground, creating an open valley floor. The sky features bright blue with billowing white cumulus clouds. **Layered mountain valley vista**
+A majestic purple mountain peak dominates the background, rising dramatically above multiple layers of progressively darker foothills that fade into atmospheric haze. Tall evergreen trees frame both sides of the composition, with a cluster on the left and a grouping on the right. A gently rolling grassy meadow occupies the foreground, creating an open valley floor. The sky features bright blue with billowing white cumulus clouds.
+
+Compositional archetype: **Layered mountain valley vista**
 
 ## 2. Palette
 Prussian Blue and Phthalo Blue create the vibrant sky and contribute to the purple mountain tones. Alizarin Crimson blends with blues to form the distinctive lavender-purple peak. Titanium White provides brilliant cloud highlights and mountain snow. Midnight Black anchors the dark evergreens and shadowed foothills. Sap Green brings life to the meadow grasses and tree foliage. Van Dyke Brown and Dark Sienna define tree trunks and add warmth to the misty middle ranges. Yellow Ochre highlights the sunlit meadow.

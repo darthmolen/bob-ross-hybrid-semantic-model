@@ -1,7 +1,9 @@
 # Season 30, Episode 8 — "Home in the Valley" (1994)
 
 ## 1. Composition
-A serene valley landscape anchored by a rustic red barn nestled in a green meadow, flanked by towering evergreen trees on both sides. Distant blue-gray mountains rise along the horizon beneath a bright sky filled with soft white clouds. A calm lake occupies the foreground, its dark surface reflecting the peaceful scene. The composition draws the eye from the still water through the meadow homestead to the distant mountain peaks. **Valley pastoral with framing evergreens**
+A serene valley landscape anchored by a rustic red barn nestled in a green meadow, flanked by towering evergreen trees on both sides. Distant blue-gray mountains rise along the horizon beneath a bright sky filled with soft white clouds. A calm lake occupies the foreground, its dark surface reflecting the peaceful scene. The composition draws the eye from the still water through the meadow homestead to the distant mountain peaks.
+
+Compositional archetype: **Valley pastoral with framing evergreens**
 
 ## 2. Palette
 Prussian Blue and Phthalo Blue define the sky, mountains, and water, while Titanium White shapes the billowing clouds and adds luminous highlights. The barn glows with Bright Red and Dark Sienna, contrasting against rich greens mixed from Sap Green, Phthalo Green, and Yellow Ochre for the meadow and foliage. Midnight Black and Van Dyke Brown anchor the dark evergreens and structural shadows, creating depth and dimension throughout the valley scene.
