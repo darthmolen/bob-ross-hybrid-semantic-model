@@ -2,7 +2,7 @@
 
 ## 1. Composition
 
-A dramatic alpine lake scene dominated by a majestic snow-capped mountain rising prominently on the left side, its jagged rocky peaks rendered in cool blues and whites. A softer, more atmospheric mountain sits in the distant right background, partially obscured by gentle mist. Dark evergreen trees anchor the left foreground, while rolling green hills sweep down to meet the calm lake water. The sky is a breathtaking gradient of pastel tones—coral pink and peach warming the upper atmosphere, transitioning through soft yellows into cool blues above the water. The tranquil lake reflects the colorful sky, creating a mirror of the celestial display above. Compositional archetype: **Mountain lake vista beneath pastel gradient sky**
+A dramatic alpine lake scene dominated by a majestic snow-capped mountain rising prominently on the left side, its jagged rocky peaks rendered in cool blues and whites. A softer, more atmospheric mountain sits in the distant right background, partially obscured by gentle mist. Dark evergreen trees anchor the left foreground, while rolling green hills sweep down to meet the calm lake water. The sky is a breathtaking gradient of pastel tones—coral pink and peach warming the upper atmosphere, transitioning through soft yellows into cool blues above the water. The tranquil lake reflects the colorful sky, creating a mirror of the celestial display above. **Mountain lake vista beneath pastel gradient sky**
 
 ## 2. Palette
 
@@ -50,7 +50,7 @@ Signature technique: **Seamless pastel sky gradient blending with knife-built mo
 
 ## 8. Initial Canvas Treatment
 
-Canvas prepared with Liquid White to enable the smooth, seamless blending required for the soft pastel sky gradients and atmospheric transitions throughout the painting.
+The canvas was prepared with Liquid White to enable the smooth, seamless blending required for the soft pastel sky gradients and atmospheric transitions throughout the painting.
 
 ---
 

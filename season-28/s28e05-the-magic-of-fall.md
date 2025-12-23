@@ -2,7 +2,7 @@
 
 ## 1. Composition
 
-A golden autumn scene centered around a magnificent deciduous tree ablaze with fall foliage, positioned right of center in the composition. A rustic wooden fence enters from the lower left, creating a diagonal pathway that guides the eye toward the illuminated tree. Background trees with equally vibrant autumn colors occupy the left portion of the canvas, their forms softened by atmospheric haze. The upper portion opens to a pale blue sky with wisps of cloud, while the ground spreads as an amber-toned meadow or clearing. The fence and tree together create a welcoming, pastoral invitation into the landscape. Compositional archetype: **Focal tree with fence-line pastoral**
+A golden autumn scene centered around a magnificent deciduous tree ablaze with fall foliage, positioned right of center in the composition. A rustic wooden fence enters from the lower left, creating a diagonal pathway that guides the eye toward the illuminated tree. Background trees with equally vibrant autumn colors occupy the left portion of the canvas, their forms softened by atmospheric haze. The upper portion opens to a pale blue sky with wisps of cloud, while the ground spreads as an amber-toned meadow or clearing. The fence and tree together create a welcoming, pastoral invitation into the landscape. **Focal tree with fence-line pastoral**
 
 ## 2. Palette
 

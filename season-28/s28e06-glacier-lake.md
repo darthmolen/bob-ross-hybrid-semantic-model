@@ -24,7 +24,7 @@ The composition captures the paradox of glacial movement—frozen in appearance 
 Motion profile: **frozen majesty with implied glacial flow**
 
 ## 6. Technique
-Heavy palette knife work dominates the painting, creating the sharp edges of rock faces and the smooth, sculpted surfaces of the glacier. The snow is applied with bold knife strokes, building texture and dimension. Dark colors are knifed on for the exposed rock, creating stark angular forms. The fan brush shapes the distant evergreen trees with delicate upward strokes. Sky is blended smoothly with cross-hatching brush techniques, while shadows in the snow are carefully placed to define form and depth.
+Heavy palette knife work dominates the painting, creating the sharp edges of rock faces and the smooth, sculpted surfaces of the glacier. The snow is applied with bold knife strokes, building texture and dimension. Dark colors are knifed on for the exposed rock, creating stark angular forms. The fan brush shapes the distant evergreen trees with delicate upward strokes. The sky is blended smoothly with cross-hatching brush techniques, while shadows in the snow are carefully placed to define form and depth.
 
 Signature technique: **palette knife sculpting of glacial surfaces**
 

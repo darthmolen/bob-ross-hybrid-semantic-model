@@ -27,7 +27,7 @@ Signature technique: **Oval vignette framing with warm atmospheric blending**
 "This is winter reimagined through the lens of comfort and warmth, where the season's harshness yields to sunset's gentle touch. The lone cabin speaks of human resilience and sanctuary, a small haven where firelight might soon glow against the descending dusk. The painting whispers that even in winter's depth, there exists beauty, peace, and the promise of warmth—whether from the fading sun or the hearth within. It's an invitation to find tranquility in the quiet moments between day and night, cold and warmth, solitude and shelter."
 
 ## 8. Initial Canvas Treatment
-Canvas prepared with a generous coat of Liquid White to allow smooth blending of the warm sky tones and soft atmospheric transitions throughout the oval vignette composition.
+The canvas was prepared with a generous coat of Liquid White to allow smooth blending of the warm sky tones and soft atmospheric transitions throughout the oval vignette composition.
 
 ---
 
