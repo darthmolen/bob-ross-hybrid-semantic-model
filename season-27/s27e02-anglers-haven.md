@@ -96,7 +96,7 @@ A classic Liquid White foundation enabling smooth atmospheric blending and brigh
 tags:
   composition_archetype: "mountain-framed forest sanctuary"
   palette_identity: "alpine mountain vista with forest sentinels"
-  depth_style: "atmospheric fade"
+  depth_style: "atmospheric fade with strong foreground-to-background value progression"
   lighting_type: "diffuse daylight"
   motion_profile: "vertical ascent with atmospheric stillness"
 

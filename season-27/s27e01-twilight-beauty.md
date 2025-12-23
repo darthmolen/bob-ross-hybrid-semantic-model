@@ -82,7 +82,7 @@ A Liquid White base with contact paper oval masking and dark vignette framing, a
 ```yaml
 tags:
   composition_archetype: "oval-vignetted winter twilight vista"
-  palette_identity: "twilight gradient palette with warm-to-cool sky transition"
+  palette_identity: "twilight gradient palette with warm-to-cool sky transition and high-contrast winter elements"
   depth_style: "atmospheric fade with value contrast"
   lighting_type: "twilight backglow"
   motion_profile: "static winter serenity with radial atmospheric glow"

@@ -95,7 +95,7 @@ A Liquid White foundation allowing smooth transitions between cool shadows and w
 tags:
   composition_archetype: "winter cabin with atmospheric forest"
   palette_identity: "winter dawn palette with warm cabin glow against cool blue shadows"
-  depth_style: "atmospheric fade"
+  depth_style: "atmospheric fade with foreground-to-background value softening"
   lighting_type: "diffused dawn light with focal warmth"
   motion_profile: "stillness with atmospheric diffusion"
 

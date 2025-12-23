@@ -93,7 +93,7 @@ tags:
   palette_identity: "vibrant atmospheric mountain palette with warm-cool contrast"
   depth_style: "layered atmospheric planes"
   lighting_type: "soft atmospheric glow"
-  motion_profile: "vertical atmospheric rise"
+  motion_profile: "vertical atmospheric rise with upward compositional flow"
 
 episode:
   season: 27

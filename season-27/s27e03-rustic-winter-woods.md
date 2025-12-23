@@ -93,7 +93,7 @@ A warm-toned foundation emphasizing atmospheric glow and enabling soft blending 
 tags:
   composition_archetype: "winter forest interior"
   palette_identity: "warm winter glow palette with golden atmospheric backlight"
-  depth_style: "vertical corridor depth"
+  depth_style: "vertical corridor depth with atmospheric luminosity"
   lighting_type: "golden backlit glow"
   motion_profile: "vertical stability with soft atmospheric radiance"
 

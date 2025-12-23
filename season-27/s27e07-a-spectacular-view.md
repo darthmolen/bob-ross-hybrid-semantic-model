@@ -81,9 +81,9 @@ A classic Liquid White foundation supporting the bright, high-key mountain lands
 tags:
   composition_archetype: "mountain vista with meadow and forest"
   palette_identity: "alpine majesty palette with sun-drenched highlights"
-  depth_style: "layered horizontal planes"
+  depth_style: "layered horizontal planes with strong atmospheric perspective"
   lighting_type: "bright directional sunlight"
-  motion_profile: "vertical ascent"
+  motion_profile: "vertical ascent with gentle horizontal flow"
 
 episode:
   season: 27

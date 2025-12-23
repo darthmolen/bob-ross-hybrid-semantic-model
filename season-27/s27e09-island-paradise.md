@@ -86,9 +86,9 @@ A Liquid White foundation enabling smooth atmospheric blending and dynamic wet-o
 tags:
   composition_archetype: "tropical oceanscape with island"
   palette_identity: "tropical sunset palette with turquoise ocean and silhouetted darks"
-  depth_style: "layered atmospheric depth"
+  depth_style: "layered atmospheric depth with silhouette contrast"
   lighting_type: "warm sunset backlighting"
-  motion_profile: "dynamic wave action"
+  motion_profile: "dynamic wave action with diagonal flow and atmospheric radiance"
 
 episode:
   season: 27
