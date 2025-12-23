@@ -1,7 +1,9 @@
 # Season 30, Episode 11 — "A Cold Spring Day" (1994)
 
 ## 1. Composition
-A dramatic snow-capped mountain range dominates the upper canvas, with a prominent glacier flowing down the central peak's face. Dark, jagged secondary peaks frame the composition. A misty valley sits at the mountain's base, transitioning to a green meadow dotted with spring vegetation. A calm lake or pond occupies the immediate foreground, reflecting the scene above. Dark evergreen trees anchor the left side, while lighter deciduous growth emerges in the middle ground, suggesting the season's transition. Compositional archetype: **Mountain-lake with glacial verticality**
+A dramatic snow-capped mountain range dominates the upper canvas, with a prominent glacier flowing down the central peak's face. Dark, jagged secondary peaks frame the composition. A misty valley sits at the mountain's base, transitioning to a green meadow dotted with spring vegetation. A calm lake or pond occupies the immediate foreground, reflecting the scene above. Dark evergreen trees anchor the left side, while lighter deciduous growth emerges in the middle ground, suggesting the season's transition.
+
+Compositional archetype: **Mountain-lake with glacial verticality**
 
 ## 2. Palette
 Titanium White dominates the snow-covered peaks and glacier, contrasted sharply with Prussian Blue and Midnight Black in the mountain shadows and evergreen trees. Phthalo Blue enriches the sky and water, while Sap Green brings life to the awakening meadow. Yellow Ochre warms the grassy areas, and Van Dyke Brown grounds the tree trunks and earth tones. Subtle touches of Alizarin Crimson add depth to mountain shadows. The palette balances winter's cool severity with spring's tentative warmth.

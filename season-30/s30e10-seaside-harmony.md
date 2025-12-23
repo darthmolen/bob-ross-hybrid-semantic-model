@@ -1,7 +1,9 @@
 # Season 30, Episode 10 — "Seaside Harmony" (1994)
 
 ## 1. Composition
-A dramatic coastal seascape dominated by turbulent ocean waters and an unusual pink-tinted sky. A dark rocky outcrop anchors the left side, serving as a focal point where white spray explodes against weathered stone. Large rolling waves with translucent green-blue crests sweep across the middle ground, their white foam caps catching light. A sandy beach stretches across the immediate foreground, providing a stable base. The sky features billowing clouds in striking pink and magenta tones mixed with white and blue, creating an almost sunset-like atmosphere despite the stormy energy below. Compositional archetype: **Dramatic coastal scene with crashing waves and turbulent pink-tinged sky**
+A dramatic coastal seascape dominated by turbulent ocean waters and an unusual pink-tinted sky. A dark rocky outcrop anchors the left side, serving as a focal point where white spray explodes against weathered stone. Large rolling waves with translucent green-blue crests sweep across the middle ground, their white foam caps catching light. A sandy beach stretches across the immediate foreground, providing a stable base. The sky features billowing clouds in striking pink and magenta tones mixed with white and blue, creating an almost sunset-like atmosphere despite the stormy energy below.
+
+Compositional archetype: **Dramatic coastal scene with crashing waves and turbulent pink-tinged sky**
 
 ## 2. Palette
 Alizarin Crimson and Titanium White dominate the sky, creating the distinctive pink and magenta clouds that give this seascape its unique character. Phthalo Blue and Prussian Blue render the ocean depths and sky patches, while Phthalo Green creates the translucent quality of wave crests. Midnight Black and Van Dyke Brown define the dark rocky outcrop and shadows. Yellow Ochre mixed with white establishes the sandy beach. The interplay between cool ocean blues and warm pink sky creates an unusual but harmonious color relationship.
