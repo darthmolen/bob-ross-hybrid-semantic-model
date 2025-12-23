@@ -16,7 +16,7 @@ Left side features prominent dark evergreens creating a strong vertical element 
 Depth style: **Warm atmospheric layering with oval vignette containment**
 
 ## 5. Motion
-The composition suggests stillness and frozen quietude. The vertical evergreens stand sentinel-like, unmoving. The bare tree's branches reach gently skyward with delicate,静止 grace. Wisps of mist or fog drift horizontally across the midground, the only suggestion of subtle movement. The sky shows soft cloud formations that appear suspended in the moment. The overall effect is contemplative stillness—a landscape holding its breath in winter's peaceful grasp.
+The composition suggests stillness and frozen quietude. The vertical evergreens stand sentinel-like, unmoving. The bare tree's branches reach gently skyward with delicate, still grace. Wisps of mist or fog drift horizontally across the midground, the only suggestion of subtle movement. The sky shows soft cloud formations that appear suspended in the moment. The overall effect is contemplative stillness—a landscape holding its breath in winter's peaceful grasp.
 Motion profile: **Suspended winter stillness with gentle atmospheric drift**
 
 ## 6. Technique
