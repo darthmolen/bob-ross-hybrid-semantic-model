@@ -18,7 +18,7 @@ A winter forest interior composition with backlit atmospheric glow.
 - Rich Van Dyke Brown for tree trunks and darker earth tones
 - Titanium White for snow patches and bark highlights
 - Cadmium Yellow and Indian Yellow for the warm background glow
-- Dark Sienna and Burnt Sienna tones in the warm atmospheric haze
+- Dark Sienna tones in the warm atmospheric haze
 - Midnight Black and dark earth tones for evergreen foliage
 - Sap Green mixed with darker values for pine needles
 - Yellow Ochre for warm midtones in snow and bark
