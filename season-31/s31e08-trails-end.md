@@ -8,7 +8,7 @@
 - Misty atmospheric background with layered blue-purple mountain forms
 - Dark forest floor and undergrowth anchor foreground
 - Strong vertical emphasis from bare tree trunks contrasts with horizontal trail
-**Compositional archetype: vignette forest trail with atmospheric depth**
+Compositional archetype: **vignette forest trail with atmospheric depth**
 
 ## 2. Palette
 - Deep Prussian Blue and Phthalo Blue create misty atmospheric background

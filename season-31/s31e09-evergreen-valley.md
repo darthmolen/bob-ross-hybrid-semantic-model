@@ -8,7 +8,7 @@
 - Clear blue sky with soft atmospheric gradations suggesting depth and distance
 - Single bare snag tree stands sentinel on the right side, adding vertical contrast
 - Strong horizontal layering creates distinct zones: sky, mountains, forest, meadow
-**Mountain valley archetype** with classic foreground-midground-background progression and dramatic vertical scale.
+Compositional archetype: **mountain valley archetype** with classic foreground-midground-background progression and dramatic vertical scale.
 
 ## 2. Palette
 - Cool blues and purples dominate the mountain range, creating atmospheric depth

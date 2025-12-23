@@ -74,11 +74,11 @@ Foundational approach: **Full Liquid White Coverage** — uniform wet base enabl
 
 ```yaml
 tags:
-  composition_archetype: "Mountain Lake Pastoral"
-  palette_identity: "Alpine Verdant"
-  depth_style: "Layered Alpine Vista"
-  lighting_type: "Midday Brilliance"
-  motion_profile: "Tranquil Stillness"
+  composition_archetype: "mountain lake pastoral"
+  palette_identity: "alpine verdant"
+  depth_style: "layered alpine vista"
+  lighting_type: "midday brilliance"
+  motion_profile: "tranquil stillness"
 
 episode:
   season: 31

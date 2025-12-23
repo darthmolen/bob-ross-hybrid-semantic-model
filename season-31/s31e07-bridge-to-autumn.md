@@ -47,7 +47,7 @@ Depth style: **horizontal layering with atmospheric perspective and bridge focal
 - **Compositional flow lines**: Diagonal bridge angle leads eye from right to left; water creates horizontal stability
 - **Atmospheric motion**: Gentle mist suggesting early morning or evening stillness
 
-Motion profile: **静止 stillness with atmospheric softness and bridge as anchoring element**
+Motion profile: **stillness with atmospheric softness and bridge as anchoring element**
 
 ## 6. Technique
 
