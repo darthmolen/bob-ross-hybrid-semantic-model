@@ -69,6 +69,16 @@ Raw GitHub URLs for programmatic access:
 https://raw.githubusercontent.com/{username}/bob-ross-semantic-index/main/season-02/s02e06-black-river.md
 ```
 
+## AI Chat Client Integration
+
+This semantic model is optimized for use with AI assistants like Claude, ChatGPT, GitHub Copilot, and others. The structured format enables natural language queries about Bob Ross paintings, techniques, and compositional elements.
+
+See [AI-CLIENT-CHAT-USAGE.md](AI-CLIENT-CHAT-USAGE.md) for detailed instructions on:
+- Querying the dataset with AI chat clients
+- Platform-specific usage (Claude, ChatGPT, Copilot)
+- Example prompts for finding paintings, learning techniques, and analysis
+- Tips for getting the best results
+
 ## Contributing
 
 This is a personal project focused on semantic richness and natural language accessibility. Episode entries follow strict style requirements:
