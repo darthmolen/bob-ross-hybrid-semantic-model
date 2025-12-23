@@ -61,7 +61,7 @@ Motion profile: **static winter serenity with radial atmospheric glow** — hori
 
 The oval vignette focuses attention on the central composition while the dramatic twilight sky showcases expert color gradation from warm yellows through pinks and purples to deep blues.
 
-Signature technique: **oval vignette framing with multi-hued twilight sky gradient** transitioning from warm glow to cool overhead atmosphere.
+Signature technique: **oval vignette framing with multi-hued twilight sky gradient**
 
 ## 7. Narrative Layer
 

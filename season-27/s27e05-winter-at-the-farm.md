@@ -46,7 +46,7 @@ Lighting: **soft diffused winter light** with atmospheric haze creating gentle d
 - **Midground:** Farm buildings and immediate snow fields
 - **Background:** Misty evergreen forest fading into atmospheric haze
 
-Depth style: **atmospheric fade with layered planes** from sharp foreground detail to soft misty background.
+Depth style: **atmospheric fade with layered planes**
 
 ## 5. Motion
 
@@ -70,7 +70,7 @@ Motion profile: **gentle foreground-to-midground diagonal flow with atmospheric 
 - Feathering technique for misty tree line
 - Dry-brush highlights for snow texture
 
-Signature technique: **blue shadow modeling on snow** with soft atmospheric blending in the background.
+Signature technique: **blue shadow modeling on snow**
 
 ## 7. Narrative Layer
 

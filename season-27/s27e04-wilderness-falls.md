@@ -46,7 +46,7 @@ Lighting: **soft atmospheric glow** with warm backlighting illuminating the moun
 - **Midground:** Soft gray-blue misty layer creating atmospheric depth
 - **Background:** Lavender-purple mountain peak against colorful sky
 
-Depth style: **layered atmospheric planes** with distinct foreground, mist layer, and mountain background.
+Depth style: **layered atmospheric planes**
 
 ## 5. Motion
 

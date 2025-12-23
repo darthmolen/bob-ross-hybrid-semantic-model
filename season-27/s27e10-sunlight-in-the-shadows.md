@@ -44,7 +44,7 @@ Lighting: **intense backlit sunset glow** creating dramatic silhouettes and gold
 - **Midground:** Tree trunks and foliage transitioning from shadow to illuminated edges
 - **Background:** Radiant sunset sky with warm atmospheric glow spreading outward from the light source
 
-Depth style: **radial depth with atmospheric perspective** emanating from central light source through layered silhouettes.
+Depth style: **radial depth with atmospheric perspective**
 
 ## 5. Motion
 
@@ -69,7 +69,7 @@ Motion profile: **outward radial light diffusion with gentle water flow**
 - Liner brush for foreground grasses and reeds
 - Layered glazing technique building luminosity in the light source
 
-Signature technique: **brilliant sunset glow achieved through layered warm glazes** contrasted against dark silhouetted forms.
+Signature technique: **brilliant sunset glow achieved through layered warm glazes**
 
 ## 7. Narrative Layer
 

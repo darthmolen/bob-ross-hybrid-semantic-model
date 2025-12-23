@@ -47,7 +47,7 @@ Lighting: **soft diffused winter light** with pink-lavender atmospheric glow.
 - **Midground:** Line of evergreen trees and water feature creating depth
 - **Background:** Towering mountains against pink-lavender sky
 
-Depth style: **layered planes with atmospheric perspective** from foreground cabin to distant peaks.
+Depth style: **layered planes with atmospheric perspective**
 
 ## 5. Motion
 
@@ -58,7 +58,7 @@ Depth style: **layered planes with atmospheric perspective** from foreground cab
 - Calm, motionless winter atmosphere
 - No wind or active weather suggested
 
-Motion profile: **静寂 (seijaku) - profound stillness** of frozen winter landscape.
+Motion profile: **profound stillness**
 
 ## 6. Technique
 
@@ -72,7 +72,7 @@ Motion profile: **静寂 (seijaku) - profound stillness** of frozen winter lands
 - Soft blending for the pink-lavender sky
 - Heavy white highlights for fresh snow appearance
 
-Signature technique: **palette knife snow coverage** creating dimensional peaks and drifts.
+Signature technique: **palette knife snow coverage**
 
 ## 7. Narrative Layer
 
