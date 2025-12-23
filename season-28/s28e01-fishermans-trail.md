@@ -1,7 +1,7 @@
 # Season 28, Episode 1 — "Fisherman's Trail" (1993)
 
 ## 1. Composition
-A commanding snow-capped mountain dominates the background, its angular peaks rising dramatically against a warm amber sky. The mountain's blue-gray slopes are accented with brilliant white snow, particularly along the ridgeline and right face. A tranquil lake stretches across the midground, its dark teal surface creating a mirror for the scene above. Tall evergreen trees frame both sides of the composition, their dark silhouettes providing strong vertical elements. In the immediate foreground, clusters of golden-green bushes and shrubs line the water's edge, suggesting the fisherman's trail that winds along the shore. The composition follows a **mountain lake with evergreen framing archetype**.
+A commanding snow-capped mountain dominates the background, its angular peaks rising dramatically against a warm amber sky. The mountain's blue-gray slopes are accented with brilliant white snow, particularly along the ridgeline and right face. A tranquil lake stretches across the midground, its dark teal surface creating a mirror for the scene above. Tall evergreen trees frame both sides of the composition, their dark silhouettes providing strong vertical elements. In the immediate foreground, clusters of golden-green bushes and shrubs line the water's edge, suggesting the fisherman's trail that winds along the shore. **Mountain lake with evergreen framing**
 
 ## 2. Palette
 Prussian Blue and Phthalo Blue create the mountain's shadowed slopes and the deep water reflections. Titanium White builds the snow-covered peaks and highlights. Van Dyke Brown and Midnight Black form the dark evergreen trees and their trunks. Sap Green mixed with various yellows creates the foliage masses. Cadmium Yellow and Indian Yellow provide the golden warmth in the foreground bushes. Yellow Ochre adds earthy tones to the vegetation. The warm sky likely incorporates Indian Yellow and touches of Alizarin Crimson blended with Titanium White.
@@ -33,7 +33,7 @@ The canvas was prepared with a thin, even coat of Liquid White to allow for smoo
 
 ```yaml
 tags:
-  composition_archetype: "mountain lake with evergreen framing archetype"
+  composition_archetype: "Mountain lake with evergreen framing"
   palette_identity: "Alpine twilight with golden foreground accents"
   depth_style: "Layered recession from golden shore to distant alpine summit"
   lighting_type: "Warm backlight"
