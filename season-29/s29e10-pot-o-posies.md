@@ -57,7 +57,6 @@ Motion profile: **Static floral arrangement with organic botanical gestures**
 Signature technique: **Impasto palette knife florals with dramatic chiaroscuro lighting**
 
 ## 7. Narrative Layer
-
 "In this departure from his beloved landscapes, Ross demonstrates mastery of the classical still life tradition. The pot of vibrant posies emerges from darkness like a gift of light and life, celebrating the simple beauty of arranged flowers. This painting reveals Ross's versatility and his ability to find joy in any subject—whether vast mountain ranges or a humble vessel of blooms. The theatrical lighting and rich colors transform everyday flowers into something precious and worthy of contemplation."
 
 ## 8. Initial Canvas Treatment
