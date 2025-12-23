@@ -93,7 +93,7 @@ A smooth wet canvas foundation supporting extensive atmospheric blending and ver
 ```yaml
 tags:
   composition_archetype: "vertical waterfall monument"
-  palette_identity: "Cool Misty Monumentality with Earth-Warmed Stone"
+  palette_identity: "cool misty monumentality with earth-warmed stone"
   depth_style: "layered atmospheric recession"
   lighting_type: "diffuse atmospheric glow"
   motion_profile: "vertical cascade with rising mist counter-flow"

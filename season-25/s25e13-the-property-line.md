@@ -93,7 +93,7 @@ A standard Liquid White foundation enabling seamless atmospheric blending and th
 ```yaml
 tags:
   composition_archetype: "transitional season landscape with fence and evergreen"
-  palette_identity: "Golden Autumn Mist with Winter Snow Contrast"
+  palette_identity: "golden autumn mist with winter snow contrast"
   depth_style: "atmospheric fade with color temperature shift"
   lighting_type: "diffuse atmospheric glow"
   motion_profile: "gentle atmospheric diffusion with diagonal compositional flow"

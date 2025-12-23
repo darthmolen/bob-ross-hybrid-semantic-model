@@ -89,7 +89,7 @@ A black gesso oval-masked foundation emphasizing dramatic contrast between dark 
 ```yaml
 tags:
   composition_archetype: "oval waterfall sanctuary"
-  palette_identity: "Golden Glow Sanctuary with Silhouetted Forest Framing"
+  palette_identity: "golden glow sanctuary with silhouetted forest framing"
   depth_style: "radial tunnel depth"
   lighting_type: "dramatic backlit glow"
   motion_profile: "vertical cascade with radial inward pull"

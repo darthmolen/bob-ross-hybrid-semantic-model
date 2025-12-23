@@ -79,7 +79,7 @@ A traditional Liquid White foundation supporting bright, vibrant colors and seam
 ```yaml
 tags:
   composition_archetype: "mountain stream vista with asymmetric forest framing"
-  palette_identity: "Mountain Stream Brilliance with Asymmetric Forest Contrast"
+  palette_identity: "mountain stream brilliance with asymmetric forest contrast"
   depth_style: "layered planes with atmospheric perspective"
   lighting_type: "bright midday illumination"
   motion_profile: "vigorous downstream flow"
