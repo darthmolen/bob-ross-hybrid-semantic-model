@@ -39,11 +39,11 @@ The oval vignette format required careful pre-planning of the canvas treatment, 
 
 ```yaml
 tags:
-  composition_archetype: "Vignette seascape with minimal landmass"
-  palette_identity: "Cotton candy sunrise over crystalline waters"
-  depth_style: "Oval window onto layered atmospheric planes"
-  lighting_type: "Diffused sunrise glow"
-  motion_profile: "Gentle rhythmic convergence"
+  composition_archetype: "vignette seascape with minimal landmass"
+  palette_identity: "cotton candy sunrise over crystalline waters"
+  depth_style: "oval window onto layered atmospheric planes"
+  lighting_type: "diffused sunrise glow"
+  motion_profile: "gentle rhythmic convergence"
 
 episode:
   season: 22

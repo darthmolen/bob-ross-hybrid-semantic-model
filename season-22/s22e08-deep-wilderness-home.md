@@ -34,11 +34,11 @@ The canvas received a Black Gesso treatment, providing the deep, rich foundation
 
 ```yaml
 tags:
-  composition_archetype: "Wilderness homestead in atmospheric isolation"
-  palette_identity: "Luminous spring meadow against weathered abandonment"
-  depth_style: "Atmospheric perspective through graduated mist layers"
-  lighting_type: "Diffused misty morning light"
-  motion_profile: "Suspended stillness with drifting mist"
+  composition_archetype: "wilderness homestead in atmospheric isolation"
+  palette_identity: "luminous spring meadow against weathered abandonment"
+  depth_style: "atmospheric perspective through graduated mist layers"
+  lighting_type: "diffused misty morning light"
+  motion_profile: "suspended stillness with drifting mist"
 
 episode:
   season: 22

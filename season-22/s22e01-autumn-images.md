@@ -33,11 +33,11 @@ The canvas received a light application across the sky area to enable smooth ble
 
 ```yaml
 tags:
-  composition_archetype: "Portal framing with seasonal contrast"
-  palette_identity: "Autumn gold against alpine blues"
-  depth_style: "Atmospheric portal with dramatic recession"
-  lighting_type: "High-altitude clarity"
-  motion_profile: "Gentle atmospheric drift"
+  composition_archetype: "portal framing with seasonal contrast"
+  palette_identity: "autumn gold against alpine blues"
+  depth_style: "atmospheric portal with dramatic recession"
+  lighting_type: "high-altitude clarity"
+  motion_profile: "gentle atmospheric drift"
 
 episode:
   season: 22
