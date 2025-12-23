@@ -7,7 +7,7 @@
 - **Sky:** Soft morning sky with delicate white clouds blending into blue, creating ethereal atmosphere
 - **Structures:** None—pure wilderness scene
 - **Focal arrangement:** Central vista framed by darker foreground elements, drawing the eye through the misty corridor
-- Compositional archetype: **Framing gateway** — darker side elements create a natural window into the misty, illuminated center
+Compositional archetype: **Framing gateway** — darker side elements create a natural window into the misty, illuminated center
 
 ## 2. Palette
 - **Dominant blues:** Soft Prussian and Phthalo blues create the serene sky and water

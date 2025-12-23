@@ -7,7 +7,7 @@
 - Massive crashing wave dominates center-right
 - Towering storm clouds consume the upper half
 - No trees or man-made structures
-- Compositional archetype: **Oval storm portal with turbulent seascape**
+Compositional archetype: **Oval storm portal with turbulent seascape**
 
 ## 2. Palette
 - Deep Prussian Blue and Phthalo Blue create the ominous storm clouds

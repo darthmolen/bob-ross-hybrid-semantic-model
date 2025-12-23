@@ -6,7 +6,7 @@
 - Tall evergreen trees frame both left and right edges, creating natural borders
 - Mountains display both pristine snow coverage and exposed rocky cliff faces
 - Foreground anchored by dark silhouetted conifers establishing depth
-- Compositional archetype: **Framed Mountain Sanctuary**
+Compositional archetype: **Framed Mountain Sanctuary**
 
 ## 2. Palette
 - Soft pink and lavender tones wash across the tranquil sky

@@ -7,7 +7,7 @@
 - Still water surface occupying lower half, creating perfect reflections
 - Dark sky backdrop providing dramatic contrast to white birch bark
 - Minimal structures; pure landscape focus on trees and water
-- **Compositional archetype: Mirror reflection nocturne**
+Compositional archetype: **Mirror reflection nocturne**
 
 ## 2. Palette
 - Dominant Midnight Black for sky and shadowed areas

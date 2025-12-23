@@ -9,7 +9,7 @@
 - Small rustic cabin tucked into lower left foreground, providing human scale
 - Dark evergreen trees on right shoreline add vertical contrast to horizontal water
 - Dramatic overcast sky with rolling storm clouds and subtle breaks of light
-- Compositional archetype: **bilateral mountain sentinels framing misty valley**
+Compositional archetype: **bilateral mountain sentinels framing misty valley**
 
 ## 2. Palette
 - Dominated by cool blues and greys, evoking extreme cold

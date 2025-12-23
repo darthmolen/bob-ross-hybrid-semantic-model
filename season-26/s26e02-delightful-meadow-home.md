@@ -8,7 +8,7 @@
 - Fence line creating diagonal pathway to structure
 - Dirt road leading eye toward the homestead
 - Open meadow expanse with subtle undulation
-- Compositional archetype: **Pastoral homestead with meadow vista**
+Compositional archetype: **Pastoral homestead with meadow vista**
 
 ## 2. Palette
 - Soft yellows and creams creating atmospheric glow in mist

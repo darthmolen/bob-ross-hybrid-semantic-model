@@ -7,7 +7,7 @@
 - Rocks and fallen logs punctuate the stream banks, adding textural interest
 - Trees lean inward from left and right, creating strong converging lines toward the radiant center
 - Foreground features darker water with highlighted ripples and rocky stream bed
-- Compositional archetype: **Illuminated pathway portal** — the dark-to-light tunnel inviting exploration
+Compositional archetype: **Illuminated pathway portal** — the dark-to-light tunnel inviting exploration
 
 ## 2. Palette
 - Deep forest greens dominating the foliage masses, built from layered dark and light greens
