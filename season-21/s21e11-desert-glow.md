@@ -49,7 +49,7 @@ Motion profile: **Horizontal Sky Sweep**
 - **Knife work**: Rock formation structure and texture; bold edges on mesa
 - **Blending methods**: Wet-on-wet horizontal strokes for sky gradations; cross-hatching for cloud bands
 - **Special effects**: Silhouette technique using dark values against luminous background; atmospheric perspective with distant formations
-- **Signature technique**: Oval vignette framing with exterior frame-breaking cactus element
+- **Signature technique**: **Oval vignette framing with exterior frame-breaking cactus element**
 
 ## 7. Narrative Layer
 "In the American Southwest, a lone saguaro stands sentinel as the desert day surrenders to twilight. The ancient rocks glow with the day's last warmth, their surfaces painted in fire while distant formations fade to memory. This is a moment of transition, where the harsh desert reveals its softer soul, and the landscape whispers of timeless patience and enduring beauty beneath the ever-changing sky."
