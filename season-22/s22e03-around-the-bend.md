@@ -42,7 +42,7 @@ Depth style: **layered forest recession with luminous center**
 
 ## 5. Motion
 The river provides the primary motion, its waters flowing energetically from right to left with visible white rapids suggesting movement over rocks and through shallow sections. The water's surface shows directional brushwork indicating current and flow, with the S-curve creating a rhythmic, meandering movement through the scene. The vertical conifers stand static and sentinel-like, contrasting with the horizontal flow of water. The foliage appears still, though the varied brushwork in the midground bushes creates textural activity. The overall motion is gentle but persistent—the steady, timeless flow of water through an ancient forest.
-Motion profile: **gentle meandering current**
+Motion profile: **gentle meandering S-curve current**
 
 ## 6. Technique
 Fan brush work creates the delicate evergreen needles with upward strokes, building the characteristic spired shapes of the conifers. Palette knife work is evident in the rocky outcrops along the water's edge and the rough texture of tree bark. The water employs horizontal brushstrokes with Titanium White dragged over darker values to create the illusion of moving rapids and reflective surfaces. Midground foliage uses the 1-inch brush with push-up strokes and tapping motions to build bushy, organic forms. Highlights on grasses and vegetation are applied with thin liner brush for individual blades and stems. The Black Gesso base allows the dark values to remain rich and deep without excessive paint buildup. Van Dyke Brown underpainting likely established the water's initial flow pattern before lighter values were added.
