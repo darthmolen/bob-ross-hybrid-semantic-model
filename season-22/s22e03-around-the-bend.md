@@ -1,15 +1,40 @@
 # Season 22, Episode 3 — "Around the Bend" (1990)
 
 ## 1. Composition
-A winding river flows through a dense forest corridor, its waters curving gently from right to left in the classic S-curve that gives the episode its name. Tall, dark evergreen conifers rise vertically along the background, their spired silhouettes creating a dramatic tree line against patches of blue sky. The midground features lush green deciduous vegetation and bushes crowding the river banks, while rocky outcrops and stones punctuate the water's edge and shallow rapids. The foreground presents shadowed grasses and low vegetation along the water's near bank. The composition creates a naturalistic tunnel effect, drawing the eye through the forest clearing and along the river's serpentine path. Compositional archetype: **winding river through forest corridor**
+
+- **Landforms**: No mountains; flat forested terrain with gentle river banks
+- **Water features**: Distinctive green-reflecting winding river with pronounced S-curve bend; shallow rapids over rocks; water appears green due to dense forest reflections
+- **Trees and vegetation**: Dense dark evergreen conifer forest creating vertical walls; spired silhouettes against sky; lush green bushes crowding river banks; shadowed foreground grasses and low vegetation
+- **Sky conditions**: Patches of blue sky visible through tree canopy; limited sky exposure due to forest enclosure
+- **Structures**: None
+- **Notable absences**: No mountains, no birch trees, no bright spring colors, no snow
+
+A winding river flows through a dense forest corridor, its waters curving gently from right to left in the classic S-curve that gives the episode its name. Tall, dark evergreen conifers rise vertically along the background, their spired silhouettes creating a dramatic tree line against patches of blue sky. The midground features lush green deciduous vegetation and bushes crowding the river banks, while rocky outcrops and stones punctuate the water's edge and shallow rapids. The foreground presents shadowed grasses and low vegetation along the water's near bank. The composition creates a naturalistic tunnel effect, drawing the eye through the forest clearing and along the river's serpentine path.
+
+Compositional archetype: **winding S-curve river through dark evergreen forest corridor**
 
 ## 2. Palette
-Deep Prussian and Phthalo blues establish the sky and water reflections, while Midnight Black anchors the darkest conifers and shadows. Sap Green and Phthalo Green dominate the midground foliage and grassy banks, with Indian Yellow and Cadmium Yellow providing highlights on sunlit vegetation. Van Dyke Brown and Dark Sienna define tree trunks, river rocks, and earthen tones. Alizarin Crimson and Bright Red add subtle warmth to tree bark and undergrowth, while Yellow Ochre creates golden grassy tones. Titanium White brightens the water's rapids, sky, and creates the luminous quality in the river's flow. The palette moves from cool forest blues and greens to warm yellows and earth tones.
-Palette identity: **forest green corridor with golden accents**
+
+- **Primary colors used**: Prussian Blue and Phthalo Blue for sky; Midnight Black for darkest conifers and deep shadows; Sap Green and Phthalo Green for foliage, grassy banks, and river reflections; Indian Yellow and Cadmium Yellow for vegetation highlights; Van Dyke Brown and Dark Sienna for trunks and rocks; Titanium White for rapids and sky highlights
+- **Warm vs cool**: Cool-dominant palette with forest greens and deep shadows; warm yellow accents on sunlit vegetation
+- **High-contrast vs low-contrast**: High contrast from Black Gesso foundation; dark values dominate with selective bright highlights
+- **Signature color relationships**: **Green-tinted river water reflecting the dense forest canopy**; dark evergreen silhouettes against blue sky patches; golden grass highlights against shadowed foreground
+- **Water color**: River appears distinctively green due to surrounding forest reflections mixing with blue undertones
+
+Deep Prussian and Phthalo blues establish the sky, while the river water takes on a distinctive **green cast from reflecting the dense evergreen forest** surrounding it. Midnight Black anchors the darkest conifers and shadows. Sap Green and Phthalo Green dominate the midground foliage, grassy banks, and color the river's surface. Indian Yellow and Cadmium Yellow provide highlights on sunlit vegetation. Van Dyke Brown and Dark Sienna define tree trunks, river rocks, and earthen tones. Alizarin Crimson and Bright Red add subtle warmth to tree bark and undergrowth, while Yellow Ochre creates golden grassy tones. Titanium White brightens the water's rapids, sky, and creates the luminous quality in the river's flow.
+
+Palette identity: **dark forest corridor with green-reflecting river and golden accents**
 
 ## 3. Mood & Atmosphere
-The painting evokes a sense of peaceful solitude and discovery, as if the viewer has stumbled upon a hidden waterway deep in untouched wilderness. The atmosphere is fresh and cool, suggesting morning mist rising from the water or filtered sunlight penetrating the dense canopy. There's a gentle energy in the flowing water contrasted with the stillness of the surrounding forest, creating a meditative quality. The tunnel-like composition imparts both shelter and mystery, inviting exploration around the river's bend to discover what lies beyond.
-Lighting: **filtered forest light** creating soft, dappled illumination through the tree canopy.
+
+- **Tone**: Mysterious, secluded, meditative, cool
+- **Lighting type**: Filtered forest light with dappled illumination; subdued brightness due to dense canopy
+- **Emotional resonance**: Peaceful solitude and discovery; sheltered wilderness feeling; invitation to explore beyond the bend
+- **Atmosphere**: Dark and enclosed compared to typical Bob Ross scenes; Black Gesso foundation creates deeper shadows and moodier feeling than bright Liquid White paintings
+
+The painting evokes a sense of peaceful solitude and discovery, as if the viewer has stumbled upon a hidden waterway deep in untouched wilderness. The atmosphere is fresh and cool, suggesting morning mist rising from the water or filtered sunlight penetrating the dense canopy. There's a gentle energy in the flowing water contrasted with the stillness of the surrounding forest, creating a meditative quality. The tunnel-like composition imparts both shelter and mystery, inviting exploration around the river's bend to discover what lies beyond. Unlike bright mountain scenes or spring landscapes, this painting emphasizes dark enclosure and forest depth.
+
+Lighting: **filtered forest light with dark canopy shadows** creating soft, dappled illumination—distinctly darker than sunny open landscapes.
 
 ## 4. Structural Layout
 The left side features dense dark conifers creating a vertical wall of forest, while the right side opens slightly with lighter green vegetation before transitioning to more evergreens. Center stage is dominated by the river itself, which enters from the right middle distance and curves toward the left foreground, creating the titular bend. The foreground is relatively dark with shadowed grasses and low bushes framing the water's near edge. The midground contains the brightest elements—sunlit green banks, vibrant bushes, and the active water with its white rapids flowing over rocks. The background rises with the tall evergreen tree line creating depth and enclosure, while glimpses of blue sky peek through the upper portions. The spatial arrangement creates a pronounced recession from dark near to bright middle to dark distance.
@@ -17,7 +42,7 @@ Depth style: **layered forest recession with luminous center**
 
 ## 5. Motion
 The river provides the primary motion, its waters flowing energetically from right to left with visible white rapids suggesting movement over rocks and through shallow sections. The water's surface shows directional brushwork indicating current and flow, with the S-curve creating a rhythmic, meandering movement through the scene. The vertical conifers stand static and sentinel-like, contrasting with the horizontal flow of water. The foliage appears still, though the varied brushwork in the midground bushes creates textural activity. The overall motion is gentle but persistent—the steady, timeless flow of water through an ancient forest.
-Motion profile: **gentle meandering current**
+Motion profile: **gentle meandering S-curve current**
 
 ## 6. Technique
 Fan brush work creates the delicate evergreen needles with upward strokes, building the characteristic spired shapes of the conifers. Palette knife work is evident in the rocky outcrops along the water's edge and the rough texture of tree bark. The water employs horizontal brushstrokes with Titanium White dragged over darker values to create the illusion of moving rapids and reflective surfaces. Midground foliage uses the 1-inch brush with push-up strokes and tapping motions to build bushy, organic forms. Highlights on grasses and vegetation are applied with thin liner brush for individual blades and stems. The Black Gesso base allows the dark values to remain rich and deep without excessive paint buildup. Van Dyke Brown underpainting likely established the water's initial flow pattern before lighter values were added.
@@ -33,11 +58,23 @@ The canvas was treated with Black Gesso, providing a dark foundation that serves
 
 ```yaml
 tags:
-  composition_archetype: "winding river through forest corridor"
-  palette_identity: "forest green corridor with golden accents"
+  composition_archetype: "winding S-curve river through dark evergreen forest corridor"
+  palette_identity: "dark forest corridor with green-reflecting river and golden accents"
   depth_style: "layered forest recession with luminous center"
-  lighting_type: "filtered forest light"
-  motion_profile: "gentle meandering current"
+  lighting_type: "filtered forest light with dark canopy shadows"
+  motion_profile: "gentle meandering S-curve current"
+  canvas_treatment: "black gesso"
+  water_character: "green-tinted river reflecting forest canopy"
+  distinctive_features:
+    - "pronounced S-curve river bend"
+    - "green-colored water from forest reflections"
+    - "dark enclosed forest corridor"
+    - "black gesso moody atmosphere"
+  notable_absences:
+    - "no mountains"
+    - "no birch trees"
+    - "no bright spring colors"
+    - "no snow"
 
 episode:
   season: 22
