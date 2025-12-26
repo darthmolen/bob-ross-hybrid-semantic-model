@@ -387,7 +387,7 @@ Master searchable list of all 403 "Joy of Painting" episodes with semantic tags 
 | 28 | 13 | Home Before Nightfall | Sheltered homestead with autum.. | Autumn dusk with glowing .. | Framed center with l.. | Interior lampli.. | [📄](season-28/s28e13-home-before-nightfall.md) |
 | 29 | 1 | Island in the Wilderness | island sanctuary composition | twilight serenity with vi.. | atmospheric layering.. | twilight ambient | [📄](season-29/s29e01-island-in-the-wilderness.md) |
 | 29 | 2 | Autumn Oval | mountain lake with autumn foli.. | golden autumn warmth with.. | layered atmospheric .. | warm diffused b.. | [📄](season-29/s29e02-autumn-oval.md) |
-| 29 | 3 | Seasonal Progression | mountain-lake with seasonal du.. | winter-to-spring transiti.. | layered atmospheric .. | bright midday c.. | [📄](season-29/s29e03-seasonal-progression.md) |
+| 29 | 3 | Seasonal Progression | Split Seasonal Diptych | Seasonal Contrast Spectrum | Parallel Seasonal De.. | Dual Ambient Se.. | [📄](season-29/s29e03-seasonal-progression.md) |
 | 29 | 4 | Light at the Summit | mountain vista with framing tr.. | brilliant turquoise and e.. | multi-layered atmosp.. | high mountain d.. | [📄](season-29/s29e04-light-at-the-summit.md) |
 | 29 | 5 | Countryside Barn | pastoral countryside with cent.. | vibrant pastoral with war.. | strong linear perspe.. | bright overhead.. | [📄](season-29/s29e05-countryside-barn.md) |
 | 29 | 6 | Mountain Lake Falls | classic alpine majesty | glacial blues with verdan.. | layered alpine reces.. | soft natural da.. | [📄](season-29/s29e06-mountain-lake-falls.md) |
@@ -3104,10 +3104,10 @@ Master searchable list of all 403 "Joy of Painting" episodes with semantic tags 
 - **Link**: [season-29/s29e02-autumn-oval.md](season-29/s29e02-autumn-oval.md)
 
 ### Episode 3: "Seasonal Progression"
-- **Composition**: mountain-lake with seasonal duality
-- **Palette**: winter-to-spring transition with alpine blues and vibrant spring greens
-- **Depth Style**: layered atmospheric progression from vibrant foreground to monumental mountain
-- **Lighting**: bright midday clarity
+- **Composition**: Split Seasonal Diptych
+- **Palette**: Seasonal Contrast Spectrum
+- **Depth Style**: Parallel Seasonal Depth
+- **Lighting**: Dual Ambient Seasonal Light
 - **Link**: [season-29/s29e03-seasonal-progression.md](season-29/s29e03-seasonal-progression.md)
 
 ### Episode 4: "Light at the Summit"
@@ -3516,7 +3516,7 @@ Master searchable list of all 403 "Joy of Painting" episodes with semantic tags 
 - **Segmented triptych panorama with narrative progression from isolation to habitation to open wilderness**: S10E11
 - **Sheltered homestead with autumnal canopy**: S28E13
 - **Sheltered lakeside sanctuary with mountain backdrop**: S13E07
-- **Split Season Diptych**: S16E01
+- **Split Seasonal Diptych**: S16E01, S29E03
 - **Sunset-lit winter sanctuary with framing trees**: S11E11
 - **Symmetrical Sunset Archway with Central Radiance**: S19E03
 - **Tropical Seascape With Palm**: S16E08
@@ -3658,7 +3658,6 @@ Master searchable list of all 403 "Joy of Painting" episodes with semantic tags 
 - **mountain-lake reflection archetype with natural foliage framing**: S10E01
 - **mountain-lake reflection composition with waterfall accent and seasonal autumn color**: S02E08
 - **mountain-lake reflection with autumn foliage**: S01E13
-- **mountain-lake with seasonal duality**: S29E03
 - **mountain-lake-meadow composition with seasonal autumn colors**: S02E01
 - **mountain-river-meadow landscape**: S06E07
 - **mountain-valley with expansive meadow**: S01E08
@@ -3882,7 +3881,7 @@ Master searchable list of all 403 "Joy of Painting" episodes with semantic tags 
 - **Purple-mist meadow**: S14E02
 - **Radiant autumn gold with warm earth foundations**: S28E05
 - **Rustic Warmth**: S17E05
-- **Seasonal Contrast Spectrum**: S16E01, S20E13
+- **Seasonal Contrast Spectrum**: S16E01, S20E13, S29E03
 - **Serene pastoral greens against atmospheric blue-violet mountains**: S31E06
 - **Soft Mountain Mist with Golden Highlights**: S18E01
 - **Soft pastel sunset with alpine contrast**: S28E03
@@ -4125,7 +4124,6 @@ Master searchable list of all 403 "Joy of Painting" episodes with semantic tags 
 - **winter dawn palette with warm cabin glow against cool blue shadows**: S27E08
 - **winter sunset palette with cool purple-blue dominance**: S09E01
 - **winter warmth palette with peachy sunset glow**: S01E11
-- **winter-to-spring transition with alpine blues and vibrant spring greens**: S29E03
 
 ### By Depth Style
 
@@ -4262,7 +4260,7 @@ Master searchable list of all 403 "Joy of Painting" episodes with semantic tags 
 - **Oval Vignette Depth with Centered Focal Plane**: S18E10
 - **Oval Vignette With Atmospheric Recession**: S16E09
 - **Oval-framed layered recession from intimate foreground water to monumental mountain**: S26E08
-- **Parallel Seasonal Depth**: S16E01
+- **Parallel Seasonal Depth**: S16E01, S29E03
 - **Portal Depth with Atmospheric Fade**: S18E05
 - **Radial Depth with Atmospheric Glow Gradient**: S19E03
 - **Radial Vignette Depth with Atmospheric Mountain Recession**: S13E13
@@ -4383,7 +4381,6 @@ Master searchable list of all 403 "Joy of Painting" episodes with semantic tags 
 - **layered atmospheric planes**: S06E09, S25E01, S25E12, S27E04
 - **layered atmospheric planes with clear foreground-to-background progression**: S02E01
 - **layered atmospheric progression**: S12E13
-- **layered atmospheric progression from vibrant foreground to monumental mountain**: S29E03
 - **layered atmospheric recession**: S01E05, S04E13, S12E06, S25E06, S31E13
 - **layered atmospheric recession from bright foreground through reflective midground to distant gray peaks**: S24E01
 - **layered atmospheric recession from crisp foreground detail to misty mountain softness**: S26E05
@@ -4543,7 +4540,7 @@ Master searchable list of all 403 "Joy of Painting" episodes with semantic tags 
 - **Dramatic Storm Backlighting**: S14E07
 - **Dramatic backlighting**: S26E09
 - **Dramatic backlit sunset**: S13E04
-- **Dual Ambient Seasonal Light**: S16E01
+- **Dual Ambient Seasonal Light**: S16E01, S29E03
 - **Dual Portal Backlight**: S16E05
 - **Dual-source nocturnal illumination—warm artificial beacon and cool natural moonlight**: S03E08
 - **Ethereal Atmospheric Glow**: S21E04
@@ -4661,7 +4658,7 @@ Master searchable list of all 403 "Joy of Painting" episodes with semantic tags 
 - **bright high-altitude daylight**: S28E06
 - **bright midday**: S05E11
 - **bright midday alpine**: S04E13
-- **bright midday clarity**: S29E03, S31E09
+- **bright midday clarity**: S31E09
 - **bright midday illumination**: S12E02, S23E03, S25E09
 - **bright midday sun**: S22E04
 - **bright midday winter light**: S24E11
@@ -4928,7 +4925,7 @@ Master searchable list of all 403 "Joy of Painting" episodes with semantic tags 
 - **Settled stillness with inward visual gravity**: S28E13
 - **Sky Drama, Water Calm**: S12E03
 - **Sky dynamism above earthbound stillness**: S15E09
-- **Static Seasonal Juxtaposition**: S16E01
+- **Static Seasonal Juxtaposition**: S16E01, S29E03
 - **Static mountain serenity with gentle cloud drift**: S30E06
 - **Static serenity with gentle horizontal and diagonal flow**: S10E07
 - **Static winter tableau with subtle horizontal eye movement and upward lift toward celestial light**: S10E12
@@ -5000,7 +4997,6 @@ Master searchable list of all 403 "Joy of Painting" episodes with semantic tags 
 - **contemplative stillness with atmospheric radiance**: S09E03
 - **contemplative stillness with atmospheric suspension**: S28E10
 - **contemplative stillness with gentle vertical sky gradient**: S24E01
-- **contemplative stillness with implied seasonal transformation**: S29E03
 - **crystalline stillness with ethereal atmospheric drift**: S22E10
 - **diagonal atmospheric movement**: S01E12
 - **diagonal contour flow**: S04E01
