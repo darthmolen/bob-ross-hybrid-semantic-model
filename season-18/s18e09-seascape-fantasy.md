@@ -69,14 +69,14 @@ Signature technique: **Palette knife wave construction with dramatic foam highli
 
 ## 8. Initial Canvas Treatment
 
-- **Liquid White**: Applied as base for smooth wet-on-wet blending in sky and water
+- **Black gesso**: Applied as the ground and dried; sky and water are worked thin over it
 - **Liquid Clear**: Possibly used for translucent effects in wave structures
 - **Black gesso**: Not used
 - **Grey gesso**: Not used
 - **Contact paper**: Not used
 - **Textured gesso**: Not used
 
-A traditional Liquid White foundation enabling smooth atmospheric blending and luminous color transitions throughout the oceanscape.
+A dry black gesso foundation. The luminous colour transitions across this oceanscape are built up out of that dark ground rather than blended down into a white one.
 
 ---
 
@@ -95,14 +95,19 @@ episode:
   year: 1988
   painting_index: 66
 
+canvas_preparation:
+  ground: "Black Gesso"
+  secondary_tone: null
+  liquid_clear: false
+  liquid_white: false
+  contact_paper: false
+
 colors:
   - Alizarin Crimson
   - Cadmium Yellow
   - Indian Yellow
   - Midnight Black
   - Phthalo Blue
-  - Phthalo Green
-  - Prussian Blue
   - Sap Green
   - Titanium White
 ```

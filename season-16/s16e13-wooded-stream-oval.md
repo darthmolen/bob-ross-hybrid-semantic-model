@@ -60,11 +60,15 @@ Motion profile: **Gentle Stream Through Mist**
 "A secret stream discovered deep in the forest, where mist clings to the water and ancient rocks guard the passage. The oval frame transforms the viewer into a voyeur, peering through a portal into nature's private sanctuary. Time seems suspended in this hushed glen where water whispers over stones and trees lean in to listen, creating a moment of pure woodland mystery."
 
 ## 8. Initial Canvas Treatment
-- Liquid White base applied across the oval area to allow wet-on-wet blending
-- The background likely began with dark values establishing the oval perimeter
-- Initial misty atmosphere laid in with soft blues and whites
-- Foundation provided mobility for water reflections and atmospheric effects
-- The oval format required careful planning to fade edges into the surrounding darkness while maintaining rich detail within the frame.
+
+- **Black gesso** brushed over the canvas and allowed to **dry completely** before any oil is applied. This is a dry acrylic ground, not a wet one: the oils above it cannot be pulled back into it, and every light value in the painting has to be added rather than lifted.
+- No Liquid Clear and no Liquid White base — the oils are carried thin directly over the ground.
+- **Contact paper** cut to shape and applied as a mask, so the area it covers stays clean while the surround is painted, and is lifted before that area is worked.
+
+The black ground carries the value structure of the whole painting. Read the light in this entry as light recovered from darkness, not as shadow laid over white.
+
+> Section 8 is template-filled from the CSV one-hot columns (`scripts/fix_ground.py`), not generated from the image.
+> The text it replaced named the wrong ground for this episode. See `artifacts/ground_fixed.csv` for what it said.
 
 ---
 
@@ -83,9 +87,15 @@ episode:
   year: 1988
   painting_index: 97
 
+canvas_preparation:
+  ground: "Black Gesso"
+  secondary_tone: null
+  liquid_clear: false
+  liquid_white: false
+  contact_paper: true
+
 colors:
   - Midnight Black
-  - Prussian Blue
   - Phthalo Blue
   - Sap Green
   - Yellow Ochre
@@ -93,5 +103,4 @@ colors:
   - Titanium White
   - Van Dyke Brown
   - Dark Sienna
-  - Liquid White
 ```

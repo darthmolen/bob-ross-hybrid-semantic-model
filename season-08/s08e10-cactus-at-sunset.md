@@ -52,7 +52,55 @@ Signature technique: **Wet-on-wet atmospheric blending**
 "A southwestern desert holds its breath at the day's most dramatic moment. The setting sun transforms ordinary clouds into curtains of fire, casting ancient cacti into stark relief. The landscape seems caught between worlds—the cool darkness creeping across the sand and the blazing farewell of light above."
 
 ## 8. Initial Canvas Treatment
-- Dark base coat likely applied for rich undertones
-- Warm foundation to support the intense red-orange palette
-- Pre-toned canvas to enhance the sunset glow effect
-Foundation prepared with dark warm base to anchor the dramatic sunset atmosphere.
+
+- **Black gesso** brushed over the canvas and allowed to **dry completely** before any oil is applied. This is a dry acrylic ground, not a wet one: the oils above it cannot be pulled back into it, and every light value in the painting has to be added rather than lifted.
+- No Liquid Clear and no Liquid White base — the oils are carried thin directly over the ground.
+- **Contact paper** cut to shape and applied as a mask, so the area it covers stays clean while the surround is painted, and is lifted before that area is worked.
+
+The black ground carries the value structure of the whole painting. Read the light in this entry as light recovered from darkness, not as shadow laid over white.
+
+> Section 8 is template-filled from the CSV one-hot columns (`scripts/fix_ground.py`), not generated from the image.
+
+---
+
+## Metadata
+
+```yaml
+tags:
+  palette_identity: "Fiery desert twilight"
+  depth_style: "Atmospheric perspective with silhouette"
+  lighting_type: "Backlighting"
+  motion_profile: "Horizontal sweep with radiant burst"
+
+searchable_features:
+  # TODO — write from the painting: shape, colour and position, plus lay
+  # synonyms. See TEMPLATE.md. Not generated, because a regex over the prose
+  # reproduces the prose's vocabulary, which is the thing that fails at retrieval.
+
+episode:
+  season: 8
+  episode: 10
+  title: "Cactus at Sunset"
+  year: 1986
+  painting_index: 199
+  youtube_url: "https://www.youtube.com/embed/XBqD3QhKU24"
+
+canvas_preparation:
+  ground: "Black Gesso"
+  secondary_tone: null
+  liquid_clear: false
+  liquid_white: false
+  contact_paper: true
+
+colors:
+  - Alizarin Crimson
+  - Black Gesso
+  - Bright Red
+  - Cadmium Yellow
+  - Dark Sienna
+  - Indian Yellow
+  - Midnight Black
+  - Titanium White
+  - Van Dyke Brown
+  - Yellow Ochre
+```

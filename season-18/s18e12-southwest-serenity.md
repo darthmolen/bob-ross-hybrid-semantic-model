@@ -101,13 +101,18 @@ episode:
   year: 1988
   painting_index: 69
 
+canvas_preparation:
+  ground: "Liquid White"
+  secondary_tone: null
+  liquid_clear: false
+  liquid_white: true
+  contact_paper: false
+
 colors:
   - Cadmium Yellow
-  - Indian Yellow
   - Yellow Ochre
   - Alizarin Crimson
   - Phthalo Blue
-  - Prussian Blue
   - Titanium White
   - Midnight Black
   - Van Dyke Brown

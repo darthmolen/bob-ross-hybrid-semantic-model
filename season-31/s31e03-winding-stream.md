@@ -62,14 +62,15 @@ Signature technique: **Graduated fan brush pressure for evergreen depth modeling
 "This is the threshold of wilderness—where the ancient evergreens stand as patient guardians of a hidden stream winding through pristine territory. The towering conifer on the left has witnessed centuries, its weathered strength a testament to resilience, while its smaller companions recede into blue distance like generations marching backward through time. The bright sky speaks of clarity and promise, inviting the viewer to follow that unseen water path deeper into untouched country, where nature's rhythms flow undisturbed and the soul finds renewal in simplicity."
 
 ## 8. Initial Canvas Treatment
-- Liquid White base coat applied generously for wet-on-wet technique
-- Sky worked immediately into wet surface with large brush
-- Blue foundation laid first, then Titanium White clouds blended
-- Background elements (distant trees) established while surface remains workable
-- Foreground evergreens built last, layering dark over light
-- Progressive detail addition from atmospheric background to textured foreground
 
-Foundational approach: **Luminous wet base enabling atmospheric blending and bold foreground contrast**
+- **Liquid Black** worked thin into the canvas as a **wet** black ground. Unlike dried gesso it stays in contact with the oils laid over it, so darks can be pulled back into the ground and edges softened into it.
+- No Liquid Clear and no Liquid White base — the oils are carried thin directly over the ground.
+- No contact paper and no masking.
+
+The wet black ground is what keeps the darks deep without mixing them muddy, and what lets the lit passages be pulled straight out of the ground.
+
+> Section 8 is template-filled from the CSV one-hot columns (`scripts/fix_ground.py`), not generated from the image.
+> The text it replaced named the wrong ground for this episode. See `artifacts/ground_fixed.csv` for what it said.
 
 ---
 
@@ -88,13 +89,19 @@ episode:
   year: 1994
   painting_index: 401
 
+canvas_preparation:
+  ground: "Liquid Black"
+  secondary_tone: null
+  liquid_clear: false
+  liquid_white: false
+  contact_paper: false
+
 colors:
   - Phthalo Blue
   - Prussian Blue
   - Titanium White
   - Midnight Black
   - Sap Green
-  - Phthalo Green
   - Van Dyke Brown
   - Dark Sienna
 ```

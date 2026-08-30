@@ -105,12 +105,17 @@ episode:
   year: 1993
   painting_index: 352
 
+canvas_preparation:
+  ground: "Liquid White"
+  secondary_tone: null
+  liquid_clear: false
+  liquid_white: true
+  contact_paper: true
+
 colors:
   - Cadmium Yellow
   - Indian Yellow
   - Yellow Ochre
-  - Dark Sienna
-  - Van Dyke Brown
   - Midnight Black
   - Sap Green
   - Titanium White

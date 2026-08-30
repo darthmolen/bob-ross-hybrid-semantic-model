@@ -69,13 +69,13 @@ Signature technique: **oval vignette framing with multi-hued twilight sky gradie
 
 ## 8. Initial Canvas Treatment
 
-- **Liquid White**: Applied to upper canvas for sky blending and smooth color transitions
+- **Black gesso**: The ground for the whole canvas, applied and dried before any oil
 - **Liquid Clear**: Possibly used in snow areas for translucent shadow effects
 - **Black gesso**: Applied around outer edges before contact paper removal to create dark vignette frame
 - **Contact paper**: Oval mask applied to create the distinctive vignette effect
 - **No textured gesso**: Smooth canvas surface throughout
 
-A Liquid White base with contact paper oval masking and dark vignette framing, allowing for both smooth sky gradients and the dramatic oval presentation style.
+A dry black gesso ground with Liquid Clear over it, a contact paper oval mask, and dark gesso framing around the outer edge — giving both the smooth sky gradients inside the oval and the dramatic vignette presentation.
 
 ---
 
@@ -94,12 +94,18 @@ episode:
   year: 1993
   painting_index: 347
 
+canvas_preparation:
+  ground: "Black Gesso"
+  secondary_tone: null
+  liquid_clear: true
+  liquid_white: false
+  contact_paper: true
+
 colors:
   - Alizarin Crimson
   - Cadmium Yellow
   - Indian Yellow
   - Midnight Black
   - Phthalo Blue
-  - Prussian Blue
   - Titanium White
 ```

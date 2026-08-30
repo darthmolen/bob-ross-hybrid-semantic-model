@@ -92,6 +92,13 @@ episode:
   year: 1990
   painting_index: 143
 
+canvas_preparation:
+  ground: "Liquid White"
+  secondary_tone: null
+  liquid_clear: false
+  liquid_white: true
+  contact_paper: false
+
 colors:
   - Titanium White
   - Phthalo Blue
@@ -103,5 +110,4 @@ colors:
   - Midnight Black
   - Cadmium Yellow
   - Indian Yellow
-  - Liquid White
 ```

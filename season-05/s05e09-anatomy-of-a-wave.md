@@ -89,6 +89,7 @@ Signature technique: **Translucent wave interior using layered greens and whites
 - Darker blue foundation for water sections
 - Smooth, even initial layer allowing wave elements to stand forward
 - Minimal texture in base to emphasize wave detail
+- **Liquid Clear** over the ground, giving a wet, transparent working surface without lightening it.
 
 The bright, smooth foundation provides contrast for the complex wave structure.
 
@@ -111,12 +112,13 @@ episode:
   year: 1986
   painting_index: 238
 
+canvas_preparation:
+  ground: "Liquid White"
+  secondary_tone: null
+  liquid_clear: true
+  liquid_white: true
+  contact_paper: false
+
 colors:
-  - Prussian Blue
-  - Pthalo Green
-  - Sap Green
   - Titanium White
-  - Pthalo Blue
-  - Bright Red (minimal)
-  - Indian Yellow (minimal)
 ```

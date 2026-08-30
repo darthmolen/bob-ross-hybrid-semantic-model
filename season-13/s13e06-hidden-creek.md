@@ -48,7 +48,7 @@ Motion profile: **Gentle forward creek flow through static atmospheric stillness
 
 **Liner brush**: Employed for fine details including thin tree branches, delicate grasses, small foreground details, and possibly subtle water ripples or reflections.
 
-**Liquid White/Black base**: The canvas likely received a darker base treatment (possibly thinned Midnight Black or dark blue-green) to establish the overall cool, shadowed forest tone, with Liquid White reserved for areas requiring luminosity and atmospheric blending.
+**Black gesso base**: The canvas carries a dry black gesso ground, which establishes the cool, shadowed forest tone directly. Luminous passages are added on top of it; there is no Liquid White underneath them.
 
 Signature technique: **Palette knife grass banks contrasting with fan-brushed evergreens, unified by pervasive atmospheric mist blending**
 
@@ -56,9 +56,19 @@ Signature technique: **Palette knife grass banks contrasting with fan-brushed ev
 "Deep in the forest where footsteps rarely fall, a creek whispers secrets to the ancient trees that guard its passage. Morning mist clings to this sanctuary, reluctant to release its hold, transforming the familiar into the mystical. Here, in this hidden place, time moves differently—measured not in hours but in the patient flow of water over stone, in the slow drift of fog between branches. This is where the forest keeps its deepest peace, offering refuge to those who seek solitude and silence."
 
 ## 8. Initial Canvas Treatment
-The canvas likely received a **darker base treatment**, possibly using thinned **Midnight Black** mixed with **Prussian Blue** to establish the overall cool, shadowed forest atmosphere. This darker foundation would have been applied most heavily in the foreground and lower portions, gradually thinning toward the upper areas where the atmospheric mist dominates. **Liquid White** was then selectively applied or mixed into the upper background regions to facilitate the soft, seamless blending of the mist effect, allowing the Titanium White fog to integrate smoothly with the underlying blues and greens. This dual approach—dark base for depth and luminous areas for atmospheric glow—creates the painting's characteristic depth and mystery. **Foundation: Dark blue-black base with selective Liquid White for atmospheric mist blending**
+
+- **Black gesso** brushed over the canvas and allowed to **dry completely** before any oil is applied. This is a dry acrylic ground, not a wet one: the oils above it cannot be pulled back into it, and every light value in the painting has to be added rather than lifted.
+- No Liquid Clear and no Liquid White base — the oils are carried thin directly over the ground.
+- No contact paper and no masking.
+
+The black ground carries the value structure of the whole painting. Read the light in this entry as light recovered from darkness, not as shadow laid over white.
+
+> Section 8 is template-filled from the CSV one-hot columns (`scripts/fix_ground.py`), not generated from the image.
+> The text it replaced named the wrong ground for this episode. See `artifacts/ground_fixed.csv` for what it said.
 
 ---
+
+```yaml
 tags:
   composition_archetype: "Misty forest corridor with central water pathway"
   palette_identity: "Cool atmospheric greens dissolving into luminous mist"
@@ -73,14 +83,21 @@ episode:
   year: 1987
   painting_index: 129
 
+canvas_preparation:
+  ground: "Black Gesso"
+  secondary_tone: null
+  liquid_clear: false
+  liquid_white: false
+  contact_paper: false
+
 colors:
   - Cadmium Yellow
   - Dark Sienna
   - Indian Yellow
   - Midnight Black
   - Phthalo Blue
-  - Prussian Blue
   - Sap Green
   - Titanium White
   - Van Dyke Brown
   - Yellow Ochre
+```

@@ -82,6 +82,13 @@ episode:
   year: 1994
   painting_index: 400
 
+canvas_preparation:
+  ground: "Liquid White"
+  secondary_tone: null
+  liquid_clear: false
+  liquid_white: true
+  contact_paper: false
+
 colors:
   - Titanium White
   - Prussian Blue
@@ -89,5 +96,4 @@ colors:
   - Van Dyke Brown
   - Dark Sienna
   - Midnight Black
-  - Sap Green
 ```

@@ -61,13 +61,15 @@ Signature technique: **atmospheric blending in oval vignette format**
 "The trail winds toward its inevitable end, where autumn's golden remnant stands sentinel beside bare companions already surrendered to winter's approach. Mist gathers in the distance, softening the boundary between earth and sky, between journey and destination. This is not an ending of despair but of peaceful acceptance—the quiet moment when the traveler pauses before the final turn, grateful for the path that brought them here, ready for whatever lies beyond the gathering haze."
 
 ## 8. Initial Canvas Treatment
-- Canvas prepared with darker base to establish moody foundation
-- Oval mask applied to create vignette effect before painting begins
-- Background likely started with wet-on-wet blue-purple gradient
-- Atmospheric layers built from background to foreground
-- Darker values established first to maintain overall tonal depth
-- Liquid White or similar medium used selectively for blendable areas
-**Foundational approach: dark-toned oval vignette with atmospheric gradient base**
+
+- **Black gesso** brushed over the canvas and allowed to **dry completely** before any oil is applied. This is a dry acrylic ground, not a wet one: the oils above it cannot be pulled back into it, and every light value in the painting has to be added rather than lifted.
+- **Liquid Clear** applied over the ground, giving a wet, transparent working surface without lightening it. No Liquid White is used as a base.
+- **Contact paper** cut to shape and applied as a mask, so the area it covers stays clean while the surround is painted, and is lifted before that area is worked.
+
+The black ground carries the value structure of the whole painting. Read the light in this entry as light recovered from darkness, not as shadow laid over white.
+
+> Section 8 is template-filled from the CSV one-hot columns (`scripts/fix_ground.py`), not generated from the image.
+> The text it replaced named the wrong ground for this episode. See `artifacts/ground_fixed.csv` for what it said.
 
 ---
 
@@ -86,13 +88,18 @@ episode:
   year: 1994
   painting_index: 406
 
+canvas_preparation:
+  ground: "Black Gesso"
+  secondary_tone: null
+  liquid_clear: true
+  liquid_white: false
+  contact_paper: true
+
 colors:
   - Alizarin Crimson
-  - Cadmium Yellow
   - Dark Sienna
   - Midnight Black
   - Phthalo Blue
-  - Prussian Blue
   - Sap Green
   - Titanium White
   - Van Dyke Brown

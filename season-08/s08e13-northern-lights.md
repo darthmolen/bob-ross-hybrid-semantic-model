@@ -59,8 +59,54 @@ Signature technique: **Blended aurora effects over preserved dark canvas**
 "A lone cabin stands sentinel in the frozen wilderness, its warm glow a tiny beacon beneath the heavens' greatest spectacle. The aurora borealis unfurls across the night in ribbons of celestial light, transforming the snow-clad landscape into a dreamscape where earth meets cosmos. In this remote sanctuary, the mountain watches eternally as nature's most magical phenomenon dances overhead, a reminder that even in the deepest winter darkness, beauty illuminates the world."
 
 ## 8. Initial Canvas Treatment
-- Black or very dark blue base applied across entire canvas
-- Dark foundation preserved strategically for night sky depth
-- Background darkness allowed to show through between aurora bands
-- Foundation provides natural shadows and nocturnal atmosphere without additional work
-The canvas began in darkness, creating the perfect void for celestial light to emerge.
+
+- **Black gesso** brushed over the canvas and allowed to **dry completely** before any oil is applied. This is a dry acrylic ground, not a wet one: the oils above it cannot be pulled back into it, and every light value in the painting has to be added rather than lifted.
+- No Liquid Clear and no Liquid White base — the oils are carried thin directly over the ground.
+- No contact paper and no masking.
+
+The black ground carries the value structure of the whole painting. Read the light in this entry as light recovered from darkness, not as shadow laid over white.
+
+> Section 8 is template-filled from the CSV one-hot columns (`scripts/fix_ground.py`), not generated from the image.
+
+---
+
+## Metadata
+
+```yaml
+tags:
+  palette_identity: "Arctic night luminescence"
+  depth_style: "Layered nocturnal recession"
+  lighting_type: "Aurora-lit nocturne"
+  motion_profile: "Ethereal sky flow"
+
+searchable_features:
+  # TODO — write from the painting: shape, colour and position, plus lay
+  # synonyms. See TEMPLATE.md. Not generated, because a regex over the prose
+  # reproduces the prose's vocabulary, which is the thing that fails at retrieval.
+
+episode:
+  season: 8
+  episode: 13
+  title: "Northern Lights"
+  year: 1986
+  painting_index: 202
+  youtube_url: "https://www.youtube.com/embed/vgbMONXc9Cs"
+
+canvas_preparation:
+  ground: "Black Gesso"
+  secondary_tone: null
+  liquid_clear: false
+  liquid_white: false
+  contact_paper: false
+
+colors:
+  - Alizarin Crimson
+  - Black Gesso
+  - Bright Red
+  - Dark Sienna
+  - Midnight Black
+  - Phthalo Blue
+  - Phthalo Green
+  - Titanium White
+  - Van Dyke Brown
+```

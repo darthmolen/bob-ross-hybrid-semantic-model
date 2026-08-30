@@ -102,6 +102,13 @@ episode:
   year: 1985
   painting_index: 250
 
+canvas_preparation:
+  ground: "Liquid White"
+  secondary_tone: null
+  liquid_clear: false
+  liquid_white: true
+  contact_paper: false
+
 colors:
   - Titanium White
   - Van Dyke Brown
@@ -109,7 +116,5 @@ colors:
   - Yellow Ochre
   - Bright Red
   - Indian Yellow
-  - Dark Sienna
-  - Phthalo Blue
   - Alizarin Crimson
 ```

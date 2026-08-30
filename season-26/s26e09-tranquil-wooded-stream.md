@@ -60,7 +60,15 @@ Signature technique: **Dramatic chiaroscuro with luminous atmospheric blending**
 "Deep in the forest, a hidden stream beckons the wanderer forward toward an otherworldly light. The water whispers ancient secrets as it flows from that mysterious radiant source, where mist and sunlight merge into pure magic. This is nature's cathedral, where dark woods frame a passage to somewhere beyond — a threshold between the familiar forest and the transcendent unknown, inviting quiet contemplation and spiritual renewal."
 
 ## 8. Initial Canvas Treatment
-The canvas was prepared with a dark base coat, most likely Liquid Black or a very dark mixture, applied across the entire surface. This dark foundation is crucial to the painting's dramatic effect, allowing the brilliant center light to glow with maximum intensity and creating the deep shadows that give the foliage its mysterious depth. The wet dark base enables smooth blending from shadow to light and supports the atmospheric mist effect in the background. The initial darkness becomes the structural element that makes the luminosity possible.
+
+- **Black gesso** brushed over the canvas and allowed to **dry completely** before any oil is applied. This is a dry acrylic ground, not a wet one: the oils above it cannot be pulled back into it, and every light value in the painting has to be added rather than lifted.
+- No Liquid Clear and no Liquid White base — the oils are carried thin directly over the ground.
+- No contact paper and no masking.
+- **Secondary tone:** this episode carries the `Underpainting` tag, so a transparent colour was laid over the ground before painting began. Its value is in no dataset — Bob names it aloud in the opening minute and it is invisible in the finished painting. Not yet recovered for this episode; see `canvas_preparation.secondary_tone` below.
+
+The black ground carries the value structure of the whole painting. Read the light in this entry as light recovered from darkness, not as shadow laid over white.
+
+> Section 8 is template-filled from the CSV one-hot columns (`scripts/fix_ground.py`), not generated from the image.
 
 ---
 
@@ -79,14 +87,19 @@ episode:
   year: 1992
   painting_index: 342
 
+canvas_preparation:
+  ground: "Black Gesso"
+  secondary_tone: null
+  liquid_clear: false
+  liquid_white: false
+  contact_paper: false
+
 colors:
   - Midnight Black
   - Titanium White
-  - Phthalo Green
   - Sap Green
   - Cadmium Yellow
   - Indian Yellow
   - Van Dyke Brown
   - Yellow Ochre
-  - Prussian Blue
 ```

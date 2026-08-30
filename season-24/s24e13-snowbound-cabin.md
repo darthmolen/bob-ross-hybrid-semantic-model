@@ -74,6 +74,7 @@ Signature technique: **Knife-built architecture with dramatic prussian-blue atmo
 - Dark initial treatment allows the dramatic prussian-phthalo sky to develop quickly
 - Provides the foundation for strong value contrast with brilliant white snow
 - Enables easy blending of atmospheric transitions in the stormy night sky
+- **Liquid Clear** over the ground, giving a wet, transparent working surface without lightening it.
 
 The canvas received a dark base treatment to support the dramatic moonlit winter atmosphere and facilitate rapid development of deep sky tones.
 
@@ -94,14 +95,18 @@ episode:
   year: 1992
   painting_index: 320
 
+canvas_preparation:
+  ground: "Black Gesso"
+  secondary_tone: null
+  liquid_clear: true
+  liquid_white: false
+  contact_paper: false
+
 colors:
   - Alizarin Crimson
-  - Dark Sienna
   - Midnight Black
   - Phthalo Blue
   - Prussian Blue
   - Sap Green
   - Titanium White
-  - Van Dyke Brown
-  - Yellow Ochre
 ```

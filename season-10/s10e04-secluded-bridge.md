@@ -45,6 +45,8 @@ Signature technique: **Bilateral tonal contrast with tunnel-framing foliage mass
 The canvas was prepared with a Liquid White base coat, applied evenly to facilitate the wet-on-wet blending technique essential for the atmospheric background, sky patches, and water reflections. This allowed the misty background trees to blend seamlessly and enabled the smooth gradations in the water's surface. The liquid base also permitted the dark and light foliage masses to blend at their edges while maintaining distinct value separation, crucial for the composition's light-shadow narrative.
 
 ---
+
+```yaml
 tags:
   composition_archetype: "tunnel composition with bilateral asymmetry"
   palette_identity: "Light-shadow dichotomy with warm/cool bilateral division"
@@ -59,9 +61,15 @@ episode:
   year: 1988
   painting_index: 166
 
+canvas_preparation:
+  ground: "Liquid White"
+  secondary_tone: null
+  liquid_clear: false
+  liquid_white: true
+  contact_paper: false
+
 colors:
   - Prussian Blue
-  - Phthalo Green
   - Midnight Black
   - Sap Green
   - Yellow Ochre

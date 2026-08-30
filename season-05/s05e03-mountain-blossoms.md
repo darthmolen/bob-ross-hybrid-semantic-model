@@ -84,12 +84,13 @@ Signature technique: **Stippled blossom masses with atmospheric mist layering**
 
 ## 8. Initial Canvas Treatment
 
-- Base coat with light blue-gray for atmospheric foundation
-- Purple-gray undertones establishing cool temperature
-- Soft gradient blending for sky transition
-- Thin application allowing for layered atmospheric effects
+- **Liquid Black** worked thin into the canvas as a **wet** black ground. Unlike dried gesso it stays in contact with the oils laid over it, so darks can be pulled back into the ground and edges softened into it.
+- No Liquid Clear and no Liquid White base — the oils are carried thin directly over the ground.
+- No contact paper and no masking.
 
-Foundation establishes cool, misty mountain environment supporting spring color overlay.
+The wet black ground is what keeps the darks deep without mixing them muddy, and what lets the lit passages be pulled straight out of the ground.
+
+> Section 8 is template-filled from the CSV one-hot columns (`scripts/fix_ground.py`), not generated from the image.
 
 ---
 
@@ -110,15 +111,15 @@ episode:
   year: 1986
   painting_index: 232
 
+canvas_preparation:
+  ground: "Liquid Black"
+  secondary_tone: null
+  liquid_clear: false
+  liquid_white: false
+  contact_paper: false
+
 colors:
   - Alizarin Crimson
-  - Bright Red
   - Titanium White
   - Phthalo Blue
-  - Prussian Blue
-  - Midnight Black
-  - Van Dyke Brown
-  - Dark Sienna
-  - Sap Green
-  - Yellow Ochre
 ```

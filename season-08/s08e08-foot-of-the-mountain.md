@@ -64,3 +64,50 @@ Signature technique: **Atmospheric mist layering with graduated transparency**
 - Minimal dark undertones, allowing for maximum luminosity
 
 The foundation prioritizes luminosity and atmospheric diffusion over tonal contrast.
+
+---
+
+## Metadata
+
+```yaml
+tags:
+  palette_identity: "Autumn mist with atmospheric golden glow"
+  depth_style: "Strong atmospheric perspective with graduated mist layers"
+  lighting_type: "Diffused atmospheric glow"
+  motion_profile: "Static/contemplative"
+
+searchable_features:
+  # TODO — write from the painting: shape, colour and position, plus lay
+  # synonyms. See TEMPLATE.md. Not generated, because a regex over the prose
+  # reproduces the prose's vocabulary, which is the thing that fails at retrieval.
+
+episode:
+  season: 8
+  episode: 8
+  title: "Foot of the Mountain"
+  year: 1986
+  painting_index: 197
+  youtube_url: "https://www.youtube.com/embed/cIUBUc_ITBc"
+
+canvas_preparation:
+  ground: "Liquid White"
+  secondary_tone: null
+  liquid_clear: false
+  liquid_white: true
+  contact_paper: false
+
+colors:
+  - Alizarin Crimson
+  - Bright Red
+  - Cadmium Yellow
+  - Dark Sienna
+  - Indian Yellow
+  - Midnight Black
+  - Phthalo Blue
+  - Phthalo Green
+  - Prussian Blue
+  - Sap Green
+  - Titanium White
+  - Van Dyke Brown
+  - Yellow Ochre
+```

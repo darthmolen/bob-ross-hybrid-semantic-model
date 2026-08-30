@@ -69,7 +69,7 @@ Depth style: **Layered hillside recession with strong foreground path leading to
 ## 6. Technique
 
 - Heavy palette knife work for snow highlights and drifts
-- Liquid White or Liquid Clear base allows color blending in sky
+- Sky colours scumbled thin over the dry black gesso ground, which darkens them as they thin out
 - Fan brush creates delicate windmill structure and fence posts
 - Oval brush builds cloud formations with circular strokes
 - Knife pulls create sharp snow edges and dimensional ridges
@@ -88,13 +88,14 @@ Signature technique: **Palette knife snow sculpting with dramatic purple sky ble
 
 ## 8. Initial Canvas Treatment
 
-- Liquid White or Liquid Clear applied across entire canvas
-- Purple and Lavender immediately blended into wet sky area
-- Sky worked top to bottom with large brush
-- Canvas preparation allows smooth color transitions in clouds
-- Base coat enables knife work to glide across surface for snow effects
+- **Black gesso** brushed over the canvas and allowed to **dry completely** before any oil is applied. This is a dry acrylic ground, not a wet one: the oils above it cannot be pulled back into it, and every light value in the painting has to be added rather than lifted.
+- No Liquid Clear and no Liquid White base — the oils are carried thin directly over the ground.
+- No contact paper and no masking.
 
-Sky-dominant preparation with wet-on-wet foundation enabling seamless purple atmosphere and crisp snow sculpting.
+The black ground carries the value structure of the whole painting. Read the light in this entry as light recovered from darkness, not as shadow laid over white.
+
+> Section 8 is template-filled from the CSV one-hot columns (`scripts/fix_ground.py`), not generated from the image.
+> The text it replaced named the wrong ground for this episode. See `artifacts/ground_fixed.csv` for what it said.
 
 ---
 
@@ -115,14 +116,17 @@ episode:
   year: 1986
   painting_index: 239
 
+canvas_preparation:
+  ground: "Black Gesso"
+  secondary_tone: null
+  liquid_clear: false
+  liquid_white: false
+  contact_paper: false
+
 colors:
   - Titanium White
-  - Lavender
   - Prussian Blue
-  - Burnt Sienna
-  - Dark Sienna
   - Van Dyke Brown
   - Bright Red
-  - Cadmium Yellow
   - Phthalo Blue
 ```

@@ -77,6 +77,7 @@ Signature technique: **dynamic white-loaded wave highlights over turquoise ocean
 - No black gesso or dark underpainting
 - No contact paper or masking (oval format created through compositional vignetting)
 - No textured gesso
+- **Liquid Clear** over the ground, giving a wet, transparent working surface without lightening it.
 
 A Liquid White foundation enabling smooth atmospheric blending and dynamic wet-on-wet ocean techniques in an oval tropical composition.
 
@@ -97,6 +98,13 @@ episode:
   year: 1993
   painting_index: 355
 
+canvas_preparation:
+  ground: "Liquid White"
+  secondary_tone: null
+  liquid_clear: true
+  liquid_white: true
+  contact_paper: true
+
 colors:
   - Alizarin Crimson
   - Cadmium Yellow
@@ -104,7 +112,6 @@ colors:
   - Midnight Black
   - Phthalo Blue
   - Phthalo Green
-  - Prussian Blue
   - Titanium White
   - Van Dyke Brown
   - Yellow Ochre

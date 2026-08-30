@@ -107,13 +107,19 @@ episode:
   year: 1988
   painting_index: 58
 
+canvas_preparation:
+  ground: "Liquid White"
+  secondary_tone: null
+  liquid_clear: false
+  liquid_white: true
+  contact_paper: false
+
 colors:
   - Alizarin Crimson
   - Cadmium Yellow
   - Indian Yellow
   - Midnight Black
   - Phthalo Blue
-  - Phthalo Green
   - Prussian Blue
   - Sap Green
   - Titanium White

@@ -94,6 +94,13 @@ episode:
   year: 1988
   painting_index: 105
 
+canvas_preparation:
+  ground: "Liquid White"
+  secondary_tone: null
+  liquid_clear: false
+  liquid_white: true
+  contact_paper: false
+
 colors:
   - Phthalo Blue
   - Titanium White

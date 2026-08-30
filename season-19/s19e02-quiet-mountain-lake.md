@@ -74,7 +74,7 @@ Signature technique: **Mirror-still lake reflections with knife-sculpted mountai
 - **Contact paper**: Not used
 - **Textured gesso**: Not used
 
-A classic Liquid White foundation enabling seamless sky-to-mountain transitions and smooth reflective water surfaces.
+A dry black gesso foundation with Liquid Clear over it. The Clear supplies the slip for the sky-to-mountain transitions and the reflective water without lightening the ground.
 
 ---
 
@@ -92,6 +92,13 @@ episode:
   title: "Quiet Mountain Lake"
   year: 1989
   painting_index: 45
+
+canvas_preparation:
+  ground: "Black Gesso"
+  secondary_tone: null
+  liquid_clear: true
+  liquid_white: false
+  contact_paper: false
 
 colors:
   - Prussian Blue

@@ -98,6 +98,13 @@ episode:
   year: 1988
   painting_index: 104
 
+canvas_preparation:
+  ground: "Liquid White"
+  secondary_tone: null
+  liquid_clear: false
+  liquid_white: true
+  contact_paper: false
+
 colors:
   - Prussian Blue
   - Phthalo Blue
@@ -109,5 +116,4 @@ colors:
   - Yellow Ochre
   - Van Dyke Brown
   - Indian Yellow
-  - Liquid White
 ```

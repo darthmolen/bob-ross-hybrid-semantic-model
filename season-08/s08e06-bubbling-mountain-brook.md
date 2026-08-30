@@ -59,3 +59,48 @@ Signature technique: **Water flow rendering with reflective highlights**
 - Sky gradient established with blues before mountain work
 - Foundation enables wet-on-wet blending throughout
 The liquid white foundation supports smooth transitions from sky through water while allowing knife work to define mountain structure.
+
+---
+
+## Metadata
+
+```yaml
+tags:
+  palette_identity: "Cool alpine clarity with warm seasonal accents"
+  depth_style: "Linear perspective through water corridor"
+  lighting_type: "Bright overhead illumination"
+  motion_profile: "Cascading water energy"
+
+searchable_features:
+  # TODO — write from the painting: shape, colour and position, plus lay
+  # synonyms. See TEMPLATE.md. Not generated, because a regex over the prose
+  # reproduces the prose's vocabulary, which is the thing that fails at retrieval.
+
+episode:
+  season: 8
+  episode: 6
+  title: "Bubbling Mountain Brook"
+  year: 1986
+  painting_index: 195
+  youtube_url: "https://www.youtube.com/embed/U2_SKgM3f4A"
+
+canvas_preparation:
+  ground: "Liquid White"
+  secondary_tone: null
+  liquid_clear: false
+  liquid_white: true
+  contact_paper: false
+
+colors:
+  - Alizarin Crimson
+  - Bright Red
+  - Cadmium Yellow
+  - Dark Sienna
+  - Indian Yellow
+  - Midnight Black
+  - Phthalo Blue
+  - Sap Green
+  - Titanium White
+  - Van Dyke Brown
+  - Yellow Ochre
+```

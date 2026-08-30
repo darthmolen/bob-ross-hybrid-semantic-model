@@ -109,6 +109,13 @@ episode:
   year: 1989
   painting_index: 50
 
+canvas_preparation:
+  ground: "Liquid White"
+  secondary_tone: null
+  liquid_clear: false
+  liquid_white: true
+  contact_paper: true
+
 colors:
   - Titanium White
   - Alizarin Crimson
@@ -116,7 +123,6 @@ colors:
   - Midnight Black
   - Prussian Blue
   - Van Dyke Brown
-  - Sap Green
   - Yellow Ochre
   - Cadmium Yellow
   - Phthalo Blue

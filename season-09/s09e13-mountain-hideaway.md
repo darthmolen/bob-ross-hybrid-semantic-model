@@ -58,7 +58,7 @@ Motion profile: **cascading water flow in otherwise serene rainbow-crowned valle
 
 ## 6. Technique
 
-- Liquid White base for bright, blendable foundation
+- Dry black gesso ground; the bright passages are added over it rather than lifted out of white
 - Prussian Blue and Phthalo Blue blended for sky with titanium white clouds
 - Rainbow created with soft horizontal strokes blending full spectrum (red, orange, yellow, green, blue, violet)
 - Palette knife for angular mountain peaks and snow highlights
@@ -78,14 +78,14 @@ Signature technique: **rainbow arc blending with cascading waterfall and electri
 
 ## 8. Initial Canvas Treatment
 
-- Liquid White applied across entire canvas for bright blendable base
-- Possibly with light blue undertones pre-blended for sky foundation
-- Bright wet surface allowing rainbow and sky blending
-- No dark underpainting needed for this luminous scene
-- No contact paper or masking
-- Wet foundation enables vibrant color saturation and smooth transitions
+- **Black gesso** brushed over the canvas and allowed to **dry completely** before any oil is applied. This is a dry acrylic ground, not a wet one: the oils above it cannot be pulled back into it, and every light value in the painting has to be added rather than lifted.
+- No Liquid Clear and no Liquid White base — the oils are carried thin directly over the ground.
+- No contact paper and no masking.
 
-A bright, wet foundation creating the perfect surface for rainbow blending and allowing vibrant greens and blues to achieve maximum brilliance and magical luminosity.
+The black ground carries the value structure of the whole painting. Read the light in this entry as light recovered from darkness, not as shadow laid over white.
+
+> Section 8 is template-filled from the CSV one-hot columns (`scripts/fix_ground.py`), not generated from the image.
+> The text it replaced named the wrong ground for this episode. See `artifacts/ground_fixed.csv` for what it said.
 
 ---
 
@@ -104,8 +104,14 @@ episode:
   year: 1985
   painting_index: 189
 
+canvas_preparation:
+  ground: "Black Gesso"
+  secondary_tone: null
+  liquid_clear: false
+  liquid_white: false
+  contact_paper: false
+
 colors:
-  - Prussian Blue
   - Phthalo Blue
   - Titanium White
   - Midnight Black

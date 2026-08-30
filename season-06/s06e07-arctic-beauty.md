@@ -109,12 +109,17 @@ episode:
   year: 1986
   painting_index: 223
 
+canvas_preparation:
+  ground: "Liquid White"
+  secondary_tone: null
+  liquid_clear: false
+  liquid_white: true
+  contact_paper: false
+
 colors:
   - Titanium White
-  - Prussian Blue
   - Phthalo Blue
   - Van Dyke Brown
-  - Midnight Black
   - Sap Green
   - Cadmium Yellow
   - Yellow Ochre

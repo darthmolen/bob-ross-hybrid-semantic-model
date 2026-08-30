@@ -84,12 +84,14 @@ Signature technique: **Fan brush foliage with bright highlight layers**
 
 ## 8. Initial Canvas Treatment
 
-- Liquid White base applied across entire canvas for wet-on-wet technique
-- Prussian Blue worked into lower portion for water foundation
-- Sky area likely pre-blended with Phthalo Blue before cloud application
-- Even coverage allowing for both dark water values and bright highlight reception
+- **Black gesso** brushed over the canvas and allowed to **dry completely** before any oil is applied. This is a dry acrylic ground, not a wet one: the oils above it cannot be pulled back into it, and every light value in the painting has to be added rather than lifted.
+- No Liquid Clear and no Liquid White base — the oils are carried thin directly over the ground.
+- No contact paper and no masking.
 
-Foundation established with full Liquid White coverage enabling strong value contrasts.
+The black ground carries the value structure of the whole painting. Read the light in this entry as light recovered from darkness, not as shadow laid over white.
+
+> Section 8 is template-filled from the CSV one-hot columns (`scripts/fix_ground.py`), not generated from the image.
+> The text it replaced named the wrong ground for this episode. See `artifacts/ground_fixed.csv` for what it said.
 
 ---
 
@@ -110,12 +112,16 @@ episode:
   year: 1986
   painting_index: 231
 
+canvas_preparation:
+  ground: "Black Gesso"
+  secondary_tone: null
+  liquid_clear: false
+  liquid_white: false
+  contact_paper: false
+
 colors:
-  - Liquid White
-  - Prussian Blue
   - Phthalo Blue
   - Sap Green
-  - Bright Green
   - Cadmium Yellow
   - Yellow Ochre
   - Van Dyke Brown

@@ -34,7 +34,15 @@ The sunset sky demonstrates masterful wet-on-wet blending, with multiple warm an
 "As evening descends and the sun surrenders to the western horizon, the sky erupts in its final blazing performance—crimson and gold clouds sweeping across the darkening blue like nature's grand finale. A humble cabin watches from its hillside perch, smoke perhaps rising from its chimney into the cooling air, while ancient trees with luminous golden crowns stand witness on the opposite shore, their leaves transformed into glowing lanterns by the dying light. The quiet water holds all this beauty in perfect reflection, doubling the wonder, suggesting that some moments are too precious for a single viewing—they must be seen twice, once in reality and once in memory's mirror."
 
 ## 8. Initial Canvas Treatment
-The canvas received a Liquid White application, absolutely essential for the extensive wet-on-wet blending required throughout this composition. This foundation enables the dramatic sky's seamless color transitions—from golden yellows through brilliant reds and oranges to deep purples and blues—all flowing together without boundaries. The Liquid White allows the water reflections to be pulled and blended smoothly, creating the mirror effect that captures the sky's warmth. It also facilitates the luminous quality in the glowing tree foliage, where warm highlights blend into darker base colors to suggest depth and backlighting. The treatment supports both the soft atmospheric blending in the sky and the crisp silhouette work in the forest band, providing the versatility needed for this technically demanding piece. The white base particularly enhances the painting's overall luminosity, allowing the warm colors to glow with maximum intensity. Foundation: Liquid White application enabling dramatic sky gradients, reflective water effects, and luminous foliage highlights throughout.
+
+- **Black gesso** brushed over the canvas and allowed to **dry completely** before any oil is applied. This is a dry acrylic ground, not a wet one: the oils above it cannot be pulled back into it, and every light value in the painting has to be added rather than lifted.
+- No Liquid Clear and no Liquid White base — the oils are carried thin directly over the ground.
+- No contact paper and no masking.
+
+The black ground carries the value structure of the whole painting. Read the light in this entry as light recovered from darkness, not as shadow laid over white.
+
+> Section 8 is template-filled from the CSV one-hot columns (`scripts/fix_ground.py`), not generated from the image.
+> The text it replaced named the wrong ground for this episode. See `artifacts/ground_fixed.csv` for what it said.
 
 ---
 
@@ -53,6 +61,13 @@ episode:
   year: 1987
   painting_index: 127
 
+canvas_preparation:
+  ground: "Black Gesso"
+  secondary_tone: null
+  liquid_clear: false
+  liquid_white: false
+  contact_paper: false
+
 colors:
   - Alizarin Crimson
   - Bright Red
@@ -61,7 +76,6 @@ colors:
   - Indian Yellow
   - Midnight Black
   - Phthalo Blue
-  - Prussian Blue
   - Sap Green
   - Titanium White
   - Van Dyke Brown

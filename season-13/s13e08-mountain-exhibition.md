@@ -61,13 +61,19 @@ episode:
   year: 1987
   painting_index: 131
 
+canvas_preparation:
+  ground: "Liquid White"
+  secondary_tone: null
+  liquid_clear: false
+  liquid_white: true
+  contact_paper: false
+
 colors:
   - Cadmium Yellow
   - Dark Sienna
   - Indian Yellow
   - Midnight Black
   - Phthalo Blue
-  - Prussian Blue
   - Sap Green
   - Titanium White
   - Van Dyke Brown

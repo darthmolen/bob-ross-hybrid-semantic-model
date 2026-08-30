@@ -69,3 +69,47 @@ Signature technique: **Snow highlight knife work**
 - Light base preparation for snow areas allowing bright highlights
 
 Foundation establishes tonal contrast between dark evergreens and bright snow before detail application.
+
+---
+
+## Metadata
+
+```yaml
+tags:
+  palette_identity: "Winter warmth contrast"
+  depth_style: "Framed refuge"
+  lighting_type: "Warm backlight"
+  motion_profile: "Contemplative stillness"
+
+searchable_features:
+  # TODO — write from the painting: shape, colour and position, plus lay
+  # synonyms. See TEMPLATE.md. Not generated, because a regex over the prose
+  # reproduces the prose's vocabulary, which is the thing that fails at retrieval.
+
+episode:
+  season: 8
+  episode: 12
+  title: "Lonely Retreat"
+  year: 1986
+  painting_index: 201
+  youtube_url: "https://www.youtube.com/embed/qTDQt_PdlYc"
+
+canvas_preparation:
+  ground: "Liquid White"
+  secondary_tone: null
+  liquid_clear: false
+  liquid_white: true
+  contact_paper: false
+
+colors:
+  - Alizarin Crimson
+  - Bright Red
+  - Cadmium Yellow
+  - Dark Sienna
+  - Indian Yellow
+  - Midnight Black
+  - Phthalo Blue
+  - Titanium White
+  - Van Dyke Brown
+  - Yellow Ochre
+```

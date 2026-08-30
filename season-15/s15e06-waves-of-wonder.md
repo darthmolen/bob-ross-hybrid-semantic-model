@@ -101,6 +101,13 @@ episode:
   year: 1988
   painting_index: 103
 
+canvas_preparation:
+  ground: "Liquid White"
+  secondary_tone: null
+  liquid_clear: true
+  liquid_white: true
+  contact_paper: false
+
 colors:
   - Prussian Blue
   - Phthalo Blue

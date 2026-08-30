@@ -56,7 +56,15 @@ Signature technique: **dramatic silhouette layering with backlit contrast**
 "A hidden valley reveals itself to the solitary wanderer—a sanctuary where mountain and water meet in perfect harmony. The golden light breaking behind the peak suggests either the promise of dawn or the peaceful close of day, nature's eternal cycle continuing undisturbed. Here, in this remote alpine basin, the world feels both vast and intimate, a cathedral of stone and forest where silence speaks louder than words."
 
 ## 8. Initial Canvas Treatment
-The canvas received a treatment that enabled smooth wet-on-wet blending in the sky area, creating the characteristic golden glow. The base likely allowed for both the warm yellows to blend seamlessly and the darker values to be layered effectively on top. The gradient from golden yellow to darker tones suggests a pre-blended background that provided a luminous foundation for the dramatic mountain and forest elements built upon it.
+
+- **Black gesso** brushed over the canvas and allowed to **dry completely** before any oil is applied. This is a dry acrylic ground, not a wet one: the oils above it cannot be pulled back into it, and every light value in the painting has to be added rather than lifted.
+- **Liquid Clear** applied over the ground, giving a wet, transparent working surface without lightening it. No Liquid White is used as a base.
+- No contact paper and no masking.
+- **Secondary tone:** this episode carries the `Underpainting` tag, so a transparent colour was laid over the ground before painting began. Its value is in no dataset — Bob names it aloud in the opening minute and it is invisible in the finished painting. Not yet recovered for this episode; see `canvas_preparation.secondary_tone` below.
+
+The black ground carries the value structure of the whole painting. Read the light in this entry as light recovered from darkness, not as shadow laid over white.
+
+> Section 8 is template-filled from the CSV one-hot columns (`scripts/fix_ground.py`), not generated from the image.
 
 ---
 
@@ -74,6 +82,13 @@ episode:
   title: "Lake in the Valley"
   year: 1992
   painting_index: 337
+
+canvas_preparation:
+  ground: "Black Gesso"
+  secondary_tone: null
+  liquid_clear: true
+  liquid_white: false
+  contact_paper: false
 
 colors:
   - Cadmium Yellow

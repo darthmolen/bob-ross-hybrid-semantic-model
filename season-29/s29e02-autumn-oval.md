@@ -85,6 +85,13 @@ episode:
   year: 1992
   painting_index: 374
 
+canvas_preparation:
+  ground: "Liquid White"
+  secondary_tone: null
+  liquid_clear: false
+  liquid_white: true
+  contact_paper: true
+
 colors:
   - Titanium White
   - Cadmium Yellow
@@ -94,6 +101,5 @@ colors:
   - Dark Sienna
   - Van Dyke Brown
   - Midnight Black
-  - Prussian Blue
   - Sap Green
 ```

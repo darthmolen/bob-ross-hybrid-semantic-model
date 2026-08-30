@@ -34,6 +34,8 @@ The sky employs wet-on-wet blending with large brush and cross-hatching strokes 
 ## 8. Initial Canvas Treatment
 The canvas begins with Black Gesso applied to create a dark foundation, establishing deep values for the forest areas. Liquid Clear is then applied over the entire surface, allowing for smooth wet-on-wet blending and enabling colors to move freely across the canvas. This combination provides both rich darks and luminous transparency for the ethereal background glow.
 
+- **Contact paper** cut as a large **oval** on a white ground. The trees at the upper right are painted past the oval edge and break out of the frame.
+
 ---
 
 ```yaml
@@ -50,6 +52,13 @@ episode:
   title: "Cabin at Trails End"
   year: 1990
   painting_index: 21
+
+canvas_preparation:
+  ground: "Black Gesso"
+  secondary_tone: null
+  liquid_clear: true
+  liquid_white: false
+  contact_paper: true
 
 colors:
   - Alizarin Crimson

@@ -56,6 +56,8 @@ The canvas received a complete Liquid White base coat, essential for the extensi
 
 Foundation: **Full Liquid White application enabling fluid blending across all zones while maintaining color vibrancy and foam highlight brilliance**.
 
+- **Liquid Clear** over the ground, giving a wet, transparent working surface without lightening it.
+
 ---
 
 ```yaml
@@ -72,6 +74,13 @@ episode:
   title: "Ocean Sunset"
   year: 1988
   painting_index: 173
+
+canvas_preparation:
+  ground: "Liquid White"
+  secondary_tone: null
+  liquid_clear: true
+  liquid_white: true
+  contact_paper: false
 
 colors:
   - Cadmium Yellow

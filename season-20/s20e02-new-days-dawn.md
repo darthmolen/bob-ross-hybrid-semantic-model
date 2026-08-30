@@ -40,7 +40,13 @@ The canvas was prepared with Liquid Clear to allow for smooth blending and lumin
 
 ## 8. Initial Canvas Treatment
 
-The canvas was coated with a thin, even layer of Liquid Clear, applied with a large brush and worked across the entire surface until transparent. This clear base allows for the luminous blending of colors while maintaining brilliance, particularly important for achieving the glowing dawn sky and atmospheric effects. The Liquid Clear enables smooth transitions between warm and cool tones and creates the soft, misty quality essential to the early morning atmosphere.
+- **Liquid Black** worked thin into the canvas as a **wet** black ground. Unlike dried gesso it stays in contact with the oils laid over it, so darks can be pulled back into the ground and edges softened into it.
+- **Liquid Clear** applied over the ground, giving a wet, transparent working surface without lightening it. No Liquid White is used as a base.
+- No contact paper and no masking.
+
+The wet black ground is what keeps the darks deep without mixing them muddy, and what lets the lit passages be pulled straight out of the ground.
+
+> Section 8 is template-filled from the CSV one-hot columns (`scripts/fix_ground.py`), not generated from the image.
 
 ---
 
@@ -58,6 +64,13 @@ episode:
   title: "New Day's Dawn"
   year: 1990
   painting_index: 32
+
+canvas_preparation:
+  ground: "Liquid Black"
+  secondary_tone: null
+  liquid_clear: true
+  liquid_white: false
+  contact_paper: false
 
 colors:
   - Alizarin Crimson

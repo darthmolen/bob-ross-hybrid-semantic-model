@@ -45,6 +45,8 @@ Signature technique: **Lavender shadow casting using mixed complementaries to cr
 The canvas was prepared with Liquid White, applied relatively thinly to allow the soft blending of the pink and lavender tones in both the sky and the shadow work on the snow. The white base enables the delicate color transitions and prevents the dark blues and reds from becoming muddy when mixed for the purple shadows. This treatment creates the luminous, glowing quality that characterizes the entire painting and allows the pastel tones to remain vibrant and ethereal throughout the composition.
 
 ---
+
+```yaml
 tags:
   composition_archetype: "minimalist winter landscape archetype with gentle curves and vertical counterpoints"
   palette_identity: "Pastel winter dreamscape"
@@ -59,12 +61,17 @@ episode:
   year: 1988
   painting_index: 170
 
+canvas_preparation:
+  ground: "Liquid White"
+  secondary_tone: null
+  liquid_clear: false
+  liquid_white: true
+  contact_paper: false
+
 colors:
   - Alizarin Crimson
   - Phthalo Blue
   - Titanium White
-  - Prussian Blue
   - Van Dyke Brown
-  - Burnt Umber
   - Bright Red
 ```

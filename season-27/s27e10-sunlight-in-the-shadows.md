@@ -77,14 +77,13 @@ Signature technique: **brilliant sunset glow achieved through layered warm glaze
 
 ## 8. Initial Canvas Treatment
 
-- Dark toned canvas base (likely using Liquid Black or dark gesso)
-- Warm tones applied in the center-background area before building up the sunset
-- Dark foundation allowing for maximum contrast with brilliant light source
-- Wet-on-wet technique throughout
-- No contact paper masking
-- Canvas prepared to support both deep shadows and luminous highlights
+- **Black gesso** brushed over the canvas and allowed to **dry completely** before any oil is applied. This is a dry acrylic ground, not a wet one: the oils above it cannot be pulled back into it, and every light value in the painting has to be added rather than lifted.
+- **Liquid Clear** applied over the ground, giving a wet, transparent working surface without lightening it. No Liquid White is used as a base.
+- No contact paper and no masking.
 
-A dark foundation approach designed to maximize the dramatic impact of the central sunset breakthrough, emphasizing the episode's title theme of light emerging from shadows.
+The black ground carries the value structure of the whole painting. Read the light in this entry as light recovered from darkness, not as shadow laid over white.
+
+> Section 8 is template-filled from the CSV one-hot columns (`scripts/fix_ground.py`), not generated from the image.
 
 ---
 
@@ -103,13 +102,16 @@ episode:
   year: 1993
   painting_index: 356
 
+canvas_preparation:
+  ground: "Black Gesso"
+  secondary_tone: null
+  liquid_clear: true
+  liquid_white: false
+  contact_paper: false
+
 colors:
-  - Cadmium Yellow
-  - Indian Yellow
   - Yellow Ochre
   - Van Dyke Brown
-  - Dark Sienna
   - Midnight Black
-  - Sap Green
   - Titanium White
 ```

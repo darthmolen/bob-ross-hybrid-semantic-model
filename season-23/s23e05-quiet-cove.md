@@ -83,12 +83,18 @@ episode:
   year: 1992
   painting_index: 299
 
+canvas_preparation:
+  ground: "Liquid White"
+  secondary_tone: null
+  liquid_clear: false
+  liquid_white: true
+  contact_paper: false
+
 colors:
   - Titanium White
   - Cadmium Yellow
   - Yellow Ochre
   - Sap Green
-  - Phthalo Green
   - Midnight Black
   - Van Dyke Brown
   - Prussian Blue

@@ -52,7 +52,7 @@ Motion profile: **vertical static rhythm with atmospheric depth recession**
 
 ## 6. Technique
 
-- Liquid White or light blue base for atmospheric effect
+- Dry black gesso ground with a thin transparent blue over it for the atmospheric effect
 - Fan brush for evergreen foliage
 - Palette knife for birch tree trunks with highlighted edges
 - Vertical dragging strokes for tree bark texture
@@ -68,7 +68,7 @@ Signature technique: **palette knife birch trunks with highlighted edges against
 
 ## 8. Initial Canvas Treatment
 
-- Liquid White base
+- Dry black gesso ground, no Liquid White
 - Possible blue-tinted wet layer for atmospheric effect
 - No black gesso
 - No contact paper
@@ -94,12 +94,17 @@ episode:
   year: 1986
   painting_index: 221
 
+canvas_preparation:
+  ground: "Black Gesso"
+  secondary_tone: null
+  liquid_clear: false
+  liquid_white: false
+  contact_paper: false
+
 colors:
   - Phthalo Blue
   - Phthalo Green
-  - Prussian Blue
   - Titanium White
   - Sap Green
-  - Midnight Black
   - Van Dyke Brown
 ```

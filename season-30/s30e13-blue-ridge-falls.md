@@ -28,7 +28,15 @@ Signature technique: **Vertical waterfall push strokes**
 "In the heart of the Blue Ridge, water has carved its patient path through ancient stone, creating a sanctuary known only to wandering deer and mountain birds. The mist that rises speaks of the eternal conversation between falling water and unyielding rock—a dialogue measured not in words but in centuries. Here, in this vertical cathedral of green and stone, the waterfall serves as both architect and congregation, sculpting beauty through relentless, gentle persistence."
 
 ## 8. Initial Canvas Treatment
-The canvas was prepared with Liquid White to enable wet-on-wet blending throughout the painting, allowing the sky to merge seamlessly into misty backgrounds and facilitating the soft atmospheric effects essential to the waterfall's ethereal quality. This base permits the dramatic contrast between luminous whites and deep darks while maintaining smooth transitions in the foggy midground.
+
+- **Black gesso** brushed over the canvas and allowed to **dry completely** before any oil is applied. This is a dry acrylic ground, not a wet one: the oils above it cannot be pulled back into it, and every light value in the painting has to be added rather than lifted.
+- No Liquid Clear and no Liquid White base — the oils are carried thin directly over the ground.
+- No contact paper and no masking.
+
+The black ground carries the value structure of the whole painting. Read the light in this entry as light recovered from darkness, not as shadow laid over white.
+
+> Section 8 is template-filled from the CSV one-hot columns (`scripts/fix_ground.py`), not generated from the image.
+> The text it replaced named the wrong ground for this episode. See `artifacts/ground_fixed.csv` for what it said.
 
 ---
 
@@ -47,6 +55,13 @@ episode:
   year: 1994
   painting_index: 398
 
+canvas_preparation:
+  ground: "Black Gesso"
+  secondary_tone: null
+  liquid_clear: false
+  liquid_white: false
+  contact_paper: false
+
 colors:
   - Prussian Blue
   - Phthalo Blue
@@ -54,7 +69,6 @@ colors:
   - Van Dyke Brown
   - Titanium White
   - Sap Green
-  - Phthalo Green
   - Dark Sienna
   - Yellow Ochre
 ```

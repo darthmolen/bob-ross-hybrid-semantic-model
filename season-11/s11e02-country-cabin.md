@@ -91,13 +91,18 @@ episode:
   year: 1987
   painting_index: 151
 
+canvas_preparation:
+  ground: "Liquid White"
+  secondary_tone: null
+  liquid_clear: false
+  liquid_white: true
+  contact_paper: false
+
 colors:
   - Alizarin Crimson
   - Dark Sienna
   - Midnight Black
-  - Phthalo Blue
   - Prussian Blue
-  - Sap Green
   - Titanium White
   - Van Dyke Brown
 ```

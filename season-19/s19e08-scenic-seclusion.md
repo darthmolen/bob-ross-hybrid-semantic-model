@@ -54,7 +54,7 @@ Motion profile: **Diagonal Water Rush with Wind-Shaped Elements**
 
 ## 6. Technique
 
-- Liquid White base for blendable sky and atmospheric effects
+- Wet Liquid Black ground; sky and atmosphere are blended down into it
 - Palette knife work for mountain peaks and rocky formations
 - Fan brush for evergreen trees and foliage masses
 - Large brush for sky gradations and atmospheric glow
@@ -72,13 +72,14 @@ Signature technique: **Dynamic water highlights contrasted with soft atmospheric
 
 ## 8. Initial Canvas Treatment
 
-- Liquid White applied across the entire canvas
-- Smooth wet surface for blending sky gradations
-- No dark gesso underpainting
-- No contact paper masking
-- Standard wet-on-wet foundation
+- **Liquid Black** worked thin into the canvas as a **wet** black ground. Unlike dried gesso it stays in contact with the oils laid over it, so darks can be pulled back into the ground and edges softened into it.
+- No Liquid Clear and no Liquid White base — the oils are carried thin directly over the ground.
+- No contact paper and no masking.
 
-A traditional Liquid White foundation enabling smooth atmospheric transitions and vibrant color layering.
+The wet black ground is what keeps the darks deep without mixing them muddy, and what lets the lit passages be pulled straight out of the ground.
+
+> Section 8 is template-filled from the CSV one-hot columns (`scripts/fix_ground.py`), not generated from the image.
+> The text it replaced named the wrong ground for this episode. See `artifacts/ground_fixed.csv` for what it said.
 
 ---
 
@@ -96,6 +97,13 @@ episode:
   title: "Scenic Seclusion"
   year: 1989
   painting_index: 51
+
+canvas_preparation:
+  ground: "Liquid Black"
+  secondary_tone: null
+  liquid_clear: false
+  liquid_white: false
+  contact_paper: false
 
 colors:
   - Titanium White

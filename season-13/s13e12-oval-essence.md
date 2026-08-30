@@ -49,14 +49,18 @@ episode:
   year: 1987
   painting_index: 135
 
+canvas_preparation:
+  ground: "Black Gesso"
+  secondary_tone: null
+  liquid_clear: false
+  liquid_white: false
+  contact_paper: true
+
 colors:
   - Cadmium Yellow
   - Dark Sienna
-  - Indian Yellow
   - Midnight Black
   - Phthalo Blue
-  - Prussian Blue
-  - Sap Green
   - Titanium White
   - Van Dyke Brown
 ```

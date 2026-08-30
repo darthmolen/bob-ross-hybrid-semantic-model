@@ -91,13 +91,13 @@ Signature technique: **Dramatic foam and spray using palette knife with layered 
 
 ## 8. Initial Canvas Treatment
 
-- Deep blue or purple base applied across ocean and sky areas
-- Darker values establishing water foundation
-- Mid-tone purple or lavender for atmospheric regions
-- Base layer creating moody foundation for dramatic light contrasts
-- Smooth initial coverage allowing wave whites to stand forward with maximum impact
+- **Black gesso** brushed over the canvas and allowed to **dry completely** before any oil is applied. This is a dry acrylic ground, not a wet one: the oils above it cannot be pulled back into it, and every light value in the painting has to be added rather than lifted.
+- No Liquid Clear and no Liquid White base — the oils are carried thin directly over the ground.
+- No contact paper and no masking.
 
-The dark, cool foundation enhances the dramatic lighting and turbulent atmosphere.
+The black ground carries the value structure of the whole painting. Read the light in this entry as light recovered from darkness, not as shadow laid over white.
+
+> Section 8 is template-filled from the CSV one-hot columns (`scripts/fix_ground.py`), not generated from the image.
 
 ---
 
@@ -118,6 +118,13 @@ episode:
   year: 1985
   painting_index: 182
 
+canvas_preparation:
+  ground: "Black Gesso"
+  secondary_tone: null
+  liquid_clear: false
+  liquid_white: false
+  contact_paper: false
+
 colors:
   - Prussian Blue
   - Phthalo Blue
@@ -125,5 +132,4 @@ colors:
   - Van Dyke Brown
   - Dark Sienna
   - Alizarin Crimson
-  - Phthalo Green
 ```

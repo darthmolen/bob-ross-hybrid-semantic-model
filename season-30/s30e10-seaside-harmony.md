@@ -29,7 +29,16 @@ Signature technique: **Dramatic knife-work waves with fan brush spray against pi
 "Here on this wild shore, nature performs its eternal dance between sea and stone, but today the sky blushes with unexpected color—perhaps dawn's last light or dusk's first breath. The waves know no pause in their ancient rhythm, crashing with primal force against rocks that have witnessed countless storms. Yet above this turbulence, the pink-tinted clouds drift peacefully, reminding us that even in nature's most powerful displays, there exists a strange and beautiful harmony. This is where the ocean's voice speaks loudest, where spray becomes mist, and where the boundary between water and sky blurs into something almost magical."
 
 ## 8. Initial Canvas Treatment
-The canvas was prepared with a Liquid White base, allowing for the smooth wet-on-wet blending essential to both the soft cloud transitions and the fluid ocean movements. This preparation enabled the distinctive pink tones to blend seamlessly with whites and blues in the sky, while also facilitating the translucent quality of the wave crests and the smooth gradations in the water. The wet surface supported the bold knife work in rocks and waves while maintaining the soft, billowing character of the atmospheric elements.
+
+- **Black gesso** brushed over the canvas and allowed to **dry completely** before any oil is applied. This is a dry acrylic ground, not a wet one: the oils above it cannot be pulled back into it, and every light value in the painting has to be added rather than lifted.
+- **Liquid Clear** applied over the ground, giving a wet, transparent working surface without lightening it. No Liquid White is used as a base.
+- No contact paper and no masking.
+- **Secondary tone:** this episode carries the `Underpainting` tag, so a transparent colour was laid over the ground before painting began. Its value is in no dataset — Bob names it aloud in the opening minute and it is invisible in the finished painting. Not yet recovered for this episode; see `canvas_preparation.secondary_tone` below.
+
+The black ground carries the value structure of the whole painting. Read the light in this entry as light recovered from darkness, not as shadow laid over white.
+
+> Section 8 is template-filled from the CSV one-hot columns (`scripts/fix_ground.py`), not generated from the image.
+> The text it replaced named the wrong ground for this episode. See `artifacts/ground_fixed.csv` for what it said.
 
 ---
 
@@ -48,13 +57,18 @@ episode:
   year: 1994
   painting_index: 395
 
+canvas_preparation:
+  ground: "Black Gesso"
+  secondary_tone: null
+  liquid_clear: true
+  liquid_white: false
+  contact_paper: false
+
 colors:
   - Alizarin Crimson
   - Midnight Black
   - Phthalo Blue
-  - Phthalo Green
   - Prussian Blue
   - Titanium White
   - Van Dyke Brown
-  - Yellow Ochre
 ```

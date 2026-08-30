@@ -62,7 +62,7 @@ Motion profile: **profound stillness**
 
 ## 6. Technique
 
-- Liquid White base for smooth blending in sky and snow
+- Wet Liquid Black ground under Liquid Clear; sky and snow are blended over that, not over white
 - Palette knife work for mountain peaks and snow coverage
 - Fan brush evergreens with varying pressure for snow-laden appearance
 - Knife-painted cabin structure with scraping for details
@@ -80,13 +80,14 @@ Signature technique: **palette knife snow coverage**
 
 ## 8. Initial Canvas Treatment
 
-- Liquid White applied across the entire canvas
-- Smooth wet surface for blending sky and snow transitions
-- No dark toning or gesso base
-- No contact paper masking
-- Traditional wet-on-wet foundation for maximum blending
+- **Liquid Black** worked thin into the canvas as a **wet** black ground. Unlike dried gesso it stays in contact with the oils laid over it, so darks can be pulled back into the ground and edges softened into it.
+- **Liquid Clear** applied over the ground, giving a wet, transparent working surface without lightening it. No Liquid White is used as a base.
+- No contact paper and no masking.
 
-A classic Liquid White foundation supporting soft atmospheric transitions and brilliant snow highlights.
+The wet black ground is what keeps the darks deep without mixing them muddy, and what lets the lit passages be pulled straight out of the ground.
+
+> Section 8 is template-filled from the CSV one-hot columns (`scripts/fix_ground.py`), not generated from the image.
+> The text it replaced named the wrong ground for this episode. See `artifacts/ground_fixed.csv` for what it said.
 
 ---
 
@@ -105,14 +106,19 @@ episode:
   year: 1993
   painting_index: 357
 
+canvas_preparation:
+  ground: "Liquid Black"
+  secondary_tone: null
+  liquid_clear: true
+  liquid_white: false
+  contact_paper: false
+
 colors:
   - Alizarin Crimson
   - Dark Sienna
-  - Indian Yellow
   - Midnight Black
   - Phthalo Blue
   - Prussian Blue
   - Titanium White
   - Van Dyke Brown
-  - Yellow Ochre
 ```

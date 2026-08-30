@@ -69,6 +69,7 @@ Signature technique: **Knife-loaded snow highlights contrasted with soft-blended
 - Heavy application in sky area to facilitate wet-on-wet blending
 - Moderate coverage in foreground for textural snow applications
 - Pre-blended warm tones (yellows) worked into the wet base for sunset glow
+- **Liquid Clear** over the ground, giving a wet, transparent working surface without lightening it.
 
 Canvas prepared with Liquid White to enable smooth blending and the characteristic golden luminosity throughout the composition.
 
@@ -89,16 +90,19 @@ episode:
   year: 1987
   painting_index: 160
 
+canvas_preparation:
+  ground: "Liquid White"
+  secondary_tone: null
+  liquid_clear: true
+  liquid_white: true
+  contact_paper: false
+
 colors:
-  - Alizarin Crimson
   - Cadmium Yellow
   - Dark Sienna
   - Indian Yellow
-  - Midnight Black
-  - Phthalo Blue
   - Prussian Blue
   - Titanium White
   - Van Dyke Brown
   - Yellow Ochre
-  - Liquid White
 ```

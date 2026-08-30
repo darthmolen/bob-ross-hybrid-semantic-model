@@ -92,12 +92,17 @@ episode:
   year: 1993
   painting_index: 353
 
+canvas_preparation:
+  ground: "Liquid White"
+  secondary_tone: null
+  liquid_clear: false
+  liquid_white: true
+  contact_paper: false
+
 colors:
-  - Phthalo Blue
   - Prussian Blue
   - Titanium White
   - Sap Green
-  - Phthalo Green
   - Cadmium Yellow
   - Indian Yellow
   - Van Dyke Brown

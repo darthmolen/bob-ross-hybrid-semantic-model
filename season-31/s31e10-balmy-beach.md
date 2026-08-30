@@ -74,7 +74,7 @@ Signature technique: **silhouette composition with horizontal gradient blending 
 - **Contact paper**: Not used
 - **Textured gesso**: Not used
 
-A traditional Liquid White base across the entire canvas, allowing for seamless wet-on-wet blending of the complex sunset gradient and smooth atmospheric color transitions.
+A dry black gesso ground with Liquid Clear over it, allowing seamless wet-on-wet blending of the complex sunset gradient and smooth atmospheric color transitions.
 
 ---
 
@@ -93,13 +93,19 @@ episode:
   year: 1994
   painting_index: 408
 
+canvas_preparation:
+  ground: "Black Gesso"
+  secondary_tone: null
+  liquid_clear: true
+  liquid_white: false
+  contact_paper: true
+
 colors:
   - Cadmium Yellow
   - Indian Yellow
   - Alizarin Crimson
   - Bright Red
   - Phthalo Blue
-  - Prussian Blue
   - Phthalo Green
   - Titanium White
   - Van Dyke Brown

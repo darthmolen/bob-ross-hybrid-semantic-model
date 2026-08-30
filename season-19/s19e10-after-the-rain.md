@@ -59,7 +59,7 @@ Motion profile: **Vertical Waterfall Cascade with Rising Mist**
 
 ## 6. Technique
 
-- Liquid White or Liquid Clear base for blending
+- Dry black gesso ground; blending done in thin oil directly over it
 - Palette knife work for rocky cliff faces and foreground stones
 - Fan brush evergreens on both sides
 - Vertical pull-down strokes for waterfall effect
@@ -77,13 +77,15 @@ Signature technique: **vertical waterfall strokes with atmospheric mist blending
 
 ## 8. Initial Canvas Treatment
 
-- Liquid White base for smooth blending
-- Possible selective dark underpainting for rocky areas
-- No contact paper masking
-- Wet-on-wet foundation throughout
-- Pre-mixed darks for immediate depth
+- **Black gesso** brushed over the canvas and allowed to **dry completely** before any oil is applied. This is a dry acrylic ground, not a wet one: the oils above it cannot be pulled back into it, and every light value in the painting has to be added rather than lifted.
+- No Liquid Clear and no Liquid White base — the oils are carried thin directly over the ground.
+- No contact paper and no masking.
+- **Secondary tone:** this episode carries the `Underpainting` tag, so a transparent colour was laid over the ground before painting began. Its value is in no dataset — Bob names it aloud in the opening minute and it is invisible in the finished painting. Not yet recovered for this episode; see `canvas_preparation.secondary_tone` below.
 
-A foundational wet-surface approach emphasizing atmospheric blending and dramatic waterfall contrast.
+The black ground carries the value structure of the whole painting. Read the light in this entry as light recovered from darkness, not as shadow laid over white.
+
+> Section 8 is template-filled from the CSV one-hot columns (`scripts/fix_ground.py`), not generated from the image.
+> The text it replaced named the wrong ground for this episode. See `artifacts/ground_fixed.csv` for what it said.
 
 ---
 
@@ -102,11 +104,16 @@ episode:
   year: 1989
   painting_index: 53
 
+canvas_preparation:
+  ground: "Black Gesso"
+  secondary_tone: null
+  liquid_clear: false
+  liquid_white: false
+  contact_paper: false
+
 colors:
   - Midnight Black
-  - Prussian Blue
   - Phthalo Blue
-  - Phthalo Green
   - Sap Green
   - Titanium White
   - Van Dyke Brown

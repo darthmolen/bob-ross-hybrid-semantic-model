@@ -108,12 +108,17 @@ episode:
   year: 1988
   painting_index: 122
 
+canvas_preparation:
+  ground: "Black Gesso"
+  secondary_tone: null
+  liquid_clear: false
+  liquid_white: false
+  contact_paper: true
+
 colors:
-  - Prussian Blue
   - Phthalo Blue
   - Midnight Black
   - Sap Green
-  - Phthalo Green
   - Van Dyke Brown
   - Dark Sienna
   - Titanium White

@@ -67,12 +67,15 @@ Signature technique: **Angular Knife-Work Glacier Formation**
 "An ancient river of ice commands the alpine landscape, its blue-shadowed crevasses and brilliant white surface testament to countless winters. The warm meadow below offers a moment of gentle welcome before the harsh majesty of the glacier, while ghost-like peaks emerge from clouds beyond, suggesting vast wilderness stretching to the horizon. This is nature's cathedral of ice and stone, where time moves in millennia and human presence fades to insignificance."
 
 ## 8. Initial Canvas Treatment
-- Canvas prepared with Liquid White base for sky and background areas
-- Possible light blue pre-toning in upper portions to establish cool atmospheric foundation
-- Wet surface allowing for seamless blending of clouds and misty mountain transitions
-- The wet base enables soft atmospheric effects while supporting sharp knife work for glacier
 
-Initial treatment creates the foundation for both soft atmospheric depth and crisp glacial definition.
+- **Black gesso** brushed over the canvas and allowed to **dry completely** before any oil is applied. This is a dry acrylic ground, not a wet one: the oils above it cannot be pulled back into it, and every light value in the painting has to be added rather than lifted.
+- No Liquid Clear and no Liquid White base — the oils are carried thin directly over the ground.
+- No contact paper and no masking.
+
+The black ground carries the value structure of the whole painting. Read the light in this entry as light recovered from darkness, not as shadow laid over white.
+
+> Section 8 is template-filled from the CSV one-hot columns (`scripts/fix_ground.py`), not generated from the image.
+> The text it replaced named the wrong ground for this episode. See `artifacts/ground_fixed.csv` for what it said.
 
 ---
 
@@ -91,8 +94,14 @@ episode:
   year: 1987
   painting_index: 154
 
+canvas_preparation:
+  ground: "Black Gesso"
+  secondary_tone: null
+  liquid_clear: false
+  liquid_white: false
+  contact_paper: false
+
 colors:
-  - Phthalo Blue
   - Prussian Blue
   - Midnight Black
   - Titanium White

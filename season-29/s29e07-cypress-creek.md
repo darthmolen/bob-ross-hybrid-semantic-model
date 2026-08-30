@@ -60,12 +60,16 @@ Signature technique: **Atmospheric glazing with backlit silhouettes and hanging 
 "This is the quiet heart of the Southern wetlands, where ancient cypress sentinels stand watch over mirror-still waters. The golden light suggests either the first breath of morning or the last sigh of evening—a liminal moment when the swamp reveals its softer, more meditative character. Spanish moss hangs like natural curtains, filtering the warm glow and transforming the scene into a sanctuary of peace and reflection."
 
 ## 8. Initial Canvas Treatment
-- Canvas prepared with Liquid White to enable soft blending and atmospheric effects
-- The white base allows for the warm yellows and ochres to glow luminously
-- Facilitates the wet-on-wet technique essential for the hazy, diffused sky
-- Enables smooth transitions between the golden atmosphere and darker elements
 
-The Liquid White foundation creates the ethereal, backlit quality that defines this swamp twilight scene.
+- **Black gesso** brushed over the canvas and allowed to **dry completely** before any oil is applied. This is a dry acrylic ground, not a wet one: the oils above it cannot be pulled back into it, and every light value in the painting has to be added rather than lifted.
+- No Liquid Clear and no Liquid White base — the oils are carried thin directly over the ground.
+- No contact paper and no masking.
+- **Secondary tone:** this episode carries the `Underpainting` tag, so a transparent colour was laid over the ground before painting began. Its value is in no dataset — Bob names it aloud in the opening minute and it is invisible in the finished painting. Not yet recovered for this episode; see `canvas_preparation.secondary_tone` below.
+
+The black ground carries the value structure of the whole painting. Read the light in this entry as light recovered from darkness, not as shadow laid over white.
+
+> Section 8 is template-filled from the CSV one-hot columns (`scripts/fix_ground.py`), not generated from the image.
+> The text it replaced named the wrong ground for this episode. See `artifacts/ground_fixed.csv` for what it said.
 
 ---
 
@@ -83,6 +87,13 @@ episode:
   title: "Cypress Creek"
   year: 1992
   painting_index: 379
+
+canvas_preparation:
+  ground: "Black Gesso"
+  secondary_tone: null
+  liquid_clear: false
+  liquid_white: false
+  contact_paper: false
 
 colors:
   - Alizarin Crimson

@@ -101,6 +101,13 @@ episode:
   year: 1992
   painting_index: 322
 
+canvas_preparation:
+  ground: "Black Gesso"
+  secondary_tone: null
+  liquid_clear: false
+  liquid_white: false
+  contact_paper: true
+
 colors:
   - Alizarin Crimson
   - Indian Yellow

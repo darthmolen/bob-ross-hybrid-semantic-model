@@ -32,7 +32,15 @@ Signature technique: **Atmospheric perspective with layered depth planes**
 "A wilderness trail disappears into the blue twilight depths of an ancient forest, where towering evergreens have stood for centuries undisturbed. This is a threshold moment—the path invites you to leave the familiar world behind and venture into nature's cathedral, where silence speaks and solitude restores the spirit. The cool atmospheric light suggests either dawn's first promise or dusk's gentle closing, times when the forest reveals its most mysterious character."
 
 ## 8. Initial Canvas Treatment
-The canvas was prepared with Liquid White, possibly tinted with Prussian Blue to establish the overall cool atmospheric tone. This wet base allows the seamless blending of the misty background and smooth tonal transitions from foreground darkness to background luminosity.
+
+- **Black gesso** brushed over the canvas and allowed to **dry completely** before any oil is applied. This is a dry acrylic ground, not a wet one: the oils above it cannot be pulled back into it, and every light value in the painting has to be added rather than lifted.
+- **Liquid Clear** applied over the ground, giving a wet, transparent working surface without lightening it. No Liquid White is used as a base.
+- No contact paper and no masking.
+
+The black ground carries the value structure of the whole painting. Read the light in this entry as light recovered from darkness, not as shadow laid over white.
+
+> Section 8 is template-filled from the CSV one-hot columns (`scripts/fix_ground.py`), not generated from the image.
+> The text it replaced named the wrong ground for this episode. See `artifacts/ground_fixed.csv` for what it said.
 
 ---
 
@@ -51,10 +59,15 @@ episode:
   year: 1994
   painting_index: 389
 
+canvas_preparation:
+  ground: "Black Gesso"
+  secondary_tone: null
+  liquid_clear: true
+  liquid_white: false
+  contact_paper: false
+
 colors:
   - Prussian Blue
-  - Phthalo Blue
-  - Phthalo Green
   - Sap Green
   - Midnight Black
   - Titanium White

@@ -32,6 +32,8 @@ Ross employs his signature wet-on-wet technique on a **Liquid White** base, allo
 
 The canvas receives a **Liquid White** treatment, applied evenly across the surface to create the luminous foundation essential for both the bright sky and reflective water elements. This wet base allows the Phthalo Blue sky to blend seamlessly from deeper tones at the top to lighter values near the horizon, creating atmospheric perspective. The Liquid White particularly serves the water area, where its slick surface enables the gentle horizontal pulls that suggest flowing current and mirror-like reflections. In the areas designated for the distant misty buildings, the Liquid White allows soft-edge techniques that push architecture into hazy background distance. The wet base also facilitates the bold, confident foliage work where multiple greens can blend and layer without becoming muddy, maintaining the freshness and luminosity that characterizes this peaceful urban scene.
 
+- **Contact paper** cut as a free-form **apple silhouette** — the Big Apple — masking the whole scene. The lettering **NEW YORK** runs vertically down the bare canvas on the right, outside the mask.
+
 ---
 
 ```yaml
@@ -49,6 +51,13 @@ episode:
   year: 1989
   painting_index: 78
 
+canvas_preparation:
+  ground: "Liquid White"
+  secondary_tone: null
+  liquid_clear: false
+  liquid_white: true
+  contact_paper: true
+
 colors:
   - Phthalo Blue
   - Prussian Blue
@@ -61,5 +70,4 @@ colors:
   - Yellow Ochre
   - Midnight Black
   - Indian Yellow
-  - Liquid White
 ```

@@ -42,6 +42,8 @@ Signature technique: **Fan brush foliage masses with golden highlighting**
 
 The canvas was prepared with a Liquid White base, allowing for smooth blending of the sky and creating the luminous quality essential for capturing autumn's golden glow. The wet surface enables the soft atmospheric effects and the seamless transition between the warm earth tones and cooler sky elements.
 
+- **Liquid Clear** over the ground, giving a wet, transparent working surface without lightening it.
+
 ---
 
 ```yaml
@@ -59,14 +61,19 @@ episode:
   year: 1993
   painting_index: 364
 
+canvas_preparation:
+  ground: "Liquid White"
+  secondary_tone: null
+  liquid_clear: true
+  liquid_white: true
+  contact_paper: false
+
 colors:
   - Bright Red
   - Cadmium Yellow
-  - Dark Sienna
   - Indian Yellow
   - Midnight Black
   - Phthalo Blue
   - Titanium White
-  - Van Dyke Brown
   - Yellow Ochre
 ```

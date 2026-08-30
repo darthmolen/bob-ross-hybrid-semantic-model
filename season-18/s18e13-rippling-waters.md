@@ -101,6 +101,21 @@ episode:
   year: 1988
   painting_index: 70
 
+lint_exceptions:
+  - rule: ground-contradiction
+    reason: >
+      Split ground. Liquid Black on the lower canvas, Liquid White above, blended
+      together with the two-inch brush. The CSV one-hot columns record only
+      Liquid_Black = 1 and cannot express a partial ground, so the Liquid White
+      reference in Section 6 is correct and is not a contradiction.
+
+canvas_preparation:
+  ground: "Liquid Black"
+  secondary_tone: null
+  liquid_clear: false
+  liquid_white: false
+  contact_paper: false
+
 colors:
   - Alizarin Crimson
   - Cadmium Yellow
@@ -110,7 +125,6 @@ colors:
   - Van Dyke Brown
   - Midnight Black
   - Phthalo Blue
-  - Phthalo Green
   - Sap Green
   - Titanium White
 ```

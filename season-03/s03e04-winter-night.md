@@ -66,12 +66,14 @@ Signature technique: **Controlled contrast between warm cabin light and cool noc
 "In the deep quiet of a winter's night, a lone cabin stands as a testament to human resilience and the promise of warmth against nature's cold embrace. The golden glow spilling from its windows tells of life within — perhaps a fire crackling, a family gathered, or a solitary soul finding peace in the stillness. The undisturbed snow and hushed forest speak to the sacred pause that winter nights bring, where the world slows and we remember what it means to find shelter, both physical and spiritual, in the darkness."
 
 ## 8. Initial Canvas Treatment
-- Canvas prepared with dark base coat of Prussian Blue, Alizarin Crimson, and Black for nocturnal foundation
-- Entire surface covered thinly to establish the deep, nighttime value range from the start
-- Dark base remains visible in sky and shadow areas, creating authentic night atmosphere
-- This foundation allows white snow highlights to achieve maximum luminosity and contrast
 
-The painting begins in darkness, honoring the night, so that light — both in snow and cabin windows — can truly shine.
+- **Liquid Black** worked thin into the canvas as a **wet** black ground. Unlike dried gesso it stays in contact with the oils laid over it, so darks can be pulled back into the ground and edges softened into it.
+- No Liquid Clear and no Liquid White base — the oils are carried thin directly over the ground.
+- No contact paper and no masking.
+
+The wet black ground is what keeps the darks deep without mixing them muddy, and what lets the lit passages be pulled straight out of the ground.
+
+> Section 8 is template-filled from the CSV one-hot columns (`scripts/fix_ground.py`), not generated from the image.
 
 ---
 
@@ -90,11 +92,15 @@ episode:
   year: 1984
   painting_index: 259
 
+canvas_preparation:
+  ground: "Liquid Black"
+  secondary_tone: null
+  liquid_clear: false
+  liquid_white: false
+  contact_paper: false
+
 colors:
-  - Prussian Blue
   - Alizarin Crimson
-  - Midnight Black
-  - Sap Green
   - Cadmium Yellow
   - Titanium White
 ```

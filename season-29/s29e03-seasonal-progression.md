@@ -73,6 +73,7 @@ Signature technique: **Split canvas with dual seasonal technique variation**
 - Thin, even coating applied to entire canvas before dividing into seasonal halves
 - Base treatment allows for both soft blending on summer side and sharp detail work on winter side
 - The foundation enables simultaneous work on contrasting techniques within a single painting session
+- **Contact paper** laid as vertical strips, splitting the canvas into panels divided by clean **vertical dividing lines** — a split canvas carrying the same scene across separate frames.
 
 ---
 
@@ -91,11 +92,16 @@ episode:
   year: 1992
   painting_index: 375
 
+canvas_preparation:
+  ground: "Liquid White"
+  secondary_tone: null
+  liquid_clear: false
+  liquid_white: true
+  contact_paper: true
+
 colors:
   - Alizarin Crimson
   - Cadmium Yellow
-  - Liquid Clear
-  - Liquid White
   - Midnight Black
   - Phthalo Blue
   - Prussian Blue

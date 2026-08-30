@@ -49,6 +49,13 @@ episode:
   year: 1989
   painting_index: 80
 
+canvas_preparation:
+  ground: "Liquid White"
+  secondary_tone: null
+  liquid_clear: false
+  liquid_white: true
+  contact_paper: false
+
 colors:
   - Titanium White
   - Yellow Ochre
@@ -59,6 +66,5 @@ colors:
   - Alizarin Crimson
   - Bright Red
   - Midnight Black
-  - Prussian Blue
   - Sap Green
 ```

@@ -64,7 +64,15 @@ Motion profile: **Wind-Driven Turbulence**
 "A tropical paradise confronts the raw power of an approaching storm, where windswept palms bow before nature's fury while mighty clouds tower overhead. The ocean responds with churning waves that crash toward shore, their white crests catching the last golden light breaking through the storm system. This is a moment of transition—wild beauty suspended between calm and chaos, where the viewer witnesses the awesome spectacle of elemental forces in motion."
 
 ## 8. Initial Canvas Treatment
-Foundation began with Liquid White application for smooth blending capability in clouds and water. Darker base tones of Phthalo Blue and Midnight Black likely pre-applied in sky areas to establish storm cloud depth before building lighter cumulus highlights. The treatment allowed for both dramatic contrasts and soft atmospheric transitions characteristic of tropical storm lighting conditions.
+
+- **Liquid Black** worked thin into the canvas as a **wet** black ground. Unlike dried gesso it stays in contact with the oils laid over it, so darks can be pulled back into the ground and edges softened into it.
+- No Liquid Clear and no Liquid White base — the oils are carried thin directly over the ground.
+- No contact paper and no masking.
+
+The wet black ground is what keeps the darks deep without mixing them muddy, and what lets the lit passages be pulled straight out of the ground.
+
+> Section 8 is template-filled from the CSV one-hot columns (`scripts/fix_ground.py`), not generated from the image.
+> The text it replaced named the wrong ground for this episode. See `artifacts/ground_fixed.csv` for what it said.
 
 ---
 
@@ -82,6 +90,13 @@ episode:
   title: "Windy Waves"
   year: 1988
   painting_index: 117
+
+canvas_preparation:
+  ground: "Liquid Black"
+  secondary_tone: null
+  liquid_clear: false
+  liquid_white: false
+  contact_paper: false
 
 colors:
   - Phthalo Blue

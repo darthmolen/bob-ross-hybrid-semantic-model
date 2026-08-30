@@ -42,9 +42,16 @@ Signature technique: **Dramatic pink-tinted cloud building with knife-sculpted w
 "A powerful ocean breathes beneath a sky in transformation, where massive clouds painted in sunset pinks and storm grays billow overhead like nature's own cathedral. The waves roll endlessly toward ancient volcanic rocks, their white foam a testament to the sea's eternal conversation with the land. This is a moment suspended between calm and storm, between day and night—a reminder that the ocean breeze carries not just salt and spray, but the promise of constant change and timeless beauty."
 
 ## 8. Initial Canvas Treatment
-The canvas was prepared with **Liquid White** as the base medium, enabling the wet-on-wet technique essential for blending the dramatic cloud transitions and smooth ocean gradations. This slick foundation allowed the pink and blue cloud tones to merge seamlessly while maintaining the ability to create sharp highlights with the palette knife. The dark rocky outcropping was likely blocked in early over the wet base, establishing the composition's anchor point before developing the surrounding water and foam effects.
 
-**Foundation: Liquid White base enabling smooth atmospheric blending and crisp knife-work highlights throughout the seascape.**
+- **Black gesso** brushed over the canvas and allowed to **dry completely** before any oil is applied. This is a dry acrylic ground, not a wet one: the oils above it cannot be pulled back into it, and every light value in the painting has to be added rather than lifted.
+- No Liquid Clear and no Liquid White base — the oils are carried thin directly over the ground.
+- No contact paper and no masking.
+- **Secondary tone:** this episode carries the `Underpainting` tag, so a transparent colour was laid over the ground before painting began. Its value is in no dataset — Bob names it aloud in the opening minute and it is invisible in the finished painting. Not yet recovered for this episode; see `canvas_preparation.secondary_tone` below.
+
+The black ground carries the value structure of the whole painting. Read the light in this entry as light recovered from darkness, not as shadow laid over white.
+
+> Section 8 is template-filled from the CSV one-hot columns (`scripts/fix_ground.py`), not generated from the image.
+> The text it replaced named the wrong ground for this episode. See `artifacts/ground_fixed.csv` for what it said.
 
 ---
 
@@ -62,6 +69,13 @@ episode:
   title: "Ocean Breeze"
   year: 1988
   painting_index: 167
+
+canvas_preparation:
+  ground: "Black Gesso"
+  secondary_tone: null
+  liquid_clear: false
+  liquid_white: false
+  contact_paper: false
 
 colors:
   - Prussian Blue

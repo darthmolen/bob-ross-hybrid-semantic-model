@@ -84,6 +84,7 @@ Signature technique: **blue shadow modeling on snow**
 - No contact paper masking
 - Traditional wet-on-wet foundation
 - Subtle blue wash in upper portions for winter atmosphere
+- **Liquid Clear** over the ground, giving a wet, transparent working surface without lightening it.
 
 A classic Liquid White foundation enabling smooth transitions and the characteristic soft winter atmosphere.
 
@@ -104,8 +105,14 @@ episode:
   year: 1993
   painting_index: 351
 
+canvas_preparation:
+  ground: "Liquid White"
+  secondary_tone: null
+  liquid_clear: true
+  liquid_white: true
+  contact_paper: false
+
 colors:
-  - Phthalo Blue
   - Prussian Blue
   - Titanium White
   - Midnight Black

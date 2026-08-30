@@ -60,11 +60,15 @@ Motion profile: **Cascading Vertical To Horizontal Flow**
 "Hidden deep within a mountain wilderness, a powerful waterfall plunges through a narrow gorge, its thunderous cascade sending up veils of mist that soften the harsh rocky walls. The cool mountain air carries the scent of pine and fresh water as the falls transform into a rushing stream, dancing over ancient boulders on its eternal journey. This is nature's cathedral—a place of solitude where the soul can find both peace and invigoration in the raw, untamed beauty of the wild."
 
 ## 8. Initial Canvas Treatment
-- Canvas likely prepared with Liquid White base for smooth blending capabilities
-- Possible additional application of darker mixture in sky area for the overcast atmosphere
-- The Liquid White allows for the cool blue tones to blend smoothly while maintaining luminosity
-- Foundation enables both the soft misty transitions and the bold dark values of the rocks
-- Base treatment creates the perfect surface for building dramatic contrast between light waterfall and dark gorge walls.
+
+- **Black gesso** brushed over the canvas and allowed to **dry completely** before any oil is applied. This is a dry acrylic ground, not a wet one: the oils above it cannot be pulled back into it, and every light value in the painting has to be added rather than lifted.
+- No Liquid Clear and no Liquid White base — the oils are carried thin directly over the ground.
+- No contact paper and no masking.
+
+The black ground carries the value structure of the whole painting. Read the light in this entry as light recovered from darkness, not as shadow laid over white.
+
+> Section 8 is template-filled from the CSV one-hot columns (`scripts/fix_ground.py`), not generated from the image.
+> The text it replaced named the wrong ground for this episode. See `artifacts/ground_fixed.csv` for what it said.
 
 ---
 
@@ -83,15 +87,19 @@ episode:
   year: 1988
   painting_index: 95
 
+canvas_preparation:
+  ground: "Black Gesso"
+  secondary_tone: null
+  liquid_clear: false
+  liquid_white: false
+  contact_paper: false
+
 colors:
-  - Prussian Blue
   - Phthalo Blue
   - Titanium White
   - Midnight Black
   - Van Dyke Brown
   - Sap Green
   - Dark Sienna
-  - Phthalo Green
   - Yellow Ochre
-  - Liquid White
 ```

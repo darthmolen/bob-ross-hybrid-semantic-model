@@ -68,12 +68,14 @@ Signature technique: **Dark canvas foundation with strategic light placement for
 "This is a hidden sanctuary, a wayside pond discovered only by those who venture deep into the forest's heart. The gathering storm overhead mirrors the viewer's sense of being far from civilization, surrounded by ancient trees that stand as silent witnesses. Yet the pond itself remains calm, undisturbed—a place of refuge where nature's power and peace coexist. The light-colored bushes catch the last rays before the storm, like hope persisting in darkness."
 
 ## 8. Initial Canvas Treatment
-- **Liquid Black** applied across entire canvas, creating deep, dark foundation
-- This base allows dramatic contrast with lighter elements while maintaining overall moody tonality
-- Dark treatment eliminates need for painting in all shadow areas, letting canvas work as natural darkness
-- Enables wet-on-wet application of blues, whites, and lighter colors to stand out luminously
 
-The Liquid Black base establishes the nocturnal forest atmosphere and provides instant depth.
+- **Black gesso** brushed over the canvas and allowed to **dry completely** before any oil is applied. This is a dry acrylic ground, not a wet one: the oils above it cannot be pulled back into it, and every light value in the painting has to be added rather than lifted.
+- No Liquid Clear and no Liquid White base — the oils are carried thin directly over the ground.
+- No contact paper and no masking.
+
+The black ground carries the value structure of the whole painting. Read the light in this entry as light recovered from darkness, not as shadow laid over white.
+
+> Section 8 is template-filled from the CSV one-hot columns (`scripts/fix_ground.py`), not generated from the image.
 
 ---
 
@@ -91,6 +93,13 @@ episode:
   title: "Wayside Pond"
   year: 1992
   painting_index: 309
+
+canvas_preparation:
+  ground: "Black Gesso"
+  secondary_tone: null
+  liquid_clear: false
+  liquid_white: false
+  contact_paper: false
 
 colors:
   - Midnight Black

@@ -87,6 +87,13 @@ episode:
   year: 1990
   painting_index: 145
 
+canvas_preparation:
+  ground: "Liquid White"
+  secondary_tone: null
+  liquid_clear: true
+  liquid_white: true
+  contact_paper: false
+
 colors:
   - Alizarin Crimson
   - Cadmium Yellow

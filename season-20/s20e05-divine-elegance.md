@@ -42,6 +42,8 @@ The mountain is constructed primarily with the palette knife, using bold strokes
 
 The canvas begins with a foundation of Phthalo Blue mixed with Titanium White to create a soft sky blue, applied with a large brush across the upper two-thirds of the canvas. This cool base is blended smoothly to ensure an even coverage that will show through subsequent layers and unify the atmospheric elements. The lower portion, where the lake will reside, receives a slightly darker mixture of the same blue to establish the water plane. This wet-on-wet foundation allows for seamless blending of the sky elements and provides the reflective base for the lake. The initial treatment creates a cohesive cool-toned environment into which the warm peninsula and dramatic mountain will be introduced, ensuring color harmony throughout the final composition.
 
+- **Contact paper** masking a rectangular panel set inside a wide, even **border** of bare pale canvas on all four sides, giving the painting a mounted, matted look.
+
 ---
 
 ```yaml
@@ -58,6 +60,13 @@ episode:
   title: "Divine Elegance"
   year: 1990
   painting_index: 35
+
+canvas_preparation:
+  ground: "Liquid White"
+  secondary_tone: null
+  liquid_clear: false
+  liquid_white: true
+  contact_paper: true
 
 colors:
   - Alizarin Crimson

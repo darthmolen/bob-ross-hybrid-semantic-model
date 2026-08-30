@@ -63,13 +63,15 @@ Signature technique: **Birch tree knife work** — white highlights pulled verti
 "This wilderness sanctuary captures a liminal moment—the threshold between day and night when the sky ignites with color while the forest floor remains wrapped in shadow. The birch stands as a sentinel, its white bark catching the last or first light, while the dead snag beside it tells of nature's cycles. The stream whispers through this untouched realm, a pathway through the wild where time moves by seasons rather than hours, and the only witness to the glowing sky is the ancient forest itself."
 
 ## 8. Initial Canvas Treatment
-- Dark canvas base provides foundation for luminous sky effect
-- Liquid Black or dark mixture applied across entire surface
-- Sky colors blended into wet dark base using large brush
-- Purple-to-gold gradient built up in upper portion
-- Dark base left exposed in foreground and forest areas
-- Background mountain area kept thin to maintain misty softness
-Foundational approach: **Dark base illumination method** — dark canvas allows sky gradient to glow while providing depth structure for landscape elements.
+
+- **Black gesso** brushed over the canvas and allowed to **dry completely** before any oil is applied. This is a dry acrylic ground, not a wet one: the oils above it cannot be pulled back into it, and every light value in the painting has to be added rather than lifted.
+- No Liquid Clear and no Liquid White base — the oils are carried thin directly over the ground.
+- No contact paper and no masking.
+- **Secondary tone:** this episode carries the `Underpainting` tag, so a transparent colour was laid over the ground before painting began. Its value is in no dataset — Bob names it aloud in the opening minute and it is invisible in the finished painting. Not yet recovered for this episode; see `canvas_preparation.secondary_tone` below.
+
+The black ground carries the value structure of the whole painting. Read the light in this entry as light recovered from darkness, not as shadow laid over white.
+
+> Section 8 is template-filled from the CSV one-hot columns (`scripts/fix_ground.py`), not generated from the image.
 
 ---
 
@@ -88,14 +90,19 @@ episode:
   year: 1994
   painting_index: 411
 
+canvas_preparation:
+  ground: "Black Gesso"
+  secondary_tone: null
+  liquid_clear: false
+  liquid_white: false
+  contact_paper: false
+
 colors:
   - Titanium White
   - Midnight Black
-  - Prussian Blue
   - Phthalo Blue
   - Alizarin Crimson
   - Sap Green
-  - Phthalo Green
   - Cadmium Yellow
   - Yellow Ochre
   - Van Dyke Brown

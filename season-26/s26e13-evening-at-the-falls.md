@@ -58,7 +58,14 @@ Signature technique: **Moonlit highlight glazing on cascading water**
 "Deep in the forest gorge, where few travelers venture, a waterfall thunders through the darkness, revealed only when the moon breaks through the canopy above. The silvery cascade becomes a beacon in the night, transforming the hidden chasm into a cathedral of natural power and celestial light. This is a place where the earth's raw energy meets the gentle touch of moonbeams, creating a sanctuary both wild and sacred."
 
 ## 8. Initial Canvas Treatment
-The canvas was prepared with a heavy application of Liquid Black or a dark blue-black mixture, creating the deep nocturnal foundation essential for this nighttime scene. This dark base allowed the moonlit highlights to appear luminous and dramatic when applied later, with the wet-on-wet technique enabling smooth transitions between the deep shadows and silvery illuminated areas. The preparation established the mysterious, theatrical atmosphere from the very beginning.
+
+- **Black gesso** brushed over the canvas and allowed to **dry completely** before any oil is applied. This is a dry acrylic ground, not a wet one: the oils above it cannot be pulled back into it, and every light value in the painting has to be added rather than lifted.
+- **Liquid Clear** applied over the ground, giving a wet, transparent working surface without lightening it. No Liquid White is used as a base.
+- No contact paper and no masking.
+
+The black ground carries the value structure of the whole painting. Read the light in this entry as light recovered from darkness, not as shadow laid over white.
+
+> Section 8 is template-filled from the CSV one-hot columns (`scripts/fix_ground.py`), not generated from the image.
 
 ---
 
@@ -77,10 +84,15 @@ episode:
   year: 1992
   painting_index: 346
 
+canvas_preparation:
+  ground: "Black Gesso"
+  secondary_tone: null
+  liquid_clear: true
+  liquid_white: false
+  contact_paper: false
+
 colors:
   - Midnight Black
   - Prussian Blue
-  - Phthalo Blue
   - Titanium White
-  - Van Dyke Brown
 ```

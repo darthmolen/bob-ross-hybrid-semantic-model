@@ -98,6 +98,13 @@ episode:
   year: 1985
   painting_index: 184
 
+canvas_preparation:
+  ground: "Liquid White"
+  secondary_tone: null
+  liquid_clear: false
+  liquid_white: true
+  contact_paper: false
+
 colors:
   - Titanium White
   - Cadmium Yellow
@@ -106,6 +113,5 @@ colors:
   - Dark Sienna
   - Bright Red
   - Alizarin Crimson
-  - Prussian Blue
   - Sap Green
 ```

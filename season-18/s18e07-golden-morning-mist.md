@@ -66,7 +66,7 @@ Motion profile: **Rising Mist with Radial Light Diffusion**
 
 ## 6. Technique
 
-- Liquid White or Liquid Clear base for extensive wet-on-wet blending
+- Dry black gesso ground; the wet-on-wet blending happens in the oil laid over it
 - Heavy blending and feathering for atmospheric mist effects
 - Fan brush for the golden-foliaged tree on right
 - Liner brush for slender tree trunks and fine branches
@@ -85,7 +85,7 @@ Signature technique: **Layered atmospheric blending creating luminous golden mis
 
 ## 8. Initial Canvas Treatment
 
-- Liquid White base for smooth wet-on-wet blending
+- Dry black gesso ground, no Liquid White
 - Possible warm yellow or golden undertone in center background area
 - No contact paper
 - No masking
@@ -110,6 +110,13 @@ episode:
   title: "Golden Morning Mist"
   year: 1988
   painting_index: 64
+
+canvas_preparation:
+  ground: "Black Gesso"
+  secondary_tone: null
+  liquid_clear: false
+  liquid_white: false
+  contact_paper: false
 
 colors:
   - Cadmium Yellow

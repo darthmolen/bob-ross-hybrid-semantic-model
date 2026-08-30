@@ -77,13 +77,14 @@ Signature technique: **Mirror-perfect water reflection on unconventional circula
 ---
 
 ## 8. Initial Canvas Treatment
-- Circular sawblade prepared with base coating for oil adhesion
-- Sky area established with Phthalo Blue and Titanium White blend
-- Wet-on-wet foundation allows for seamless blending on metal surface
-- Background mountain shapes blocked in while sky remains wet
-- Water area coordinated with sky treatment for reflective continuity
 
-The unconventional circular canvas required adapted wet-on-wet technique to maintain painterly flow within the sawblade's geometric constraints.
+- **Black gesso** brushed over the canvas and allowed to **dry completely** before any oil is applied. This is a dry acrylic ground, not a wet one: the oils above it cannot be pulled back into it, and every light value in the painting has to be added rather than lifted.
+- No Liquid Clear and no Liquid White base — the oils are carried thin directly over the ground.
+- No contact paper and no masking.
+
+The black ground carries the value structure of the whole painting. Read the light in this entry as light recovered from darkness, not as shadow laid over white.
+
+> Section 8 is template-filled from the CSV one-hot columns (`scripts/fix_ground.py`), not generated from the image.
 
 ---
 
@@ -104,12 +105,16 @@ episode:
   year: 1985
   painting_index: 246
 
+canvas_preparation:
+  ground: "Black Gesso"
+  secondary_tone: null
+  liquid_clear: false
+  liquid_white: false
+  contact_paper: false
+
 colors:
   - Prussian Blue
   - Titanium White
-  - Van Dyke Brown
-  - Phthalo Blue
   - Midnight Black
   - Burnt Umber
-  - Alizarin Crimson
 ```

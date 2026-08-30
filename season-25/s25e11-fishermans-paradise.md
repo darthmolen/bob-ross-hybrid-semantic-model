@@ -78,7 +78,7 @@ Signature technique: **Extensive atmospheric blending over dark foundation** cre
 ## 8. Initial Canvas Treatment
 
 - Black Gesso base providing dramatic dark foundation
-- Selective application of Liquid White or Liquid Clear for atmospheric blending areas
+- Dry black gesso ground throughout; atmospheric passages thinned over it rather than floated on a wet white base
 - Dark underpainting allowing warm colors to glow with maximum luminosity
 - No contact paper or masking
 - Smooth surface preparation for extensive wet-on-wet blending
@@ -100,6 +100,13 @@ episode:
   title: "Fisherman's Paradise"
   year: 1992
   painting_index: 331
+
+canvas_preparation:
+  ground: "Black Gesso"
+  secondary_tone: null
+  liquid_clear: false
+  liquid_white: false
+  contact_paper: true
 
 colors:
   - Alizarin Crimson

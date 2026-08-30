@@ -35,3 +35,45 @@ The painting demonstrates Ross's mastery of wet-on-wet technique throughout. The
 
 ## 8. Initial Canvas Treatment
 The canvas likely began with a wet, pre-coated surface using a thin layer of liquid white or magic white, essential for the wet-on-wet technique Ross employed throughout. The initial sky treatment involved applying the darker purple and lavender tones across the upper canvas while the surface remained wet, allowing for the soft blending and cloud formations. The water area received similar treatment with blue-gray base tones applied horizontally. This wet foundation enabled the seamless blending of sky into water and created the atmospheric, misty quality that pervades the entire composition. **Foundation: Wet-on-wet base with purple-lavender sky pre-treatment establishing the cool, atmospheric mood.**
+
+---
+
+## Metadata
+
+```yaml
+tags:
+  lighting_type: "Diffused atmospheric with cool purple-cast ambient light"
+
+searchable_features:
+  # TODO — write from the painting: shape, colour and position, plus lay
+  # synonyms. See TEMPLATE.md. Not generated, because a regex over the prose
+  # reproduces the prose's vocabulary, which is the thing that fails at retrieval.
+
+episode:
+  season: 7
+  episode: 9
+  title: "Lake by Mountain"
+  year: 1986
+  painting_index: 212
+  youtube_url: "https://www.youtube.com/embed/yAiYirlcq7o"
+
+canvas_preparation:
+  ground: "Liquid White"
+  secondary_tone: null
+  liquid_clear: false
+  liquid_white: true
+  contact_paper: false
+
+colors:
+  - Alizarin Crimson
+  - Bright Red
+  - Cadmium Yellow
+  - Indian Yellow
+  - Phthalo Blue
+  - Phthalo Green
+  - Prussian Blue
+  - Sap Green
+  - Titanium White
+  - Van Dyke Brown
+  - Yellow Ochre
+```

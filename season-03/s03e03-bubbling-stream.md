@@ -91,6 +91,13 @@ episode:
   year: 1984
   painting_index: 258
 
+canvas_preparation:
+  ground: "Liquid White"
+  secondary_tone: null
+  liquid_clear: false
+  liquid_white: true
+  contact_paper: false
+
 colors:
   - Sap Green
   - Cadmium Yellow
@@ -98,5 +105,4 @@ colors:
   - Prussian Blue
   - Titanium White
   - Van Dyke Brown
-  - Dark Sienna
 ```

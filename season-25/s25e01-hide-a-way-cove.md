@@ -93,6 +93,13 @@ episode:
   year: 1992
   painting_index: 321
 
+canvas_preparation:
+  ground: "Liquid White"
+  secondary_tone: null
+  liquid_clear: false
+  liquid_white: true
+  contact_paper: false
+
 colors:
   - Alizarin Crimson
   - Bright Red

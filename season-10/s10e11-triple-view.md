@@ -30,6 +30,8 @@ The 2-inch brush establishes the broad sky gradations and meadow expanses, blend
 ## 8. Initial Canvas Treatment
 The canvas received a uniform application of Liquid White across all three panel areas, creating a wet surface essential for the soft blending and atmospheric effects throughout the composition. This wet-on-wet foundation allows the sky's pink and blue tones to merge seamlessly and enables the mountain haze to achieve its ethereal quality. The consistent base treatment across all three panels ensures color harmony and uniform blending behavior, critical for maintaining visual unity in a segmented composition. The Liquid White also facilitates the vibrant greens of the meadows, allowing them to remain fresh and luminous rather than muddy. Summary: **Liquid White applied uniformly across all three panel sections to ensure consistent blending capabilities and color harmony throughout the triptych composition**.
 
+- **Contact paper** laid in two vertical strips, dividing the canvas into a **triptych** — three tall panels separated by clean white gaps, each carrying part of the same continuous landscape. The mask is lifted at the end and the gaps stay bare.
+
 ---
 
 ```yaml
@@ -46,6 +48,13 @@ episode:
   title: "Triple View"
   year: 1988
   painting_index: 174
+
+canvas_preparation:
+  ground: "Liquid White"
+  secondary_tone: null
+  liquid_clear: false
+  liquid_white: true
+  contact_paper: true
 
 colors:
   - Prussian Blue

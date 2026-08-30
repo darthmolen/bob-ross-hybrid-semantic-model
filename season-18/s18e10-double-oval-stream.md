@@ -76,14 +76,15 @@ Signature technique: **Oval vignette masking with birch bark vertical texture an
 
 ## 8. Initial Canvas Treatment
 
-- **Liquid White**: Applied across the painting surface for smooth blending
-- **Liquid Clear**: Not evident
-- **Black gesso**: Not used
-- **Grey gesso**: Not used
-- **Contact paper**: Oval mask applied to create the distinctive vignette border
-- **Textured gesso**: Not evident
+- **Liquid Black** worked thin into the canvas as a **wet** black ground. Unlike dried gesso it stays in contact with the oils laid over it, so darks can be pulled back into the ground and edges softened into it.
+- No Liquid Clear and no Liquid White base — the oils are carried thin directly over the ground.
+- **Contact paper** cut to shape and applied as a mask, so the area it covers stays clean while the surround is painted, and is lifted before that area is worked.
+- **Secondary tone:** this episode carries the `Underpainting` tag, so a transparent colour was laid over the ground before painting began. Its value is in no dataset — Bob names it aloud in the opening minute and it is invisible in the finished painting. Not yet recovered for this episode; see `canvas_preparation.secondary_tone` below.
 
-A Liquid White base with oval contact paper masking to create the signature framed composition effect.
+The wet black ground is what keeps the darks deep without mixing them muddy, and what lets the lit passages be pulled straight out of the ground.
+
+> Section 8 is template-filled from the CSV one-hot columns (`scripts/fix_ground.py`), not generated from the image.
+> The text it replaced named the wrong ground for this episode. See `artifacts/ground_fixed.csv` for what it said.
 
 ---
 
@@ -102,12 +103,18 @@ episode:
   year: 1988
   painting_index: 67
 
+canvas_preparation:
+  ground: "Liquid Black"
+  secondary_tone: null
+  liquid_clear: false
+  liquid_white: false
+  contact_paper: true
+
 colors:
   - Titanium White
   - Midnight Black
   - Van Dyke Brown
   - Sap Green
-  - Phthalo Green
   - Phthalo Blue
   - Prussian Blue
   - Yellow Ochre

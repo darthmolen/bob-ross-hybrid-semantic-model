@@ -47,11 +47,17 @@ episode:
   year: 1994
   painting_index: 392
 
+canvas_preparation:
+  ground: "Liquid White"
+  secondary_tone: null
+  liquid_clear: false
+  liquid_white: true
+  contact_paper: false
+
 colors:
   - Prussian Blue
   - Phthalo Blue
   - Titanium White
   - Midnight Black
   - Van Dyke Brown
-  - Phthalo Green
 ```
