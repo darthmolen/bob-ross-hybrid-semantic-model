@@ -64,11 +64,28 @@ Signature technique: **Knife-Sculpted Wave with Brilliant Foam Highlights**
 "As twilight approaches, the ocean performs its eternal dance beneath a golden sky. A magnificent wave rises from the purple-pink waters, catching the last rays of sunset in its translucent curve before crashing against the ancient rocks. This is nature's theater at its most dramatic—where raw power and ethereal beauty merge in a fleeting moment of sublime harmony, painted in colors that exist only when day kisses the sea goodnight."
 
 ## 8. Initial Canvas Treatment
-- Canvas likely prepared with Liquid White or a very thin even coat to enable smooth blending
-- Possible tinted or darker base in the water area to support the rich Alizarin Crimson tones
-- Preparation allowing both the soft atmospheric sky blends and the dramatic dark-to-light contrasts
 
-The canvas treatment supports both delicate sunset gradations and bold wave sculptural work.
+- **Black gesso** brushed evenly over the whole canvas and allowed to dry completely
+- **Secondary tone, applied in two zones and left wet:** transparent **Indian Yellow** across the sky
+  area, **Alizarin Crimson** over the rest of the canvas
+- A strip of **masking tape** run straight across the horizon line, so the seascape's horizon stays
+  perfectly straight; it is lifted once the sky is in
+- **Liquid White** taken up on the two-inch brush and worked into the wet Indian Yellow with small
+  criss-cross strokes, starting at the lightest point of the sky and blending outward — the yellow
+  appears out of the black as the white is dragged through it
+- No Liquid Clear
+
+The sunset is not painted onto the canvas; it is uncovered from it. Because the yellow is transparent
+over black it may read slightly green until the white is worked in.
+
+> **Recovered from the episode narration**, not from the image:
+> *"I've created this black canvas by painting it with a nice even coat of black gesso and I just paint
+> the whole canvas and then let it dry. Onto that then we've added layers of color and it's still wet —
+> like right in here I have Indian yellow… then we have Alizarin Crimson on the rest of the canvas, and
+> I've just put a little piece of masking tape across here to sort of separate the horizon."*
+>
+> The tape is a straight-edge for the horizon, not a shaped mask; the CSV carries no `Contact Paper`
+> tag for this episode and that is correct.
 
 ---
 
@@ -87,14 +104,23 @@ episode:
   year: 1987
   painting_index: 159
 
+canvas_preparation:
+  ground: "Black Gesso"
+  secondary_tone: "Indian Yellow in the sky, Alizarin Crimson below — both transparent, left wet"
+  liquid_clear: false
+  liquid_white: false
+  contact_paper: false
+  secondary_tone_source: "episode narration, 00:00–01:15"
+
 colors:
   - Alizarin Crimson
+  - Black Gesso
+  - Bright Red
   - Cadmium Yellow
   - Dark Sienna
   - Indian Yellow
   - Midnight Black
-  - Prussian Blue
+  - Phthalo Blue
   - Titanium White
   - Van Dyke Brown
-  - Yellow Ochre
 ```

@@ -100,13 +100,19 @@ episode:
   year: 1989
   painting_index: 44
 
+canvas_preparation:
+  ground: "Liquid White"
+  secondary_tone: null
+  liquid_clear: false
+  liquid_white: true
+  contact_paper: false
+
 colors:
   - Titanium White
   - Cadmium Yellow
   - Yellow Ochre
   - Indian Yellow
   - Phthalo Blue
-  - Prussian Blue
   - Van Dyke Brown
   - Dark Sienna
 ```

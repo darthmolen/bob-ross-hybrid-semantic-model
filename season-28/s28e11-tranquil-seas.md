@@ -27,7 +27,15 @@ Signature technique: **Oval vignette with knife-worked wave dynamics**
 "Here, the sea remembers the sun's daily farewell, waves bearing witness to countless sunsets before this one and countless more to come. The ancient tree stands sentinel, shaped by the same winds that now carry burgundy clouds across the golden light. Those small red flowers at the shore's edge remind us that even in the harshest coastal environments, beauty persists and renews itself. This is a moment of transition—between day and night, between motion and stillness, between the eternal and the ephemeral."
 
 ## 8. Initial Canvas Treatment
-The canvas was treated with a thin, even coat of Liquid White to enable wet-on-wet blending throughout the composition. This allowed the golden yellows to merge seamlessly into the burgundy-purple tones in the sky and facilitated the smooth color transitions in the ocean waves. The oval vignette area received the primary coverage while edges were left lighter for the natural fade effect.
+
+- **Black gesso** brushed over the canvas and allowed to **dry completely** before any oil is applied. This is a dry acrylic ground, not a wet one: the oils above it cannot be pulled back into it, and every light value in the painting has to be added rather than lifted.
+- No Liquid Clear and no Liquid White base — the oils are carried thin directly over the ground.
+- **Contact paper** cut to shape and applied as a mask, so the area it covers stays clean while the surround is painted, and is lifted before that area is worked.
+
+The black ground carries the value structure of the whole painting. Read the light in this entry as light recovered from darkness, not as shadow laid over white.
+
+> Section 8 is template-filled from the CSV one-hot columns (`scripts/fix_ground.py`), not generated from the image.
+> The text it replaced named the wrong ground for this episode. See `artifacts/ground_fixed.csv` for what it said.
 
 ---
 
@@ -46,16 +54,20 @@ episode:
   year: 1993
   painting_index: 370
 
+canvas_preparation:
+  ground: "Black Gesso"
+  secondary_tone: null
+  liquid_clear: false
+  liquid_white: false
+  contact_paper: true
+
 colors:
   - Alizarin Crimson
   - Cadmium Yellow
-  - Dark Sienna
   - Indian Yellow
   - Midnight Black
   - Phthalo Blue
   - Phthalo Green
-  - Prussian Blue
   - Titanium White
-  - Van Dyke Brown
   - Yellow Ochre
 ```

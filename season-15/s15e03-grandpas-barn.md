@@ -97,12 +97,18 @@ episode:
   year: 1988
   painting_index: 100
 
+canvas_preparation:
+  ground: "Liquid White"
+  secondary_tone: null
+  liquid_clear: false
+  liquid_white: true
+  contact_paper: false
+
 colors:
   - Alizarin Crimson
   - Dark Sienna
   - Van Dyke Brown
   - Sap Green
-  - Phthalo Green
   - Yellow Ochre
   - Indian Yellow
   - Cadmium Yellow

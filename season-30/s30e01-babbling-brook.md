@@ -29,7 +29,16 @@ Signature technique: **Atmospheric vignette with dramatic focal tree**
 "Here stands a testament to time's passage—a weathered tree that has given its last leaf, yet remains beautiful in its bare honesty. The brook babbles its eternal song below, indifferent to seasons, while mist holds the forest in a golden embrace. This is a place where endings and continuations meet, where the cycle of life reveals itself not in sadness but in serene acceptance. The glowing light suggests that even in stillness and shadow, there is always illumination to be found."
 
 ## 8. Initial Canvas Treatment
-The canvas was prepared with Liquid White to enable the soft, misty atmospheric blending essential to this vignette composition. The wet-on-wet foundation allowed seamless transitions between the dark foreground elements and the luminous golden background. This base facilitated the ethereal quality and smooth gradations that define the painting's dreamlike character.
+
+- **Black gesso** brushed over the canvas and allowed to **dry completely** before any oil is applied. This is a dry acrylic ground, not a wet one: the oils above it cannot be pulled back into it, and every light value in the painting has to be added rather than lifted.
+- No Liquid Clear and no Liquid White base — the oils are carried thin directly over the ground.
+- **Contact paper** cut to shape and applied as a mask, so the area it covers stays clean while the surround is painted, and is lifted before that area is worked.
+- **Secondary tone:** this episode carries the `Underpainting` tag, so a transparent colour was laid over the ground before painting began. Its value is in no dataset — Bob names it aloud in the opening minute and it is invisible in the finished painting. Not yet recovered for this episode; see `canvas_preparation.secondary_tone` below.
+
+The black ground carries the value structure of the whole painting. Read the light in this entry as light recovered from darkness, not as shadow laid over white.
+
+> Section 8 is template-filled from the CSV one-hot columns (`scripts/fix_ground.py`), not generated from the image.
+> The text it replaced named the wrong ground for this episode. See `artifacts/ground_fixed.csv` for what it said.
 
 ---
 
@@ -48,12 +57,18 @@ episode:
   year: 1994
   painting_index: 386
 
+canvas_preparation:
+  ground: "Black Gesso"
+  secondary_tone: null
+  liquid_clear: false
+  liquid_white: false
+  contact_paper: true
+
 colors:
   - Alizarin Crimson
   - Dark Sienna
   - Midnight Black
   - Phthalo Blue
-  - Prussian Blue
   - Sap Green
   - Titanium White
   - Van Dyke Brown

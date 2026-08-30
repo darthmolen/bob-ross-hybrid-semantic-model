@@ -61,6 +61,21 @@ episode:
   year: 1990
   painting_index: 17
 
+lint_exceptions:
+  - rule: ground-contradiction
+    reason: >
+      Split ground. Black Gesso covers the lower two-thirds of the canvas; the upper
+      portion takes a thin Liquid White or Liquid Clear for the sky and misty valley.
+      The CSV records only Black_Gesso = 1 and cannot express a partial ground, so
+      the Liquid White reference in Section 8 is correct and is not a contradiction.
+
+canvas_preparation:
+  ground: "Black Gesso"
+  secondary_tone: null
+  liquid_clear: false
+  liquid_white: false
+  contact_paper: false
+
 colors:
   - Alizarin Crimson
   - Black Gesso

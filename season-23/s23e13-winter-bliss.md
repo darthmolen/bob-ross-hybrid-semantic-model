@@ -81,6 +81,13 @@ episode:
   year: 1992
   painting_index: 307
 
+canvas_preparation:
+  ground: "Liquid White"
+  secondary_tone: null
+  liquid_clear: false
+  liquid_white: true
+  contact_paper: true
+
 colors:
   - Titanium White
   - Prussian Blue
@@ -88,5 +95,4 @@ colors:
   - Midnight Black
   - Alizarin Crimson
   - Van Dyke Brown
-  - Phthalo Green
 ```

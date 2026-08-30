@@ -62,12 +62,24 @@ Signature technique: **Dramatic white knife-work trunks against dark atmospheric
 "Evening descends upon a secluded forest glen where a gentle waterfall cascades through ancient evergreens with luminous white bark. The deep blue twilight transforms the woodland into a mystical sanctuary, where trees stand sentinel over the flowing waters. This is nature's quiet hour, suspended between day and night, where the sound of falling water becomes the forest's evening hymn. In this protected place, the boundary between earth and sky dissolves into atmospheric blue."
 
 ## 8. Initial Canvas Treatment
-- Canvas treated with **Liquid Black** or combination of **Prussian Blue** and **Midnight Black**
-- Dark base establishes immediate evening atmosphere
-- Allows dramatic contrast for white highlights on trees and water
-- Creates wet surface for blending atmospheric background layers
 
-The dark-treated canvas provides the essential foundation for this evening scene's dramatic luminous effects.
+- **Black gesso** applied to the canvas and allowed to dry completely
+- **Tape run around the edges** of the canvas before toning, giving a clean border
+- **Secondary tone:** a thin, even coat of **Phthalo Blue mixed with Sap Green** over the whole canvas,
+  deliberately **left wet** — the oil painting begins on top of the still-wet transparent tone
+- No Liquid White, no Liquid Clear
+- Opening move is a dry fan brush loaded with Titanium White, spun freely across the canvas so it picks
+  up the wet transparent colour underneath, then blended vertically with a large dry brush
+
+This is the clearest statement of the method in the series: gesso dried, transparent colour over it not
+dried, painting begun into the wet tone.
+
+> **Recovered from the episode narration**, not from the image:
+> *"I've got a black canvas here as you can see… I've just run some tape around the edges and then I've
+> covered the whole entire part of this canvas with a mixture of phthalo blue and sap green, just a thin
+> even coat all the way over it. And we make these black canvases by painting them with black gesso…
+> the gesso is allowed to dry completely and then on that we put a transparent paint and we don't let
+> that dry — we start painting on it while the transparent paint is still wet."*
 
 ---
 
@@ -86,14 +98,24 @@ episode:
   year: 1990
   painting_index: 144
 
+canvas_preparation:
+  ground: "Black Gesso"
+  secondary_tone: "Phthalo Blue and Sap Green, thin and left wet over the dry black"
+  liquid_clear: false
+  liquid_white: false
+  contact_paper: false
+  secondary_tone_source: "episode narration, 00:00–01:20"
+
 colors:
-  - Prussian Blue
-  - Phthalo Blue
+  - Black Gesso
+  - Bright Red
+  - Cadmium Yellow
+  - Dark Sienna
+  - Indian Yellow
   - Midnight Black
-  - Titanium White
+  - Phthalo Blue
   - Sap Green
-  - Phthalo Green
-  - Yellow Ochre
+  - Titanium White
   - Van Dyke Brown
-  - Liquid Black
+  - Yellow Ochre
 ```

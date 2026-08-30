@@ -78,12 +78,17 @@ episode:
   year: 1992
   painting_index: 301
 
+canvas_preparation:
+  ground: "Liquid White"
+  secondary_tone: null
+  liquid_clear: false
+  liquid_white: true
+  contact_paper: false
+
 colors:
   - Titanium White
   - Alizarin Crimson
   - Cadmium Yellow
-  - Indian Yellow
-  - Phthalo Blue
   - Prussian Blue
   - Midnight Black
   - Van Dyke Brown

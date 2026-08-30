@@ -41,6 +41,13 @@ episode:
   year: 1988
   painting_index: 172
 
+canvas_preparation:
+  ground: "Liquid White"
+  secondary_tone: null
+  liquid_clear: false
+  liquid_white: true
+  contact_paper: true
+
 colors:
   - Prussian Blue
   - Phthalo Blue
@@ -48,6 +55,5 @@ colors:
   - Sap Green
   - Midnight Black
   - Van Dyke Brown
-  - Alizarin Crimson
   - Yellow Ochre
 ```

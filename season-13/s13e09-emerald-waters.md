@@ -67,13 +67,15 @@ Signature technique: **Phthalo transparency layering creating luminous emerald w
 "Deep in the forest, where sunlight filters through ancient conifers, lies a pool of emerald perfection—water so clear and green it seems to hold the very essence of the wilderness itself. The gentle cascade feeds this crystalline sanctuary, its ripples spreading outward like whispered secrets across the glassy surface. Here, in this hidden jewel of nature, time slows to the rhythm of falling water and shifting light, a reminder that earth's most precious treasures often lie waiting in quiet, undiscovered places."
 
 ## 8. Initial Canvas Treatment
-- Canvas treated with **Liquid White** to create a smooth, blendable wet surface
-- The white base allows the phthalo colors to achieve maximum transparency and brilliance
-- Enables the emerald waters to glow with inner luminosity and depth
-- Facilitates wet-on-wet technique essential for seamless water reflections and sky blending
-- The liquid base helps create the characteristic transparent quality of pristine water
 
-The Liquid White foundation is essential for achieving the signature emerald brilliance that defines this painting.
+- **Black gesso** brushed over the canvas and allowed to **dry completely** before any oil is applied. This is a dry acrylic ground, not a wet one: the oils above it cannot be pulled back into it, and every light value in the painting has to be added rather than lifted.
+- No Liquid Clear and no Liquid White base — the oils are carried thin directly over the ground.
+- No contact paper and no masking.
+
+The black ground carries the value structure of the whole painting. Read the light in this entry as light recovered from darkness, not as shadow laid over white.
+
+> Section 8 is template-filled from the CSV one-hot columns (`scripts/fix_ground.py`), not generated from the image.
+> The text it replaced named the wrong ground for this episode. See `artifacts/ground_fixed.csv` for what it said.
 
 ---
 
@@ -92,12 +94,17 @@ episode:
   year: 1987
   painting_index: 132
 
+canvas_preparation:
+  ground: "Black Gesso"
+  secondary_tone: null
+  liquid_clear: false
+  liquid_white: false
+  contact_paper: false
+
 colors:
   - Cadmium Yellow
   - Dark Sienna
   - Midnight Black
-  - Phthalo Blue
-  - Phthalo Green
   - Prussian Blue
   - Sap Green
   - Titanium White

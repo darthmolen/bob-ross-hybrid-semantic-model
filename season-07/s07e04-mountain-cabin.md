@@ -35,3 +35,46 @@ The foundation employs the classic wet-on-wet technique throughout, with the wat
 
 ## 8. Initial Canvas Treatment
 The canvas began with a liquid basecoat applied to the water and sky areas, likely using a mixture of Titanium White with touch of Phthalo Blue to create the characteristic wet surface necessary for Bob Ross's wet-on-wet technique. The upper portion (sky area) received a very light coating, while the water area was more generously covered to allow for the extensive reflection work and blending that would follow. This liquid foundation remained wet throughout the painting process, enabling the smooth transitions in the water and the soft atmospheric effects in the misty areas. The initial treatment established the cool, serene base upon which all subsequent layers were built.
+
+---
+
+## Metadata
+
+```yaml
+tags:
+  # no identity labels found in the prose
+
+searchable_features:
+  # TODO — write from the painting: shape, colour and position, plus lay
+  # synonyms. See TEMPLATE.md. Not generated, because a regex over the prose
+  # reproduces the prose's vocabulary, which is the thing that fails at retrieval.
+
+episode:
+  season: 7
+  episode: 4
+  title: "Mountain Cabin"
+  year: 1986
+  painting_index: 206
+  youtube_url: "https://www.youtube.com/embed/E3IAMvO8GyM"
+
+canvas_preparation:
+  ground: "Liquid White"
+  secondary_tone: null
+  liquid_clear: false
+  liquid_white: true
+  contact_paper: false
+
+colors:
+  - Alizarin Crimson
+  - Bright Red
+  - Cadmium Yellow
+  - Dark Sienna
+  - Indian Yellow
+  - Midnight Black
+  - Phthalo Blue
+  - Phthalo Green
+  - Sap Green
+  - Titanium White
+  - Van Dyke Brown
+  - Yellow Ochre
+```

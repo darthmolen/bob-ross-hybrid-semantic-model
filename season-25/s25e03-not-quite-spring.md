@@ -90,6 +90,13 @@ episode:
   year: 1992
   painting_index: 323
 
+canvas_preparation:
+  ground: "Black Gesso"
+  secondary_tone: null
+  liquid_clear: false
+  liquid_white: false
+  contact_paper: false
+
 colors:
   - Alizarin Crimson
   - Cadmium Yellow

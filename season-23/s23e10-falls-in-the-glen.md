@@ -66,12 +66,15 @@ Signature technique: **Dramatic dark-to-light contrast with vertical waterfall p
 "Deep within an ancient forest glen, a hidden waterfall plunges from shadowed heights into a tranquil pool. The viewer stands at the threshold of this secret place, framed by guardian evergreens that have witnessed centuries of this eternal cascade. A break in the storm clouds illuminates the scene from behind, transforming the mist into a luminous veil and the waterfall into a ribbon of light against the purple shadows. This is nature's cathedral, where water and stone and ancient trees create a sanctuary of timeless power and peace."
 
 ## 8. Initial Canvas Treatment
-- Dark base coat establishing the overall moody tonality, likely Midnight Black blended with Prussian Blue
-- Purple-gray underpainting in the sky area using Alizarin Crimson and Prussian Blue
-- Warm peachy tones (Cadmium Yellow, Indian Yellow) worked into the wet upper canvas
-- Dark gradient from top to bottom providing the foundation for dramatic lighting
 
-The canvas began as a dark, atmospheric base with warm tones introduced in the sky area, setting the stage for the window-framed waterfall composition.
+- **Black gesso** brushed over the canvas and allowed to **dry completely** before any oil is applied. This is a dry acrylic ground, not a wet one: the oils above it cannot be pulled back into it, and every light value in the painting has to be added rather than lifted.
+- No Liquid Clear and no Liquid White base — the oils are carried thin directly over the ground.
+- No contact paper and no masking.
+- **Secondary tone:** this episode carries the `Underpainting` tag, so a transparent colour was laid over the ground before painting began. Its value is in no dataset — Bob names it aloud in the opening minute and it is invisible in the finished painting. Not yet recovered for this episode; see `canvas_preparation.secondary_tone` below.
+
+The black ground carries the value structure of the whole painting. Read the light in this entry as light recovered from darkness, not as shadow laid over white.
+
+> Section 8 is template-filled from the CSV one-hot columns (`scripts/fix_ground.py`), not generated from the image.
 
 ---
 
@@ -89,6 +92,13 @@ episode:
   title: "Falls in the Glen"
   year: 1992
   painting_index: 304
+
+canvas_preparation:
+  ground: "Black Gesso"
+  secondary_tone: null
+  liquid_clear: false
+  liquid_white: false
+  contact_paper: false
 
 colors:
   - Midnight Black

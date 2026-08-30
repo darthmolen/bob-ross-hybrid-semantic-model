@@ -69,6 +69,13 @@ episode:
   year: 1993
   painting_index: 362
 
+canvas_preparation:
+  ground: "Liquid White"
+  secondary_tone: null
+  liquid_clear: false
+  liquid_white: true
+  contact_paper: false
+
 colors:
   - Titanium White
   - Alizarin Crimson
@@ -76,7 +83,6 @@ colors:
   - Indian Yellow
   - Prussian Blue
   - Phthalo Blue
-  - Phthalo Green
   - Sap Green
   - Van Dyke Brown
   - Midnight Black

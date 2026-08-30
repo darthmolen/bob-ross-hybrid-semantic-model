@@ -189,7 +189,7 @@ Master searchable list of all 403 "Joy of Painting" episodes with semantic tags 
 | 13 | 10 | Mountain Summit | Pyramidal Mountain Portal | Alpine Spring Brilliance | Three-Plane Alpine R.. | Full Sunlit Rad.. | [📄](season-13/s13e10-mountain-summit.md) |
 | 13 | 11 | Cabin Hideaway | Mountain Valley Refuge | Twilight Winter Blues wit.. | Layered Atmospheric .. | Diffused Overcast | [📄](season-13/s13e11-cabin-hideaway.md) |
 | 13 | 12 | Oval Essence | Central-Focus Dynamic Vignette | Midnight Tempest | Layered Atmospheric .. | Storm-Diffused .. | [📄](season-13/s13e12-oval-essence.md) |
-| 13 | 13 | Winter Mountain | Circular Vignette Mountain Vista | Spring Meadow Greens with.. | Radial Vignette Dept.. | Soft Sunset Glo.. | [📄](season-13/s13e13-winter-mountain.md) |
+| 13 | 13 | Lost Lake | Mountain Lake Vista with Approach Path | Spring Meadow Greens with.. | Atmospheric Mountai.. | Soft Sunset Glo.. | [📄](season-13/s13e13-lost-lake.md) |
 | 14 | 1 | Distant Mountains | mountain lake with foreground .. | alpine freshness with vib.. | three-tier atmospher.. | soft diffused d.. | [📄](season-14/s14e01-distant-mountains.md) |
 | 14 | 2 | Meadow Brook Surprise | Forest-framed meadow stream | Purple-mist meadow | Atmospheric perspect.. | Diffused atmosp.. | [📄](season-14/s14e02-meadow-brook-surprise.md) |
 | 14 | 3 | Mountain Moonlight Oval | moonlit mountain wilderness in.. | nocturnal blues with lumi.. | layered atmospheric .. | full moonlight .. | [📄](season-14/s14e03-mountain-moonlight-oval.md) |
@@ -1653,12 +1653,12 @@ Master searchable list of all 403 "Joy of Painting" episodes with semantic tags 
 - **Lighting**: Storm-Diffused Nocturne
 - **Link**: [season-13/s13e12-oval-essence.md](season-13/s13e12-oval-essence.md)
 
-### Episode 13: "Winter Mountain"
-- **Composition**: Circular Vignette Mountain Vista
+### Episode 13: "Lost Lake"
+- **Composition**: Mountain Lake Vista with Approach Path
 - **Palette**: Spring Meadow Greens with Sunset Pink and Snowy Mountain Blues
-- **Depth Style**: Radial Vignette Depth with Atmospheric Mountain Recession
+- **Depth Style**: Atmospheric Mountain Recession
 - **Lighting**: Soft Sunset Glow with Mountain Atmospheric Clarity
-- **Link**: [season-13/s13e13-winter-mountain.md](season-13/s13e13-winter-mountain.md)
+- **Link**: [season-13/s13e13-lost-lake.md](season-13/s13e13-lost-lake.md)
 
 ---
 

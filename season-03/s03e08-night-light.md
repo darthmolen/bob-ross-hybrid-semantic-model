@@ -48,7 +48,7 @@ Depth style: **Dramatic atmospheric perspective with dual light source gradient*
 Motion profile: **Turbulent maritime flow with stationary light anchors**
 
 ## 6. Technique
-- **Liquid white or black foundation** allowing for dark nocturnal base with light emergence
+- **Dry black gesso foundation** giving the dark nocturnal base out of which the light emerges
 - **Palette knife work** for ocean waves, foam texture, and rocky shore definition
 - **Fan brush technique** for billowing clouds with soft, sweeping strokes
 - **Wet-on-wet blending** for atmospheric glow around lighthouse and moon
@@ -85,11 +85,14 @@ episode:
   year: 1984
   painting_index: 263
 
+canvas_preparation:
+  ground: "Black Gesso"
+  secondary_tone: null
+  liquid_clear: false
+  liquid_white: false
+  contact_paper: false
+
 colors:
-  - Prussian Blue
-  - Phthalo Blue
-  - Midnight Black
-  - Bright Red
   - Cadmium Yellow
   - Yellow Ochre
   - Sap Green

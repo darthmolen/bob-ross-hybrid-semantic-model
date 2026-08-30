@@ -73,3 +73,47 @@ Signature technique: **Warm-over-cool layering** creating the illusion of sunset
 - Wet surface prepared for seamless blending of winter sky
 
 The canvas began with a warm-toned foundation that set the paradoxical "warm winter" atmosphere before any landscape forms emerged.
+
+---
+
+## Metadata
+
+```yaml
+tags:
+  palette_identity: "Sunset-warmed winter pastels with peachy-rose atmospheric glow"
+  depth_style: "Layered atmospheric recession"
+  lighting_type: "Diffused warm sunlight"
+  motion_profile: "Gentle diagonal and vertical flow"
+
+searchable_features:
+  # TODO — write from the painting: shape, colour and position, plus lay
+  # synonyms. See TEMPLATE.md. Not generated, because a regex over the prose
+  # reproduces the prose's vocabulary, which is the thing that fails at retrieval.
+
+episode:
+  season: 8
+  episode: 3
+  title: "Warm Winter Day"
+  year: 1986
+  painting_index: 192
+  youtube_url: "https://www.youtube.com/embed/mUJoNLWQ1yI"
+
+canvas_preparation:
+  ground: "Liquid White"
+  secondary_tone: null
+  liquid_clear: false
+  liquid_white: true
+  contact_paper: false
+
+colors:
+  - Alizarin Crimson
+  - Bright Red
+  - Cadmium Yellow
+  - Dark Sienna
+  - Indian Yellow
+  - Midnight Black
+  - Phthalo Blue
+  - Titanium White
+  - Van Dyke Brown
+  - Yellow Ochre
+```

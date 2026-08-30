@@ -60,11 +60,15 @@ Signature technique: **Knife-sculpted mountain architecture with fan-brushed for
 "This valley breathes quiet permanence, where ancient mountains stand watch over generations of evergreen forests. The meadow invites wandering feet to explore its sun-warmed grasses while the snow-crowned peaks remind us of nature's grandeur and timeless scale. Here is a sanctuary where human concerns fade before the simple majesty of earth, stone, and sky—a place where peace is not the absence of grandeur but its gentle companion."
 
 ## 8. Initial Canvas Treatment
-- Smooth Liquid White or Liquid Clear base enables sky blending and color mobility
-- Thin, even application allows for smooth gradations in atmospheric zones
-- Canvas prepared to accept both delicate sky work and bold knife strokes
-- Base layer maintains wetness for seamless transitions between landscape zones
-**Traditional wet foundation** supporting both subtle atmospheric work and decisive structural elements.
+
+- **Liquid Black** worked thin into the canvas as a **wet** black ground. Unlike dried gesso it stays in contact with the oils laid over it, so darks can be pulled back into the ground and edges softened into it.
+- No Liquid Clear and no Liquid White base — the oils are carried thin directly over the ground.
+- No contact paper and no masking.
+
+The wet black ground is what keeps the darks deep without mixing them muddy, and what lets the lit passages be pulled straight out of the ground.
+
+> Section 8 is template-filled from the CSV one-hot columns (`scripts/fix_ground.py`), not generated from the image.
+> The text it replaced named the wrong ground for this episode. See `artifacts/ground_fixed.csv` for what it said.
 
 ---
 
@@ -82,6 +86,13 @@ episode:
   title: "Evergreen Valley"
   year: 1994
   painting_index: 407
+
+canvas_preparation:
+  ground: "Liquid Black"
+  secondary_tone: null
+  liquid_clear: false
+  liquid_white: false
+  contact_paper: false
 
 colors:
   - Alizarin Crimson

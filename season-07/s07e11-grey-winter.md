@@ -23,3 +23,40 @@ Fan brush creates the delicate evergreen trees with their characteristic droopin
 
 ## 8. Initial Canvas Treatment
 The canvas began with a base coat of mixed grays and purples, creating the foundational atmospheric tone that permeates the entire scene. Lavender and pale pink were likely blended into the upper portions to establish the soft sky glow that filters through the overcast conditions. This cool-toned foundation provided the perfect base for building layers of mist and fog through subsequent wet-on-wet applications. The dark initial treatment in the background areas allowed the distant forest silhouettes to emerge through lifting and negative space techniques rather than direct application.
+
+---
+
+## Metadata
+
+```yaml
+tags:
+  palette_identity: "Monochromatic cool-toned winter with lavender-gray atmospheric haze"
+  depth_style: "Extreme atmospheric perspective with fog-induced spatial ambiguity"
+  lighting_type: "Overcast diffused winter light with heavy atmospheric fog"
+  motion_profile: "Minimal movement with hanging mist and static winter stillness"
+
+searchable_features:
+  # TODO — write from the painting: shape, colour and position, plus lay
+  # synonyms. See TEMPLATE.md. Not generated, because a regex over the prose
+  # reproduces the prose's vocabulary, which is the thing that fails at retrieval.
+
+episode:
+  season: 7
+  episode: 11
+  title: "Grey Winter"
+  year: 1986
+  painting_index: 214
+  youtube_url: "https://www.youtube.com/embed/sS-hNYgDUak"
+
+canvas_preparation:
+  ground: "Liquid White"
+  secondary_tone: null
+  liquid_clear: false
+  liquid_white: true
+  contact_paper: false
+
+colors:
+  - Alizarin Crimson
+  - Midnight Black
+  - Titanium White
+```

@@ -59,12 +59,14 @@ Signature technique: **Architectural knife work** — precise cabin structure am
 "Hidden deep within a winter hollow, a solitary cabin stands as testament to human resilience and the desire for sanctuary. The protective cliffs embrace this humble dwelling, while the eternal stream provides both passage and life. This is not a scene of hardship but of chosen solitude — a place where one might retreat from the world to find peace in nature's quiet cathedral. The mist rising from the hollow suggests mysteries within, stories untold, and the timeless rhythm of seasons passing over stone and stream."
 
 ## 8. Initial Canvas Treatment
-- Oval canvas format creates focused, portal-like viewing experience
-- Likely treated with wet medium to enable atmospheric blending in sky and mist
-- Dark base coat visible in shadowed areas between rocks and under cliffs
-- The wet surface allows smooth gradation from blue sky tones into misty white
-- Edge areas kept darker to create natural vignetting within the oval shape
-Foundational approach: **Gradient oval base** — dark edges transitioning to luminous center for atmospheric depth
+
+- **Black gesso** brushed over the canvas and allowed to **dry completely** before any oil is applied. This is a dry acrylic ground, not a wet one: the oils above it cannot be pulled back into it, and every light value in the painting has to be added rather than lifted.
+- No Liquid Clear and no Liquid White base — the oils are carried thin directly over the ground.
+- No contact paper and no masking.
+
+The black ground carries the value structure of the whole painting. Read the light in this entry as light recovered from darkness, not as shadow laid over white.
+
+> Section 8 is template-filled from the CSV one-hot columns (`scripts/fix_ground.py`), not generated from the image.
 
 ---
 
@@ -82,6 +84,13 @@ episode:
   title: "Cabin in the Hollow"
   year: 1994
   painting_index: 403
+
+canvas_preparation:
+  ground: "Black Gesso"
+  secondary_tone: null
+  liquid_clear: false
+  liquid_white: false
+  contact_paper: false
 
 colors:
   - Prussian Blue

@@ -90,12 +90,18 @@ episode:
   year: 1992
   painting_index: 377
 
+canvas_preparation:
+  ground: "Liquid White"
+  secondary_tone: null
+  liquid_clear: false
+  liquid_white: true
+  contact_paper: false
+
 colors:
   - Phthalo Blue
   - Prussian Blue
   - Titanium White
   - Sap Green
-  - Phthalo Green
   - Van Dyke Brown
   - Dark Sienna
   - Midnight Black

@@ -73,3 +73,48 @@ Signature technique: **Layered atmospheric mist** through multiple soft blending
 - Subtle color variations establishing depth zones
 
 The foundation emphasizes atmospheric transparency and layered depth building.
+
+---
+
+## Metadata
+
+```yaml
+tags:
+  palette_identity: "Dawn mist with warm earthen accents"
+  depth_style: "Atmospheric recession"
+  lighting_type: "Diffused dawn light"
+  motion_profile: "Quiet emergence"
+
+searchable_features:
+  # TODO — write from the painting: shape, colour and position, plus lay
+  # synonyms. See TEMPLATE.md. Not generated, because a regex over the prose
+  # reproduces the prose's vocabulary, which is the thing that fails at retrieval.
+
+episode:
+  season: 8
+  episode: 5
+  title: "Hunter's Haven"
+  year: 1986
+  painting_index: 194
+  youtube_url: "https://www.youtube.com/embed/Da4SPyh1ATM"
+
+canvas_preparation:
+  ground: "Liquid White"
+  secondary_tone: null
+  liquid_clear: false
+  liquid_white: true
+  contact_paper: false
+
+colors:
+  - Alizarin Crimson
+  - Bright Red
+  - Cadmium Yellow
+  - Dark Sienna
+  - Indian Yellow
+  - Midnight Black
+  - Prussian Blue
+  - Sap Green
+  - Titanium White
+  - Van Dyke Brown
+  - Yellow Ochre
+```

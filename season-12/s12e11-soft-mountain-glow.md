@@ -89,6 +89,13 @@ episode:
   year: 1990
   painting_index: 147
 
+canvas_preparation:
+  ground: "Liquid White"
+  secondary_tone: null
+  liquid_clear: false
+  liquid_white: true
+  contact_paper: false
+
 colors:
   - Titanium White
   - Prussian Blue
@@ -96,7 +103,6 @@ colors:
   - Alizarin Crimson
   - Indian Yellow
   - Sap Green
-  - Phthalo Green
   - Midnight Black
   - Van Dyke Brown
   - Dark Sienna

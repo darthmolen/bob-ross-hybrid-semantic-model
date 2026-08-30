@@ -53,7 +53,7 @@ Motion profile: **stillness and reflection—tranquil centerline composition**
 
 ## 6. Technique
 
-- Liquid White base for smooth blending
+- Dry black gesso ground; blending done in thin oil over it rather than into a wet white base
 - Large brush for pink-purple sky with horizontal strokes
 - Phthalo Blue and Prussian Blue blended for water
 - Fan brush for deciduous tree foliage with highlight touches
@@ -71,13 +71,14 @@ Signature technique: **mirror-smooth water reflections with vibrant sunset color
 
 ## 8. Initial Canvas Treatment
 
-- Liquid White base across entire canvas
-- Thin, even application for maximum blending capability
-- No dark underpainting
-- No contact paper or masking
-- No pre-textured areas
+- **Black gesso** brushed over the canvas and allowed to **dry completely** before any oil is applied. This is a dry acrylic ground, not a wet one: the oils above it cannot be pulled back into it, and every light value in the painting has to be added rather than lifted.
+- No Liquid Clear and no Liquid White base — the oils are carried thin directly over the ground.
+- No contact paper and no masking.
 
-A traditional Liquid White foundation supporting smooth atmospheric blending and luminous color transitions.
+The black ground carries the value structure of the whole painting. Read the light in this entry as light recovered from darkness, not as shadow laid over white.
+
+> Section 8 is template-filled from the CSV one-hot columns (`scripts/fix_ground.py`), not generated from the image.
+> The text it replaced named the wrong ground for this episode. See `artifacts/ground_fixed.csv` for what it said.
 
 ---
 
@@ -96,6 +97,13 @@ episode:
   year: 1986
   painting_index: 217
 
+canvas_preparation:
+  ground: "Black Gesso"
+  secondary_tone: null
+  liquid_clear: false
+  liquid_white: false
+  contact_paper: false
+
 colors:
   - Prussian Blue
   - Phthalo Blue
@@ -105,5 +113,4 @@ colors:
   - Sap Green
   - Yellow Ochre
   - Van Dyke Brown
-  - Dark Sienna
 ```

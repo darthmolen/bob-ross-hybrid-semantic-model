@@ -63,12 +63,16 @@ Signature technique: **Atmospheric mountain layering with graduated blue-to-whit
 "A solitary path winds through verdant meadows, beckoning the wanderer toward distant peaks where light crowns the summit. The journey is framed by silent sentinels—trees that have witnessed countless passages—while the layered mountains beyond promise elevation and revelation. This is a landscape of aspiration, where earth rises to meet sky, and the simple act of walking becomes a meditation on reaching toward light."
 
 ## 8. Initial Canvas Treatment
-- Canvas prepared with Liquid White to enable smooth blending and soft transitions
-- Even coating allows for seamless sky gradations and atmospheric mountain effects
-- White base facilitates the brilliant turquoise sky luminosity
-- Pre-treatment essential for wet-on-wet layering technique throughout the piece
 
-The Liquid White foundation enables the characteristic soft atmospheric blending that defines this mountain vista.
+- **Black gesso** brushed over the canvas and allowed to **dry completely** before any oil is applied. This is a dry acrylic ground, not a wet one: the oils above it cannot be pulled back into it, and every light value in the painting has to be added rather than lifted.
+- **Liquid Clear** applied over the ground, giving a wet, transparent working surface without lightening it. No Liquid White is used as a base.
+- No contact paper and no masking.
+- **Secondary tone:** this episode carries the `Underpainting` tag, so a transparent colour was laid over the ground before painting began. Its value is in no dataset — Bob names it aloud in the opening minute and it is invisible in the finished painting. Not yet recovered for this episode; see `canvas_preparation.secondary_tone` below.
+
+The black ground carries the value structure of the whole painting. Read the light in this entry as light recovered from darkness, not as shadow laid over white.
+
+> Section 8 is template-filled from the CSV one-hot columns (`scripts/fix_ground.py`), not generated from the image.
+> The text it replaced named the wrong ground for this episode. See `artifacts/ground_fixed.csv` for what it said.
 
 ---
 
@@ -87,12 +91,18 @@ episode:
   year: 1992
   painting_index: 376
 
+canvas_preparation:
+  ground: "Black Gesso"
+  secondary_tone: null
+  liquid_clear: true
+  liquid_white: false
+  contact_paper: false
+
 colors:
   - Alizarin Crimson
   - Dark Sienna
   - Midnight Black
   - Phthalo Blue
-  - Phthalo Green
   - Prussian Blue
   - Sap Green
   - Titanium White

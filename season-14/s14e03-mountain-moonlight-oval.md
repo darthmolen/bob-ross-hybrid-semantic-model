@@ -70,7 +70,13 @@ Motion profile: **Gentle atmospheric drift with lunar focal point**
 
 ## 8. Initial Canvas Treatment
 
-Foundation likely began with **Liquid Black** or dark-toned gesso to establish the nocturnal base, allowing moonlight highlights and atmospheric effects to emerge dramatically from darkness. The oval format was masked or painted around the central composition, creating the distinctive vignette effect that focuses attention inward toward the luminous moon and misty mountain scene.
+- **Black gesso** brushed over the canvas and allowed to **dry completely** before any oil is applied. This is a dry acrylic ground, not a wet one: the oils above it cannot be pulled back into it, and every light value in the painting has to be added rather than lifted.
+- No Liquid Clear and no Liquid White base — the oils are carried thin directly over the ground.
+- **Contact paper** cut to shape and applied as a mask, so the area it covers stays clean while the surround is painted, and is lifted before that area is worked.
+
+The black ground carries the value structure of the whole painting. Read the light in this entry as light recovered from darkness, not as shadow laid over white.
+
+> Section 8 is template-filled from the CSV one-hot columns (`scripts/fix_ground.py`), not generated from the image.
 
 ---
 
@@ -88,6 +94,13 @@ episode:
   title: "Mountain Moonlight Oval"
   year: 1988
   painting_index: 113
+
+canvas_preparation:
+  ground: "Black Gesso"
+  secondary_tone: null
+  liquid_clear: false
+  liquid_white: false
+  contact_paper: true
 
 colors:
   - Prussian Blue

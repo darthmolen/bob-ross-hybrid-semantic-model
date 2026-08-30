@@ -65,6 +65,7 @@ Signature technique: **Auroral streaming with radial blending**
 - Dark base essential for creating the deep night sky and maximum luminosity contrast
 - Black foundation allows the aurora and snow highlights to achieve their brilliant glow
 - The dark treatment establishes the nocturnal atmosphere before any light elements emerge
+- **Liquid Clear** over the ground, giving a wet, transparent working surface without lightening it.
 
 The black-treated canvas provides the essential void against which the aurora's dance springs to life.
 
@@ -84,6 +85,13 @@ episode:
   title: "Aurora's Dance"
   year: 1992
   painting_index: 384
+
+canvas_preparation:
+  ground: "Liquid White"
+  secondary_tone: null
+  liquid_clear: true
+  liquid_white: true
+  contact_paper: true
 
 colors:
   - Midnight Black

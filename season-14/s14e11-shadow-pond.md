@@ -64,7 +64,16 @@ Motion profile: **Stillness with settling atmosphere**
 "A hidden sanctuary deep in spring woodland, where morning mist clings to a shadowed pond and transforms the forest into cathedral light. The trees stand as sentinels around still waters that mirror the mystery above, while fog drifts through an opening that seems to lead somewhere beyond the ordinary world. This is a place untouched by time, where nature holds its breath."
 
 ## 8. Initial Canvas Treatment
-Canvas prepared with **Liquid White** base to allow smooth blending of atmospheric effects and soft color transitions. The wet-on-wet foundation enables the characteristic misty quality and seamless gradations from dark water to luminous foliage, with particular emphasis on creating the ethereal fog effects in the center background.
+
+- **Black gesso** brushed over the canvas and allowed to **dry completely** before any oil is applied. This is a dry acrylic ground, not a wet one: the oils above it cannot be pulled back into it, and every light value in the painting has to be added rather than lifted.
+- No Liquid Clear and no Liquid White base — the oils are carried thin directly over the ground.
+- No contact paper and no masking.
+- **Secondary tone:** this episode carries the `Underpainting` tag, so a transparent colour was laid over the ground before painting began. Its value is in no dataset — Bob names it aloud in the opening minute and it is invisible in the finished painting. Not yet recovered for this episode; see `canvas_preparation.secondary_tone` below.
+
+The black ground carries the value structure of the whole painting. Read the light in this entry as light recovered from darkness, not as shadow laid over white.
+
+> Section 8 is template-filled from the CSV one-hot columns (`scripts/fix_ground.py`), not generated from the image.
+> The text it replaced named the wrong ground for this episode. See `artifacts/ground_fixed.csv` for what it said.
 
 ---
 
@@ -83,6 +92,13 @@ episode:
   year: 1988
   painting_index: 121
 
+canvas_preparation:
+  ground: "Black Gesso"
+  secondary_tone: null
+  liquid_clear: false
+  liquid_white: false
+  contact_paper: false
+
 colors:
   - Sap Green
   - Cadmium Yellow
@@ -91,5 +107,4 @@ colors:
   - Midnight Black
   - Van Dyke Brown
   - Prussian Blue
-  - Phthalo Green
 ```

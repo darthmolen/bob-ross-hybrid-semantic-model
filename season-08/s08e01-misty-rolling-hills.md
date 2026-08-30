@@ -69,3 +69,47 @@ Signature technique: **Atmospheric blending with wet-on-wet gradations**
 - Foundation supports color temperature transitions from warm to cool
 
 The canvas was prepared with a **purple-pink atmospheric gradient** to unify the misty, ethereal quality throughout.
+
+---
+
+## Metadata
+
+```yaml
+tags:
+  palette_identity: "Lavender-gold atmospheric harmony"
+  depth_style: "Atmospheric layering with color temperature recession"
+  lighting_type: "Diffused atmospheric glow"
+  motion_profile: "Gentle horizontal rhythm with vertical anchors"
+
+searchable_features:
+  # TODO — write from the painting: shape, colour and position, plus lay
+  # synonyms. See TEMPLATE.md. Not generated, because a regex over the prose
+  # reproduces the prose's vocabulary, which is the thing that fails at retrieval.
+
+episode:
+  season: 8
+  episode: 1
+  title: "Misty Rolling Hills"
+  year: 1986
+  painting_index: 190
+  youtube_url: "https://www.youtube.com/embed/cC5ozePVKGI"
+
+canvas_preparation:
+  ground: "Liquid White"
+  secondary_tone: null
+  liquid_clear: false
+  liquid_white: true
+  contact_paper: false
+
+colors:
+  - Alizarin Crimson
+  - Bright Red
+  - Cadmium Yellow
+  - Indian Yellow
+  - Midnight Black
+  - Phthalo Blue
+  - Sap Green
+  - Titanium White
+  - Van Dyke Brown
+  - Yellow Ochre
+```

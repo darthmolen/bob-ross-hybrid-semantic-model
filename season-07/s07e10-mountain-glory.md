@@ -33,3 +33,48 @@ The foundation employs wet-on-wet oil technique throughout. Mountains are sculpt
 
 ## 8. Initial Canvas Treatment
 The canvas was prepared with a thin application of liquid white or magic white, providing the wet surface essential for Bob Ross's wet-on-wet technique. The sky area received immediate attention with light blue (phthalo blue and white mixture) applied in horizontal and crisscross strokes, creating the base atmosphere. White was then introduced for cloud formations using gentle blending and sweeping motions. This initial treatment established the bright, clear atmospheric foundation upon which the mountains, trees, and meadow would be layered, ensuring smooth blending capabilities throughout the painting process.
+
+---
+
+## Metadata
+
+```yaml
+tags:
+  palette_identity: "High-contrast alpine with golden meadow warmth against cool mountain purples and blues"
+  depth_style: "Strong three-plane separation with dramatic foreground-to-background color temperature shift"
+  lighting_type: "Direct midday sunlight with clear alpine atmosphere"
+  motion_profile: "Static alpine stillness with gentle upward visual flow from meadow to mountains"
+
+searchable_features:
+  # TODO — write from the painting: shape, colour and position, plus lay
+  # synonyms. See TEMPLATE.md. Not generated, because a regex over the prose
+  # reproduces the prose's vocabulary, which is the thing that fails at retrieval.
+
+episode:
+  season: 7
+  episode: 10
+  title: "Mountain Glory"
+  year: 1986
+  painting_index: 213
+  youtube_url: "https://www.youtube.com/embed/0M9pwLHRR2c"
+
+canvas_preparation:
+  ground: "Liquid White"
+  secondary_tone: null
+  liquid_clear: false
+  liquid_white: true
+  contact_paper: false
+
+colors:
+  - Bright Red
+  - Cadmium Yellow
+  - Dark Sienna
+  - Indian Yellow
+  - Midnight Black
+  - Phthalo Blue
+  - Prussian Blue
+  - Sap Green
+  - Titanium White
+  - Van Dyke Brown
+  - Yellow Ochre
+```

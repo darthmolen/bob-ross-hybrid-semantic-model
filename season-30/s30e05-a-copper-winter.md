@@ -31,6 +31,8 @@ Signature technique: **Atmospheric warm-over-white blending for paradoxical wint
 ## 8. Initial Canvas Treatment
 The canvas was prepared with Liquid White, allowing for the extensive wet-on-wet blending required to create the warm, misty atmospheric effects throughout the background and sky area. The Liquid White base enables the smooth gradations between the copper, sienna, and yellow tones while maintaining workability for the vertical background tree suggestions and the soft, diffused quality of the fog. This treatment also facilitates the soft blending of snow in the foreground where warm undertones subtly show through the white surface.
 
+- **Liquid Clear** over the ground, giving a wet, transparent working surface without lightening it.
+
 ---
 
 ```yaml
@@ -47,6 +49,13 @@ episode:
   title: "A Copper Winter"
   year: 1994
   painting_index: 390
+
+canvas_preparation:
+  ground: "Liquid White"
+  secondary_tone: null
+  liquid_clear: true
+  liquid_white: true
+  contact_paper: false
 
 colors:
   - Alizarin Crimson

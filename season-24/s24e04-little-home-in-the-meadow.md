@@ -73,12 +73,15 @@ Signature technique: **Oval vignette with atmospheric forest recession**
 "Here stands a humble homestead carved from wilderness—a sanctuary where human ambition meets natural grandeur. The bare tree on the left, stripped of life yet standing proud, reminds us that even in death nature maintains its dignity and purpose. The little cabin with its cheerful blue roof represents hope and persistence, a small but determined claim on the vast forested meadow. This is the archetypal pioneer's dream: not to conquer nature, but to find a small peaceful place within it, where one can live simply beneath big skies and towering trees."
 
 ## 8. Initial Canvas Treatment
-- Canvas prepared with **Liquid White** for smooth wet-on-wet blending
-- Thin even coating allows soft cloud development and atmospheric transitions
-- White base enables luminous sky and facilitates meadow grass highlights
-- Oval boundary either pre-masked or carefully maintained during painting process
 
-The Liquid White foundation creates the soft atmospheric qualities essential to this peaceful pastoral scene.
+- **Black gesso** brushed over the canvas and allowed to **dry completely** before any oil is applied. This is a dry acrylic ground, not a wet one: the oils above it cannot be pulled back into it, and every light value in the painting has to be added rather than lifted.
+- **Liquid Clear** applied over the ground, giving a wet, transparent working surface without lightening it. No Liquid White is used as a base.
+- **Contact paper** cut to shape and applied as a mask, so the area it covers stays clean while the surround is painted, and is lifted before that area is worked.
+
+The black ground carries the value structure of the whole painting. Read the light in this entry as light recovered from darkness, not as shadow laid over white.
+
+> Section 8 is template-filled from the CSV one-hot columns (`scripts/fix_ground.py`), not generated from the image.
+> The text it replaced named the wrong ground for this episode. See `artifacts/ground_fixed.csv` for what it said.
 
 ---
 
@@ -97,16 +100,20 @@ episode:
   year: 1992
   painting_index: 311
 
+canvas_preparation:
+  ground: "Black Gesso"
+  secondary_tone: null
+  liquid_clear: true
+  liquid_white: false
+  contact_paper: true
+
 colors:
   - Alizarin Crimson
-  - Dark Sienna
   - Indian Yellow
   - Midnight Black
   - Phthalo Blue
-  - Phthalo Green
   - Prussian Blue
   - Sap Green
   - Titanium White
-  - Van Dyke Brown
   - Yellow Ochre
 ```

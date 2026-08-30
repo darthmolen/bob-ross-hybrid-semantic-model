@@ -23,3 +23,45 @@ The mountain peaks display signature palette knife work, with bold strikes creat
 
 ## 8. Initial Canvas Treatment
 The canvas likely began with a graduated sky treatment using yellows, oranges, and peachy tones applied wet-on-wet from the horizon upward. The water area was probably treated with liquid clear or a thin layer of Magic White to enable the smooth, glassy reflections that mirror the mountain and sky. The upper sky may have received additional white blending for cloud formations, while the foundation allowed for seamless color transitions throughout. This preparation created the luminous base for building the dramatic mountain and surrounding landscape elements.
+
+---
+
+## Metadata
+
+```yaml
+tags:
+  lighting_type: "golden hour atmospheric glow with soft diffusion"
+
+searchable_features:
+  # TODO — write from the painting: shape, colour and position, plus lay
+  # synonyms. See TEMPLATE.md. Not generated, because a regex over the prose
+  # reproduces the prose's vocabulary, which is the thing that fails at retrieval.
+
+episode:
+  season: 7
+  episode: 8
+  title: "Mountain Splendor"
+  year: 1986
+  painting_index: 211
+  youtube_url: "https://www.youtube.com/embed/GhOGZMpPUSE"
+
+canvas_preparation:
+  ground: "Liquid White"
+  secondary_tone: null
+  liquid_clear: false
+  liquid_white: true
+  contact_paper: false
+
+colors:
+  - Alizarin Crimson
+  - Bright Red
+  - Cadmium Yellow
+  - Dark Sienna
+  - Indian Yellow
+  - Midnight Black
+  - Prussian Blue
+  - Sap Green
+  - Titanium White
+  - Van Dyke Brown
+  - Yellow Ochre
+```

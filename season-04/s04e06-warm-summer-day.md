@@ -96,13 +96,17 @@ episode:
   year: 1985
   painting_index: 248
 
+canvas_preparation:
+  ground: "Liquid White"
+  secondary_tone: null
+  liquid_clear: false
+  liquid_white: true
+  contact_paper: false
+
 colors:
   - Titanium White
-  - Bright Yellow
   - Yellow Ochre
   - Indian Yellow
   - Sap Green
-  - Phthalo Green
   - Van Dyke Brown
-  - Dark Sienna
 ```

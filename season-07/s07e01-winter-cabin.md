@@ -43,3 +43,43 @@ Ross employs his signature knife technique for the cabin structure, using bold s
 ## 8. Initial Canvas Treatment
 
 The canvas foundation begins with a wet coating of liquid white or a very light gray wash to enable the wet-on-wet technique throughout the painting process. This allows for the soft, blended atmospheric background where sky and distant landscape merge seamlessly. The initial treatment provides the slick surface necessary for blending the muted earth tones and grays while maintaining the ability to apply bright white snow highlights in the later stages. The liquid base enables both the soft background transitions and the crisp foreground details that define this winter composition.
+
+---
+
+## Metadata
+
+```yaml
+tags:
+  palette_identity: "Monochromatic Winter Earth Tones"
+  depth_style: "Atmospheric Perspective with Strong Foreground Anchors"
+  lighting_type: "Soft Diffused Overcast"
+  motion_profile: "Meandering Path with Vertical Rhythms"
+
+searchable_features:
+  # TODO — write from the painting: shape, colour and position, plus lay
+  # synonyms. See TEMPLATE.md. Not generated, because a regex over the prose
+  # reproduces the prose's vocabulary, which is the thing that fails at retrieval.
+
+episode:
+  season: 7
+  episode: 1
+  title: "Winter Cabin"
+  year: 1986
+  painting_index: 203
+  youtube_url: "https://www.youtube.com/embed/kdlHV6ceI_g"
+
+canvas_preparation:
+  ground: "Liquid White"
+  secondary_tone: null
+  liquid_clear: false
+  liquid_white: true
+  contact_paper: false
+
+colors:
+  - Bright Red
+  - Dark Sienna
+  - Prussian Blue
+  - Titanium White
+  - Van Dyke Brown
+  - Yellow Ochre
+```

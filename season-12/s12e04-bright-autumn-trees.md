@@ -62,12 +62,15 @@ Signature technique: **Luminous fan brush foliage with dramatic sky contrast**
 "In this autumnal sanctuary, nature holds its breath between storm and calm. The golden trees stand as sentinels of the season's glory, their radiant crowns catching the last fragments of light breaking through departing clouds. A waterfall whispers its eternal song while the lake below mirrors the drama above, creating a perfect moment of harmony where earth, water, and sky converge in peaceful coexistence. This is autumn's triumphant celebration before winter's approach."
 
 ## 8. Initial Canvas Treatment
-- Canvas prepared with **Liquid White** to enable smooth wet-on-wet blending
-- Even coating allows for the soft atmospheric transitions in sky and water
-- Provides the luminosity needed for the glowing quality in clouds and mist
-- Facilitates the blending of dark storm colors with bright breakthrough light
 
-The liquid white foundation creates the ethereal glow that permeates the entire composition, essential for the misty atmospheric depth.
+- **Liquid Black** worked thin into the canvas as a **wet** black ground. Unlike dried gesso it stays in contact with the oils laid over it, so darks can be pulled back into the ground and edges softened into it.
+- No Liquid Clear and no Liquid White base — the oils are carried thin directly over the ground.
+- No contact paper and no masking.
+
+The wet black ground is what keeps the darks deep without mixing them muddy, and what lets the lit passages be pulled straight out of the ground.
+
+> Section 8 is template-filled from the CSV one-hot columns (`scripts/fix_ground.py`), not generated from the image.
+> The text it replaced named the wrong ground for this episode. See `artifacts/ground_fixed.csv` for what it said.
 
 ---
 
@@ -86,10 +89,16 @@ episode:
   year: 1990
   painting_index: 140
 
+canvas_preparation:
+  ground: "Liquid Black"
+  secondary_tone: null
+  liquid_clear: false
+  liquid_white: false
+  contact_paper: false
+
 colors:
   - Midnight Black
   - Prussian Blue
-  - Phthalo Blue
   - Cadmium Yellow
   - Indian Yellow
   - Yellow Ochre

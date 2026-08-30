@@ -82,8 +82,14 @@ episode:
   year: 1984
   painting_index: 266
 
+canvas_preparation:
+  ground: "Liquid White"
+  secondary_tone: null
+  liquid_clear: false
+  liquid_white: true
+  contact_paper: false
+
 colors:
-  - Burnt Sienna
   - Van Dyke Brown
   - Cadmium Yellow
   - Yellow Ochre
@@ -91,5 +97,4 @@ colors:
   - Prussian Blue
   - Alizarin Crimson
   - Titanium White
-  - Midnight Black
 ```

@@ -70,12 +70,15 @@ Signature technique: **Luminous interior light against winter landscape**
 "On this Christmas Eve, a solitary cabin stands as a beacon of warmth in the frozen wilderness. The humble dwelling, with its golden windows glowing against the gathering twilight, tells a story of shelter and hope beneath the towering indifference of ancient mountains. Inside, perhaps a family gathers or a weary traveler finds rest, while outside the world holds its breath in that magical stillness that comes only on this sacred night. The dramatic clouds and majestic peaks remind us of nature's grandeur, while that single warm light reminds us that even in the vastness, there is always a place called home."
 
 ## 8. Initial Canvas Treatment
-- Base coat of Liquid White or Liquid Clear for smooth wet blending
-- Dark sky mixture (Prussian Blue and Midnight Black) applied while wet
-- Gradient transition from dark upper sky to lighter horizon
-- Wet surface allows seamless cloud blending and atmospheric effects
 
-The canvas was prepared with a wet base layer, enabling Bob's signature soft transitions between the dramatic dark sky and the luminous cloud formations, while maintaining workability for the crisp knife-work details in the snow and mountains.
+- **Black gesso** brushed over the canvas and allowed to **dry completely** before any oil is applied. This is a dry acrylic ground, not a wet one: the oils above it cannot be pulled back into it, and every light value in the painting has to be added rather than lifted.
+- No Liquid Clear and no Liquid White base — the oils are carried thin directly over the ground.
+- No contact paper and no masking.
+
+The black ground carries the value structure of the whole painting. Read the light in this entry as light recovered from darkness, not as shadow laid over white.
+
+> Section 8 is template-filled from the CSV one-hot columns (`scripts/fix_ground.py`), not generated from the image.
+> The text it replaced named the wrong ground for this episode. See `artifacts/ground_fixed.csv` for what it said.
 
 ---
 
@@ -94,6 +97,13 @@ episode:
   year: 1988
   painting_index: 106
 
+canvas_preparation:
+  ground: "Black Gesso"
+  secondary_tone: null
+  liquid_clear: false
+  liquid_white: false
+  contact_paper: false
+
 colors:
   - Prussian Blue
   - Phthalo Blue
@@ -102,7 +112,5 @@ colors:
   - Van Dyke Brown
   - Dark Sienna
   - Cadmium Yellow
-  - Indian Yellow
-  - Sap Green
   - Alizarin Crimson
 ```

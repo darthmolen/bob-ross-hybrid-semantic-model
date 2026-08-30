@@ -71,12 +71,16 @@ Signature technique: **Luminous vertical water pull** with layered white-over-bl
 "Hidden within the forest's darkest embrace, where ancient stones hold secrets and moss grows thick as velvet, a waterfall pours forth like liquid light. This is a threshold place — neither fully of earth nor entirely of water — where the boundary between the mundane and the magical dissolves in perpetual mist. The trees stand witness, their roots entwined with stone, their branches reaching toward the pale sky above, guardians of this sacred cascade that has flowed unchanged since time before memory."
 
 ## 8. Initial Canvas Treatment
-- **Liquid White** applied to upper canvas for sky and waterfall regions, allowing brilliant blues and whites to glide and blend
-- Likely **thinned darker base** or strategically avoided coverage in areas designated for rocky cliffs and forest shadows
-- Light initial treatment preserved in center channel to support the luminous waterfall effect
-- Darker surrounding areas possibly pre-toned to establish immediate value contrast
 
-The canvas treatment created a luminous central corridor for the waterfall while maintaining dark foundation for dramatic surrounding cliffs and forest.
+- **Black gesso** brushed over the canvas and allowed to **dry completely** before any oil is applied. This is a dry acrylic ground, not a wet one: the oils above it cannot be pulled back into it, and every light value in the painting has to be added rather than lifted.
+- **Liquid Clear** applied over the ground, giving a wet, transparent working surface without lightening it. No Liquid White is used as a base.
+- No contact paper and no masking.
+- **Secondary tone:** this episode carries the `Underpainting` tag, so a transparent colour was laid over the ground before painting began. Its value is in no dataset — Bob names it aloud in the opening minute and it is invisible in the finished painting. Not yet recovered for this episode; see `canvas_preparation.secondary_tone` below.
+
+The black ground carries the value structure of the whole painting. Read the light in this entry as light recovered from darkness, not as shadow laid over white.
+
+> Section 8 is template-filled from the CSV one-hot columns (`scripts/fix_ground.py`), not generated from the image.
+> The text it replaced named the wrong ground for this episode. See `artifacts/ground_fixed.csv` for what it said.
 
 ---
 
@@ -94,6 +98,13 @@ episode:
   title: "Graceful Waterfall"
   year: 1992
   painting_index: 315
+
+canvas_preparation:
+  ground: "Black Gesso"
+  secondary_tone: null
+  liquid_clear: true
+  liquid_white: false
+  contact_paper: false
 
 colors:
   - Phthalo Blue

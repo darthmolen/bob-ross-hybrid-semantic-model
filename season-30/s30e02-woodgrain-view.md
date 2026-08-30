@@ -1,50 +1,115 @@
 # Season 30, Episode 2 — "Woodgrain View" (1994)
 
 ## 1. Composition
-A majestic mountain rises through morning mist in the background, its slopes highlighted with warm coral tones. A serene alpine lake occupies the midground, its still waters reflecting the atmospheric haze. Towering birch trees frame the scene, with a prominent trunk dominating the right foreground, displaying characteristic white bark with dark horizontal markings. Misty evergreens populate the middle distance along the shoreline, while a small canoe rests at the water's edge in the lower foreground. The composition creates a natural window effect, with the framing trees directing attention toward the illuminated mountain beyond.
 
-Compositional archetype: **Mountain vista framed by birch woodland portal**
+- A **painting within a painting**: a tall rounded-corner rectangular panel is masked out of the canvas with **contact paper**, and the landscape is painted only inside it
+- Everything outside the panel is painted **woodgrain** — long vertical streaks of blue, teal and olive flowing the full height of the canvas, with a reddish-brown **knothole** swirl in the upper right
+- Inside the panel: a snow-capped mountain under a pink dawn sky, dark evergreen ranks on both banks, and a river opening into still water in the lower half
+- A large bare **birch trunk** with rough grey bark stands hard against the right edge of the panel, its bare branches reaching left across the opening — half in the picture, half on the board
+- In the immediate foreground a weathered **fence rail** crosses the bottom of the panel with **two red cardinals** perched on it, sitting entirely outside the masked opening
+- The rail and the birch **break the frame**, stitching the depicted view to the board it is painted on
+
+A trompe-l'œil board composition: a wilderness view rendered as if inlaid into a plank of wood.
+
+Composition archetype: **Painting within a painting on a woodgrain board**
 
 ## 2. Palette
-Prussian Blue and Phthalo Blue establish the cool atmospheric foundation, creating the misty lake and shadowed forest depths. Titanium White mixes throughout for the foggy atmosphere and birch bark highlights. Alizarin Crimson blends with white to form the warm alpenglow on the mountain peaks. Midnight Black defines the dark markings on birch bark and deepest shadows. Van Dyke Brown and Dark Sienna ground the earthy tones in tree bark and shoreline elements. Phthalo Green contributes to the evergreen foliage emerging from the mist.
 
-Palette identity: **Misty blue morning with coral mountain light**
+- **Black Gesso** as the ground under the whole canvas, dried before anything else
+- **Prussian Blue** carrying the woodgrain surround and the cold water inside the panel
+- **Van Dyke Brown**, **Dark Sienna** and **Yellow Ochre** dragged through the wet blue to make the grain, the knot and the warm streaks in the board
+- **Titanium White** for the snowfield, the mountain face, the water highlights and the birch bark
+- **Alizarin Crimson** and **Bright Red** mixed with white for the pink dawn sky, and used pure for the two cardinals
+- **Midnight Black** for the evergreen masses and the dark bark markings
+- **Sap Green** and **Cadmium Yellow** for the low bank foliage under the fence rail
+- **Indian Yellow** warming the grain and the lit edge of the board
+- **Liquid Clear** over the dry black gesso, giving a wet surface without lifting the ground
+
+Palette identity: **cold blue mountain view set into warm-streaked woodgrain**
 
 ## 3. Mood & Atmosphere
-A tranquil, contemplative atmosphere pervades this early morning mountain scene. The pervasive mist creates a sense of mystery and quiet reverence, softening the landscape into ethereal layers. The warm glow on the distant peak suggests the first touch of sunrise, bringing promise and gentle warmth to the cool, hushed environment. The framing birch trees create an intimate viewing experience, as if peering through a natural window into wilderness solitude.
 
-Lighting: **Diffused morning alpenglow** breaking through atmospheric mist with warm highlights on distant peaks against cool shadowed foreground.
+- Still, cold and early — first light on snow with the valley still in shadow
+- Deliberately artificial framing: the viewer is shown a picture *and* the thing it is painted on
+- Intimacy from the two small birds, close to the viewer and outside the view
+- Depth inside the panel set against absolute flatness outside it
+
+Lighting: **cold dawn light inside the panel, flat board light outside it**
 
 ## 4. Structural Layout
-The composition divides into distinct depth zones framed by natural elements. The right foreground is dominated by the prominent birch trunk, its textured bark drawing the eye with white and gray tones against deep shadow. The left foreground features additional birch trees creating a darker frame edge. The center opens to reveal the misty lake in the midground, its surface calm and reflective. The background presents the mountain rising through layers of fog, with shadowy evergreens suggesting the far shoreline. The framing trees create strong vertical elements that contrast with the horizontal calm of the water and the diagonal sweep of the mountain slope.
 
-Depth style: **Layered atmospheric recession through natural frame**
+- **Left:** Narrow strip of dark woodgrain outside the panel edge; inside, evergreen ranks descending to the water
+- **Right:** Broad field of vertical woodgrain with the knot; the grey birch trunk on the panel boundary
+- **Centre:** The masked opening — mountain above, river below
+- **Foreground:** Fence rail and two cardinals, in front of the panel and on the board plane
+- **Midground:** River bend, dark conifer banks, mist at the mountain base
+- **Background:** Snow peak against a pink sky, contained by the panel's rounded top corners
+
+Depth style: **framed portal depth contradicted by a flat surround**
 
 ## 5. Motion
-The scene captures profound stillness, with the glassy lake surface suggesting absolute calm without ripple or current. The mist appears suspended and static, creating soft veils between depth layers rather than active movement. The vertical birch trunks stand as motionless sentinels. Even the small canoe rests in perfect stillness at the shore. The overall effect is one of frozen tranquility, a breathless moment before the day begins.
 
-Motion profile: **Suspended stillness in morning calm**
+- Long vertical grain lines pulling the eye down the canvas outside the panel
+- River receding into the panel, drawing the eye back and up
+- Birch branches reaching left, across the frame line
+- The birds static, the only living things in the picture
+
+Motion profile: **vertical grain against inward recession**
 
 ## 6. Technique
-The birch bark texture demonstrates careful knife work, scraping and layering whites and grays to create the characteristic papery appearance with horizontal dark marks. Wet-on-wet blending creates the soft, atmospheric mist that obscures the background evergreens. The mountain receives delicate color mixing, blending cool blues with warm coral tones for the alpenglow effect. Soft brushwork creates the misty transitions between depth layers. The lake surface uses horizontal strokes to establish the reflective quality. Fine detail work defines the canoe and foreground elements against the atmospheric background.
 
-Signature technique: **Knife-scraped birch bark texture with atmospheric mist blending**
+- Black gesso ground applied to the whole canvas and dried completely
+- **Contact paper cut to a rounded-corner rectangle** and burnished down to mask the view area; the woodgrain is painted around it, and the mask lifted before the landscape is begun
+- **Liquid Clear** over the dry gesso to give slip without a white base
+- Woodgrain pulled with the fan brush and the knife edge in long vertical drags, browns and ochres dragged through wet blue; the knot worked as a swirl and pulled outward
+- Knife work for the mountain face and the snowline
+- Fan brush for the evergreen ranks; liner brush for the bare birch branches
+- Birch bark scraped with the knife edge over the dark trunk, then bark marks struck in with black
+- Fence rail laid in with the knife, cardinals placed last with two loaded touches of red
+
+Signature technique: **contact-paper mask isolating a landscape inside a painted woodgrain board**
 
 ## 7. Narrative Layer
-"This painting invites the viewer to step into a sacred morning moment, standing among the birch trees as dawn's first light touches the mountain peaks. The prominent woodgrained bark in the foreground becomes a tactile anchor point, grounding us in the physical reality of the forest even as our gaze travels across the misty lake toward the ethereal mountain beyond. The waiting canoe suggests both solitude and possibility—the choice between remaining in quiet observation or embarking into the mysterious beauty that lies across the water. This is wilderness as cathedral, where mist and light transform familiar elements into something transcendent."
+
+"A cold morning view, set into a plank. The joke and the craft are the same thing — Bob paints the board first, cuts a window into it, and puts a mountain behind the window. Then he lets a birch branch and a fence rail wander out of the picture onto the wood, and sets two cardinals on the rail to watch, and the whole illusion holds."
 
 ## 8. Initial Canvas Treatment
-The canvas received a coating of Liquid White across the entire surface, providing the wet base necessary for the soft atmospheric blending and misty effects. This treatment allowed the blues and grays to flow smoothly into one another, creating the characteristic fog layers and enabling the delicate transitions between foreground darkness and background luminosity. The Liquid White foundation was essential for achieving the ethereal quality of morning mist and the subtle gradations of light on the distant mountain.
+
+- **Black gesso** applied across the full canvas and dried completely
+- **Contact paper** cut to a rounded-corner rectangle and applied over the area that will become the view, masking it while the woodgrain surround is painted
+- **Liquid Clear** applied over the dry gesso as the wet medium — no Liquid White anywhere
+- Mask lifted to expose clean dry ground before the landscape is painted
+- Thin transparent work inside the panel; the surround built with dragged, semi-opaque grain
+
+The board is painted first and the view second. The masked edge is what makes the panel read as an object rather than a vignette.
 
 ---
 
 ```yaml
 tags:
-  composition_archetype: "Mountain vista framed by birch woodland portal"
-  palette_identity: "Misty blue morning with coral mountain light"
-  depth_style: "Layered atmospheric recession through natural frame"
-  lighting_type: "Diffused morning alpenglow"
-  motion_profile: "Suspended stillness in morning calm"
+  composition_archetype: "Painting within a painting on a woodgrain board"
+  palette_identity: "cold blue mountain view set into warm-streaked woodgrain"
+  depth_style: "framed portal depth contradicted by a flat surround"
+  lighting_type: "cold dawn light inside the panel"
+  motion_profile: "vertical grain against inward recession"
+  special_format: "Contact paper mask — painting within a painting"
+
+searchable_features:
+  - board background
+  - wood panel
+  - plank
+  - woodgrain
+  - knothole
+  - contact paper mask
+  - painting within a painting
+  - breaking the frame
+  - masked rectangle window
+  - rounded corner panel
+  - two red birds
+  - cardinals on a fence rail
+  - bare birch on the frame edge
+  - painted on wood
+  - trompe l'oeil board
 
 episode:
   season: 30
@@ -53,13 +118,25 @@ episode:
   year: 1994
   painting_index: 387
 
+canvas_preparation:
+  ground: "Black Gesso"
+  secondary_tone: null
+  liquid_clear: true
+  liquid_white: false
+  contact_paper: true
+
 colors:
   - Alizarin Crimson
+  - Black Gesso
+  - Bright Red
+  - Cadmium Yellow
   - Dark Sienna
+  - Indian Yellow
+  - Liquid Clear
   - Midnight Black
-  - Phthalo Blue
-  - Phthalo Green
   - Prussian Blue
+  - Sap Green
   - Titanium White
   - Van Dyke Brown
+  - Yellow Ochre
 ```

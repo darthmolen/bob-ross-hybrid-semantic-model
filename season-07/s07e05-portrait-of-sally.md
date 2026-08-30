@@ -23,3 +23,45 @@ The portrait demonstrates a blend of careful detail work and loose impressionist
 
 ## 8. Initial Canvas Treatment
 The canvas likely began with a toned ground or light background wash to establish the overall value structure. The background forest elements were probably blocked in first using wet-on-wet technique with broad strokes of greens and earth tones. This allowed the atmospheric woodland setting to be established before the figure work began. The dark clothing was then laid in to establish the major value structure, followed by the careful construction of the head covering and facial features. This approach—working from background to foreground and from general to specific—allowed the portrait to emerge organically from its environmental context while maintaining the strong value contrasts essential to the composition.
+
+---
+
+## Metadata
+
+```yaml
+tags:
+  palette_identity: "High-contrast portrait with monochromatic clothing against impressionistic woodland greens"
+  depth_style: "Shallow portrait space with atmospheric background recession"
+  lighting_type: "Soft, diffused natural light with gentle facial modeling"
+  motion_profile: "Static portrait with atmospheric environmental suggestion"
+
+searchable_features:
+  # TODO — write from the painting: shape, colour and position, plus lay
+  # synonyms. See TEMPLATE.md. Not generated, because a regex over the prose
+  # reproduces the prose's vocabulary, which is the thing that fails at retrieval.
+
+episode:
+  season: 7
+  episode: 5
+  title: "Portrait of Sally"
+  year: 1986
+  painting_index: 208
+  youtube_url: "https://www.youtube.com/embed/MHJB0IBnuD4"
+
+canvas_preparation:
+  ground: "Liquid White"
+  secondary_tone: null
+  liquid_clear: false
+  liquid_white: true
+  contact_paper: false
+
+colors:
+  - Alizarin Crimson
+  - Bright Red
+  - Cadmium Yellow
+  - Dark Sienna
+  - Indian Yellow
+  - Phthalo Blue
+  - Titanium White
+  - Yellow Ochre
+```

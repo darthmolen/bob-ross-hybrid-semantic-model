@@ -111,6 +111,13 @@ episode:
   year: 1985
   painting_index: 179
 
+canvas_preparation:
+  ground: "Black Gesso"
+  secondary_tone: null
+  liquid_clear: false
+  liquid_white: false
+  contact_paper: false
+
 colors:
   - Bright Red
   - Alizarin Crimson
@@ -119,8 +126,6 @@ colors:
   - Indian Yellow
   - Midnight Black
   - Van Dyke Brown
-  - Prussian Blue
-  - Sap Green
   - Dark Sienna
   - Titanium White
 ```

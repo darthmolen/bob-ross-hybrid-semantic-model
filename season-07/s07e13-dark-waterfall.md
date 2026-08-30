@@ -28,4 +28,53 @@ The waterfall employs vertical downward strokes with a palette knife loaded with
 "Through the dark guardians of the ancient forest, a hidden waterfall whispers its eternal song, veiled in purple mist and shadow. The rushing stream carries secrets from the heights through a corridor of stone and moss, inviting only the most patient wanderer to discover this sanctuary. Here, in the embrace of towering sentinels and filtered light, nature performs its quiet magic—a reminder that beauty often hides in the deepest, darkest corners of the wild, waiting to be found by those who dare to look beyond the threshold."
 
 ## 8. Initial Canvas Treatment
-The canvas received a comprehensive dark foundation treatment, likely using a mixture of Van Dyke Brown, Prussian Blue, and black applied with large brush or foam applicator across the entire surface. This dark base establishes the moody, shadowed atmosphere and allows the bright water elements to emerge with maximum dramatic impact. The purple-lavender tones were likely introduced during the wet-on-wet initial sky/atmosphere layer, blended into the dark base. **Foundation: solid dark base with purple atmospheric overlay enabling high-contrast water elements**.
+
+- **Liquid Black** worked thin into the canvas as a **wet** black ground. Unlike dried gesso it stays in contact with the oils laid over it, so darks can be pulled back into the ground and edges softened into it.
+- No Liquid Clear and no Liquid White base — the oils are carried thin directly over the ground.
+- No contact paper and no masking.
+
+The wet black ground is what keeps the darks deep without mixing them muddy, and what lets the lit passages be pulled straight out of the ground.
+
+> Section 8 is template-filled from the CSV one-hot columns (`scripts/fix_ground.py`), not generated from the image.
+
+---
+
+## Metadata
+
+```yaml
+tags:
+  lighting_type: "diffused atmospheric with misty luminescence"
+
+searchable_features:
+  # TODO — write from the painting: shape, colour and position, plus lay
+  # synonyms. See TEMPLATE.md. Not generated, because a regex over the prose
+  # reproduces the prose's vocabulary, which is the thing that fails at retrieval.
+
+episode:
+  season: 7
+  episode: 13
+  title: "Dark Waterfall"
+  year: 1986
+  painting_index: 216
+  youtube_url: "https://www.youtube.com/embed/VqMbL00eZqw"
+
+canvas_preparation:
+  ground: "Liquid Black"
+  secondary_tone: null
+  liquid_clear: false
+  liquid_white: false
+  contact_paper: false
+
+colors:
+  - Alizarin Crimson
+  - Bright Red
+  - Cadmium Yellow
+  - Dark Sienna
+  - Indian Yellow
+  - Liquid Black
+  - Phthalo Blue
+  - Sap Green
+  - Titanium White
+  - Van Dyke Brown
+  - Yellow Ochre
+```

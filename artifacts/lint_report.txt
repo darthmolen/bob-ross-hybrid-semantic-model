@@ -1,0 +1,549 @@
+season-01/s01e01-a-walk-in-the-woods.md: [features-missing] no searchable_features block
+season-01/s01e02-mt-mckinley.md: [features-missing] no searchable_features block
+season-01/s01e03-ebony-sunset.md: [features-missing] no searchable_features block
+season-01/s01e04-winter-mist.md: [features-missing] no searchable_features block
+season-01/s01e05-quiet-stream.md: [features-missing] no searchable_features block
+season-01/s01e06-winter-moon.md: [features-missing] no searchable_features block
+season-01/s01e07-autumn-mountain.md: [features-missing] no searchable_features block
+season-01/s01e08-peaceful-valley.md: [features-missing] no searchable_features block
+season-01/s01e09-seascape.md: [features-missing] no searchable_features block
+season-01/s01e10-mountain-lake.md: [features-missing] no searchable_features block
+season-01/s01e11-winter-glow.md: [features-missing] no searchable_features block
+season-01/s01e12-snow-fall.md: [features-missing] no searchable_features block
+season-01/s01e13-final-reflections.md: [features-missing] no searchable_features block
+season-02/s02e01-meadow-lake.md: [features-missing] no searchable_features block
+season-02/s02e02-winter-sun.md: [features-missing] no searchable_features block
+season-02/s02e03-ebony-sea.md: [features-missing] no searchable_features block
+season-02/s02e04-shades-of-grey.md: [features-missing] no searchable_features block
+season-02/s02e05-autumn-splendor.md: [features-missing] no searchable_features block
+season-02/s02e06-black-river.md: [features-missing] no searchable_features block
+season-02/s02e07-brown-mountain.md: [features-missing] no searchable_features block
+season-02/s02e08-reflections.md: [features-missing] no searchable_features block
+season-02/s02e09-black-and-white-seascape.md: [features-missing] no searchable_features block
+season-02/s02e10-lazy-river.md: [features-missing] no searchable_features block
+season-02/s02e11-black-waterfall.md: [features-missing] no searchable_features block
+season-02/s02e12-mountain-waterfall.md: [features-missing] no searchable_features block
+season-02/s02e13-final-grace.md: [features-missing] no searchable_features block
+season-03/s03e01-mountain-retreat.md: [features-missing] no searchable_features block
+season-03/s03e02-blue-moon.md: [features-missing] no searchable_features block
+season-03/s03e03-bubbling-stream.md: [features-missing] no searchable_features block
+season-03/s03e04-winter-night.md: [features-missing] no searchable_features block
+season-03/s03e05-distant-hills.md: [features-missing] no searchable_features block
+season-03/s03e06-covered-bridge.md: [features-missing] no searchable_features block
+season-03/s03e07-quiet-inlet.md: [features-missing] no searchable_features block
+season-03/s03e08-night-light.md: [ground-contradiction] CSV ground is Black Gesso but the prose asserts a Liquid White base: ...shine steadily
+Motion profile: **Turbulent maritime flow with stationary light anchors**
+
+## 6. Technique
+- **Liquid whi...
+season-03/s03e08-night-light.md: [features-missing] no searchable_features block
+season-03/s03e09-the-old-mill.md: [features-missing] no searchable_features block
+season-03/s03e10-campfire.md: [features-missing] no searchable_features block
+season-03/s03e11-rustic-barn.md: [features-missing] no searchable_features block
+season-03/s03e12-hidden-lake.md: [features-missing] no searchable_features block
+season-03/s03e13-peaceful-waters.md: [features-missing] no searchable_features block
+season-04/s04e01-purple-splendor.md: [features-missing] no searchable_features block
+season-04/s04e02-tranquil-valley.md: [features-missing] no searchable_features block
+season-04/s04e03-majestic-mountains.md: [features-missing] no searchable_features block
+season-04/s04e04-winter-sawscape.md: [features-missing] no searchable_features block
+season-04/s04e05-evening-seascape.md: [features-missing] no searchable_features block
+season-04/s04e06-warm-summer-day.md: [features-missing] no searchable_features block
+season-04/s04e07-cabin-in-the-woods.md: [features-missing] no searchable_features block
+season-04/s04e08-wetlands.md: [features-missing] no searchable_features block
+season-04/s04e09-cool-waters.md: [features-missing] no searchable_features block
+season-04/s04e10-quiet-woods.md: [features-missing] no searchable_features block
+season-04/s04e11-northwest-majesty.md: [features-missing] no searchable_features block
+season-04/s04e12-autumn-days.md: [ground-contradiction] CSV ground is Black Gesso but the prose asserts a Liquid White base: ...amless atmospheric mist transitions
+- Liner brush renders fine branch details emerging from golden clusters
+- Liquid Whi...
+season-04/s04e12-autumn-days.md: [features-missing] no searchable_features block
+season-04/s04e13-mountain-challenge.md: [features-missing] no searchable_features block
+season-05/s05e01-mountain-waterfall.md: [features-missing] no searchable_features block
+season-05/s05e02-twilight-meadow.md: [features-missing] no searchable_features block
+season-05/s05e03-mountain-blossoms.md: [features-missing] no searchable_features block
+season-05/s05e04-winter-stillness.md: [features-missing] no searchable_features block
+season-05/s05e05-quiet-pond.md: [features-missing] no searchable_features block
+season-05/s05e06-ocean-sunrise.md: [features-missing] no searchable_features block
+season-05/s05e07-bubbling-brook.md: [features-missing] no searchable_features block
+season-05/s05e08-arizona-splendor.md: [features-missing] no searchable_features block
+season-05/s05e09-anatomy-of-a-wave.md: [clear-unstated] Liquid_Clear = 1 but Liquid Clear is never mentioned
+season-05/s05e09-anatomy-of-a-wave.md: [features-missing] no searchable_features block
+season-05/s05e10-the-windmill.md: [ground-contradiction] CSV ground is Black Gesso but the prose asserts a Liquid White base: ...ower left toward buildings
+
+---
+
+## 6. Technique
+
+- Heavy palette knife work for snow highlights and drifts
+- Liquid Whi...
+season-05/s05e10-the-windmill.md: [features-missing] no searchable_features block
+season-05/s05e11-autumn-glory.md: [features-missing] no searchable_features block
+season-05/s05e12-indian-girl.md: [features-missing] no searchable_features block
+season-05/s05e13-meadow-stream.md: [features-missing] no searchable_features block
+season-06/s06e01-blue-river.md: [ground-contradiction] CSV ground is Black Gesso but the prose asserts a Liquid White base: ...l stability
+
+Motion profile: **stillness and reflection—tranquil centerline composition**
+
+## 6. Technique
+
+- Liquid Whi...
+season-06/s06e01-blue-river.md: [features-missing] no searchable_features block
+season-06/s06e02-natures-edge.md: [features-missing] no searchable_features block
+season-06/s06e03-morning-mist.md: [features-missing] no searchable_features block
+season-06/s06e04-whispering-stream.md: [features-missing] no searchable_features block
+season-06/s06e05-secluded-forest.md: [ground-contradiction] CSV ground is Black Gesso but the prose asserts a Liquid White base: ...ter movement
+
+Motion profile: **vertical static rhythm with atmospheric depth recession**
+
+## 6. Technique
+
+- Liquid Whi...
+season-06/s06e05-secluded-forest.md: [features-missing] no searchable_features block
+season-06/s06e06-snow-trail.md: [features-missing] no searchable_features block
+season-06/s06e07-arctic-beauty.md: [features-missing] no searchable_features block
+season-06/s06e08-horizons-west.md: [features-missing] no searchable_features block
+season-06/s06e09-high-chateau.md: [features-missing] no searchable_features block
+season-06/s06e10-country-life.md: [features-missing] no searchable_features block
+season-06/s06e11-western-expanse.md: [features-missing] no searchable_features block
+season-06/s06e12-marshlands.md: [ground-contradiction] CSV ground is Black Gesso but the prose asserts a Liquid White base: ...reating vertical lift
+
+Motion profile: **centered depth pull with atmospheric ascension**
+
+## 6. Technique
+
+- Liquid Whi...
+season-06/s06e12-marshlands.md: [features-missing] no searchable_features block
+season-06/s06e13-blaze-of-color.md: [features-missing] no searchable_features block
+season-07/s07e01-winter-cabin.md: [features-empty] searchable_features has no entries
+season-07/s07e02-secluded-lake.md: [features-empty] searchable_features has no entries
+season-07/s07e03-evergreens-at-sunset.md: [ground-unstated] CSV ground is Liquid Black but the prose never says so
+season-07/s07e04-mountain-cabin.md: [features-empty] searchable_features has no entries
+season-07/s07e05-portrait-of-sally.md: [features-empty] searchable_features has no entries
+season-07/s07e06-misty-waterfall.md: [features-empty] searchable_features has no entries
+season-07/s07e07-barn-at-sunset.md: [features-empty] searchable_features has no entries
+season-07/s07e08-mountain-splendor.md: [features-empty] searchable_features has no entries
+season-07/s07e09-lake-by-mountain.md: [features-empty] searchable_features has no entries
+season-07/s07e10-mountain-glory.md: [features-empty] searchable_features has no entries
+season-07/s07e11-grey-winter.md: [features-empty] searchable_features has no entries
+season-07/s07e12-dock-scene.md: [features-empty] searchable_features has no entries
+season-07/s07e13-dark-waterfall.md: [features-empty] searchable_features has no entries
+season-08/s08e01-misty-rolling-hills.md: [features-empty] searchable_features has no entries
+season-08/s08e02-lakeside-cabin.md: [features-empty] searchable_features has no entries
+season-08/s08e03-warm-winter-day.md: [features-empty] searchable_features has no entries
+season-08/s08e04-waterside-way.md: [features-empty] searchable_features has no entries
+season-08/s08e05-hunters-haven.md: [features-empty] searchable_features has no entries
+season-08/s08e06-bubbling-mountain-brook.md: [features-empty] searchable_features has no entries
+season-08/s08e07-winter-hideaway.md: [features-empty] searchable_features has no entries
+season-08/s08e08-foot-of-the-mountain.md: [features-empty] searchable_features has no entries
+season-08/s08e09-majestic-pine.md: [mask-unstated] tags include Contact Paper but the prose has no mask vocabulary
+season-08/s08e09-majestic-pine.md: [features-empty] searchable_features has no entries
+season-08/s08e10-cactus-at-sunset.md: [features-empty] searchable_features has no entries
+season-08/s08e11-mountain-range.md: [features-empty] searchable_features has no entries
+season-08/s08e12-lonely-retreat.md: [features-empty] searchable_features has no entries
+season-08/s08e13-northern-lights.md: [features-empty] searchable_features has no entries
+season-09/s09e01-winter-evergreens.md: [features-missing] no searchable_features block
+season-09/s09e02-surfs-up.md: [features-missing] no searchable_features block
+season-09/s09e03-red-sunset.md: [features-missing] no searchable_features block
+season-09/s09e04-meadow-road.md: [features-missing] no searchable_features block
+season-09/s09e05-winter-oval.md: [features-missing] no searchable_features block
+season-09/s09e06-secluded-beach.md: [features-missing] no searchable_features block
+season-09/s09e07-forest-hills.md: [features-missing] no searchable_features block
+season-09/s09e08-little-house-by-the-road.md: [features-missing] no searchable_features block
+season-09/s09e09-mountain-path.md: [features-missing] no searchable_features block
+season-09/s09e10-country-charm.md: [features-missing] no searchable_features block
+season-09/s09e11-natures-paradise.md: [features-missing] no searchable_features block
+season-09/s09e12-mountain-by-the-sea.md: [features-missing] no searchable_features block
+season-09/s09e13-mountain-hideaway.md: [ground-contradiction] CSV ground is Black Gesso but the prose asserts a Liquid White base: ...arc
+
+Motion profile: **cascading water flow in otherwise serene rainbow-crowned valley**
+
+## 6. Technique
+
+- Liquid Whit...
+season-09/s09e13-mountain-hideaway.md: [features-missing] no searchable_features block
+season-10/s10e01-towering-peaks.md: [features-missing] no searchable_features block
+season-10/s10e02-cabin-at-sunset.md: [features-missing] no searchable_features block
+season-10/s10e03-twin-falls.md: [features-missing] no searchable_features block
+season-10/s10e04-secluded-bridge.md: [features-missing] no searchable_features block
+season-10/s10e05-ocean-breeze.md: [features-missing] no searchable_features block
+season-10/s10e06-autumn-woods.md: [features-missing] no searchable_features block
+season-10/s10e07-winter-solitude.md: [features-missing] no searchable_features block
+season-10/s10e08-golden-sunset.md: [features-missing] no searchable_features block
+season-10/s10e09-mountain-oval.md: [features-missing] no searchable_features block
+season-10/s10e10-ocean-sunset.md: [clear-unstated] Liquid_Clear = 1 but Liquid Clear is never mentioned
+season-10/s10e10-ocean-sunset.md: [features-missing] no searchable_features block
+season-10/s10e11-triple-view.md: [mask-unstated] tags include Contact Paper but the prose has no mask vocabulary
+season-10/s10e11-triple-view.md: [features-missing] no searchable_features block
+season-10/s10e12-winter-frost.md: [features-missing] no searchable_features block
+season-10/s10e13-lakeside-cabin.md: [features-missing] no searchable_features block
+season-11/s11e01-mountain-stream.md: [features-missing] no searchable_features block
+season-11/s11e02-country-cabin.md: [features-missing] no searchable_features block
+season-11/s11e03-daisy-delight.md: [clear-unstated] Liquid_Clear = 1 but Liquid Clear is never mentioned
+season-11/s11e03-daisy-delight.md: [features-missing] no searchable_features block
+season-11/s11e04-hidden-stream.md: [features-missing] no searchable_features block
+season-11/s11e05-towering-glacier.md: [features-missing] no searchable_features block
+season-11/s11e06-oval-barn.md: [features-missing] no searchable_features block
+season-11/s11e07-lakeside-path.md: [features-missing] no searchable_features block
+season-11/s11e08-sunset-oval.md: [features-missing] no searchable_features block
+season-11/s11e09-winter-barn.md: [features-missing] no searchable_features block
+season-11/s11e10-sunset-over-the-waves.md: [features-missing] no searchable_features block
+season-11/s11e11-golden-glow.md: [clear-unstated] Liquid_Clear = 1 but Liquid Clear is never mentioned
+season-11/s11e11-golden-glow.md: [features-missing] no searchable_features block
+season-11/s11e12-roadside-barn.md: [features-missing] no searchable_features block
+season-11/s11e13-happy-accident.md: [features-missing] no searchable_features block
+season-12/s12e01-golden-knoll.md: [features-missing] no searchable_features block
+season-12/s12e02-mountain-reflections.md: [features-missing] no searchable_features block
+season-12/s12e03-secluded-mountain.md: [features-missing] no searchable_features block
+season-12/s12e04-bright-autumn-trees.md: [features-missing] no searchable_features block
+season-12/s12e05-black-seascape.md: [features-missing] no searchable_features block
+season-12/s12e06-steep-mountains.md: [features-missing] no searchable_features block
+season-12/s12e07-quiet-mountains-river.md: [features-missing] no searchable_features block
+season-12/s12e08-evening-waterfall.md: [features-missing] no searchable_features block
+season-12/s12e09-tropical-seascape.md: [features-missing] no searchable_features block
+season-12/s12e10-mountain-at-sunset.md: [features-missing] no searchable_features block
+season-12/s12e11-soft-mountain-glow.md: [features-missing] no searchable_features block
+season-12/s12e12-mountain-in-an-oval.md: [features-missing] no searchable_features block
+season-12/s12e13-winter-mountain.md: [features-missing] no searchable_features block
+season-13/s13e01-rolling-hills.md: [features-missing] no searchable_features block
+season-13/s13e02-frozen-solitude.md: [features-missing] no searchable_features block
+season-13/s13e03-meadow-brook.md: [features-missing] no searchable_features block
+season-13/s13e04-evening-at-sunset.md: [features-missing] no searchable_features block
+season-13/s13e05-mountain-view.md: [features-missing] no searchable_features block
+season-13/s13e06-hidden-creek.md: [ground-contradiction] CSV ground is Black Gesso but the prose asserts a Liquid White base: ...ee branches, delicate grasses, small foreground details, and possibly subtle water ripples or reflections.
+
+**Liquid Whi...
+season-13/s13e06-hidden-creek.md: [features-missing] no searchable_features block
+season-13/s13e07-peaceful-haven.md: [features-missing] no searchable_features block
+season-13/s13e08-mountain-exhibition.md: [features-missing] no searchable_features block
+season-13/s13e09-emerald-waters.md: [features-missing] no searchable_features block
+season-13/s13e10-mountain-summit.md: [features-missing] no searchable_features block
+season-13/s13e11-cabin-hideaway.md: [features-missing] no searchable_features block
+season-13/s13e12-oval-essence.md: [features-missing] no searchable_features block
+season-13/s13e13-lost-lake.md: [features-missing] no searchable_features block
+season-14/s14e01-distant-mountains.md: [features-missing] no searchable_features block
+season-14/s14e02-meadow-brook-surprise.md: [features-missing] no searchable_features block
+season-14/s14e03-mountain-moonlight-oval.md: [features-missing] no searchable_features block
+season-14/s14e04-snowy-solitude.md: [features-missing] no searchable_features block
+season-14/s14e05-mountain-river.md: [features-missing] no searchable_features block
+season-14/s14e06-graceful-mountains.md: [features-missing] no searchable_features block
+season-14/s14e07-windy-waves.md: [features-missing] no searchable_features block
+season-14/s14e08-on-a-clear-day.md: [features-missing] no searchable_features block
+season-14/s14e09-riverside-escape-oval.md: [mask-unstated] tags include Contact Paper but the prose has no mask vocabulary
+season-14/s14e09-riverside-escape-oval.md: [features-missing] no searchable_features block
+season-14/s14e10-surprising-falls.md: [features-missing] no searchable_features block
+season-14/s14e11-shadow-pond.md: [features-missing] no searchable_features block
+season-14/s14e12-misty-forest-oval.md: [features-missing] no searchable_features block
+season-14/s14e13-natural-wonder.md: [features-missing] no searchable_features block
+season-15/s15e01-splendor-of-winter.md: [features-missing] no searchable_features block
+season-15/s15e02-colors-of-nature.md: [features-missing] no searchable_features block
+season-15/s15e03-grandpas-barn.md: [features-missing] no searchable_features block
+season-15/s15e04-peaceful-reflections.md: [features-missing] no searchable_features block
+season-15/s15e05-hidden-winter-moon-oval.md: [features-missing] no searchable_features block
+season-15/s15e06-waves-of-wonder.md: [features-missing] no searchable_features block
+season-15/s15e07-cabin-by-the-pond.md: [features-missing] no searchable_features block
+season-15/s15e08-fall-stream.md: [features-missing] no searchable_features block
+season-15/s15e09-christmas-eve-snow.md: [features-missing] no searchable_features block
+season-15/s15e10-forest-down-oval.md: [ground-contradiction] CSV ground is Black Gesso but the prose asserts a Liquid White base: ...hthalo Blue for cool sky mixtures and atmospheric depth
+- Van Dyke Brown for tree trunks and shadow accents
+- Liquid Whi...
+season-15/s15e10-forest-down-oval.md: [features-missing] no searchable_features block
+season-15/s15e11-pathway-to-autumn.md: [features-missing] no searchable_features block
+season-15/s15e12-deep-forest-lake.md: [features-missing] no searchable_features block
+season-15/s15e13-peaks-of-majesty.md: [features-missing] no searchable_features block
+season-16/s16e01-two-seasons.md: [features-missing] no searchable_features block
+season-16/s16e02-nestled-cabin.md: [features-missing] no searchable_features block
+season-16/s16e03-wintertime-discovery.md: [features-missing] no searchable_features block
+season-16/s16e04-mountain-mirage-wood-shape.md: [features-missing] no searchable_features block
+season-16/s16e05-double-oval-fantasy.md: [features-missing] no searchable_features block
+season-16/s16e06-contemplative-lady.md: [features-missing] no searchable_features block
+season-16/s16e07-deep-woods.md: [features-missing] no searchable_features block
+season-16/s16e09-barn-in-snow-oval.md: [features-missing] no searchable_features block
+season-16/s16e10-that-time-of-year.md: [features-missing] no searchable_features block
+season-16/s16e11-waterfall-wonder.md: [features-missing] no searchable_features block
+season-16/s16e12-mighty-mountain-lake.md: [features-missing] no searchable_features block
+season-16/s16e13-wooded-stream-oval.md: [features-missing] no searchable_features block
+season-17/s17e01-golden-mist-oval.md: [features-missing] no searchable_features block
+season-17/s17e02-the-old-home-place.md: [features-missing] no searchable_features block
+season-17/s17e03-soothing-vista.md: [features-missing] no searchable_features block
+season-17/s17e04-stormy-seas.md: [features-missing] no searchable_features block
+season-17/s17e05-country-time.md: [clear-unstated] Liquid_Clear = 1 but Liquid Clear is never mentioned
+season-17/s17e05-country-time.md: [features-missing] no searchable_features block
+season-17/s17e06-a-mild-winters-day.md: [features-missing] no searchable_features block
+season-17/s17e07-spectacular-waterfall.md: [features-missing] no searchable_features block
+season-17/s17e08-view-from-the-park.md: [mask-unstated] tags include Contact Paper but the prose has no mask vocabulary
+season-17/s17e08-view-from-the-park.md: [features-missing] no searchable_features block
+season-17/s17e09-lake-view.md: [features-missing] no searchable_features block
+season-17/s17e10-old-country-mill.md: [features-missing] no searchable_features block
+season-17/s17e13-mountain-beauty.md: [features-missing] no searchable_features block
+season-18/s18e01-half-oval-vignette.md: [features-missing] no searchable_features block
+season-18/s18e02-absolutely-autumn.md: [features-missing] no searchable_features block
+season-18/s18e03-mountain-seclusion.md: [features-missing] no searchable_features block
+season-18/s18e04-crimson-oval.md: [features-missing] no searchable_features block
+season-18/s18e05-autumn-exhibition.md: [features-missing] no searchable_features block
+season-18/s18e06-majestic-peaks.md: [features-missing] no searchable_features block
+season-18/s18e07-golden-morning-mist.md: [ground-contradiction] CSV ground is Black Gesso but the prose asserts a Liquid White base: ...from central light source**
+
+Motion profile: **Rising Mist with Radial Light Diffusion**
+
+## 6. Technique
+
+- Liquid Whit...
+season-18/s18e07-golden-morning-mist.md: [features-missing] no searchable_features block
+season-18/s18e08-winter-lace.md: [features-missing] no searchable_features block
+season-18/s18e09-seascape-fantasy.md: [ground-contradiction] CSV ground is Black Gesso but the prose asserts a Liquid White base: ...soar freely above, while the endless waves roll toward an unseen shore."
+
+## 8. Initial Canvas Treatment
+
+- **Liquid Whi...
+season-18/s18e09-seascape-fantasy.md: [features-missing] no searchable_features block
+season-18/s18e10-double-oval-stream.md: [features-missing] no searchable_features block
+season-18/s18e11-enchanted-forest.md: [features-missing] no searchable_features block
+season-18/s18e12-southwest-serenity.md: [features-missing] no searchable_features block
+season-18/s18e13-rippling-waters.md: [ground-contradiction] CSV ground is Liquid Black but the prose asserts a Liquid White base: ...bushes, foliage, and water foam effects, liner brush for fine twigs and branches, two-inch brush for blending liquid whi...
+season-18/s18e13-rippling-waters.md: [features-missing] no searchable_features block
+season-19/s19e01-snowfall-magic.md: [features-missing] no searchable_features block
+season-19/s19e02-quiet-mountain-lake.md: [ground-contradiction] CSV ground is Black Gesso but the prose asserts a Liquid White base: ...: Not used
+- **Grey gesso**: Not used
+- **Contact paper**: Not used
+- **Textured gesso**: Not used
+
+A classic Liquid Whi...
+season-19/s19e02-quiet-mountain-lake.md: [features-missing] no searchable_features block
+season-19/s19e03-final-embers-of-sunlight.md: [features-missing] no searchable_features block
+season-19/s19e04-snowy-morn.md: [features-missing] no searchable_features block
+season-19/s19e05-campers-haven.md: [features-missing] no searchable_features block
+season-19/s19e06-waterfall-in-the-woods.md: [features-missing] no searchable_features block
+season-19/s19e07-covered-bridge-oval.md: [features-missing] no searchable_features block
+season-19/s19e08-scenic-seclusion.md: [ground-contradiction] CSV ground is Liquid Black but the prose asserts a Liquid White base: ...es gentle air movement
+
+Motion profile: **Diagonal Water Rush with Wind-Shaped Elements**
+
+## 6. Technique
+
+- Liquid Whi...
+season-19/s19e08-scenic-seclusion.md: [features-missing] no searchable_features block
+season-19/s19e09-ebb-tide.md: [features-missing] no searchable_features block
+season-19/s19e10-after-the-rain.md: [ground-contradiction] CSV ground is Black Gesso but the prose asserts a Liquid White base: ...movement in misty areas
+
+Motion profile: **Vertical Waterfall Cascade with Rising Mist**
+
+## 6. Technique
+
+- Liquid Whit...
+season-19/s19e10-after-the-rain.md: [features-missing] no searchable_features block
+season-19/s19e11-winter-elegance.md: [features-missing] no searchable_features block
+season-19/s19e12-evenings-peace.md: [features-missing] no searchable_features block
+season-19/s19e13-valley-of-tranquility.md: [features-missing] no searchable_features block
+season-20/s20e01-mystic-mountain.md: [features-missing] no searchable_features block
+season-20/s20e02-new-days-dawn.md: [features-missing] no searchable_features block
+season-20/s20e03-winter-in-pastel.md: [features-missing] no searchable_features block
+season-20/s20e04-hazy-day.md: [features-missing] no searchable_features block
+season-20/s20e05-divine-elegance.md: [mask-unstated] tags include Contact Paper but the prose has no mask vocabulary
+season-20/s20e05-divine-elegance.md: [features-missing] no searchable_features block
+season-20/s20e06-cliffside.md: [features-missing] no searchable_features block
+season-20/s20e07-autumn-fantasy.md: [features-missing] no searchable_features block
+season-20/s20e08-the-old-oak-tree.md: [features-missing] no searchable_features block
+season-20/s20e09-winter-paradise.md: [features-missing] no searchable_features block
+season-20/s20e10-days-gone-by.md: [features-missing] no searchable_features block
+season-20/s20e11-change-of-seasons.md: [ground-unstated] CSV ground is Liquid Black but the prose never says so
+season-20/s20e11-change-of-seasons.md: [features-missing] no searchable_features block
+season-20/s20e12-hidden-delight.md: [features-missing] no searchable_features block
+season-20/s20e13-double-take.md: [features-missing] no searchable_features block
+season-21/s21e01-valley-view.md: [ground-contradiction] CSV ground is Black Gesso but the prose asserts a Liquid White base: ...he reflective water and shadowed foreground elements. The upper portion likely received a thin application of Liquid Whi...
+season-21/s21e01-valley-view.md: [features-missing] no searchable_features block
+season-21/s21e02-tranquil-dawn.md: [features-missing] no searchable_features block
+season-21/s21e03-royal-majesty.md: [features-missing] no searchable_features block
+season-21/s21e04-serenity.md: [features-missing] no searchable_features block
+season-21/s21e05-cabin-at-trails-end.md: [mask-unstated] tags include Contact Paper but the prose has no mask vocabulary
+season-21/s21e05-cabin-at-trails-end.md: [features-missing] no searchable_features block
+season-21/s21e06-mountain-rhapsody.md: [features-missing] no searchable_features block
+season-21/s21e07-wilderness-cabin.md: [features-missing] no searchable_features block
+season-21/s21e08-by-the-sea.md: [features-missing] no searchable_features block
+season-21/s21e09-indian-summer.md: [features-missing] no searchable_features block
+season-21/s21e10-blue-winter.md: [features-missing] no searchable_features block
+season-21/s21e11-desert-glow.md: [features-missing] no searchable_features block
+season-21/s21e12-lone-mountain.md: [features-missing] no searchable_features block
+season-21/s21e13-floridas-glory.md: [features-missing] no searchable_features block
+season-22/s22e01-autumn-images.md: [features-missing] no searchable_features block
+season-22/s22e02-hint-of-springtime.md: [features-missing] no searchable_features block
+season-22/s22e03-around-the-bend.md: [features-missing] no searchable_features block
+season-22/s22e04-countryside-oval.md: [features-missing] no searchable_features block
+season-22/s22e05-russet-winter.md: [features-missing] no searchable_features block
+season-22/s22e06-purple-haze.md: [features-missing] no searchable_features block
+season-22/s22e07-dimensions.md: [features-missing] no searchable_features block
+season-22/s22e08-deep-wilderness-home.md: [features-missing] no searchable_features block
+season-22/s22e09-haven-in-the-valley.md: [features-missing] no searchable_features block
+season-22/s22e10-wintertime-blues.md: [features-missing] no searchable_features block
+season-22/s22e11-pastel-seascape.md: [features-missing] no searchable_features block
+season-22/s22e12-country-creek.md: [features-missing] no searchable_features block
+season-22/s22e13-silent-forest.md: [features-missing] no searchable_features block
+season-23/s23e01-frosty-winter-morn.md: [features-missing] no searchable_features block
+season-23/s23e02-forest-edge.md: [features-missing] no searchable_features block
+season-23/s23e03-mountain-ridge-lake.md: [features-missing] no searchable_features block
+season-23/s23e04-reflections-of-gold.md: [features-missing] no searchable_features block
+season-23/s23e05-quiet-cove.md: [features-missing] no searchable_features block
+season-23/s23e06-rivers-peace.md: [features-missing] no searchable_features block
+season-23/s23e07-at-dawns-light.md: [features-missing] no searchable_features block
+season-23/s23e08-valley-waterfall.md: [features-missing] no searchable_features block
+season-23/s23e09-toward-days-end.md: [features-missing] no searchable_features block
+season-23/s23e10-falls-in-the-glen.md: [features-missing] no searchable_features block
+season-23/s23e11-frozen-beauty-in-vignette.md: [features-missing] no searchable_features block
+season-23/s23e12-crimson-tide.md: [features-missing] no searchable_features block
+season-23/s23e13-winter-bliss.md: [features-missing] no searchable_features block
+season-24/s24e01-gray-mountain.md: [features-missing] no searchable_features block
+season-24/s24e02-wayside-pond.md: [features-missing] no searchable_features block
+season-24/s24e03-teton-winter.md: [features-missing] no searchable_features block
+season-24/s24e04-little-home-in-the-meadow.md: [features-missing] no searchable_features block
+season-24/s24e05-a-pretty-autumn-day.md: [features-missing] no searchable_features block
+season-24/s24e06-mirrored-images.md: [features-missing] no searchable_features block
+season-24/s24e07-back-country-path.md: [features-missing] no searchable_features block
+season-24/s24e08-graceful-waterfall.md: [features-missing] no searchable_features block
+season-24/s24e09-icy-lake.md: [features-missing] no searchable_features block
+season-24/s24e10-rowboat-on-the-beach.md: [features-missing] no searchable_features block
+season-24/s24e11-portrait-of-winter.md: [features-missing] no searchable_features block
+season-24/s24e12-the-footbridge.md: [features-missing] no searchable_features block
+season-24/s24e13-snowbound-cabin.md: [clear-unstated] Liquid_Clear = 1 but Liquid Clear is never mentioned
+season-24/s24e13-snowbound-cabin.md: [features-missing] no searchable_features block
+season-25/s25e01-hide-a-way-cove.md: [features-missing] no searchable_features block
+season-25/s25e02-enchanted-falls-oval.md: [features-missing] no searchable_features block
+season-25/s25e03-not-quite-spring.md: [features-missing] no searchable_features block
+season-25/s25e04-splashes-of-autumn.md: [features-missing] no searchable_features block
+season-25/s25e05-summer-in-the-mountain.md: [features-missing] no searchable_features block
+season-25/s25e06-oriental-falls.md: [features-missing] no searchable_features block
+season-25/s25e07-autumn-palette.md: [features-missing] no searchable_features block
+season-25/s25e08-cypress-swamp.md: [features-missing] no searchable_features block
+season-25/s25e09-downstream-view.md: [ground-contradiction] CSV ground is Black Gesso but the prose asserts a Liquid White base: ...r, forest, and mountain converge in a celebration of wilderness energy."
+
+## 8. Initial Canvas Treatment
+
+- **Liquid Whi...
+season-25/s25e09-downstream-view.md: [features-missing] no searchable_features block
+season-25/s25e10-just-before-the-storm.md: [features-missing] no searchable_features block
+season-25/s25e11-fishermans-paradise.md: [ground-contradiction] CSV ground is Black Gesso but the prose asserts a Liquid White base: ...8. Initial Canvas Treatment
+
+- Black Gesso base providing dramatic dark foundation
+- Selective application of Liquid Whi...
+season-25/s25e11-fishermans-paradise.md: [features-missing] no searchable_features block
+season-25/s25e12-desert-hues.md: [features-missing] no searchable_features block
+season-25/s25e13-the-property-line.md: [features-missing] no searchable_features block
+season-26/s26e01-in-the-stillness-of-morning.md: [features-missing] no searchable_features block
+season-26/s26e02-delightful-meadow-home.md: [features-missing] no searchable_features block
+season-26/s26e03-first-snow.md: [features-missing] no searchable_features block
+season-26/s26e04-lake-in-the-valley.md: [features-missing] no searchable_features block
+season-26/s26e05-a-trace-of-spring.md: [features-missing] no searchable_features block
+season-26/s26e06-an-arctic-winter-day.md: [features-missing] no searchable_features block
+season-26/s26e07-snow-birch.md: [features-missing] no searchable_features block
+season-26/s26e08-early-autumn.md: [features-missing] no searchable_features block
+season-26/s26e09-tranquil-wooded-stream.md: [features-missing] no searchable_features block
+season-26/s26e10-purple-mountain-range.md: [features-missing] no searchable_features block
+season-26/s26e11-storms-a-comin.md: [features-missing] no searchable_features block
+season-26/s26e12-sunset-aglow.md: [features-missing] no searchable_features block
+season-26/s26e13-evening-at-the-falls.md: [features-missing] no searchable_features block
+season-27/s27e01-twilight-beauty.md: [ground-contradiction] CSV ground is Black Gesso but the prose asserts a Liquid White base: ...pplied to create the distinctive vignette effect
+- **No textured gesso**: Smooth canvas surface throughout
+
+A Liquid Whi...
+season-27/s27e01-twilight-beauty.md: [features-missing] no searchable_features block
+season-27/s27e02-anglers-haven.md: [ground-contradiction] CSV ground is Liquid Black but the prose asserts a Liquid White base: ...upward to luminous peaks
+
+Motion profile: **vertical ascent with atmospheric stillness**
+
+## 6. Technique
+
+- Liquid Whit...
+season-27/s27e02-anglers-haven.md: [features-missing] no searchable_features block
+season-27/s27e03-rustic-winter-woods.md: [features-missing] no searchable_features block
+season-27/s27e05-winter-at-the-farm.md: [clear-unstated] Liquid_Clear = 1 but Liquid Clear is never mentioned
+season-27/s27e05-winter-at-the-farm.md: [features-missing] no searchable_features block
+season-27/s27e06-daisies-at-dawn.md: [features-missing] no searchable_features block
+season-27/s27e07-a-spectacular-view.md: [features-missing] no searchable_features block
+season-27/s27e08-daybreak.md: [features-missing] no searchable_features block
+season-27/s27e09-island-paradise.md: [clear-unstated] Liquid_Clear = 1 but Liquid Clear is never mentioned
+season-27/s27e09-island-paradise.md: [features-missing] no searchable_features block
+season-27/s27e10-sunlight-in-the-shadows.md: [features-missing] no searchable_features block
+season-27/s27e11-splendor-of-a-snowy-winter.md: [ground-contradiction] CSV ground is Liquid Black but the prose asserts a Liquid White base: ...atmosphere
+- No wind or active weather suggested
+
+Motion profile: **profound stillness**
+
+## 6. Technique
+
+- Liquid Whit...
+season-27/s27e11-splendor-of-a-snowy-winter.md: [features-missing] no searchable_features block
+season-27/s27e12-forest-river.md: [ground-contradiction] CSV ground is Black Gesso but the prose asserts a Liquid White base: ...tal water flow
+
+Motion profile: **center-pull perspective with radiant atmospheric glow**
+
+## 6. Technique
+
+- Liquid Whi...
+season-27/s27e12-forest-river.md: [features-missing] no searchable_features block
+season-27/s27e13-golden-glow-of-morning.md: [features-missing] no searchable_features block
+season-28/s28e01-fishermans-trail.md: [features-missing] no searchable_features block
+season-28/s28e02-a-warm-winter.md: [features-missing] no searchable_features block
+season-28/s28e03-under-pastel-skies.md: [features-missing] no searchable_features block
+season-28/s28e05-the-magic-of-fall.md: [clear-unstated] Liquid_Clear = 1 but Liquid Clear is never mentioned
+season-28/s28e05-the-magic-of-fall.md: [features-missing] no searchable_features block
+season-28/s28e06-glacier-lake.md: [features-missing] no searchable_features block
+season-28/s28e07-the-old-weathered-barn.md: [features-missing] no searchable_features block
+season-28/s28e08-deep-forest-falls.md: [features-missing] no searchable_features block
+season-28/s28e09-winters-grace.md: [features-missing] no searchable_features block
+season-28/s28e10-splendor-of-autumn.md: [features-missing] no searchable_features block
+season-28/s28e11-tranquil-seas.md: [features-missing] no searchable_features block
+season-28/s28e12-mountain-serenity.md: [features-missing] no searchable_features block
+season-28/s28e13-home-before-nightfall.md: [features-missing] no searchable_features block
+season-29/s29e01-island-in-the-wilderness.md: [features-missing] no searchable_features block
+season-29/s29e02-autumn-oval.md: [features-missing] no searchable_features block
+season-29/s29e03-seasonal-progression.md: [mask-unstated] tags include Contact Paper but the prose has no mask vocabulary
+season-29/s29e03-seasonal-progression.md: [features-missing] no searchable_features block
+season-29/s29e04-light-at-the-summit.md: [features-missing] no searchable_features block
+season-29/s29e05-countryside-barn.md: [features-missing] no searchable_features block
+season-29/s29e06-mountain-lake-falls.md: [features-missing] no searchable_features block
+season-29/s29e07-cypress-creek.md: [features-missing] no searchable_features block
+season-29/s29e08-trappers-cabin.md: [features-missing] no searchable_features block
+season-29/s29e09-storm-on-the-horizon.md: [features-missing] no searchable_features block
+season-29/s29e10-pot-o-posies.md: [features-missing] no searchable_features block
+season-29/s29e11-a-perfect-winter-day.md: [features-missing] no searchable_features block
+season-29/s29e12-auroras-dance.md: [clear-unstated] Liquid_Clear = 1 but Liquid Clear is never mentioned
+season-29/s29e12-auroras-dance.md: [features-missing] no searchable_features block
+season-29/s29e13-woodmans-retreat.md: [features-missing] no searchable_features block
+season-30/s30e01-babbling-brook.md: [features-missing] no searchable_features block
+season-30/s30e03-winters-peace.md: [features-missing] no searchable_features block
+season-30/s30e04-wilderness-trail.md: [features-missing] no searchable_features block
+season-30/s30e05-a-copper-winter.md: [clear-unstated] Liquid_Clear = 1 but Liquid Clear is never mentioned
+season-30/s30e05-a-copper-winter.md: [features-missing] no searchable_features block
+season-30/s30e06-misty-foothills.md: [features-missing] no searchable_features block
+season-30/s30e07-through-the-window.md: [features-missing] no searchable_features block
+season-30/s30e08-home-in-the-valley.md: [features-missing] no searchable_features block
+season-30/s30e09-mountains-of-grace.md: [features-missing] no searchable_features block
+season-30/s30e10-seaside-harmony.md: [features-missing] no searchable_features block
+season-30/s30e11-a-cold-spring-day.md: [features-missing] no searchable_features block
+season-30/s30e12-evenings-glow.md: [features-missing] no searchable_features block
+season-30/s30e13-blue-ridge-falls.md: [features-missing] no searchable_features block
+season-31/s31e01-reflections-of-calm.md: [features-missing] no searchable_features block
+season-31/s31e02-before-the-snowfall.md: [features-missing] no searchable_features block
+season-31/s31e03-winding-stream.md: [features-missing] no searchable_features block
+season-31/s31e04-tranquility-cove.md: [features-missing] no searchable_features block
+403 entries checked, 397 failing
+   371  features-missing
+    25  features-empty
+    23  ground-contradiction
+    11  clear-unstated
+     7  mask-unstated
+     2  ground-unstated
+
+season-31/s31e05-cabin-in-the-hollow.md: [features-missing] no searchable_features block
+season-31/s31e06-view-from-clear-creek.md: [features-missing] no searchable_features block
+season-31/s31e07-bridge-to-autumn.md: [features-missing] no searchable_features block
+season-31/s31e08-trails-end.md: [features-missing] no searchable_features block
+season-31/s31e09-evergreen-valley.md: [features-missing] no searchable_features block
+season-31/s31e10-balmy-beach.md: [ground-contradiction] CSV ground is Black Gesso but the prose asserts a Liquid White base: ...t used
+- **Grey gesso**: Not used
+- **Contact paper**: Not used
+- **Textured gesso**: Not used
+
+A traditional Liquid Whi...
+season-31/s31e10-balmy-beach.md: [features-missing] no searchable_features block
+season-31/s31e11-lake-at-the-ridge.md: [features-missing] no searchable_features block
+season-31/s31e12-in-the-midst-of-winter.md: [features-missing] no searchable_features block
+season-31/s31e13-wilderness-day.md: [features-missing] no searchable_features block

@@ -86,14 +86,14 @@ Signature technique: **Radiant sunset glow with crisp silhouette contrast** on o
 
 ## 8. Initial Canvas Treatment
 
-- **Oval canvas format**: Pre-shaped or masked oval composition
-- **Dark base tones**: Initial dark application for silhouette areas
-- **Liquid White or Liquid Clear**: Applied to sky area for smooth blending
-- **Strategic layering**: Dark foundation with luminous overlay
-- **No contact paper masking**: Organic edge work
-- **Gradated preparation**: Possible pre-blending of warm tones
+- **Black gesso** brushed over the canvas and allowed to **dry completely** before any oil is applied. This is a dry acrylic ground, not a wet one: the oils above it cannot be pulled back into it, and every light value in the painting has to be added rather than lifted.
+- No Liquid Clear and no Liquid White base — the oils are carried thin directly over the ground.
+- **Contact paper** cut to shape and applied as a mask, so the area it covers stays clean while the surround is painted, and is lifted before that area is worked.
 
-A dramatic oval-format foundation emphasizing the interplay between radiant light and deep shadows, designed to showcase the luminous sunset against dark framing elements.
+The black ground carries the value structure of the whole painting. Read the light in this entry as light recovered from darkness, not as shadow laid over white.
+
+> Section 8 is template-filled from the CSV one-hot columns (`scripts/fix_ground.py`), not generated from the image.
+> The text it replaced named the wrong ground for this episode. See `artifacts/ground_fixed.csv` for what it said.
 
 ---
 
@@ -111,6 +111,13 @@ episode:
   title: "Final Embers of Sunlight"
   year: 1989
   painting_index: 46
+
+canvas_preparation:
+  ground: "Black Gesso"
+  secondary_tone: null
+  liquid_clear: false
+  liquid_white: false
+  contact_paper: true
 
 colors:
   - Alizarin Crimson

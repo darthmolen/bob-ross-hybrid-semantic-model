@@ -43,3 +43,46 @@ The water displays minimal motion — virtually still with gentle reflections mi
 
 ## 8. Initial Canvas Treatment
 The canvas began with a wet coating using liquid white or a thin layer of magic white medium, allowing for the wet-on-wet blending technique. The sky was established first with broad horizontal strokes of lavender, purple, and pink, blended while wet to create soft atmospheric transitions. Golden-yellow highlights were added to suggest the warm glow of sunset penetrating the cloud layer. This foundation created the luminous backdrop against which all other elements would be built. **The wet sky foundation establishes the painting's ethereal, transitional atmosphere from the first stroke**.
+
+---
+
+## Metadata
+
+```yaml
+tags:
+  lighting_type: "Diffused Sunset Glow with Atmospheric Mist"
+
+searchable_features:
+  # TODO — write from the painting: shape, colour and position, plus lay
+  # synonyms. See TEMPLATE.md. Not generated, because a regex over the prose
+  # reproduces the prose's vocabulary, which is the thing that fails at retrieval.
+
+episode:
+  season: 7
+  episode: 2
+  title: "Secluded Lake"
+  year: 1986
+  painting_index: 204
+  youtube_url: "https://www.youtube.com/embed/2OxSJcFvpoU"
+
+canvas_preparation:
+  ground: "Liquid White"
+  secondary_tone: null
+  liquid_clear: false
+  liquid_white: true
+  contact_paper: false
+
+colors:
+  - Alizarin Crimson
+  - Bright Red
+  - Cadmium Yellow
+  - Dark Sienna
+  - Indian Yellow
+  - Midnight Black
+  - Phthalo Blue
+  - Phthalo Green
+  - Sap Green
+  - Titanium White
+  - Van Dyke Brown
+  - Yellow Ochre
+```

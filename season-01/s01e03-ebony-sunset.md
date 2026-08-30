@@ -105,6 +105,13 @@ episode:
   year: 1983
   painting_index: 284
 
+canvas_preparation:
+  ground: "Black Gesso"
+  secondary_tone: null
+  liquid_clear: false
+  liquid_white: false
+  contact_paper: false
+
 colors:
   - Alizarin Crimson
   - Bright Red

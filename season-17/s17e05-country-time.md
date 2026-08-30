@@ -32,6 +32,8 @@ Bob Ross's masterful wet-on-wet technique is fully displayed in this pastoral sc
 
 The foundation of this painting's luminous quality lies in a **Liquid White** base, applied evenly across the entire canvas. This wet surface allows for the seamless blending that characterizes the misty atmosphere and the soft transitions between sky and foliage. The Liquid White creates the perfect medium for the wet-on-wet technique, enabling the water's reflective surface to be achieved with smooth, unbroken horizontal strokes. It also allows the tree foliage to blend softly into the background, creating atmospheric depth. In the water area, the Liquid White may have been applied more generously to facilitate the mirror-like reflections and the glassy surface effect. This initial treatment sets the stage for all subsequent layers, ensuring that colors remain moveable and blendable throughout the painting process, resulting in the soft, cohesive atmosphere that makes this countryside scene so inviting and peaceful.
 
+- **Liquid Clear** over the ground, giving a wet, transparent working surface without lightening it.
+
 ---
 
 ```yaml
@@ -49,6 +51,13 @@ episode:
   year: 1989
   painting_index: 75
 
+canvas_preparation:
+  ground: "Liquid White"
+  secondary_tone: null
+  liquid_clear: true
+  liquid_white: true
+  contact_paper: true
+
 colors:
   - Alizarin Crimson
   - Cadmium Yellow
@@ -59,5 +68,4 @@ colors:
   - Titanium White
   - Van Dyke Brown
   - Yellow Ochre
-  - Liquid White
 ```

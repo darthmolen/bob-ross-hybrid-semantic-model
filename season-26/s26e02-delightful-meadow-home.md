@@ -87,15 +87,19 @@ episode:
   year: 1992
   painting_index: 335
 
+canvas_preparation:
+  ground: "Liquid White"
+  secondary_tone: null
+  liquid_clear: false
+  liquid_white: true
+  contact_paper: false
+
 colors:
   - Alizarin Crimson
   - Cadmium Yellow
-  - Dark Sienna
   - Midnight Black
-  - Phthalo Green
   - Prussian Blue
   - Sap Green
   - Titanium White
-  - Van Dyke Brown
   - Yellow Ochre
 ```

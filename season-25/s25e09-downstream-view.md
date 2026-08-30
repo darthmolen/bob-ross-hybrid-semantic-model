@@ -67,14 +67,14 @@ Signature technique: **bold palette knife rapids** creating dramatic white water
 
 ## 8. Initial Canvas Treatment
 
-- **Liquid White**: Applied across the entire canvas for smooth blending and wet-on-wet technique
+- **Black gesso**: Applied across the entire canvas and dried; the wet-on-wet work happens in the oil above it
 - **Liquid Clear**: Not used
 - **Black gesso**: Not used; painting built on bright foundation
 - **Grey gesso**: Not used
 - **Contact paper**: Not used
 - **Textured gesso**: Not used
 
-A traditional Liquid White foundation supporting bright, vibrant colors and seamless blending throughout the composition.
+A dry black gesso foundation. The bright colours read as vivid because they are the only light on an otherwise black canvas.
 
 ```yaml
 tags:
@@ -90,6 +90,13 @@ episode:
   title: "Downstream View"
   year: 1992
   painting_index: 329
+
+canvas_preparation:
+  ground: "Black Gesso"
+  secondary_tone: null
+  liquid_clear: false
+  liquid_white: false
+  contact_paper: false
 
 colors:
   - Alizarin Crimson

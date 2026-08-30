@@ -43,3 +43,48 @@ Signature technique: **Vertical knife-pulled waterfall with impasto foam buildup
 
 ## 8. Initial Canvas Treatment
 The canvas was prepared with a **Liquid White or Liquid Clear foundation** to enable wet-on-wet technique throughout the painting process. The sky was likely established first with Phthalo Blue and Titanium White, working around cloud formations and creating the bright background. The dark rocky structure was then blocked in using Prussian Blue, Ivory Black, and Van Dyke Brown, establishing the waterfall's channel and the composition's dramatic value structure before any lighter elements were added. This dark foundation was essential for creating the high contrast that makes the white water so luminous and dramatic. The initial treatment created a framework of light sky and dark rocks that would support all subsequent layers.
+
+---
+
+## Metadata
+
+```yaml
+tags:
+  palette_identity: "High-contrast naturalism with dramatic light-dark interplay"
+  depth_style: "Symmetrical frame composition with strong vertical emphasis and tunnel effect"
+  lighting_type: "Direct midday sunlight with atmospheric mist diffusion"
+  motion_profile: "Powerful vertical cascade with symmetrical framing and mist dynamics"
+
+searchable_features:
+  # TODO — write from the painting: shape, colour and position, plus lay
+  # synonyms. See TEMPLATE.md. Not generated, because a regex over the prose
+  # reproduces the prose's vocabulary, which is the thing that fails at retrieval.
+
+episode:
+  season: 7
+  episode: 6
+  title: "Misty Waterfall"
+  year: 1986
+  painting_index: 209
+  youtube_url: "https://www.youtube.com/embed/530_cVmexiI"
+
+canvas_preparation:
+  ground: "Liquid White"
+  secondary_tone: null
+  liquid_clear: false
+  liquid_white: true
+  contact_paper: false
+
+colors:
+  - Alizarin Crimson
+  - Bright Red
+  - Dark Sienna
+  - Indian Yellow
+  - Midnight Black
+  - Phthalo Blue
+  - Phthalo Green
+  - Sap Green
+  - Titanium White
+  - Van Dyke Brown
+  - Yellow Ochre
+```

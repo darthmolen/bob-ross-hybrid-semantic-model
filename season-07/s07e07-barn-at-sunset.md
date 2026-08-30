@@ -35,3 +35,47 @@ Signature technique: **Palette knife barn structure against wet-blended dramatic
 The canvas likely began with a graduated wet base coat, establishing darker blue values at the top transitioning to lighter blue in the middle zones. The sunset area received initial applications of yellow and orange while still wet, creating the foundation for the dramatic backlit effect. This pre-blended atmospheric base allowed the warm colors to glow naturally through subsequent cloud work. The lower canvas may have received light blue-white toning to prepare for snow shadows.
 
 Foundation: **Graduated blue sky with warm sunset zone established wet-on-wet for maximum luminosity and atmospheric depth**
+
+---
+
+## Metadata
+
+```yaml
+tags:
+  palette_identity: "Warm sunset radiance against cool winter chromatics with high value contrast"
+  depth_style: "Pronounced three-plane layering with atmospheric perspective enhanced by value contrast"
+  lighting_type: "Dramatic backlit sunset illumination with cool shadow contrast"
+  motion_profile: "Radiating sunset energy with vertical tree anchors and diagonal shadow flow"
+
+searchable_features:
+  # TODO — write from the painting: shape, colour and position, plus lay
+  # synonyms. See TEMPLATE.md. Not generated, because a regex over the prose
+  # reproduces the prose's vocabulary, which is the thing that fails at retrieval.
+
+episode:
+  season: 7
+  episode: 7
+  title: "Barn at Sunset"
+  year: 1986
+  painting_index: 210
+  youtube_url: "https://www.youtube.com/embed/WT6n0K2zGnA"
+
+canvas_preparation:
+  ground: "Liquid White"
+  secondary_tone: null
+  liquid_clear: false
+  liquid_white: true
+  contact_paper: false
+
+colors:
+  - Alizarin Crimson
+  - Bright Red
+  - Cadmium Yellow
+  - Dark Sienna
+  - Indian Yellow
+  - Midnight Black
+  - Phthalo Blue
+  - Titanium White
+  - Van Dyke Brown
+  - Yellow Ochre
+```

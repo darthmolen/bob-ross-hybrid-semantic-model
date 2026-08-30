@@ -84,11 +84,16 @@ episode:
   year: 1984
   painting_index: 257
 
+canvas_preparation:
+  ground: "Black Gesso"
+  secondary_tone: null
+  liquid_clear: false
+  liquid_white: false
+  contact_paper: false
+
 colors:
   - Prussian Blue
-  - Ultramarine Blue
   - Phthalo Blue
-  - Midnight Black
   - Titanium White
   - Cadmium Yellow
 ```

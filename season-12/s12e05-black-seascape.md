@@ -86,11 +86,16 @@ episode:
   year: 1990
   painting_index: 141
 
+canvas_preparation:
+  ground: "Black Gesso"
+  secondary_tone: null
+  liquid_clear: false
+  liquid_white: false
+  contact_paper: false
+
 colors:
   - Midnight Black
   - Phthalo Blue
-  - Prussian Blue
   - Titanium White
   - Van Dyke Brown
-  - Liquid Black
 ```

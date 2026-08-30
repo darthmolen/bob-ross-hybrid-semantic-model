@@ -82,12 +82,16 @@ Signature technique: **Ethereal backlight glow with atmospheric diffusion**
 "Deep within the forest's embrace lies a sanctuary known only to those who wander far from beaten paths. Here, where ancient trees stand as silent guardians, sunlight performs its daily miracle — breaking through the dense canopy to bless this hidden pool with golden-pink radiance. The gentle stream, worn smooth by countless seasons, whispers its eternal song as it flows past time-weathered stones. This is nature's cathedral, a place of profound peace where the soul can rest and remember what truly matters."
 
 ## 8. Initial Canvas Treatment
-- Liquid White or Liquid Clear base enabling wet-on-wet blending throughout
-- Possible pre-darkening in peripheral areas to establish deep shadow foundation
-- Smooth even application allowing for both dark values and luminous highlights
-- Base prepared for atmospheric effects and light diffusion in center area
 
-Applied Liquid White/Clear base with strategic dark underpainting for dimensional contrast and glowing light effects.
+- **Black gesso** brushed over the canvas and allowed to **dry completely** before any oil is applied. This is a dry acrylic ground, not a wet one: the oils above it cannot be pulled back into it, and every light value in the painting has to be added rather than lifted.
+- No Liquid Clear and no Liquid White base — the oils are carried thin directly over the ground.
+- No contact paper and no masking.
+- **Secondary tone:** this episode carries the `Underpainting` tag, so a transparent colour was laid over the ground before painting began. Its value is in no dataset — Bob names it aloud in the opening minute and it is invisible in the finished painting. Not yet recovered for this episode; see `canvas_preparation.secondary_tone` below.
+
+The black ground carries the value structure of the whole painting. Read the light in this entry as light recovered from darkness, not as shadow laid over white.
+
+> Section 8 is template-filled from the CSV one-hot columns (`scripts/fix_ground.py`), not generated from the image.
+> The text it replaced named the wrong ground for this episode. See `artifacts/ground_fixed.csv` for what it said.
 
 ---
 
@@ -106,8 +110,14 @@ episode:
   year: 1988
   painting_index: 109
 
+canvas_preparation:
+  ground: "Black Gesso"
+  secondary_tone: null
+  liquid_clear: false
+  liquid_white: false
+  contact_paper: false
+
 colors:
-  - Phthalo Green
   - Sap Green
   - Midnight Black
   - Prussian Blue

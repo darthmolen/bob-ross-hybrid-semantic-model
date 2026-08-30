@@ -63,6 +63,7 @@ Signature technique: **Dot-work Florals Against Dramatic Dark Silhouettes**
 - Likely began with a thin coat of Liquid White to enable wet-on-wet blending
 - Background may have been pre-toned with soft blues and earth tones before the main elements were added
 - The thin initial layer allowed for smooth atmospheric blending and soft transitions in the distant landscape
+- **Liquid Clear** over the ground, giving a wet, transparent working surface without lightening it.
 
 The canvas was prepared with a standard wet surface to support the soft atmospheric effects and enable seamless blending of the misty background.
 
@@ -83,6 +84,13 @@ episode:
   year: 1987
   painting_index: 152
 
+canvas_preparation:
+  ground: "Liquid White"
+  secondary_tone: null
+  liquid_clear: true
+  liquid_white: true
+  contact_paper: false
+
 colors:
   - Midnight Black
   - Titanium White
@@ -90,6 +98,5 @@ colors:
   - Yellow Ochre
   - Dark Sienna
   - Van Dyke Brown
-  - Prussian Blue
   - Sap Green
 ```

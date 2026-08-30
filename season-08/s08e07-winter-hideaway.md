@@ -69,3 +69,47 @@ Signature technique: **Luminous atmospheric blending with transitional color har
 - Minimal dark foundation, emphasizing brightness and atmospheric quality
 
 The canvas preparation emphasizes luminosity and warmth, establishing the transitional seasonal atmosphere from the start.
+
+---
+
+## Metadata
+
+```yaml
+tags:
+  palette_identity: "Warm winter glow with autumn remnants"
+  depth_style: "Soft atmospheric recession"
+  lighting_type: "Diffused golden glow"
+  motion_profile: "Guided pathway with ambient stillness"
+
+searchable_features:
+  # TODO — write from the painting: shape, colour and position, plus lay
+  # synonyms. See TEMPLATE.md. Not generated, because a regex over the prose
+  # reproduces the prose's vocabulary, which is the thing that fails at retrieval.
+
+episode:
+  season: 8
+  episode: 7
+  title: "Winter Hideaway"
+  year: 1986
+  painting_index: 196
+  youtube_url: "https://www.youtube.com/embed/19oz9XHZNzA"
+
+canvas_preparation:
+  ground: "Liquid White"
+  secondary_tone: null
+  liquid_clear: false
+  liquid_white: true
+  contact_paper: false
+
+colors:
+  - Alizarin Crimson
+  - Bright Red
+  - Cadmium Yellow
+  - Dark Sienna
+  - Indian Yellow
+  - Midnight Black
+  - Phthalo Blue
+  - Titanium White
+  - Van Dyke Brown
+  - Yellow Ochre
+```

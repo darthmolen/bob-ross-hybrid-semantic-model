@@ -72,6 +72,13 @@ episode:
   year: 1990
   painting_index: 23
 
+canvas_preparation:
+  ground: "Black Gesso"
+  secondary_tone: null
+  liquid_clear: true
+  liquid_white: false
+  contact_paper: false
+
 colors:
   - Alizarin Crimson
   - Black Gesso

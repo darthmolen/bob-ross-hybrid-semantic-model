@@ -19,7 +19,7 @@
 - Yellow Ochre for warm meadow mid-tones
 - Phthalo Blue for cool sky mixtures and atmospheric depth
 - Van Dyke Brown for tree trunks and shadow accents
-- Liquid White or Liquid Clear for the wet canvas base allowing seamless blending
+- Dry black gesso ground; blending done in thin oil over it, with no wet white base
 
 Palette identity: **Luminous Contrast — Lime Meadow Against Violet Mist**
 
@@ -69,13 +69,15 @@ Signature technique: **Oval Vignette with Dramatic Foreground-to-Background Valu
 "A secret pathway reveals itself through an enchanted forest, glimpsed as if through a magical portal. The vibrant meadow beckons you forward, while dark sentinel trees stand watch on either side, guarding the passage to a mysterious realm bathed in pink twilight. This is a threshold moment—the bright, known world meeting the soft uncertainty of what lies beyond. The oval frame suggests we're witnessing something private and precious, a hidden sanctuary where reality blends with dream."
 
 ## 8. Initial Canvas Treatment
-- Canvas prepared with Liquid White or Liquid Clear to enable wet-on-wet blending
-- Oval shape likely masked or carefully painted around to create the vignette effect
-- The wet base allows for the seamless gradations in the background sky
-- Initial dark values may have been established early to anchor the composition
-- The wet surface facilitates the smooth transitions between the purple sky and dark forest
 
-Base treatment supports the soft atmospheric blending and dramatic value contrasts essential to this composition.
+- **Black gesso** brushed over the canvas and allowed to **dry completely** before any oil is applied. This is a dry acrylic ground, not a wet one: the oils above it cannot be pulled back into it, and every light value in the painting has to be added rather than lifted.
+- No Liquid Clear and no Liquid White base — the oils are carried thin directly over the ground.
+- **Contact paper** cut to shape and applied as a mask, so the area it covers stays clean while the surround is painted, and is lifted before that area is worked.
+
+The black ground carries the value structure of the whole painting. Read the light in this entry as light recovered from darkness, not as shadow laid over white.
+
+> Section 8 is template-filled from the CSV one-hot columns (`scripts/fix_ground.py`), not generated from the image.
+> The text it replaced named the wrong ground for this episode. See `artifacts/ground_fixed.csv` for what it said.
 
 ---
 
@@ -94,9 +96,15 @@ episode:
   year: 1988
   painting_index: 107
 
+canvas_preparation:
+  ground: "Black Gesso"
+  secondary_tone: null
+  liquid_clear: false
+  liquid_white: false
+  contact_paper: true
+
 colors:
   - Midnight Black
-  - Prussian Blue
   - Alizarin Crimson
   - Titanium White
   - Sap Green

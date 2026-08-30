@@ -62,11 +62,14 @@ Signature technique: **palette knife birch trees against moody wet-on-wet founda
 "In the hush before the storm, the river holds its ancient peace. The birch trees stand as pale sentinels, their weathered forms bearing witness to countless seasons of change while the dark waters flow eternal beneath gathering clouds. Here, in this threshold moment between autumn's fade and winter's approach, solitude becomes sanctuary, and the quiet strength of nature's cycles offers its own profound comfort."
 
 ## 8. Initial Canvas Treatment
-- Dark base coat covering entire canvas in Midnight Black and Prussian Blue blend
-- Thinned with liquid medium for smooth, even application
-- Creates dramatic foundation that shows through final composition
-- Establishes moody value structure from the start
-The dark foundation provides the stormy, contemplative atmosphere that defines the entire painting's emotional character.
+
+- **Black gesso** brushed over the canvas and allowed to **dry completely** before any oil is applied. This is a dry acrylic ground, not a wet one: the oils above it cannot be pulled back into it, and every light value in the painting has to be added rather than lifted.
+- No Liquid Clear and no Liquid White base — the oils are carried thin directly over the ground.
+- No contact paper and no masking.
+
+The black ground carries the value structure of the whole painting. Read the light in this entry as light recovered from darkness, not as shadow laid over white.
+
+> Section 8 is template-filled from the CSV one-hot columns (`scripts/fix_ground.py`), not generated from the image.
 
 ---
 
@@ -85,6 +88,13 @@ episode:
   year: 1992
   painting_index: 300
 
+canvas_preparation:
+  ground: "Black Gesso"
+  secondary_tone: null
+  liquid_clear: false
+  liquid_white: false
+  contact_paper: false
+
 colors:
   - Midnight Black
   - Prussian Blue
@@ -94,7 +104,6 @@ colors:
   - Alizarin Crimson
   - Titanium White
   - Sap Green
-  - Phthalo Green
   - Van Dyke Brown
   - Yellow Ochre
 ```

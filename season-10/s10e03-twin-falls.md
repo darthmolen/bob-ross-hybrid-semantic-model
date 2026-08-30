@@ -59,6 +59,8 @@ Signature technique: **Knife-struck dark rocks against fan-brushed foliage, with
 The canvas was treated with **Liquid White**, applied in a thin, even coat across the entire surface. This foundation is essential for the wet-on-wet technique, enabling the soft blending visible in the sky's lavenders and blues, and providing luminosity beneath the water surfaces. The Liquid White allows for the smooth atmospheric transitions in the background hills and creates the glowing quality in the rainbow. The darker foreground elements were likely applied with less Liquid White or on areas where it was partially removed, allowing for deeper, more opaque darks in the silhouetted rocks and tree. **Foundation: Traditional Liquid White base enabling both soft atmospheric blending and contrasting dark silhouettes.**
 
 ---
+
+```yaml
 tags:
   composition_archetype: "Vertical cascade gateway leading into horizontal valley vista"
   palette_identity: "Dramatic silhouette contrasts transitioning to pastoral luminosity"
@@ -72,6 +74,13 @@ episode:
   title: "Twin Falls"
   year: 1988
   painting_index: 165
+
+canvas_preparation:
+  ground: "Liquid White"
+  secondary_tone: null
+  liquid_clear: false
+  liquid_white: true
+  contact_paper: false
 
 colors:
   - Prussian Blue

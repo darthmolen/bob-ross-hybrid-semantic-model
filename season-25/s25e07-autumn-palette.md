@@ -91,6 +91,13 @@ episode:
   year: 1992
   painting_index: 327
 
+canvas_preparation:
+  ground: "Black Gesso"
+  secondary_tone: null
+  liquid_clear: true
+  liquid_white: false
+  contact_paper: false
+
 colors:
   - Alizarin Crimson
   - Bright Red

@@ -106,15 +106,19 @@ episode:
   year: 1993
   painting_index: 354
 
+canvas_preparation:
+  ground: "Liquid White"
+  secondary_tone: null
+  liquid_clear: false
+  liquid_white: true
+  contact_paper: false
+
 colors:
   - Alizarin Crimson
   - Cadmium Yellow
   - Dark Sienna
-  - Indian Yellow
   - Midnight Black
-  - Phthalo Blue
   - Prussian Blue
   - Titanium White
   - Van Dyke Brown
-  - Yellow Ochre
 ```

@@ -53,7 +53,7 @@ Motion profile: **centered depth pull with atmospheric ascension**
 
 ## 6. Technique
 
-- Liquid White base for bright blending
+- Dry black gesso ground; the bright passages are built up over it, not blended out of white
 - Fan brush for varied foliage textures
 - Palette knife for birch tree trunks and highlights
 - Vertical stroke highlights on tree bark
@@ -70,13 +70,14 @@ Signature technique: **bright atmospheric blending with luminous depth fade**
 
 ## 8. Initial Canvas Treatment
 
-- Liquid White base for smooth wet surface
-- Even coverage for bright blending
-- No dark underpainting
-- No contact paper masking
-- No gesso texture
+- **Black gesso** brushed over the canvas and allowed to **dry completely** before any oil is applied. This is a dry acrylic ground, not a wet one: the oils above it cannot be pulled back into it, and every light value in the painting has to be added rather than lifted.
+- No Liquid Clear and no Liquid White base — the oils are carried thin directly over the ground.
+- No contact paper and no masking.
 
-A bright foundational approach emphasizing luminosity and atmospheric depth through wet-on-wet blending.
+The black ground carries the value structure of the whole painting. Read the light in this entry as light recovered from darkness, not as shadow laid over white.
+
+> Section 8 is template-filled from the CSV one-hot columns (`scripts/fix_ground.py`), not generated from the image.
+> The text it replaced named the wrong ground for this episode. See `artifacts/ground_fixed.csv` for what it said.
 
 ---
 
@@ -96,6 +97,13 @@ episode:
   title: "Marshlands"
   year: 1986
   painting_index: 228
+
+canvas_preparation:
+  ground: "Black Gesso"
+  secondary_tone: null
+  liquid_clear: false
+  liquid_white: false
+  contact_paper: false
 
 colors:
   - Sap Green

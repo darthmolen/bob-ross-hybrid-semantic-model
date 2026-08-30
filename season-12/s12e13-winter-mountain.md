@@ -87,6 +87,13 @@ episode:
   year: 1990
   painting_index: 149
 
+canvas_preparation:
+  ground: "Liquid White"
+  secondary_tone: null
+  liquid_clear: false
+  liquid_white: true
+  contact_paper: false
+
 colors:
   - Titanium White
   - Phthalo Blue
@@ -94,6 +101,4 @@ colors:
   - Alizarin Crimson
   - Midnight Black
   - Van Dyke Brown
-  - Phthalo Green
-  - Liquid White
 ```

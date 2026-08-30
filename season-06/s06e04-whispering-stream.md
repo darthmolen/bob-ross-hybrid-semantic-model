@@ -95,12 +95,18 @@ episode:
   year: 1986
   painting_index: 220
 
+canvas_preparation:
+  ground: "Liquid White"
+  secondary_tone: null
+  liquid_clear: false
+  liquid_white: true
+  contact_paper: false
+
 colors:
   - Cadmium Yellow
   - Indian Yellow
   - Sap Green
   - Van Dyke Brown
-  - Dark Sienna
   - Titanium White
   - Prussian Blue
   - Yellow Ochre

@@ -46,15 +46,20 @@ episode:
   year: 1994
   painting_index: 388
 
+canvas_preparation:
+  ground: "Liquid White"
+  secondary_tone: null
+  liquid_clear: false
+  liquid_white: true
+  contact_paper: false
+
 colors:
   - Titanium White
   - Prussian Blue
   - Phthalo Blue
   - Alizarin Crimson
   - Indian Yellow
-  - Cadmium Yellow
   - Midnight Black
   - Van Dyke Brown
   - Dark Sienna
-  - Sap Green
 ```

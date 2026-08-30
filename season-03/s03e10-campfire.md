@@ -86,11 +86,16 @@ episode:
   year: 1984
   painting_index: 265
 
+canvas_preparation:
+  ground: "Black Gesso"
+  secondary_tone: null
+  liquid_clear: false
+  liquid_white: false
+  contact_paper: false
+
 colors:
   - Cadmium Yellow
   - Bright Red
-  - Burnt Sienna
-  - Midnight Black
   - Van Dyke Brown
   - Yellow Ochre
   - Alizarin Crimson

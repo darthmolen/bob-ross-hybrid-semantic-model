@@ -59,7 +59,7 @@ Depth style: **atmospheric perspective with mist gradient recession**
 - Palette knife defines birch bark texture with vertical highlight strokes
 - Wet-on-wet blending generates seamless atmospheric mist transitions
 - Liner brush renders fine branch details emerging from golden clusters
-- Liquid White/Clear base enables smooth sky-to-mist gradient
+- Thin transparent colour over the dry black gesso ground carries the sky-to-mist gradient
 - Reflections achieved through inverted vertical pulls with minimal blending
 Signature technique: **atmospheric mist layering with foliage contrast**
 
@@ -71,11 +71,15 @@ Signature technique: **atmospheric mist layering with foliage contrast**
 ---
 
 ## 8. Initial Canvas Treatment
-- Liquid White applied across entire canvas for wet-on-wet foundation
-- Possible Liquid Clear in sky region to maintain blue intensity
-- Even coating allows smooth color blending and atmospheric gradations
-- Base layer enables both sharp highlights and soft atmospheric transitions
-Canvas prepared with full liquid white foundation supporting atmospheric depth and reflective water techniques.
+
+- **Black gesso** brushed over the canvas and allowed to **dry completely** before any oil is applied. This is a dry acrylic ground, not a wet one: the oils above it cannot be pulled back into it, and every light value in the painting has to be added rather than lifted.
+- No Liquid Clear and no Liquid White base — the oils are carried thin directly over the ground.
+- No contact paper and no masking.
+
+The black ground carries the value structure of the whole painting. Read the light in this entry as light recovered from darkness, not as shadow laid over white.
+
+> Section 8 is template-filled from the CSV one-hot columns (`scripts/fix_ground.py`), not generated from the image.
+> The text it replaced named the wrong ground for this episode. See `artifacts/ground_fixed.csv` for what it said.
 
 ---
 
@@ -96,16 +100,19 @@ episode:
   year: 1985
   painting_index: 254
 
+canvas_preparation:
+  ground: "Black Gesso"
+  secondary_tone: null
+  liquid_clear: false
+  liquid_white: false
+  contact_paper: false
+
 colors:
   - Prussian Blue
   - Phthalo Blue
-  - Bright Yellow
   - Indian Yellow
   - Van Dyke Brown
-  - Dark Sienna
   - Sap Green
   - Yellow Ochre
   - Titanium White
-  - Burnt Sienna
-  - Cadmium Orange
 ```

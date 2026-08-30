@@ -95,6 +95,13 @@ episode:
   year: 1986
   painting_index: 229
 
+canvas_preparation:
+  ground: "Liquid White"
+  secondary_tone: null
+  liquid_clear: false
+  liquid_white: true
+  contact_paper: false
+
 colors:
   - Alizarin Crimson
   - Bright Red
@@ -103,8 +110,6 @@ colors:
   - Sap Green
   - Phthalo Green
   - Phthalo Blue
-  - Prussian Blue
   - Titanium White
   - Van Dyke Brown
-  - Dark Sienna
 ```

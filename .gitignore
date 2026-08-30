@@ -1,0 +1,4 @@
+# working data for scripts/ — regenerable, not part of the index
+.cache/
+.transcript_cache/
+prep_review*.csv

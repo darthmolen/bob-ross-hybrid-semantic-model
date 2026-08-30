@@ -85,6 +85,13 @@ episode:
   year: 1992
   painting_index: 303
 
+canvas_preparation:
+  ground: "Liquid White"
+  secondary_tone: null
+  liquid_clear: false
+  liquid_white: true
+  contact_paper: true
+
 colors:
   - Prussian Blue
   - Phthalo Blue

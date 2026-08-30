@@ -107,6 +107,13 @@ episode:
   year: 1983
   painting_index: 294
 
+canvas_preparation:
+  ground: "Liquid White"
+  secondary_tone: null
+  liquid_clear: false
+  liquid_white: true
+  contact_paper: false
+
 colors:
   - Cadmium Yellow
   - Alizarin Crimson

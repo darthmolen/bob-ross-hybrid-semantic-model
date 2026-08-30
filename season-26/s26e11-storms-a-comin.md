@@ -66,7 +66,14 @@ Signature technique: **Violent palette knife impasto for explosive wave foam**
 "A massive storm descends upon a rocky coastline where the ocean rises up in defiant fury. The wave crashes against ancient stones in one final brilliant explosion of white foam before the darkness consumes all. This is nature's warning—a spectacular display of power in the moments before the tempest's full violence is unleashed upon the shore."
 
 ## 8. Initial Canvas Treatment
-The canvas was prepared with a dark base coat, likely Liquid Black or a very dark blue mixture, establishing the moody, dramatic foundation essential for this storm scene. The oval format suggests either a pre-made oval canvas or a carefully masked circular composition on a rectangular surface. This dark underpainting allows the explosive whites and bright highlights to achieve maximum dramatic impact, creating the violent contrasts that define the painting's tempestuous character.
+
+- **Black gesso** brushed over the canvas and allowed to **dry completely** before any oil is applied. This is a dry acrylic ground, not a wet one: the oils above it cannot be pulled back into it, and every light value in the painting has to be added rather than lifted.
+- No Liquid Clear and no Liquid White base — the oils are carried thin directly over the ground.
+- **Contact paper** cut to shape and applied as a mask, so the area it covers stays clean while the surround is painted, and is lifted before that area is worked.
+
+The black ground carries the value structure of the whole painting. Read the light in this entry as light recovered from darkness, not as shadow laid over white.
+
+> Section 8 is template-filled from the CSV one-hot columns (`scripts/fix_ground.py`), not generated from the image.
 
 ---
 
@@ -85,8 +92,14 @@ episode:
   year: 1992
   painting_index: 344
 
+canvas_preparation:
+  ground: "Black Gesso"
+  secondary_tone: null
+  liquid_clear: false
+  liquid_white: false
+  contact_paper: true
+
 colors:
-  - Prussian Blue
   - Phthalo Blue
   - Phthalo Green
   - Midnight Black

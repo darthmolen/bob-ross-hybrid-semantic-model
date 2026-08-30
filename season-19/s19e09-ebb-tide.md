@@ -106,11 +106,16 @@ episode:
   year: 1989
   painting_index: 52
 
+canvas_preparation:
+  ground: "Liquid White"
+  secondary_tone: null
+  liquid_clear: true
+  liquid_white: true
+  contact_paper: true
+
 colors:
   - Alizarin Crimson
   - Cadmium Yellow
-  - Indian Yellow
   - Phthalo Blue
-  - Prussian Blue
   - Titanium White
 ```

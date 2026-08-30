@@ -77,13 +77,15 @@ Signature technique: **Oval Vignette Moonscape with Knife-Worked Mountain Drama*
 "In this hidden oval window to another world, a lone cabin keeper watches the winter moon rise over guardian mountains. The blue luminescence transforms the frozen valley into a crystalline cathedral, where silence is sacred and solitude becomes sanctuary. This is the secret place where earth meets sky in perfect stillness, where moonlight paints the world in shades of peace, and where a single warm cabin light defies the vastness with gentle courage."
 
 ## 8. Initial Canvas Treatment
-- Liquid Black or pre-toned dark blue base to establish the night sky foundation
-- Oval format pre-masked or carefully maintained throughout painting process
-- Base allows for smooth blending of blue sky tones
-- Dark foundation enables brilliant snow highlights to emerge with maximum contrast
-- Canvas treatment creates the mysterious depth essential for moonlit atmosphere
 
-Treatment created the perfect foundation for ethereal moonlit winter drama within an elegant oval portal.
+- **Black gesso** brushed over the canvas and allowed to **dry completely** before any oil is applied. This is a dry acrylic ground, not a wet one: the oils above it cannot be pulled back into it, and every light value in the painting has to be added rather than lifted.
+- No Liquid Clear and no Liquid White base — the oils are carried thin directly over the ground.
+- **Contact paper** cut to shape and applied as a mask, so the area it covers stays clean while the surround is painted, and is lifted before that area is worked.
+- **Secondary tone:** this episode carries the `Underpainting` tag, so a transparent colour was laid over the ground before painting began. Its value is in no dataset — Bob names it aloud in the opening minute and it is invisible in the finished painting. Not yet recovered for this episode; see `canvas_preparation.secondary_tone` below.
+
+The black ground carries the value structure of the whole painting. Read the light in this entry as light recovered from darkness, not as shadow laid over white.
+
+> Section 8 is template-filled from the CSV one-hot columns (`scripts/fix_ground.py`), not generated from the image.
 
 ---
 
@@ -101,6 +103,13 @@ episode:
   title: "Hidden Winter Moon Oval"
   year: 1988
   painting_index: 102
+
+canvas_preparation:
+  ground: "Black Gesso"
+  secondary_tone: null
+  liquid_clear: false
+  liquid_white: false
+  contact_paper: true
 
 colors:
   - Prussian Blue

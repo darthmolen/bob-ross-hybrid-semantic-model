@@ -16,7 +16,7 @@ This file documents the painting images used to generate the semantic entries fo
 | S13E10 | Mountain Summit | 133 | [github] painting133.png |
 | S13E11 | Cabin Hideaway | 134 | [github] painting134.png |
 | S13E12 | Oval Essence | 135 | [github] painting135.png |
-| S13E13 | Winter Mountain | 136 | [github] painting136.png |
+| S13E13 | Lost Lake | 136 | [github] painting136.png |
 
 ## Source URLs
 

@@ -34,7 +34,15 @@ Primary techniques include fan brush work for the varied autumn foliage masses, 
 "A woodland clearing holds its breath at day's end, when autumn leaves catch fire with the setting sun's benediction. The meadow glows like spun gold, inviting the wanderer to pause and witness the sky's transformation—purple clouds parting to reveal nature's most generous light. Here, in this transient moment, the world offers both farewell and promise, warmth and mystery, the comfort of returning darkness and the glory of one last brilliant display."
 
 ## 8. Initial Canvas Treatment
-The canvas was prepared with a Liquid White base coat, applied evenly across the entire surface to enable the smooth wet-on-wet blending essential for the graduated sky transitions and the soft atmospheric effects surrounding the sunset. This foundation allows the darker values to be laid in while maintaining the luminosity of the lighter areas, and facilitates the seamless blending between the warm yellows and cool purples in the clouds. The Liquid White base is critical for achieving the glowing, radiant quality of the sunset and the soft, atmospheric depth throughout the composition.
+
+- **Black gesso** brushed over the canvas and allowed to **dry completely** before any oil is applied. This is a dry acrylic ground, not a wet one: the oils above it cannot be pulled back into it, and every light value in the painting has to be added rather than lifted.
+- No Liquid Clear and no Liquid White base — the oils are carried thin directly over the ground.
+- No contact paper and no masking.
+
+The black ground carries the value structure of the whole painting. Read the light in this entry as light recovered from darkness, not as shadow laid over white.
+
+> Section 8 is template-filled from the CSV one-hot columns (`scripts/fix_ground.py`), not generated from the image.
+> The text it replaced named the wrong ground for this episode. See `artifacts/ground_fixed.csv` for what it said.
 
 ---
 
@@ -53,15 +61,20 @@ episode:
   year: 1988
   painting_index: 171
 
+canvas_preparation:
+  ground: "Black Gesso"
+  secondary_tone: null
+  liquid_clear: false
+  liquid_white: false
+  contact_paper: false
+
 colors:
   - Cadmium Yellow
   - Yellow Ochre
   - Alizarin Crimson
-  - Prussian Blue
   - Indian Yellow
   - Bright Red
   - Van Dyke Brown
-  - Burnt Umber
   - Sap Green
   - Titanium White
   - Dark Sienna

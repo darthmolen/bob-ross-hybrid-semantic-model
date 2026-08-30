@@ -69,13 +69,16 @@ Signature technique: **atmospheric gradation through progressive blending and mi
 "A solitary path winds through the heart of an ancient forest, where light and shadow wage their eternal, gentle battle. The bright deciduous trees on the left seem to whisper promises of clearings ahead, while the dark evergreen sentinel on the right guards the forest's deeper mysteries. This is a threshold painting—the path beckons but doesn't reveal its destination, lost as it is in the atmospheric haze. The viewer stands at the entrance to a journey that is as much internal as geographical, where the back-country path becomes a metaphor for life's uncertain but beautiful passages."
 
 ## 8. Initial Canvas Treatment
-- Canvas prepared with **Liquid White** or **Liquid Clear** base coat
-- Thin, even application allows for smooth atmospheric blending and soft transitions
-- Wet-on-wet technique enables the graduated mist effects in the background
-- The slick surface supports both delicate sky work and textured foreground path
-- Base treatment facilitates the painting's characteristic depth through layered transparency
 
-The liquid base creates the atmospheric foundation essential for the painting's misty, depth-filled forest corridor.
+- **Black gesso** brushed over the canvas and allowed to **dry completely** before any oil is applied. This is a dry acrylic ground, not a wet one: the oils above it cannot be pulled back into it, and every light value in the painting has to be added rather than lifted.
+- No Liquid Clear and no Liquid White base — the oils are carried thin directly over the ground.
+- No contact paper and no masking.
+- **Secondary tone:** this episode carries the `Underpainting` tag, so a transparent colour was laid over the ground before painting began. Its value is in no dataset — Bob names it aloud in the opening minute and it is invisible in the finished painting. Not yet recovered for this episode; see `canvas_preparation.secondary_tone` below.
+
+The black ground carries the value structure of the whole painting. Read the light in this entry as light recovered from darkness, not as shadow laid over white.
+
+> Section 8 is template-filled from the CSV one-hot columns (`scripts/fix_ground.py`), not generated from the image.
+> The text it replaced named the wrong ground for this episode. See `artifacts/ground_fixed.csv` for what it said.
 
 ---
 
@@ -94,16 +97,20 @@ episode:
   year: 1992
   painting_index: 314
 
+canvas_preparation:
+  ground: "Black Gesso"
+  secondary_tone: null
+  liquid_clear: false
+  liquid_white: false
+  contact_paper: false
+
 colors:
   - Midnight Black
   - Prussian Blue
   - Sap Green
-  - Phthalo Green
   - Phthalo Blue
   - Cadmium Yellow
   - Yellow Ochre
-  - Dark Sienna
-  - Van Dyke Brown
   - Titanium White
   - Alizarin Crimson
 ```

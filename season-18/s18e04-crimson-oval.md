@@ -42,9 +42,14 @@ The technique showcases Bob Ross's mastery of vibrant wet-on-wet color blending 
 
 ## 8. Initial Canvas Treatment
 
-The canvas was likely treated with **Liquid White** or **Liquid Clear** to enable the wet-on-wet technique essential for achieving the spectacular sky blends and soft atmospheric effects. The treatment would have been applied more liberally in the central oval area to maintain maximum blending capability for the complex color transitions in the sky, where multiple warm hues needed to melt seamlessly together. The outer edges may have received less coverage or been darkened early in the painting process to establish the vignette effect. This initial wet treatment allowed for the bold, direct application of vibrant colors that could blend on the canvas without muddying, maintaining color intensity while achieving soft edges. The moisture enabled the characteristic atmospheric effects in the purple mist and the smooth color gradations in the sunset sky, while still providing enough surface texture for the thicker palette knife applications in the birch bark and grassy highlights.
+- **Black gesso** brushed over the canvas and allowed to **dry completely** before any oil is applied. This is a dry acrylic ground, not a wet one: the oils above it cannot be pulled back into it, and every light value in the painting has to be added rather than lifted.
+- No Liquid Clear and no Liquid White base — the oils are carried thin directly over the ground.
+- **Contact paper** cut to shape and applied as a mask, so the area it covers stays clean while the surround is painted, and is lifted before that area is worked.
 
-**Foundation: Liquid White base enabling dramatic wet-on-wet color blending within oval vignette format**
+The black ground carries the value structure of the whole painting. Read the light in this entry as light recovered from darkness, not as shadow laid over white.
+
+> Section 8 is template-filled from the CSV one-hot columns (`scripts/fix_ground.py`), not generated from the image.
+> The text it replaced named the wrong ground for this episode. See `artifacts/ground_fixed.csv` for what it said.
 
 ---
 
@@ -62,6 +67,13 @@ episode:
   title: "Crimson Oval"
   year: 1988
   painting_index: 61
+
+canvas_preparation:
+  ground: "Black Gesso"
+  secondary_tone: null
+  liquid_clear: false
+  liquid_white: false
+  contact_paper: true
 
 colors:
   - Alizarin Crimson

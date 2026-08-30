@@ -70,12 +70,15 @@ Signature technique: **Dramatic knife-work mountain with autumn color punctuatio
 "A timeless mountain stands watch over the turning season, its ancient stone face bearing witness to autumn's brief but brilliant display. The solitary autumn tree, ablaze in orange and red, seems to celebrate its fleeting moment of glory beneath the eternal peaks. This is nature's theater—the permanent and the ephemeral in perfect balance, where the mountain's cold stone provides the stage for autumn's warm performance."
 
 ## 8. Initial Canvas Treatment
-- **Liquid White** applied as the base coating to enable wet-on-wet blending
-- The smooth tonal transitions in the sky indicate a thin, even application
-- Dark values in the sky suggest some areas may have been wiped away or thinly applied
-- The luminous quality of the autumn tree benefits from the white base allowing colors to glow
 
-Canvas prepared with Liquid White for full wet-on-wet technique and luminous color blending.
+- **Black gesso** brushed over the canvas and allowed to **dry completely** before any oil is applied. This is a dry acrylic ground, not a wet one: the oils above it cannot be pulled back into it, and every light value in the painting has to be added rather than lifted.
+- **Liquid Clear** applied over the ground, giving a wet, transparent working surface without lightening it. No Liquid White is used as a base.
+- No contact paper and no masking.
+
+The black ground carries the value structure of the whole painting. Read the light in this entry as light recovered from darkness, not as shadow laid over white.
+
+> Section 8 is template-filled from the CSV one-hot columns (`scripts/fix_ground.py`), not generated from the image.
+> The text it replaced named the wrong ground for this episode. See `artifacts/ground_fixed.csv` for what it said.
 
 ---
 
@@ -94,17 +97,22 @@ episode:
   year: 1992
   painting_index: 312
 
+canvas_preparation:
+  ground: "Black Gesso"
+  secondary_tone: null
+  liquid_clear: true
+  liquid_white: false
+  contact_paper: false
+
 colors:
   - Alizarin Crimson
   - Bright Red
   - Cadmium Yellow
-  - Dark Sienna
   - Midnight Black
   - Phthalo Blue
   - Phthalo Green
   - Prussian Blue
   - Sap Green
   - Titanium White
-  - Van Dyke Brown
   - Yellow Ochre
 ```

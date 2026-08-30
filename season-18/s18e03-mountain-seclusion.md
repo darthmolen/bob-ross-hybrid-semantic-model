@@ -30,7 +30,15 @@ Ross demonstrates masterful control of the wet-on-wet technique with particular 
 
 ## 8. Initial Canvas Treatment
 
-The canvas most likely began with a **dark base preparation**, possibly using Midnight Black or Prussian Blue mixed with other colors to create the deep evening sky foundation. This dark initial treatment would have been applied to the upper two-thirds of the canvas, establishing the moody atmospheric backdrop that makes the snow-covered elements appear so luminous by contrast. The lower portion may have received Liquid White or a lighter preparation to facilitate the brilliant snow effects and allow the Titanium White to maintain its reflective quality. This two-zone approach—dark upper canvas for sky and mountains, lighter lower canvas for snow—creates the fundamental value structure that drives the entire composition. The dark base is essential for achieving the twilight atmosphere without overworking the paint, allowing the evening sky to read as naturally deep and settled. The wet surface enables the seamless blending required for both the smooth sky and the nuanced mountain modeling, while providing the foundation for the dramatic contrast that defines this painting's emotional impact.
+- **Black gesso** brushed over the canvas and allowed to **dry completely** before any oil is applied. This is a dry acrylic ground, not a wet one: the oils above it cannot be pulled back into it, and every light value in the painting has to be added rather than lifted.
+- **Liquid Clear** applied over the ground, giving a wet, transparent working surface without lightening it. No Liquid White is used as a base.
+- No contact paper and no masking.
+- **Secondary tone:** this episode carries the `Underpainting` tag, so a transparent colour was laid over the ground before painting began. Its value is in no dataset — Bob names it aloud in the opening minute and it is invisible in the finished painting. Not yet recovered for this episode; see `canvas_preparation.secondary_tone` below.
+
+The black ground carries the value structure of the whole painting. Read the light in this entry as light recovered from darkness, not as shadow laid over white.
+
+> Section 8 is template-filled from the CSV one-hot columns (`scripts/fix_ground.py`), not generated from the image.
+> The text it replaced named the wrong ground for this episode. See `artifacts/ground_fixed.csv` for what it said.
 
 ---
 
@@ -49,13 +57,19 @@ episode:
   year: 1988
   painting_index: 60
 
+canvas_preparation:
+  ground: "Black Gesso"
+  secondary_tone: null
+  liquid_clear: true
+  liquid_white: false
+  contact_paper: false
+
 colors:
   - Alizarin Crimson
   - Dark Sienna
   - Midnight Black
   - Phthalo Blue
   - Prussian Blue
-  - Sap Green
   - Titanium White
   - Van Dyke Brown
 ```

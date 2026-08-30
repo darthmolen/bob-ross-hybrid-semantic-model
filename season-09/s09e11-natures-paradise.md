@@ -105,12 +105,18 @@ episode:
   year: 1985
   painting_index: 187
 
+canvas_preparation:
+  ground: "Liquid White"
+  secondary_tone: null
+  liquid_clear: false
+  liquid_white: true
+  contact_paper: false
+
 colors:
   - Cadmium Yellow
   - Indian Yellow
   - Yellow Ochre
   - Sap Green
-  - Prussian Blue
   - Phthalo Blue
   - Alizarin Crimson
   - Titanium White

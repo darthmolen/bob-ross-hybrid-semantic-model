@@ -69,3 +69,47 @@ Signature technique: **Dramatic knife-work mountain construction with soft atmos
 - Wet canvas throughout to allow smooth blending and reflection techniques
 
 Foundation emphasizes soft atmospheric quality with preparation for both mountain drama and water serenity.
+
+---
+
+## Metadata
+
+```yaml
+tags:
+  palette_identity: "Soft alpine pastels with dramatic dark contrasts"
+  depth_style: "Multi-plane layering with strong atmospheric perspective"
+  lighting_type: "Soft diffused dawn or dusk light"
+  motion_profile: "Complete tranquility and stillness"
+
+searchable_features:
+  # TODO — write from the painting: shape, colour and position, plus lay
+  # synonyms. See TEMPLATE.md. Not generated, because a regex over the prose
+  # reproduces the prose's vocabulary, which is the thing that fails at retrieval.
+
+episode:
+  season: 8
+  episode: 11
+  title: "Mountain Range"
+  year: 1986
+  painting_index: 200
+  youtube_url: "https://www.youtube.com/embed/V_l6olF3yHI"
+
+canvas_preparation:
+  ground: "Liquid White"
+  secondary_tone: null
+  liquid_clear: false
+  liquid_white: true
+  contact_paper: false
+
+colors:
+  - Alizarin Crimson
+  - Bright Red
+  - Cadmium Yellow
+  - Indian Yellow
+  - Phthalo Blue
+  - Prussian Blue
+  - Sap Green
+  - Titanium White
+  - Van Dyke Brown
+  - Yellow Ochre
+```

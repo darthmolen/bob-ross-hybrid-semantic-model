@@ -71,6 +71,7 @@ Motion profile: **Gentle river flow with diagonal compositional sweep**
 - **Frame Preparation**: Black gesso painted outside oval boundary to create distinctive frame shape
 - **Coverage**: Generous white base allows for easy sky blending and vibrant color interaction
 - **Texture**: Smooth, even application enabling wet-on-wet technique throughout painting process
+- **Contact paper** cut as an **oval** and burnished down, so the scene is painted only inside it. The birches on the left are carried past the oval edge and break out of the frame.
 
 The Liquid White foundation within the oval frame creates a luminous base for vibrant sky and water elements.
 
@@ -90,6 +91,13 @@ episode:
   title: "Riverside Escape Oval"
   year: 1988
   painting_index: 119
+
+canvas_preparation:
+  ground: "Liquid White"
+  secondary_tone: null
+  liquid_clear: false
+  liquid_white: true
+  contact_paper: true
 
 colors:
   - Titanium White

@@ -31,3 +31,45 @@ Signature technique: **Vertical knife strokes building weathered architectural t
 
 ## 8. Initial Canvas Treatment
 The canvas likely began with a thin coat of liquid white or liquid clear to enable wet-on-wet technique throughout. The sky was established first with prussian blue and white, allowing for soft cloud formations. The misty background was then blended while wet, creating atmospheric recession before the architectural elements were added. This foundation provided the atmospheric context into which the sharply detailed dock structures could be placed with knife work.
+
+---
+
+## Metadata
+
+```yaml
+tags:
+  palette_identity: "Rustic earth tones against atmospheric blues"
+  depth_style: "Architectural detail transitioning to atmospheric dissolution"
+  motion_profile: "Vertical architectural stability against horizontal atmospheric drift"
+
+searchable_features:
+  # TODO — write from the painting: shape, colour and position, plus lay
+  # synonyms. See TEMPLATE.md. Not generated, because a regex over the prose
+  # reproduces the prose's vocabulary, which is the thing that fails at retrieval.
+
+episode:
+  season: 7
+  episode: 12
+  title: "Dock Scene"
+  year: 1986
+  painting_index: 215
+  youtube_url: "https://www.youtube.com/embed/4KYxkqlzyqM"
+
+canvas_preparation:
+  ground: "Liquid White"
+  secondary_tone: null
+  liquid_clear: false
+  liquid_white: true
+  contact_paper: false
+
+colors:
+  - Bright Red
+  - Cadmium Yellow
+  - Dark Sienna
+  - Midnight Black
+  - Phthalo Blue
+  - Sap Green
+  - Titanium White
+  - Van Dyke Brown
+  - Yellow Ochre
+```

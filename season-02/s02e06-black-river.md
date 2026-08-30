@@ -81,15 +81,14 @@ Signature technique: **light water highlights over a dark river base**
 
 ## 8. Initial Canvas Treatment
 
-- Dark toned canvas
-- Liquid White applied selectively for glow and water
-- No contact paper
-- No masking
-- No textured gesso
+- **Black gesso** brushed over the canvas and allowed to **dry completely** before any oil is applied. This is a dry acrylic ground, not a wet one: the oils above it cannot be pulled back into it, and every light value in the painting has to be added rather than lifted.
+- No Liquid Clear and no Liquid White base — the oils are carried thin directly over the ground.
+- No contact paper and no masking.
 
-A foundational dark-base woodland scene emphasizing contrast and atmospheric depth.
+The black ground carries the value structure of the whole painting. Read the light in this entry as light recovered from darkness, not as shadow laid over white.
 
----
+> Section 8 is template-filled from the CSV one-hot columns (`scripts/fix_ground.py`), not generated from the image.
+> The text it replaced named the wrong ground for this episode. See `artifacts/ground_fixed.csv` for what it said.
 
 ---
 
@@ -108,8 +107,14 @@ episode:
   year: 1984
   painting_index: 274
 
+canvas_preparation:
+  ground: "Black Gesso"
+  secondary_tone: null
+  liquid_clear: false
+  liquid_white: false
+  contact_paper: false
+
 colors:
-  - Midnight Black
   - Prussian Blue
   - Van Dyke Brown
   - Sap Green

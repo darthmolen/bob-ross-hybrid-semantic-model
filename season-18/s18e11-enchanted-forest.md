@@ -108,6 +108,13 @@ episode:
   year: 1988
   painting_index: 68
 
+canvas_preparation:
+  ground: "Black Gesso"
+  secondary_tone: null
+  liquid_clear: false
+  liquid_white: false
+  contact_paper: false
+
 colors:
   - Midnight Black
   - Alizarin Crimson
@@ -117,5 +124,4 @@ colors:
   - Sap Green
   - Indian Yellow
   - Van Dyke Brown
-  - Prussian Blue
 ```

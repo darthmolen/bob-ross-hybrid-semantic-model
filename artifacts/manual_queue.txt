@@ -1,0 +1,145 @@
+season-03/s03e08-night-light.md  [ground-contradiction] CSV ground is Black Gesso but the prose asserts a Liquid White base: ...shine steadily
+Motion profile: **Turbulent maritime flow with stationary light anchors**
+
+## 6. Technique
+- **Liquid whi...
+season-04/s04e12-autumn-days.md  [ground-contradiction] CSV ground is Black Gesso but the prose asserts a Liquid White base: ...amless atmospheric mis
+- Liner brush renders fine branch details emerging from golden clusters
+- Liquid Whi...
+season-05/s05e09-anatomy-of-a-wave.md  [clear-unstated] Liquid_Clear = 1 but Liquid Clear is never mentioned
+season-05/s05e10-the-windmill.md  [ground-contradiction] CSV ground is Black Gesso but the prose asserts a Liquid White base: ...ower left toward buil
+
+---
+
+## 6. Technique
+
+- Heavy palette knife work for snow highlights and drifts
+- Liquid Whi...
+season-06/s06e01-blue-river.md  [ground-contradiction] CSV ground is Black Gesso but the prose asserts a Liquid White base: ...l stability
+
+Motion profile: **stillness and reflection—tranquil centerline composition**
+
+## 6. Technique
+
+- Liquid Whi...
+season-06/s06e05-secluded-forest.md  [ground-contradiction] CSV ground is Black Gesso but the prose asserts a Liquid White base: ...ter movement
+
+Motion profile: **vertical static rhythm with atmospheric depth recession**
+
+## 6. Technique
+
+- Liquid Whi...
+season-06/s06e12-marshlands.md  [ground-contradiction] CSV ground is Black Gesso but the prose asserts a Liquid White base: ...reating vertical lift
+
+Motion profile: **centered depth pull with atmospheric ascension**
+
+## 6. Technique
+
+- Liquid Whi...
+season-07/s07e03-evergreens-at-sunset.md  [ground-unstated] CSV ground is Liquid Black but the prose never says so
+season-08/s08e09-majestic-pine.md  [mask-unstated] tags include Contact Paper but the prose has no mask vocabulary
+season-09/s09e13-mountain-hideaway.md  [ground-contradiction] CSV ground is Black Gesso but the prose asserts a Liquid White base: ...arc
+
+Motion profile: **cascading water flow in otherwise serene rainbow-crowned valley**
+
+## 6. Technique
+
+- Liquid Whit...
+season-10/s10e10-ocean-sunset.md  [clear-unstated] Liquid_Clear = 1 but Liquid Clear is never mentioned
+season-10/s10e11-triple-view.md  [mask-unstated] tags include Contact Paper but the prose has no mask vocabulary
+season-11/s11e03-daisy-delight.md  [clear-unstated] Liquid_Clear = 1 but Liquid Clear is never mentioned
+season-11/s11e11-golden-glow.md  [clear-unstated] Liquid_Clear = 1 but Liquid Clear is never mentioned
+season-13/s13e06-hidden-creek.md  [ground-contradiction] CSV ground is Black Gesso but the prose asserts a Liquid White base: ...ee branches, delicate
+
+**Liquid Whi...
+season-14/s14e09-riverside-escape-oval.md  [mask-unstated] tags include Contact Paper but the prose has no mask vocabulary
+season-15/s15e10-forest-down-oval.md  [ground-contradiction] CSV ground is Black Gesso but the prose asserts a Liquid White base: ...hthalo Blue for c
+- Van Dyke Brown for tree trunks and shadow accents
+- Liquid Whi...
+season-17/s17e05-country-time.md  [clear-unstated] Liquid_Clear = 1 but Liquid Clear is never mentioned
+season-17/s17e08-view-from-the-park.md  [mask-unstated] tags include Contact Paper but the prose has no mask vocabulary
+season-18/s18e07-golden-morning-mist.md  [ground-contradiction] CSV ground is Black Gesso but the prose asserts a Liquid White base: ...from central l
+
+Motion profile: **Rising Mist with Radial Light Diffusion**
+
+## 6. Technique
+
+- Liquid Whit...
+season-18/s18e09-seascape-fantasy.md  [ground-contradiction] CSV ground is Black Gesso but the prose asserts a Liquid White base: ...soar freely above
+
+## 8. Initial Canvas Treatment
+
+- **Liquid Whi...
+season-18/s18e13-rippling-waters.md  [ground-contradiction] CSV ground is Liquid Black but the prose asserts a Liquid White base: ...bushes, foliage, 
+season-19/s19e02-quiet-mountain-lake.md  [ground-contradiction] CSV ground is Black Gesso but the prose asserts a Liquid White base: ...: Not used
+- **Grey gesso**: Not used
+- **Contact paper**: Not used
+- **Textured gesso**: Not used
+
+A classic Liquid Whi...
+season-19/s19e08-scenic-seclusion.md  [ground-contradiction] CSV ground is Liquid Black but the prose asserts a Liquid White base: ...es gentle air mo
+
+Motion profile: **Diagonal Water Rush with Wind-Shaped Elements**
+
+## 6. Technique
+
+- Liquid Whi...
+season-19/s19e10-after-the-rain.md  [ground-contradiction] CSV ground is Black Gesso but the prose asserts a Liquid White base: ...movement in misty a
+
+Motion profile: **Vertical Waterfall Cascade with Rising Mist**
+
+## 6. Technique
+
+- Liquid Whit...
+season-20/s20e05-divine-elegance.md  [mask-unstated] tags include Contact Paper but the prose has no mask vocabulary
+season-20/s20e11-change-of-seasons.md  [ground-unstated] CSV ground is Liquid Black but the prose never says so
+season-21/s21e01-valley-view.md  [ground-contradiction] CSV ground is Black Gesso but the prose asserts a Liquid White base: ...he reflective water an
+season-21/s21e05-cabin-at-trails-end.md  [mask-unstated] tags include Contact Paper but the prose has no mask vocabulary
+season-24/s24e13-snowbound-cabin.md  [clear-unstated] Liquid_Clear = 1 but Liquid Clear is never mentioned
+season-25/s25e09-downstream-view.md  [ground-contradiction] CSV ground is Black Gesso but the prose asserts a Liquid White base: ...r, forest, and mou
+
+## 8. Initial Canvas Treatment
+
+- **Liquid Whi...
+season-25/s25e11-fishermans-paradise.md  [ground-contradiction] CSV ground is Black Gesso but the prose asserts a Liquid White base: ...8. Initial Can
+
+- Black Gesso base providing dramatic dark foundation
+- Selective application of Liquid Whi...
+season-27/s27e01-twilight-beauty.md  [ground-contradiction] CSV ground is Black Gesso but the prose asserts a Liquid White base: ...pplied to create t
+- **No textured gesso**: Smooth canvas surface throughout
+
+A Liquid Whi...
+season-27/s27e02-anglers-haven.md  [ground-contradiction] CSV ground is Liquid Black but the prose asserts a Liquid White base: ...upward to luminous 
+
+Motion profile: **vertical ascent with atmospheric stillness**
+
+## 6. Technique
+
+- Liquid Whit...
+season-27/s27e05-winter-at-the-farm.md  [clear-unstated] Liquid_Clear = 1 but Liquid Clear is never mentioned
+season-27/s27e09-island-paradise.md  [clear-unstated] Liquid_Clear = 1 but Liquid Clear is never mentioned
+season-27/s27e11-splendor-of-a-snowy-winter.md  [ground-contradiction] CSV ground is Liquid Black but the prose asserts a Liquid White base: ...atmosp
+- No wind or active weather suggested
+
+Motion profile: **profound stillness**
+
+## 6. Technique
+
+- Liquid Whit...
+season-27/s27e12-forest-river.md  [ground-contradiction] CSV ground is Black Gesso but the prose asserts a Liquid White base: ...tal water flow
+
+Motion profile: **center-pull perspective with radiant atmospheric glow**
+
+## 6. Technique
+
+- Liquid Whi...
+season-28/s28e05-the-magic-of-fall.md  [clear-unstated] Liquid_Clear = 1 but Liquid Clear is never mentioned
+season-29/s29e03-seasonal-progression.md  [mask-unstated] tags include Contact Paper but the prose has no mask vocabulary
+season-29/s29e12-auroras-dance.md  [clear-unstated] Liquid_Clear = 1 but Liquid Clear is never mentioned
+season-30/s30e05-a-copper-winter.md  [clear-unstated] Liquid_Clear = 1 but Liquid Clear is never mentioned
+season-31/s31e10-balmy-beach.md  [ground-contradiction] CSV ground is Black Gesso but the prose asserts a Liquid White base: ...t used
+- **Grey gesso**: Not used
+- **Contact paper**: Not used
+- **Textured gesso**: Not used
+
+A traditional Liquid Whi...

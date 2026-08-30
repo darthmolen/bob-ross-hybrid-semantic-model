@@ -53,6 +53,13 @@ episode:
   year: 1988
   painting_index: 176
 
+canvas_preparation:
+  ground: "Liquid White"
+  secondary_tone: null
+  liquid_clear: false
+  liquid_white: true
+  contact_paper: false
+
 colors:
   - Prussian Blue
   - Titanium White
@@ -62,6 +69,4 @@ colors:
   - Van Dyke Brown
   - Alizarin Crimson
   - Midnight Black
-  - Liquid Black
-  - Liquid White
 ```

@@ -81,12 +81,18 @@ episode:
   year: 1984
   painting_index: 261
 
+canvas_preparation:
+  ground: "Liquid White"
+  secondary_tone: null
+  liquid_clear: false
+  liquid_white: true
+  contact_paper: false
+
 colors:
   - Sap Green
   - Cadmium Yellow
   - Yellow Ochre
   - Van Dyke Brown
-  - Dark Sienna
   - Midnight Black
   - Alizarin Crimson
   - Titanium White

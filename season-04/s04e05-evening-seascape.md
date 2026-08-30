@@ -74,10 +74,14 @@ Signature technique: **Dramatic foam highlighting against dark water base**
 ---
 
 ## 8. Initial Canvas Treatment
-- Complete dark base coat covering entire surface
-- Prussian Blue and black mixture establishing night foundation
-- Wet dark layer enabling luminous wave highlights to emerge
-Foundational approach establishes dramatic nocturnal seascape through comprehensive dark underpainting.
+
+- **Black gesso** brushed over the canvas and allowed to **dry completely** before any oil is applied. This is a dry acrylic ground, not a wet one: the oils above it cannot be pulled back into it, and every light value in the painting has to be added rather than lifted.
+- No Liquid Clear and no Liquid White base — the oils are carried thin directly over the ground.
+- No contact paper and no masking.
+
+The black ground carries the value structure of the whole painting. Read the light in this entry as light recovered from darkness, not as shadow laid over white.
+
+> Section 8 is template-filled from the CSV one-hot columns (`scripts/fix_ground.py`), not generated from the image.
 
 ---
 
@@ -98,14 +102,18 @@ episode:
   year: 1985
   painting_index: 247
 
+canvas_preparation:
+  ground: "Black Gesso"
+  secondary_tone: null
+  liquid_clear: false
+  liquid_white: false
+  contact_paper: false
+
 colors:
   - Prussian Blue
-  - Midnight Black
   - Phthalo Blue
   - Phthalo Green
   - Titanium White
   - Van Dyke Brown
   - Burnt Umber
-  - Indian Yellow
-  - Yellow Ochre
 ```

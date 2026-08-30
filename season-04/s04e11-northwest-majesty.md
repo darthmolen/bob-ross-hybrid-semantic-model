@@ -82,12 +82,14 @@ Signature technique: **Vibrant autumn foliage masses with fan brush tapping**
 ---
 
 ## 8. Initial Canvas Treatment
-- **Base coat**: Likely white gesso or light base for bright color foundation
-- **Sky application**: Purple and blue tones applied wet with horizontal strokes
-- **Background wash**: Light blue-grey tones established for mountain distance
-- **Cloud foundation**: White applied into wet sky with circular blending
 
-The bright base treatment supports the vivid autumn color palette and maintains luminosity throughout the composition.
+- **Liquid Black** worked thin into the canvas as a **wet** black ground. Unlike dried gesso it stays in contact with the oils laid over it, so darks can be pulled back into the ground and edges softened into it.
+- No Liquid Clear and no Liquid White base — the oils are carried thin directly over the ground.
+- No contact paper and no masking.
+
+The wet black ground is what keeps the darks deep without mixing them muddy, and what lets the lit passages be pulled straight out of the ground.
+
+> Section 8 is template-filled from the CSV one-hot columns (`scripts/fix_ground.py`), not generated from the image.
 
 ---
 
@@ -108,16 +110,19 @@ episode:
   year: 1985
   painting_index: 253
 
+canvas_preparation:
+  ground: "Liquid Black"
+  secondary_tone: null
+  liquid_clear: false
+  liquid_white: false
+  contact_paper: false
+
 colors:
   - Alizarin Crimson
   - Bright Red
   - Cadmium Yellow
-  - Yellow Ochre
   - Sap Green
   - Prussian Blue
-  - Phthalo Blue
   - Titanium White
   - Van Dyke Brown
-  - Dark Sienna
-  - Midnight Black
 ```

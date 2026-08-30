@@ -78,6 +78,13 @@ episode:
   year: 1988
   painting_index: 118
 
+canvas_preparation:
+  ground: "Liquid White"
+  secondary_tone: null
+  liquid_clear: false
+  liquid_white: true
+  contact_paper: false
+
 colors:
   - Titanium White
   - Phthalo Blue
@@ -86,6 +93,5 @@ colors:
   - Indian Yellow
   - Midnight Black
   - Van Dyke Brown
-  - Sap Green
   - Prussian Blue
 ```

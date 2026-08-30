@@ -61,3 +61,48 @@ Signature technique: **Luminous foliage highlights with atmospheric blending**
 - Foundation prepared for high-key luminous values
 - Likely thin application maintaining brightness for backlit effects
 Canvas prepared with luminous foundation enabling diffused golden light to permeate entire scene.
+
+---
+
+## Metadata
+
+```yaml
+tags:
+  palette_identity: "Autumn gold luminescence"
+  depth_style: "Atmospheric recession with path-driven perspective"
+  lighting_type: "Diffused golden hour"
+  motion_profile: "Invitational flow with gentle recession"
+
+searchable_features:
+  # TODO — write from the painting: shape, colour and position, plus lay
+  # synonyms. See TEMPLATE.md. Not generated, because a regex over the prose
+  # reproduces the prose's vocabulary, which is the thing that fails at retrieval.
+
+episode:
+  season: 8
+  episode: 4
+  title: "Waterside Way"
+  year: 1986
+  painting_index: 193
+  youtube_url: "https://www.youtube.com/embed/uj5FE70BcB0"
+
+canvas_preparation:
+  ground: "Liquid White"
+  secondary_tone: null
+  liquid_clear: false
+  liquid_white: true
+  contact_paper: false
+
+colors:
+  - Alizarin Crimson
+  - Bright Red
+  - Cadmium Yellow
+  - Dark Sienna
+  - Indian Yellow
+  - Midnight Black
+  - Phthalo Blue
+  - Sap Green
+  - Titanium White
+  - Van Dyke Brown
+  - Yellow Ochre
+```

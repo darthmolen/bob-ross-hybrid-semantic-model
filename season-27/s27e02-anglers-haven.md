@@ -63,7 +63,7 @@ Motion profile: **vertical ascent with atmospheric stillness**
 
 ## 6. Technique
 
-- Liquid White base for sky and mountain highlights
+- Wet Liquid Black ground under Liquid Clear; sky and mountain highlights are pulled out of it
 - Palette knife work for snow-covered mountain peaks and ridges
 - Fan brush for evergreen trees using push-up strokes
 - Highlight technique for snow caps and ridges
@@ -81,14 +81,14 @@ Signature technique: **palette knife mountain peaks with atmospheric mist blendi
 
 ## 8. Initial Canvas Treatment
 
-- Liquid White applied across entire canvas
-- Smooth wet surface for blending sky and mountains
-- No black gesso or dark toning
-- No contact paper masking
-- No textured preparation
-- Traditional wet-on-wet foundation
+- **Liquid Black** worked thin into the canvas as a **wet** black ground. Unlike dried gesso it stays in contact with the oils laid over it, so darks can be pulled back into the ground and edges softened into it.
+- **Liquid Clear** applied over the ground, giving a wet, transparent working surface without lightening it. No Liquid White is used as a base.
+- No contact paper and no masking.
 
-A classic Liquid White foundation enabling smooth atmospheric blending and bright mountain highlights.
+The wet black ground is what keeps the darks deep without mixing them muddy, and what lets the lit passages be pulled straight out of the ground.
+
+> Section 8 is template-filled from the CSV one-hot columns (`scripts/fix_ground.py`), not generated from the image.
+> The text it replaced named the wrong ground for this episode. See `artifacts/ground_fixed.csv` for what it said.
 
 ---
 
@@ -106,6 +106,13 @@ episode:
   title: "Angler's Haven"
   year: 1993
   painting_index: 348
+
+canvas_preparation:
+  ground: "Liquid Black"
+  secondary_tone: null
+  liquid_clear: true
+  liquid_white: false
+  contact_paper: false
 
 colors:
   - Alizarin Crimson
