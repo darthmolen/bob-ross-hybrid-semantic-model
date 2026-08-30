@@ -1,24 +1,23 @@
-# Season 13, Episode 13 — "Winter Mountain" (1987)
+# Season 13, Episode 13 — "Lost Lake" (1987)
 
 ## 1. Composition
-- Distinctive circular vignette format creating a natural window into the wilderness scene
 - Majestic snow-capped mountain dominates the center background as the primary focal point
 - Tranquil lake occupies the middle ground with dark blue reflective surface
 - Rolling green hills with textured grassy slopes frame the lake on both sides
 - Tall, graceful evergreen trees anchor both left and right edges, creating vertical framing elements
-- Clusters of bright green deciduous trees and dark evergreens form the circular vignette border
+- Clusters of bright green deciduous trees and dark evergreens form the full-bleed composition border
 - Winding dirt path meanders from the foreground center into the middle distance
 - Warm pink and coral sky with soft clouds transitions to cool blue atmospheric tones
 - Dark shadowed foreground grounds the composition and enhances the circular framing effect
 - Layered depth from shadowed foreground through illuminated hills to distant mountain peak
 
-composition_archetype: **Circular Vignette Mountain Vista**
+composition_archetype: **full-bleed composition Mountain Vista**
 
 ## 2. Palette
 - **Titanium White**: Snow-covered mountain peaks, cloud highlights, and sky luminosity
 - **Phthalo Blue** and **Prussian Blue**: Deep lake water, mountain shadows, and cool sky gradations
 - **Sap Green**: Vibrant spring foliage on deciduous trees and grassy hills
-- **Midnight Black**: Dark evergreen trees forming vignette frame and deep foreground shadows
+- **Midnight Black**: Dark evergreen trees forming edge frame and deep foreground shadows
 - **Alizarin Crimson** and **Bright Red**: Warm pink-coral sunset sky tones
 - **Cadmium Yellow** and **Indian Yellow**: Bright highlights on deciduous foliage and sky warmth
 - **Van Dyke Brown**: Tree trunks, path earth tones, and warm undertones
@@ -32,7 +31,7 @@ Palette identity: **Spring Meadow Greens with Sunset Pink and Snowy Mountain Blu
 - Peaceful harmony between warm sunset sky and cool snow-capped mountain
 - Sense of peering through nature's window into an untouched mountain sanctuary
 - Fresh, invigorating spring atmosphere with vibrant green foliage
-- Intimate yet expansive feeling created by the circular vignette framing
+- Intimate yet expansive feeling created by the full-bleed composition framing
 - Gentle, welcoming mood inviting the viewer into the protected wilderness
 - Timeless quality of pristine natural beauty preserved in a perfect moment
 - Balance between the dark protective frame and the luminous central scene
@@ -46,11 +45,11 @@ Lighting: **Soft Sunset Glow with Mountain Atmospheric Clarity**
 - **Foreground**: Dark shadowed area with winding path creating depth and entry point
 - **Midground**: Rolling green hills flanking the dark blue lake with subtle textures
 - **Background**: Towering mountain with snow fields and rocky faces under pink-blue sky
-- Circular vignette created by dark evergreens and bright deciduous trees forming natural border
+- full-bleed composition created by dark evergreens and bright deciduous trees forming natural border
 - Strong radial composition drawing the eye from dark edges to bright mountain center
 - Horizontal layering from path to hills to lake to mountain to sky
 
-Depth style: **Radial Vignette Depth with Atmospheric Mountain Recession**
+Depth style: **Radial edge Depth with Atmospheric Mountain Recession**
 
 ## 5. Motion
 - Winding path creates dynamic S-curve movement leading the eye into the scene
@@ -65,7 +64,7 @@ Depth style: **Radial Vignette Depth with Atmospheric Mountain Recession**
 Motion profile: **Gentle Path Invitation with Atmospheric Stillness**
 
 ## 6. Technique
-- **Circular vignette technique**: Dark edges created with heavy evergreen coverage framing bright center
+- **full-bleed composition technique**: Dark edges created with heavy evergreen coverage framing bright center
 - **Fan brush**: Deciduous tree foliage with characteristic pushing and dabbing strokes
 - **Palette knife**: Sharp mountain peaks, rocky faces, and snow field highlights
 - **Wet-on-wet blending**: Seamless sky gradations from pink to blue and atmospheric transitions
@@ -76,7 +75,7 @@ Motion profile: **Gentle Path Invitation with Atmospheric Stillness**
 - **Atmospheric perspective**: Mountain rendered with softer edges and lighter values suggesting distance
 - **Shadow grounding**: Dark foreground establishes strong value contrast with illuminated middle ground
 
-Signature technique: **Circular Vignette Framing with Majestic Mountain Centerpiece**
+Signature technique: **full-bleed composition Framing with Majestic Mountain Centerpiece**
 
 ## 7. Narrative Layer
 "Through nature's own window, framed by towering evergreens and spring-bright foliage, a majestic snow-capped mountain rises in solitary splendor above a tranquil lake. A winding path beckons from shadowed foreground into sun-warmed meadows, inviting the viewer to journey toward that pristine wilderness sanctuary. The sunset sky blushes pink and coral, blessing the scene with gentle warmth, while the mountain stands eternal and serene—a testament to nature's grand architecture glimpsed through this perfect circular portal of peace."
@@ -84,30 +83,35 @@ Signature technique: **Circular Vignette Framing with Majestic Mountain Centerpi
 ## 8. Initial Canvas Treatment
 - Canvas prepared with **Liquid White** creating smooth, wet surface for seamless blending
 - Even base coverage enabling wet-on-wet technique throughout the painting
-- Additional darker underpainting likely applied around the edges to establish circular vignette structure
 - The Liquid White treatment allows sunset colors to glow with luminosity in the sky
 - Facilitates soft atmospheric transitions from warm sky to cool mountain tones
 - Enables smooth blending of the bright green spring foliage and dark evergreen shadows
-- Creates the foundation for the dramatic light-to-dark radial composition
 
-The Liquid White base with strategic dark underpainting provides the essential foundation for this distinctive circular vignette mountain landscape.
+A full-bleed Liquid White foundation. There is no edge and no masking in this painting — the CSV carries no Contact Paper tag and the image shows the scene running to all four edges.
 
 ---
 
 ```yaml
 tags:
-  composition_archetype: "Circular Vignette Mountain Vista"
+  composition_archetype: "Mountain Lake Vista with Approach Path"
   palette_identity: "Spring Meadow Greens with Sunset Pink and Snowy Mountain Blues"
-  depth_style: "Radial Vignette Depth with Atmospheric Mountain Recession"
+  depth_style: "Atmospheric Mountain Recession"
   lighting_type: "Soft Sunset Glow with Mountain Atmospheric Clarity"
   motion_profile: "Gentle Path Invitation with Atmospheric Stillness"
 
 episode:
   season: 13
   episode: 13
-  title: "Winter Mountain"
+  title: "Lost Lake"
   year: 1987
   painting_index: 136
+
+canvas_preparation:
+  ground: "Liquid White"
+  secondary_tone: null
+  liquid_clear: false
+  liquid_white: true
+  contact_paper: false
 
 colors:
   - Alizarin Crimson

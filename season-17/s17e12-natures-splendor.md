@@ -18,11 +18,13 @@ The painting follows a **Radial Convergence** structural layout, with all elemen
 
 ## 5. Motion
 
-The **motion_profile** is one of **Perfect Stillness**—this is a moment frozen in time. The glassy, undisturbed water surface suggests complete calm, without even a breath of wind to ripple the reflection. The trees stand sentinel-like, their forms static and solid. Even the clouds appear softly settled rather than moving across the sky. This stillness amplifies the sense of peace and allows the viewer to fully absorb the scene's grandeur. The only implied movement is the gradual transition of light—the fading alpenglow that bathes the mountain, suggesting the slow, inevitable passage from day to dusk.
+This is one moment frozen in time. The glassy, undisturbed water surface suggests complete calm, without even a breath of wind to ripple the reflection. The trees stand sentinel-like, their forms static and solid. Even the clouds appear softly settled rather than moving across the sky. This stillness amplifies the sense of peace and allows the viewer to fully absorb the scene's grandeur. The only implied movement is the gradual transition of light—the fading alpenglow that bathes the mountain, suggesting the slow, inevitable passage from day to dusk.
+
+Motion profile: **Perfect Stillness**
 
 ## 6. Technique
 
-This painting demonstrates Bob Ross's mastery of **atmospheric perspective** and the wet-on-wet oil technique. The mountain was likely created using the knife to sculpt the rocky peaks and ridges, with titanium white pulled across the canvas in decisive strokes to create snow-covered surfaces. The warm glow was achieved by loading the knife with subtle pinks and warm whites. The evergreen trees showcase the fan brush technique—distinctive downward strokes that create the characteristic conifer shape. The misty mid-ground employed gentle blending and possibly a clean, dry brush to create soft transitions. The water was executed with long horizontal strokes, then vertical pulls to create reflections. The foreground hills used the knife for initial shaping, followed by highlight details with various greens.
+This painting is built on a **dry black gesso ground**, and demonstrates Bob Ross's mastery of **atmospheric perspective** working up out of darkness rather than down from a white base. The sky and mist are scumbled thin over the black so the ground itself supplies the darker values. The mountain was likely created using the knife to sculpt the rocky peaks and ridges, with titanium white pulled across the canvas in decisive strokes to create snow-covered surfaces. The warm glow was achieved by loading the knife with subtle pinks and warm whites. The evergreen trees showcase the fan brush technique—distinctive downward strokes that create the characteristic conifer shape. The misty mid-ground employed gentle blending and possibly a clean, dry brush to create soft transitions. The water was executed with long horizontal strokes, then vertical pulls to create reflections. The foreground hills used the knife for initial shaping, followed by highlight details with various greens.
 
 ## 7. Narrative Layer
 
@@ -30,7 +32,15 @@ This painting demonstrates Bob Ross's mastery of **atmospheric perspective** and
 
 ## 8. Initial Canvas Treatment
 
-The canvas was almost certainly treated with **Liquid White**, which allows for the smooth blending essential to the soft sky gradients and atmospheric haze. This wet base enables the seamless transitions from blue to pink to lavender in the sky, and facilitates the gentle blending in the misty mid-ground. The Liquid White treatment also allows the dark colors of the water and trees to be applied boldly while still maintaining the ability to blend and create subtle variations. The foreground hills benefit from this treatment as well, allowing highlights to be pulled across the wet surface to create dimension and form.
+- **Black gesso** applied to the canvas and allowed to dry completely before any oil
+- No Liquid White; no Liquid Clear
+- No contact paper, no masking
+- Sky, alpenglow and mid-ground haze laid on thin and transparent so the dry black ground carries the darker values directly
+- Water and conifer masses left largely as exposed ground, with highlights lifted back out on top of them
+- Thick paint reserved for the snowfield, the lit mountain face and the chartreuse foreground bush
+
+The dark ground is why the alpenglow reads as light on snow rather than pink paint on white canvas. The deep purple of the lake is the gesso showing through, not a mixed dark.
+
 
 ---
 
@@ -42,12 +52,31 @@ tags:
   lighting_type: "Alpenglow"
   motion_profile: "Perfect Stillness"
 
+searchable_features:
+  - black gesso ground
+  - dark background mountain scene
+  - snow peak with pink alpenglow
+  - purple lake reflection
+  - dark evergreens framing a peak
+  - bright chartreuse bush lower right
+  - mist at the base of the mountain
+  - still dark water
+  - conifers left and right
+  - woods and mountain
+
 episode:
   season: 17
   episode: 12
   title: "Nature's Splendor"
   year: 1989
   painting_index: 82
+
+canvas_preparation:
+  ground: "Black Gesso"
+  secondary_tone: null
+  liquid_clear: false
+  liquid_white: false
+  contact_paper: false
 
 colors:
   - Titanium White
@@ -59,5 +88,5 @@ colors:
   - Sap Green
   - Cadmium Yellow
   - Yellow Ochre
-  - Liquid White
+  - Black Gesso
 ```
