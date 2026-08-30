@@ -32,4 +32,91 @@ Signature technique: **Dramatic silhouette layering with backlit sunset.**
 "Stand among the ancient evergreens as day surrenders to night, the sky ablaze with amber and gold while the forest falls into shadow. The mist rises from the hidden valley below, a soft veil between earth and heaven. This is the threshold moment—neither day nor night, but the sacred in-between where light and darkness dance their eternal ballet. Here, in the cathedral of trees, witness the quiet majesty that unfolds when the world pauses to watch the sun's farewell."
 
 ## 8. Initial Canvas Treatment
-The canvas was likely prepared with a **base coat** covering the entire surface, possibly starting with darker values in the lower portion and lighter values where the sky would be. Given the dramatic sunset effect, Ross may have applied the bright yellows and oranges first in the sky area, then worked outward with the blue-purple clouds, creating the gradient from light to dark. The **wet canvas technique** allowed for seamless blending of the sunset colors. The dark silhouettes were then added on top of the completed sky, working from background to foreground with progressively darker and more detailed trees. This layering approach is essential for achieving the backlit silhouette effect that defines the painting's dramatic impact.
+
+This episode uses a preparation that appears nowhere else in the index, and none of it is
+visible in the finished painting.
+
+- **Acrylic yellow ground.** The whole canvas is painted yellow with an ordinary acrylic
+  paint and allowed to dry completely. This is not Liquid White, not gesso, and not a
+  transparent tone — it is an opaque dried colour ground.
+- **Shaped tape mask.** A circle of duct tape is stuck to the dry yellow ground where the
+  sun will be. Everything is painted over and around it; the tape is lifted at the end and
+  the bare yellow ground underneath *is* the sun.
+- **Liquid Black** is then brushed on very sparingly over the dry yellow, laid in as loose
+  horizontal bands rather than as an even coat — the sky's dark cloud structure is put in
+  before any oil colour at all.
+- **Alizarin Crimson** worked into those bands next, then the rest of the sunset.
+- A very smooth canvas matters more than usual here, because the brush has to slide over
+  the dry acrylic.
+- No Liquid White, no Liquid Clear, no gesso.
+
+The sun in this painting was never painted. It is a hole in the picture where the ground
+shows through.
+
+> **Recovered from the episode narration**, not from the image:
+> *"I've got a canvas, as you can probably see, that's painted yellow. And this is just an
+> acrylic yellow paint, and I've covered the entire canvas with it. And right here is just —
+> this is a piece of duct tape I found here in the studio… but I've just made a circle right
+> there. This canvas is dry today. And onto this, we're going to begin putting a little bit
+> of the liquid black color, and I'm going to make a beautiful little sunset out of it."*
+
+---
+
+## Metadata
+
+```yaml
+tags:
+  composition_archetype: "sunset vista with framing trees"
+  palette_identity: "High-contrast sunset with warm/cool split—golden orange sky against deep blue-black silhouettes"
+  depth_style: "Strong atmospheric perspective with layered silhouettes and fog separation"
+  lighting_type: "Backlit sunset with silhouette effect"
+  motion_profile: "Horizontal cloud drift with vertical tree thrust"
+  special_format: "Acrylic yellow ground with a taped circle reserved for the sun"
+
+searchable_features:
+  - yellow canvas underneath
+  - acrylic yellow ground
+  - taped circle for the sun
+  - the sun is the bare canvas
+  - masked sun disc
+  - liquid black over a dry ground
+  - black silhouette evergreens
+  - orange and gold sunset bands
+  - purple blue snow
+  - two big trees framing left and right
+  - fog bank in the valley
+  - winter woods at sunset
+
+episode:
+  season: 7
+  episode: 3
+  title: "Evergreens at Sunset"
+  year: 1986
+  painting_index: 205
+
+canvas_preparation:
+  ground: "Liquid Black"
+  secondary_tone: null
+  liquid_clear: false
+  liquid_white: false
+  contact_paper: true
+  csv_override: true
+  acrylic_underground: "opaque yellow acrylic, dried"
+  mask_shape: "taped circle reserved as the sun disc"
+  note: >
+    The CSV carries Liquid_Black = 1 and no Contact Paper tag. The narration describes a
+    taped circular mask, which is functionally the same shaped-mask technique the tag
+    covers, so contact_paper is set true here and csv_override keeps backfill_prep.py from
+    reverting it. The dried opaque yellow acrylic underneath the Liquid Black has no
+    representation in the CSV schema at all and is recorded in acrylic_underground.
+
+colors:
+  - Alizarin Crimson
+  - Bright Red
+  - Cadmium Yellow
+  - Indian Yellow
+  - Liquid Black
+  - Midnight Black
+  - Sap Green
+  - Titanium White
+```

@@ -76,12 +76,22 @@ Signature technique: **atmospheric glow achieved through layered thin paint and 
 ---
 
 ## 8. Initial Canvas Treatment
-- Dark base coat applied to establish deep forest shadows
-- Liquid white reserved for birch bark highlights and atmospheric areas
-- Strategic underpainting to create depth contrast with lighter atmospheric layer
-- Dark foundation allows turquoise mist to glow with luminous effect
 
-Canvas prepared with dark base to amplify atmospheric luminescence and depth contrast.
+- **Black gesso** ground, applied and dried completely
+- **Secondary tone:** a thin coat of **Phthalo Blue and Sap Green**, mixed together on the brush and
+  brushed over the whole canvas, then blended smooth with the large brush
+- No Liquid White, no Liquid Clear, no masking
+- The background trees are struck into that wet blue-green tone with a fan brush loaded with Titanium
+  White, so the tone shows through them as the forest's ambient colour
+- Darks mixed from Phthalo Green and Alizarin Crimson in roughly equal parts rather than taken from
+  black
+
+The blue-green tone over black is what makes the light through the trees read as filtered daylight
+rather than as white paint.
+
+> **Recovered from the episode narration**, not from the image:
+> *"I've already covered this canvas with a thin coat of thalo blue and sap green. And I just mixed
+> them on the brush and covered the canvas with 'em… These black canvases, holy, they're so much fun."*
 
 ---
 
@@ -102,15 +112,25 @@ episode:
   year: 1985
   painting_index: 249
 
+canvas_preparation:
+  ground: "Black Gesso"
+  secondary_tone: "Phthalo Blue and Sap Green, mixed thin over the dry black"
+  liquid_clear: false
+  liquid_white: false
+  contact_paper: false
+  secondary_tone_source: "episode narration, 00:00–01:30"
+
 colors:
-  - Liquid White
-  - Titanium White
-  - Prussian Blue
-  - Phthalo Blue
-  - Van Dyke Brown
-  - Dark Sienna
-  - Yellow Ochre
-  - Sap Green
+  - Alizarin Crimson
+  - Black Gesso
   - Bright Red
-  - Midnight Black
+  - Burnt Umber
+  - Cadmium Yellow
+  - Indian Yellow
+  - Phthalo Blue
+  - Phthalo Green
+  - Sap Green
+  - Titanium White
+  - Van Dyke Brown
+  - Yellow Ochre
 ```
