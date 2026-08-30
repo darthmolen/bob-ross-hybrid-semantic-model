@@ -60,13 +60,48 @@ Signature technique: **Architectural knife work** — precise cabin structure am
 
 ## 8. Initial Canvas Treatment
 
-- **Black gesso** brushed over the canvas and allowed to **dry completely** before any oil is applied. This is a dry acrylic ground, not a wet one: the oils above it cannot be pulled back into it, and every light value in the painting has to be added rather than lifted.
-- No Liquid Clear and no Liquid White base — the oils are carried thin directly over the ground.
-- No contact paper and no masking.
+**Observed while watching the episode.** This is one of the most unusual preparations in
+the series, and none of it is recoverable from the finished painting or from the dataset.
 
-The black ground carries the value structure of the whole painting. Read the light in this entry as light recovered from darkness, not as shadow laid over white.
+- **Contact paper cut as an oval** and burnished down, masking the area that becomes the
+  scene. Everything below is worked inside that mask; the canvas outside it stays bare
+  white, which is why the finished painting sits on an untouched surround.
+- **Grey gesso, tapped in with a sponge.** Not brushed — sponged, for a broken, granular
+  texture that reads as distant winter scrub before a single tree is painted.
+- **Liner brush twigging** into the wet grey gesso, drawing the bare branch structure
+  while the ground is still workable.
+- **Black gesso, same sponge, graded across the oval** — heavy at the sides, light through
+  the middle. The value structure of the whole painting is established in acrylic, before
+  any oil, as a deliberate dark-edge / light-centre gradient.
+- No Liquid White, no Liquid Clear.
 
-> Section 8 is template-filled from the CSV one-hot columns (`scripts/fix_ground.py`), not generated from the image.
+Measured off the gesso-stage frame, the oval runs from luminance **24** at the heaviest
+edge to **178** at the centre — and 178 is the value of the bare canvas. The light centre
+is not painted light; it is *left*, and darkness is sponged in around it. The vignette is
+made by subtraction, and the range is very nearly that of the finished painting.
+
+The gradient is the point. Bob normally builds the vignette's dark edges in oil, working
+inward. Here the dark-to-light falloff is already in the ground, sponged in and dried, so
+the oil work sits on a value scaffold rather than creating one. It is the same reasoning as
+the black-gesso episodes taken a step further: not just a dark ground, but a *graded* one.
+
+> **Two things here appear nowhere else in this index.**
+>
+> **Grey gesso.** Seventeen entries mention it, and all seventeen are negations — "No grey
+> gesso", "Grey gesso: Not used". This is the first recorded use in all 403 episodes. The
+> CSV has no column for it; only `Black_Gesso`, `Liquid_Black` and `Liquid_Clear` exist.
+>
+> **Sponge application.** The word "sponge" does not appear in any of the 403 entries.
+> The technique is absent from the index entirely.
+
+> **The CSV is wrong about the mask.** This episode carries no `Contact Paper` tag, but
+> the oval mask is used on air. Six other detected vignettes are likewise untagged —
+> S04E04, S08E07, S10E07, S12E12 *Mountain in an Oval*, S25E06 and S30E07 — so the tag
+> under-reports. `contact_paper` below follows the episode, not the dataset.
+
+See `discoveries/snow-perception-vs-absolute.md` for the still this was identified from
+and the full account.
+
 
 ---
 
@@ -76,6 +111,7 @@ tags:
   palette_identity: "frost-touched solitude"
   depth_style: "vertical compression"
   lighting_type: "diffused overcast"
+  special_format: "Oval contact paper mask over a sponged grey-then-black gesso ground"
   motion_profile: "downward serenity"
 
 episode:
@@ -85,12 +121,30 @@ episode:
   year: 1994
   painting_index: 403
 
+lint_exceptions:
+  - rule: mask-unstated
+    reason: >
+      Handled in Section 8 from direct observation. The CSV omits the Contact Paper tag
+      for this episode, so the rule cannot fire from tags, but the oval mask is real.
+
 canvas_preparation:
-  ground: "Black Gesso"
+  ground: "Black Gesso over Grey Gesso, sponged"
+  ground_detail: >
+    Grey gesso tapped in with a sponge and twigged with a liner brush, then black gesso
+    over it with the same sponge, graded heavy at the sides and light through the middle.
+    The value structure is built in acrylic before any oil.
   secondary_tone: null
   liquid_clear: false
   liquid_white: false
-  contact_paper: false
+  contact_paper: true
+  mask_shape: "oval"
+  application: "sponge"
+  csv_override: true
+  note: >
+    The CSV records Black_Gesso = 1 and no Contact Paper tag. Both the oval mask and the
+    grey gesso were observed in the episode; the grey gesso has no CSV column at all and
+    is the first recorded use in the index. csv_override keeps backfill_prep.py from
+    reverting these to the dataset values.
 
 colors:
   - Prussian Blue
