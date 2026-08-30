@@ -202,13 +202,41 @@ The distant glow adds mystery and depth, while the water catches the faintest hi
 
 ## 8. Initial Canvas Treatment
 
-Document the foundation Bob Ross prepared before painting:
+Section 8 documents **two independent facts**. Keep them separate — conflating them is
+what produced the worst errors in this index.
 
-- **Liquid White**: Smooth, wet surface for blending
-- **Liquid Clear**: Transparent wet surface for glazing
-- **Black gesso**: Dark underpainting for dramatic contrast
+### Ground — deterministic, from the CSV
+
+The surface the painting sits on. One of:
+
+- **Liquid White**: Smooth, wet white surface for blending (the default; `Black_Gesso = 0`
+  and `Liquid_Black = 0`)
+- **Liquid Black**: Wet black surface — oils stay in contact with it and can be pulled
+  back into it (`Liquid_Black = 1`)
+- **Black Gesso**: Dry acrylic black ground, applied and dried before any oil
+  (`Black_Gesso = 1`)
+
+Plus two independent modifiers:
+
+- **Liquid Clear**: Transparent wet medium laid *over* the ground (`Liquid_Clear = 1`)
+- **Contact paper**: Masking for sharp edges and shaped openings (`Contact Paper` in `tags`)
+
+> ⚠️ **Never infer the ground from the image.** A vision pass cannot distinguish a black
+> gesso ground from very dark paint over Liquid White, so it falls back on the modal
+> answer — Liquid White — and is wrong on exactly the episodes where the ground matters.
+> The ground is template-filled from the CSV one-hot columns by
+> `scripts/backfill_prep.py`. If the prose and the CSV disagree, **the prose is wrong**.
+
+### Secondary tone — from the episode narration
+
+The transparent colour laid over the Clear before painting begins. Flagged by the
+`Underpainting` tag (65 of 403 episodes) but the *value* is in no dataset: Bob speaks it
+aloud in the opening minute and it is invisible in the finished painting. Recovered from
+captions by `scripts/extract_prep.py`. Leave it `null` rather than guessing.
+
+Also note where they apply:
+
 - **Grey gesso**: Mid-tone foundation
-- **Contact paper**: Masking for sharp edges
 - **Textured gesso**: Special surface preparation
 
 End with a one-sentence summary of the foundational approach.
@@ -238,12 +266,27 @@ tags:
   lighting_type: "backlit glow"
   motion_profile: "center-pull perspective"
 
+searchable_features:
+  - dark river corridor
+  - trees leaning in both sides
+  - glow at the end of the river
+  - light on black water
+  - woods
+
 episode:
   season: 2
   episode: 6
   title: "Black River"
   year: 1984
+  painting_index: 40
   youtube_url: "https://www.youtube.com/watch?v=..."
+
+canvas_preparation:
+  ground: "Black Gesso"
+  secondary_tone: "Phthalo Blue"
+  liquid_clear: true
+  liquid_white: false
+  contact_paper: false
 
 colors:
   - Midnight Black
@@ -253,6 +296,39 @@ colors:
   - Titanium White
   - Yellow Ochre
 ```
+
+### `searchable_features` (REQUIRED)
+
+The retrieval half of the entry. People do not remember archetypes; they remember
+**shape, colour and position**. Write for that register:
+
+> "three trees breaking the vignette on the right" · "green in the water itself" ·
+> "reddish-brown mountain on the right" · "held up instead of on the easel" ·
+> "five straight trees he's giving bark to"
+
+Rules:
+
+- Structural descriptors beat thematic ones. "split canvas", "vertical dividing line"
+  and "dual frame" retrieve reliably; "seasonal duality" retrieves nothing.
+- Include lay synonyms, not just painter's vocabulary: teal, pink, woods, oval vignette,
+  breaking the frame, board, plank, knothole.
+- Always include the specialty preparation in plain words when there is one — "black
+  gesso ground", "board background", "contact paper mask", "painting within a painting".
+- Count things. "two palm trunks", "five straight birch trees", "two people walking".
+
+### `canvas_preparation` (REQUIRED)
+
+- `ground` — `"Liquid White"` | `"Liquid Black"` | `"Black Gesso"`. Deterministic;
+  written by `scripts/backfill_prep.py` from the CSV. Do not hand-edit.
+- `secondary_tone` — the transparent tone over the Clear, or `null`. Never guess.
+- `liquid_clear`, `liquid_white`, `contact_paper` — booleans, also from the CSV.
+
+### `colors` (REQUIRED)
+
+Must be a **subset of the CSV `colors` column** for that episode. The CSV lists canvas
+treatments (`Black Gesso`, `Liquid Clear`, `Liquid Black`) inside that column, so those
+belong in the list when the CSV has them. Anything not in the CSV column is invented and
+will fail the lint.
 
 ---
 
