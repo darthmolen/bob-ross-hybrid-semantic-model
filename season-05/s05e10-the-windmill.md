@@ -1,4 +1,4 @@
-# Season 5, Episode 10 — "The Windmill" (1987)
+# Season 5, Episode 10 — "The Windmill" (1985)
 
 ---
 
@@ -113,7 +113,7 @@ episode:
   season: 5
   episode: 10
   title: "The Windmill"
-  year: 1986
+  year: 1985
   painting_index: 239
 
 canvas_preparation:

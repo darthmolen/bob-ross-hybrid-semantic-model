@@ -1,4 +1,4 @@
-# Season 10, Episode 8 — "Golden Sunset" (1988)
+# Season 10, Episode 8 — "Golden Sunset" (1986)
 
 ## 1. Composition
 The painting presents a woodland clearing centered on a brilliant sunset breaking through dramatic purple-lavender clouds. Tall deciduous trees frame both sides—a striking birch tree anchors the left edge while dense autumn foliage masses occupy the right and center-right. A sunlit meadow stretches across the foreground, creating a natural pathway that draws the eye toward the radiant sunset. The tree line forms a broken semicircle around the glowing center, with varied autumn foliage in golds, oranges, and muted greens. Dark tree trunks provide vertical structure against the horizontal cloud bands and meadow. Compositional archetype: **framed vista with radiant center point**.
@@ -58,7 +58,7 @@ episode:
   season: 10
   episode: 8
   title: "Golden Sunset"
-  year: 1988
+  year: 1986
   painting_index: 171
 
 canvas_preparation:

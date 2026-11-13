@@ -1,4 +1,4 @@
-# Season 7, Episode 9 — "Lake by Mountain" (1986)
+# Season 7, Episode 9 — "Lake by Mountain" (1985)
 
 ## 1. Composition
 This scene captures a serene mountain lake with a majestic misty peak dominating the background. The composition features a large gray mountain shrouded in atmospheric haze at the center-left, its base lined with a dense evergreen forest. A calm lake occupies the lower two-thirds of the canvas, creating mirror-like reflections of the dramatic purple-lavender sky above. The right side presents a rocky shoreline with prominent evergreen trees, including one tall, elegant conifer that serves as a vertical anchor. Golden-yellow bushes in the lower right corner provide a warm color accent against the cool-toned landscape. The overall archetype follows a classic **lake-and-mountain wilderness scene** with strong asymmetrical balance between the open water on the left and the detailed shoreline on the right.
@@ -53,7 +53,7 @@ episode:
   season: 7
   episode: 9
   title: "Lake by Mountain"
-  year: 1986
+  year: 1985
   painting_index: 212
   youtube_url: "https://www.youtube.com/embed/yAiYirlcq7o"
 

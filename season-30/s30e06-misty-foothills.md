@@ -1,4 +1,4 @@
-# Season 30, Episode 6 — "Misty Foothills" (1994)
+# Season 30, Episode 6 — "Misty Foothills" (1993)
 
 ## 1. Composition
 A majestic purple mountain peak dominates the background, rising dramatically above multiple layers of progressively darker foothills that fade into atmospheric haze. Tall evergreen trees frame both sides of the composition, with a cluster on the left and a grouping on the right. A gently rolling grassy meadow occupies the foreground, creating an open valley floor. The sky features bright blue with billowing white cumulus clouds.
@@ -45,7 +45,7 @@ episode:
   season: 30
   episode: 6
   title: "Misty Foothills"
-  year: 1994
+  year: 1993
   painting_index: 391
 
 canvas_preparation:

@@ -1,4 +1,4 @@
-# Season 12, Episode 12 — "Mountain in an Oval" (1990)
+# Season 12, Episode 12 — "Mountain in an Oval" (1987)
 
 ## 1. Composition
 - Oval-framed vignette creating a portrait-style window into an alpine landscape
@@ -90,7 +90,7 @@ episode:
   season: 12
   episode: 12
   title: "Mountain in an Oval"
-  year: 1990
+  year: 1987
   painting_index: 148
 
 canvas_preparation:

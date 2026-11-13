@@ -1,4 +1,4 @@
-# Season 18, Episode 2 — "Absolutely Autumn" (1988)
+# Season 18, Episode 2 — "Absolutely Autumn" (1989)
 
 ## 1. Composition
 
@@ -92,7 +92,7 @@ episode:
   season: 18
   episode: 2
   title: "Absolutely Autumn"
-  year: 1988
+  year: 1989
   painting_index: 59
 
 canvas_preparation:

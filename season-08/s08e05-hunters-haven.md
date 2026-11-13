@@ -1,4 +1,4 @@
-# Season 8, Episode 5 — "Hunter's Haven" (1987)
+# Season 8, Episode 5 — "Hunter's Haven" (1986)
 
 ## 1. Composition
 - Tranquil lake scene enveloped in atmospheric mist

@@ -1,4 +1,4 @@
-# Season 18, Episode 12 — "Southwest Serenity" (1988)
+# Season 18, Episode 12 — "Southwest Serenity" (1989)
 
 ## 1. Composition
 
@@ -98,7 +98,7 @@ episode:
   season: 18
   episode: 12
   title: "Southwest Serenity"
-  year: 1988
+  year: 1989
   painting_index: 69
 
 canvas_preparation:

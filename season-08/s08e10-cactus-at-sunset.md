@@ -1,4 +1,4 @@
-# Season 8, Episode 10 — "Cactus at Sunset" (1987)
+# Season 8, Episode 10 — "Cactus at Sunset" (1986)
 
 ## 1. Composition
 - Desert landscape dominated by dramatic sunset sky

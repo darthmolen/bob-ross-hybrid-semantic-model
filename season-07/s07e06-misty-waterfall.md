@@ -1,4 +1,4 @@
-# Season 7, Episode 6 — "Misty Waterfall" (1986)
+# Season 7, Episode 6 — "Misty Waterfall" (1985)
 
 ## 1. Composition
 This painting features a dramatic central waterfall cascading over dark rocky ledges, framed by lush vegetation on both sides. The landforms consist of prominent dark rock outcroppings that create the waterfall's structure, with angular faces catching light and shadow. The water feature dominates the center, flowing vertically down through the rocky passage and churning into misty white foam at the base. Vegetation includes purple-violet deciduous trees in the background and midground, creating a soft, atmospheric backdrop, while bright yellow-green evergreens frame both sides of the composition with characteristic fan-brush foliage. The sky peeks through in brilliant blue with puffy white clouds. A small patch of orange-rust ground cover appears in the foreground right, adding warmth. The overall compositional archetype is a **framed vertical cascade** with strong symmetrical elements creating a natural tunnel that draws the eye directly to the waterfall's dynamic descent.
@@ -64,7 +64,7 @@ episode:
   season: 7
   episode: 6
   title: "Misty Waterfall"
-  year: 1986
+  year: 1985
   painting_index: 209
   youtube_url: "https://www.youtube.com/embed/530_cVmexiI"
 

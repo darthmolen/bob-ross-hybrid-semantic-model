@@ -1,4 +1,4 @@
-# Season 23, Episode 9 — "Toward Days End" (1992)
+# Season 23, Episode 9 — "Toward Days End" (1991)
 
 ## 1. Composition
 - Oval vignette format with soft, faded edges creating an intimate window into the scene
@@ -82,7 +82,7 @@ episode:
   season: 23
   episode: 9
   title: "Toward Days End"
-  year: 1992
+  year: 1991
   painting_index: 303
 
 canvas_preparation:

@@ -1,4 +1,4 @@
-# Season 12, Episode 7 — "Quiet Mountains River" (1990)
+# Season 12, Episode 7 — "Quiet Mountains River" (1987)
 
 ## 1. Composition
 - Two prominent snow-capped mountain peaks dominating the background, creating a dramatic alpine backdrop
@@ -89,7 +89,7 @@ episode:
   season: 12
   episode: 7
   title: "Quiet Mountains River"
-  year: 1990
+  year: 1987
   painting_index: 143
 
 canvas_preparation:

@@ -1,4 +1,4 @@
-# Season 4, Episode 10 — "Quiet Woods" (1985)
+# Season 4, Episode 10 — "Quiet Woods" (1984)
 
 ---
 
@@ -103,7 +103,7 @@ episode:
   season: 4
   episode: 10
   title: "Quiet Woods"
-  year: 1985
+  year: 1984
   painting_index: 252
 
 canvas_preparation:

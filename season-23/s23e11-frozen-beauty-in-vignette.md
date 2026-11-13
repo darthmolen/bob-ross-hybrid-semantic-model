@@ -1,4 +1,4 @@
-# Season 23, Episode 11 — "Frozen Beauty in Vignette" (1992)
+# Season 23, Episode 11 — "Frozen Beauty in Vignette" (1991)
 
 ## 1. Composition
 - Small cabin with snow-laden roof positioned right of center on elevated snowy ground
@@ -81,7 +81,7 @@ episode:
   season: 23
   episode: 11
   title: "Frozen Beauty in Vignette"
-  year: 1992
+  year: 1991
   painting_index: 305
 
 canvas_preparation:

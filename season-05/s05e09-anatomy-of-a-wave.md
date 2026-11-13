@@ -1,4 +1,4 @@
-# Season 5, Episode 9 — "Anatomy of a Wave" (1987)
+# Season 5, Episode 9 — "Anatomy of a Wave" (1985)
 
 ---
 
@@ -109,7 +109,7 @@ episode:
   season: 5
   episode: 9
   title: "Anatomy of a Wave"
-  year: 1986
+  year: 1985
   painting_index: 238
 
 canvas_preparation:

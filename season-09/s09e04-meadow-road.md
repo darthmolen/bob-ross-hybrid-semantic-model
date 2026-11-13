@@ -1,4 +1,4 @@
-# Season 9, Episode 4 — "Meadow Road" (1985)
+# Season 9, Episode 4 — "Meadow Road" (1986)
 
 ## 1. Composition
 
@@ -96,7 +96,7 @@ episode:
   season: 9
   episode: 4
   title: "Meadow Road"
-  year: 1985
+  year: 1986
   painting_index: 180
 
 canvas_preparation:

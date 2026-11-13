@@ -1,4 +1,4 @@
-# Season 5, Episode 4 — "Winter Stillness" (1987)
+# Season 5, Episode 4 — "Winter Stillness" (1985)
 
 ---
 
@@ -109,7 +109,7 @@ episode:
   season: 5
   episode: 4
   title: "Winter Stillness"
-  year: 1986
+  year: 1985
   painting_index: 233
 
 canvas_preparation:

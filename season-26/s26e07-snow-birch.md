@@ -1,4 +1,4 @@
-# Season 26, Episode 7 — "Snow Birch" (1992)
+# Season 26, Episode 7 — "Snow Birch" (1993)
 
 ## 1. Composition
 - Horizontal mirror composition dividing sky/land from water reflection
@@ -89,7 +89,7 @@ episode:
   season: 26
   episode: 7
   title: "Snow Birch"
-  year: 1992
+  year: 1993
   painting_index: 340
 
 canvas_preparation:

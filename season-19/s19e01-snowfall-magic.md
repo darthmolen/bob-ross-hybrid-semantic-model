@@ -1,4 +1,4 @@
-# Season 19, Episode 1 — "Snowfall Magic" (1989)
+# Season 19, Episode 1 — "Snowfall Magic" (1990)
 
 ## 1. Composition
 
@@ -97,7 +97,7 @@ episode:
   season: 19
   episode: 1
   title: "Snowfall Magic"
-  year: 1989
+  year: 1990
   painting_index: 44
 
 canvas_preparation:

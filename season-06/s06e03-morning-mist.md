@@ -1,4 +1,4 @@
-# Season 6, Episode 3 — "Morning Mist" (1986)
+# Season 6, Episode 3 — "Morning Mist" (1985)
 
 ## 1. Composition
 
@@ -92,7 +92,7 @@ episode:
   season: 6
   episode: 3
   title: "Morning Mist"
-  year: 1986
+  year: 1985
   painting_index: 219
 
 canvas_preparation:

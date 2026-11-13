@@ -1,4 +1,4 @@
-# Season 22, Episode 8 — "Deep Wilderness Home" (1990)
+# Season 22, Episode 8 — "Deep Wilderness Home" (1991)
 
 ## 1. Composition
 A weathered log cabin anchors the center-left of the composition, its deteriorating roof telling stories of decades in isolation. Rolling meadows of vibrant spring grass cascade across the foreground, while dense deciduous forest embraces the structure from behind and both sides. Towering trees frame the scene—darker conifers on the left, bright yellow-green foliage on the right catching unseen light. A thick atmospheric mist veils the background forest, creating layers of soft gray-green that dissolve into obscurity. The sky remains hidden behind fog, merging seamlessly with the forested hillside.
@@ -44,7 +44,7 @@ episode:
   season: 22
   episode: 8
   title: "Deep Wilderness Home"
-  year: 1990
+  year: 1991
   painting_index: 8
 
 canvas_preparation:

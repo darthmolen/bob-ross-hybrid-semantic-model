@@ -1,4 +1,4 @@
-# Season 4, Episode 11 — "Northwest Majesty" (1985)
+# Season 4, Episode 11 — "Northwest Majesty" (1984)
 
 ---
 
@@ -107,7 +107,7 @@ episode:
   season: 4
   episode: 11
   title: "Northwest Majesty"
-  year: 1985
+  year: 1984
   painting_index: 253
 
 canvas_preparation:

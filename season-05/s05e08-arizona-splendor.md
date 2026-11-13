@@ -1,4 +1,4 @@
-# Season 5, Episode 8 — "Arizona Splendor" (1987)
+# Season 5, Episode 8 — "Arizona Splendor" (1985)
 
 ---
 
@@ -106,7 +106,7 @@ episode:
   season: 5
   episode: 8
   title: "Arizona Splendor"
-  year: 1986
+  year: 1985
   painting_index: 237
 
 canvas_preparation:

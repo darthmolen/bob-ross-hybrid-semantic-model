@@ -170,7 +170,7 @@ When sharing episode results:
 ## Response Format for Episode Results
 When listing episodes, use this format:
 
-**S02E06 - "Black River" (1984)**
+**S02E06 - "Black River" (1983)**
 ![S02E06 - Black River](https://raw.githubusercontent.com/darthmolen/bob-ross-hybrid-semantic-model/main/images/painting274.png)
 - **Composition**: Forest corridor with river
 - **Palette**: Dark woodland with luminous water highlights

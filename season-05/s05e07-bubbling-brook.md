@@ -1,4 +1,4 @@
-# Season 5, Episode 7 — "Bubbling Brook" (1987)
+# Season 5, Episode 7 — "Bubbling Brook" (1985)
 
 ---
 
@@ -109,7 +109,7 @@ episode:
   season: 5
   episode: 7
   title: "Bubbling Brook"
-  year: 1986
+  year: 1985
   painting_index: 236
 
 canvas_preparation:

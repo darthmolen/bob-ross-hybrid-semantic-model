@@ -1,4 +1,4 @@
-# Season 12, Episode 4 — "Bright Autumn Trees" (1990)
+# Season 12, Episode 4 — "Bright Autumn Trees" (1987)
 
 ## 1. Composition
 - Tranquil lake scene framed by towering autumn trees in brilliant golden yellows
@@ -86,7 +86,7 @@ episode:
   season: 12
   episode: 4
   title: "Bright Autumn Trees"
-  year: 1990
+  year: 1987
   painting_index: 140
 
 canvas_preparation:

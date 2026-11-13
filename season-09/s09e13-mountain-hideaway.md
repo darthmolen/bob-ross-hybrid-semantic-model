@@ -1,4 +1,4 @@
-# Season 9, Episode 13 — "Mountain Hideaway" (1985)
+# Season 9, Episode 13 — "Mountain Hideaway" (1986)
 
 ## 1. Composition
 
@@ -101,7 +101,7 @@ episode:
   season: 9
   episode: 13
   title: "Mountain Hideaway"
-  year: 1985
+  year: 1986
   painting_index: 189
 
 canvas_preparation:

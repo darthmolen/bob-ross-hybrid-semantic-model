@@ -1,4 +1,4 @@
-# Season 4, Episode 6 — "Warm Summer Day" (1985)
+# Season 4, Episode 6 — "Warm Summer Day" (1984)
 
 ---
 
@@ -115,7 +115,7 @@ episode:
   season: 4
   episode: 6
   title: "Warm Summer Day"
-  year: 1985
+  year: 1984
   painting_index: 248
 
 canvas_preparation:

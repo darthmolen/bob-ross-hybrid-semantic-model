@@ -1,4 +1,4 @@
-# Season 30, Episode 4 — "Wilderness Trail" (1994)
+# Season 30, Episode 4 — "Wilderness Trail" (1993)
 
 ## 1. Composition
 A deep forest interior frames a central trail that recedes into misty blue depths. Towering evergreens form dense walls on both sides, their foliage creating a natural archway over the path. Prominent birch or aspen trunks rise in the right foreground, their pale bark contrasting with the dark conifers. The background dissolves into atmospheric blue-gray mist, suggesting vast forest depths beyond. No water features or structures appear—only the untamed wilderness and the narrow trail cutting through it. Compositional archetype: **Forest corridor with central vanishing path**
@@ -56,7 +56,7 @@ episode:
   season: 30
   episode: 4
   title: "Wilderness Trail"
-  year: 1994
+  year: 1993
   painting_index: 389
 
 canvas_preparation:

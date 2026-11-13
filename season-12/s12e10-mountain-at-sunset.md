@@ -1,4 +1,4 @@
-# Season 12, Episode 10 — "Mountain at Sunset" (1990)
+# Season 12, Episode 10 — "Mountain at Sunset" (1987)
 
 ## 1. Composition
 - Dramatic rocky mountain peak dominates the background with snow-covered highlights and deep shadowed crevices
@@ -88,7 +88,7 @@ episode:
   season: 12
   episode: 10
   title: "Mountain at Sunset"
-  year: 1990
+  year: 1987
   painting_index: 146
 
 canvas_preparation:

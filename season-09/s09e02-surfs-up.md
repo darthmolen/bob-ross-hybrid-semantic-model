@@ -1,4 +1,4 @@
-# Season 9, Episode 2 — "Surf's Up" (1985)
+# Season 9, Episode 2 — "Surf's Up" (1986)
 
 ## 1. Composition
 
@@ -90,7 +90,7 @@ episode:
   season: 9
   episode: 2
   title: "Surf's Up"
-  year: 1985
+  year: 1986
   painting_index: 178
 
 canvas_preparation:

@@ -1,4 +1,4 @@
-# Season 22, Episode 11 — "Pastel Seascape" (1990)
+# Season 22, Episode 11 — "Pastel Seascape" (1991)
 
 ## 1. Composition
 The painting features a minimalist seascape centered within an oval vignette. Rolling ocean waves dominate the lower half, rendered in translucent blues and greens with white foam crests. A dramatic sky fills the upper portion with billowing cumulus clouds in coral, pink, and lavender tones surrounding a luminous yellow-white center suggesting sunrise or sunset. The left foreground anchors the composition with a dark rocky outcrop crowned with windswept grasses. Two small birds appear as silhouettes against the mid-distance sky on the right, adding scale and depth. The oval frame creates an intimate, cameo-like viewing experience.
@@ -49,7 +49,7 @@ episode:
   season: 22
   episode: 11
   title: "Pastel Seascape"
-  year: 1990
+  year: 1991
   painting_index: 11
 
 canvas_preparation:

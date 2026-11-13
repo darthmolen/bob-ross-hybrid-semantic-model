@@ -1,4 +1,4 @@
-# Season 7, Episode 1 — "Winter Cabin" (1986)
+# Season 7, Episode 1 — "Winter Cabin" (1985)
 
 ## 1. Composition
 
@@ -64,7 +64,7 @@ episode:
   season: 7
   episode: 1
   title: "Winter Cabin"
-  year: 1986
+  year: 1985
   painting_index: 203
   youtube_url: "https://www.youtube.com/embed/kdlHV6ceI_g"
 

@@ -1,4 +1,4 @@
-# Season 6, Episode 8 — "Horizons West" (1986)
+# Season 6, Episode 8 — "Horizons West" (1985)
 
 ## 1. Composition
 
@@ -87,7 +87,7 @@ episode:
   season: 6
   episode: 8
   title: "Horizons West"
-  year: 1986
+  year: 1985
   painting_index: 224
 
 canvas_preparation:

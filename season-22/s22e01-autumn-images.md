@@ -1,4 +1,4 @@
-# Season 22, Episode 1 — "Autumn Images" (1990)
+# Season 22, Episode 1 — "Autumn Images" (1991)
 
 ## 1. Composition
 The composition presents a dramatic mountain vista framed by autumn foliage. Twin snow-capped peaks dominate the background, their rugged faces rendered in cool blues and grays with bright white snow-covered summits. The foreground features deciduous trees in full autumn glory, positioned on both left and right sides to create a natural frame. Golden yellows, warm oranges, and residual greens populate the foliage, while darker tree trunks provide vertical structure. A misty atmospheric valley separates foreground from background. The sky holds billowing cumulus clouds against a bright blue expanse. Compositional archetype: **Portal framing with seasonal contrast**.
@@ -43,7 +43,7 @@ episode:
   season: 22
   episode: 1
   title: "Autumn Images"
-  year: 1990
+  year: 1991
   painting_index: 14
 
 canvas_preparation:

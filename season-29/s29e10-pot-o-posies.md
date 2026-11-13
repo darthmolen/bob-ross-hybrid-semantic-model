@@ -1,4 +1,4 @@
-# Season 29, Episode 10 — "Pot O' Posies" (1992)
+# Season 29, Episode 10 — "Pot O' Posies" (1993)
 
 ## 1. Composition
 - Still life centered on a ceramic pot filled with vibrant red flowers
@@ -81,7 +81,7 @@ episode:
   season: 29
   episode: 10
   title: "Pot O' Posies"
-  year: 1992
+  year: 1993
   painting_index: 382
 
 canvas_preparation:

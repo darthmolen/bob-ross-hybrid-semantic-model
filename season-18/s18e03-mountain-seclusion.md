@@ -1,4 +1,4 @@
-# Season 18, Episode 3 — "Mountain Seclusion" (1988)
+# Season 18, Episode 3 — "Mountain Seclusion" (1989)
 
 ## 1. Composition
 
@@ -54,7 +54,7 @@ episode:
   season: 18
   episode: 3
   title: "Mountain Seclusion"
-  year: 1988
+  year: 1989
   painting_index: 60
 
 canvas_preparation:

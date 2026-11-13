@@ -1,4 +1,4 @@
-# Season 6, Episode 7 — "Arctic Beauty" (1986)
+# Season 6, Episode 7 — "Arctic Beauty" (1985)
 
 ## 1. Composition
 
@@ -106,7 +106,7 @@ episode:
   season: 6
   episode: 7
   title: "Arctic Beauty"
-  year: 1986
+  year: 1985
   painting_index: 223
 
 canvas_preparation:

@@ -1,4 +1,4 @@
-# Season 30, Episode 1 — "Babbling Brook" (1994)
+# Season 30, Episode 1 — "Babbling Brook" (1993)
 
 ## 1. Composition
 A misty forest sanctuary centered around a dramatic bare tree that dominates the left-center composition. Dark weathered rocks anchor the left foreground, while a delicate waterfall cascades through the lower center. Verdant evergreen foliage frames the right side, contrasting with the skeletal tree. The background dissolves into a luminous amber haze, creating an atmospheric portal through the forest depths. An oval vignette softens the edges, drawing focus to the mystical interplay of light and shadow.
@@ -54,7 +54,7 @@ episode:
   season: 30
   episode: 1
   title: "Babbling Brook"
-  year: 1994
+  year: 1993
   painting_index: 386
 
 canvas_preparation:

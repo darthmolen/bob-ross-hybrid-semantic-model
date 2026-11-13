@@ -1,4 +1,4 @@
-# Season 18, Episode 5 — "Autumn Exhibition" (1988)
+# Season 18, Episode 5 — "Autumn Exhibition" (1989)
 
 ## 1. Composition
 
@@ -101,7 +101,7 @@ episode:
   season: 18
   episode: 5
   title: "Autumn Exhibition"
-  year: 1988
+  year: 1989
   painting_index: 62
 
 canvas_preparation:

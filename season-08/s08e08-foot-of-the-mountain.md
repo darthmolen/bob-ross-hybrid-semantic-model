@@ -1,4 +1,4 @@
-# Season 8, Episode 8 — "Foot of the Mountain" (1987)
+# Season 8, Episode 8 — "Foot of the Mountain" (1986)
 
 ## 1. Composition
 - Landforms: Purple-lavender mountain range visible through atmospheric haze in the distant background

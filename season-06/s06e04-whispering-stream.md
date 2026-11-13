@@ -1,4 +1,4 @@
-# Season 6, Episode 4 — "Whispering Stream" (1986)
+# Season 6, Episode 4 — "Whispering Stream" (1985)
 
 ## 1. Composition
 
@@ -92,7 +92,7 @@ episode:
   season: 6
   episode: 4
   title: "Whispering Stream"
-  year: 1986
+  year: 1985
   painting_index: 220
 
 canvas_preparation:

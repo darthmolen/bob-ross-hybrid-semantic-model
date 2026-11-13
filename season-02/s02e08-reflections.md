@@ -1,4 +1,4 @@
-# Season 2, Episode 8 — "Reflections" (1983-1984)
+# Season 2, Episode 8 — "Reflections" (1983)
 
 ## 1. Composition
 
@@ -93,7 +93,7 @@ episode:
   season: 2
   episode: 8
   title: "Reflections"
-  year: 1984
+  year: 1983
   painting_index: 276
 
 canvas_preparation:

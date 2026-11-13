@@ -1,4 +1,4 @@
-# Season 29, Episode 12 — "Aurora's Dance" (1992)
+# Season 29, Episode 12 — "Aurora's Dance" (1993)
 
 ## 1. Composition
 - Oval-format winter night scene dominated by a spectacular aurora borealis display
@@ -83,7 +83,7 @@ episode:
   season: 29
   episode: 12
   title: "Aurora's Dance"
-  year: 1992
+  year: 1993
   painting_index: 384
 
 canvas_preparation:

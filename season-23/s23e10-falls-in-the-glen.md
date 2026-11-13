@@ -1,4 +1,4 @@
-# Season 23, Episode 10 — "Falls in the Glen" (1992)
+# Season 23, Episode 10 — "Falls in the Glen" (1991)
 
 ## 1. Composition
 - Dramatic waterfall cascading down the center background as the dominant focal point
@@ -90,7 +90,7 @@ episode:
   season: 23
   episode: 10
   title: "Falls in the Glen"
-  year: 1992
+  year: 1991
   painting_index: 304
 
 canvas_preparation:

@@ -1,4 +1,4 @@
-# Season 18, Episode 7 — "Golden Morning Mist" (1988)
+# Season 18, Episode 7 — "Golden Morning Mist" (1989)
 
 ## 1. Composition
 
@@ -108,7 +108,7 @@ episode:
   season: 18
   episode: 7
   title: "Golden Morning Mist"
-  year: 1988
+  year: 1989
   painting_index: 64
 
 canvas_preparation:

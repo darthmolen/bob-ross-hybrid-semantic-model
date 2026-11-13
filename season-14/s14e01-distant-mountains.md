@@ -1,4 +1,4 @@
-# Season 14, Episode 1 — "Distant Mountains" (1988)
+# Season 14, Episode 1 — "Distant Mountains" (1987)
 
 ## 1. Composition
 - Landforms: Distant layered mountain range receding into misty background
@@ -79,7 +79,7 @@ episode:
   season: 14
   episode: 1
   title: "Distant Mountains"
-  year: 1988
+  year: 1987
   painting_index: 111
 
 canvas_preparation:

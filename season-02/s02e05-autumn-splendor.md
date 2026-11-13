@@ -1,4 +1,4 @@
-# Season 2, Episode 5 — "Autumn Splendor" (1983-1984)
+# Season 2, Episode 5 — "Autumn Splendor" (1983)
 
 ---
 
@@ -121,7 +121,7 @@ episode:
   season: 2
   episode: 5
   title: "Autumn Splendor"
-  year: 1984
+  year: 1983
   painting_index: 273
 
 canvas_preparation:

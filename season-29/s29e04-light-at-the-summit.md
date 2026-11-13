@@ -1,4 +1,4 @@
-# Season 29, Episode 4 — "Light at the Summit" (1992)
+# Season 29, Episode 4 — "Light at the Summit" (1993)
 
 ## 1. Composition
 - Majestic mountain range dominates the background with multiple layers receding into atmospheric haze
@@ -88,7 +88,7 @@ episode:
   season: 29
   episode: 4
   title: "Light at the Summit"
-  year: 1992
+  year: 1993
   painting_index: 376
 
 canvas_preparation:

@@ -1,4 +1,4 @@
-# Season 23, Episode 7 — "At Dawn's Light" (1992)
+# Season 23, Episode 7 — "At Dawn's Light" (1991)
 
 ## 1. Composition
 - Snow-covered winter landscape centered on a calm reflective waterway
@@ -75,7 +75,7 @@ episode:
   season: 23
   episode: 7
   title: "At Dawn's Light"
-  year: 1992
+  year: 1991
   painting_index: 301
 
 canvas_preparation:

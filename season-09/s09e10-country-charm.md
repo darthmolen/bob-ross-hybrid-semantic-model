@@ -1,4 +1,4 @@
-# Season 9, Episode 10 — "Country Charm" (1985)
+# Season 9, Episode 10 — "Country Charm" (1986)
 
 ## 1. Composition
 
@@ -101,7 +101,7 @@ episode:
   season: 9
   episode: 10
   title: "Country Charm"
-  year: 1985
+  year: 1986
   painting_index: 186
 
 canvas_preparation:

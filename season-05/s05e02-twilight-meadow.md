@@ -1,4 +1,4 @@
-# Season 5, Episode 2 — "Twilight Meadow" (1987)
+# Season 5, Episode 2 — "Twilight Meadow" (1985)
 
 ---
 
@@ -109,7 +109,7 @@ episode:
   season: 5
   episode: 2
   title: "Twilight Meadow"
-  year: 1986
+  year: 1985
   painting_index: 231
 
 canvas_preparation:

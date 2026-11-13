@@ -1,4 +1,4 @@
-# Season 23, Episode 5 — "Quiet Cove" (1992)
+# Season 23, Episode 5 — "Quiet Cove" (1991)
 
 ## 1. Composition
 - Central misty mountain rising above a tranquil lake
@@ -80,7 +80,7 @@ episode:
   season: 23
   episode: 5
   title: "Quiet Cove"
-  year: 1992
+  year: 1991
   painting_index: 299
 
 canvas_preparation:

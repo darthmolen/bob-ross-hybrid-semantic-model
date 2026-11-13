@@ -1,4 +1,4 @@
-# Season 10, Episode 4 — "Secluded Bridge" (1988)
+# Season 10, Episode 4 — "Secluded Bridge" (1986)
 
 ## 1. Composition
 This painting features a central stream corridor that flows from the misty background toward the viewer, creating a strong vanishing point perspective. A rustic wooden footbridge spans the water in the midground, serving as the focal architectural element. The composition is vertically anchored by tall, thin background trees that reach toward a bright blue sky visible through the forest canopy. Banks on either side frame the water passage—the left side dominated by dark evergreen foliage and shadowed masses, the right side featuring bright yellow-green deciduous growth catching direct light. Rocky outcroppings and moss-covered stones line both banks, with white water rapids tumbling over dark rocks in the foreground. The scene employs a classic **tunnel composition with bilateral asymmetry**, drawing the eye through the natural corridor toward the bridge destination.
@@ -58,7 +58,7 @@ episode:
   season: 10
   episode: 4
   title: "Secluded Bridge"
-  year: 1988
+  year: 1986
   painting_index: 166
 
 canvas_preparation:

@@ -1,4 +1,4 @@
-# Season 30, Episode 2 — "Woodgrain View" (1994)
+# Season 30, Episode 2 — "Woodgrain View" (1993)
 
 ## 1. Composition
 
@@ -115,7 +115,7 @@ episode:
   season: 30
   episode: 2
   title: "Woodgrain View"
-  year: 1994
+  year: 1993
   painting_index: 387
 
 canvas_preparation:

@@ -1,4 +1,4 @@
-# Season 9, Episode 7 — "Forest Hills" (1985)
+# Season 9, Episode 7 — "Forest Hills" (1986)
 
 ## 1. Composition
 
@@ -93,7 +93,7 @@ episode:
   season: 9
   episode: 7
   title: "Forest Hills"
-  year: 1985
+  year: 1986
   painting_index: 183
 
 canvas_preparation:

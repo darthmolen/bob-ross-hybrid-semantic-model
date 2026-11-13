@@ -1,4 +1,4 @@
-# Season 11, Episode 1 — "Mountain Stream" (1987)
+# Season 11, Episode 1 — "Mountain Stream" (1986)
 
 ## 1. Composition
 - Majestic snow-capped mountain dominates the center background, rising dramatically against a cloudy sky
@@ -85,7 +85,7 @@ episode:
   season: 11
   episode: 1
   title: "Mountain Stream"
-  year: 1987
+  year: 1986
   painting_index: 150
 
 canvas_preparation:

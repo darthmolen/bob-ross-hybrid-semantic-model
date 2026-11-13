@@ -1,4 +1,4 @@
-# Season 10, Episode 10 — "Ocean Sunset" (1988)
+# Season 10, Episode 10 — "Ocean Sunset" (1986)
 
 ## 1. Composition
 
@@ -72,7 +72,7 @@ episode:
   season: 10
   episode: 10
   title: "Ocean Sunset"
-  year: 1988
+  year: 1986
   painting_index: 173
 
 canvas_preparation:

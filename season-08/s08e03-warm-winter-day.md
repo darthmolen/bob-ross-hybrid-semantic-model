@@ -1,4 +1,4 @@
-# Season 8, Episode 3 — "Warm Winter Day" (1987)
+# Season 8, Episode 3 — "Warm Winter Day" (1986)
 
 ## 1. Composition
 - Rolling snow-covered terrain with gentle undulations

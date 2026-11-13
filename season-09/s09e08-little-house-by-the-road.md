@@ -1,4 +1,4 @@
-# Season 9, Episode 8 — "Little House by the Road" (1985)
+# Season 9, Episode 8 — "Little House by the Road" (1986)
 
 ## 1. Composition
 
@@ -95,7 +95,7 @@ episode:
   season: 9
   episode: 8
   title: "Little House by the Road"
-  year: 1985
+  year: 1986
   painting_index: 184
 
 canvas_preparation:

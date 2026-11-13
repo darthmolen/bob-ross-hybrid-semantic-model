@@ -1,4 +1,4 @@
-# Season 19, Episode 4 — "Snowy Morn" (1989)
+# Season 19, Episode 4 — "Snowy Morn" (1990)
 
 ## 1. Composition
 
@@ -94,7 +94,7 @@ episode:
   season: 19
   episode: 4
   title: "Snowy Morn"
-  year: 1989
+  year: 1990
   painting_index: 47
 
 canvas_preparation:

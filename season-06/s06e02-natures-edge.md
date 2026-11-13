@@ -1,4 +1,4 @@
-# Season 6, Episode 2 — "Nature's Edge" (1986)
+# Season 6, Episode 2 — "Nature's Edge" (1985)
 
 ## 1. Composition
 
@@ -90,7 +90,7 @@ episode:
   season: 6
   episode: 2
   title: "Nature's Edge"
-  year: 1986
+  year: 1985
   painting_index: 218
 
 canvas_preparation:

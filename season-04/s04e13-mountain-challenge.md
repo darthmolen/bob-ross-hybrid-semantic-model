@@ -1,4 +1,4 @@
-# Season 4, Episode 13 — "Mountain Challenge" (1985)
+# Season 4, Episode 13 — "Mountain Challenge" (1984)
 
 ---
 
@@ -102,7 +102,7 @@ episode:
   season: 4
   episode: 13
   title: "Mountain Challenge"
-  year: 1985
+  year: 1984
   painting_index: 255
 
 canvas_preparation:

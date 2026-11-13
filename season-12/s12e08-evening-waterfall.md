@@ -1,4 +1,4 @@
-# Season 12, Episode 8 — "Evening Waterfall" (1990)
+# Season 12, Episode 8 — "Evening Waterfall" (1987)
 
 ## 1. Composition
 - Secluded forest glen dominated by evergreen trees with distinctive white birch-like trunks
@@ -95,7 +95,7 @@ episode:
   season: 12
   episode: 8
   title: "Evening Waterfall"
-  year: 1990
+  year: 1987
   painting_index: 144
 
 canvas_preparation:

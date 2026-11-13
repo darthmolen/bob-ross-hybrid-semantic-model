@@ -1,4 +1,4 @@
-# Season 19, Episode 8 — "Scenic Seclusion" (1989)
+# Season 19, Episode 8 — "Scenic Seclusion" (1990)
 
 ## 1. Composition
 
@@ -95,7 +95,7 @@ episode:
   season: 19
   episode: 8
   title: "Scenic Seclusion"
-  year: 1989
+  year: 1990
   painting_index: 51
 
 canvas_preparation:

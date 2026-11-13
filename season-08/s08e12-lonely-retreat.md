@@ -1,4 +1,4 @@
-# Season 8, Episode 12 — "Lonely Retreat" (1987)
+# Season 8, Episode 12 — "Lonely Retreat" (1986)
 
 ## 1. Composition
 - Snow-covered landscape with rolling terrain

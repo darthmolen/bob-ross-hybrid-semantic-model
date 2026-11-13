@@ -1,4 +1,4 @@
-# Season 10, Episode 11 — "Triple View" (1988)
+# Season 10, Episode 11 — "Triple View" (1986)
 
 ## 1. Composition
 This triptych composition divides the canvas into three distinct vertical panels, each offering a unique perspective of the same mountain paradise. The left panel features a stark bare tree against misty blue mountains, establishing a sense of solitude. The center panel presents the focal narrative—a majestic snow-capped mountain rising above evergreen forests, with a small cabin featuring a bright red roof and a winding path leading toward it. The right panel displays rolling green meadows dotted with evergreen trees beneath a soft clouded sky. Each panel maintains visual harmony through a unified palette of blues, pinks, and greens while functioning as an independent composition. Compositional archetype: **Segmented triptych panorama with narrative progression from isolation to habitation to open wilderness**.
@@ -46,7 +46,7 @@ episode:
   season: 10
   episode: 11
   title: "Triple View"
-  year: 1988
+  year: 1986
   painting_index: 174
 
 canvas_preparation:

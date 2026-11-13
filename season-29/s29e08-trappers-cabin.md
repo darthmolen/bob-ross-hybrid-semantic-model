@@ -1,4 +1,4 @@
-# Season 29, Episode 8 — "Trapper's Cabin" (1992)
+# Season 29, Episode 8 — "Trapper's Cabin" (1993)
 
 ## 1. Composition
 - Layered mountain range dominates the background with prominent twin peaks creating strong vertical interest
@@ -89,7 +89,7 @@ episode:
   season: 29
   episode: 8
   title: "Trapper's Cabin"
-  year: 1992
+  year: 1993
   painting_index: 380
 
 canvas_preparation:

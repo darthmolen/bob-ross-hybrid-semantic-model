@@ -1,4 +1,4 @@
-# Season 7, Episode 7 — "Barn at Sunset" (1986)
+# Season 7, Episode 7 — "Barn at Sunset" (1985)
 
 ## 1. Composition
 This winter scene features a weathered wooden barn as the central focal point, positioned in the midground against a dramatic sunset sky. The composition is anchored by a stark, leafless tree on the left and snow-laden evergreens and deciduous trees on the right, creating a natural frame. The foreground displays snow-covered terrain with prominent blue-violet shadows, while the background showcases billowing clouds in warm sunset tones of orange, yellow, and pink breaking through cooler blue and lavender sky. The barn itself shows vertical board-and-batten siding with a snow-covered gabled roof and a dark opening suggesting storage or passage. The overall compositional archetype is **rural pastoral winter tableau with dramatic atmospheric backlight**.
@@ -56,7 +56,7 @@ episode:
   season: 7
   episode: 7
   title: "Barn at Sunset"
-  year: 1986
+  year: 1985
   painting_index: 210
   youtube_url: "https://www.youtube.com/embed/WT6n0K2zGnA"
 

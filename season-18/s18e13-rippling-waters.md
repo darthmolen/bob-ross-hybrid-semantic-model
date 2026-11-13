@@ -1,4 +1,4 @@
-# Season 18, Episode 13 — "Rippling Waters" (1988)
+# Season 18, Episode 13 — "Rippling Waters" (1989)
 
 ## 1. Composition
 
@@ -98,7 +98,7 @@ episode:
   season: 18
   episode: 13
   title: "Rippling Waters"
-  year: 1988
+  year: 1989
   painting_index: 70
 
 lint_exceptions:

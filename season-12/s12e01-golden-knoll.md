@@ -1,4 +1,4 @@
-# Season 12, Episode 1 — "Golden Knoll" (1990)
+# Season 12, Episode 1 — "Golden Knoll" (1987)
 
 ## 1. Composition
 - Rolling golden hillside with prominent central knoll bathed in warm, glowing light
@@ -88,7 +88,7 @@ episode:
   season: 12
   episode: 1
   title: "Golden Knoll"
-  year: 1990
+  year: 1987
   painting_index: 137
 
 canvas_preparation:

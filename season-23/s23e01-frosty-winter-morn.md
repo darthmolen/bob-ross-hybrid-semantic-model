@@ -1,4 +1,4 @@
-# Season 23, Episode 1 — "Frosty Winter Morn" (1992)
+# Season 23, Episode 1 — "Frosty Winter Morn" (1991)
 
 ## 1. Composition
 - Rustic wooden cabin positioned left of center with snow-laden roof
@@ -83,7 +83,7 @@ episode:
   season: 23
   episode: 1
   title: "Frosty Winter Morn"
-  year: 1992
+  year: 1991
   painting_index: 295
 
 canvas_preparation:

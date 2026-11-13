@@ -277,7 +277,7 @@ episode:
   season: 2
   episode: 6
   title: "Black River"
-  year: 1984
+  year: 1983
   painting_index: 40
   youtube_url: "https://www.youtube.com/watch?v=..."
 
@@ -347,4 +347,4 @@ will fail the lint.
 
 ## Complete Example
 
-See `.claude/context/bob-ross-semantic-index-context.md` Section "Example Entry: Season 2, Episode 6 — 'Black River' (1984)" for a full working example.
+See `.claude/context/bob-ross-semantic-index-context.md` Section "Example Entry: Season 2, Episode 6 — 'Black River' (1983)" for a full working example.

@@ -1,4 +1,4 @@
-# Season 19, Episode 12 — "Evening's Peace" (1989)
+# Season 19, Episode 12 — "Evening's Peace" (1990)
 
 ## 1. Composition
 
@@ -90,7 +90,7 @@ episode:
   season: 19
   episode: 12
   title: "Evening's Peace"
-  year: 1989
+  year: 1990
   painting_index: 56
 
 canvas_preparation:

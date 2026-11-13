@@ -1,4 +1,4 @@
-# Season 18, Episode 8 — "Winter Lace" (1988)
+# Season 18, Episode 8 — "Winter Lace" (1989)
 
 ## 1. Composition
 
@@ -112,7 +112,7 @@ episode:
   season: 18
   episode: 8
   title: "Winter Lace"
-  year: 1988
+  year: 1989
   painting_index: 65
 
 canvas_preparation:

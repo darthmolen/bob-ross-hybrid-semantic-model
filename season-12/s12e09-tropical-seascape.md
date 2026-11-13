@@ -1,4 +1,4 @@
-# Season 12, Episode 9 — "Tropical Seascape" (1990)
+# Season 12, Episode 9 — "Tropical Seascape" (1987)
 
 ## 1. Composition
 - Dominant rolling ocean wave commands the center and right portions of the canvas
@@ -84,7 +84,7 @@ episode:
   season: 12
   episode: 9
   title: "Tropical Seascape"
-  year: 1990
+  year: 1987
   painting_index: 145
 
 canvas_preparation:

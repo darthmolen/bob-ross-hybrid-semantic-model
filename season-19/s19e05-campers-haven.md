@@ -1,4 +1,4 @@
-# Season 19, Episode 5 — "Camper's Haven" (1989)
+# Season 19, Episode 5 — "Camper's Haven" (1990)
 
 ## 1. Composition
 
@@ -88,7 +88,7 @@ episode:
   season: 19
   episode: 5
   title: "Camper's Haven"
-  year: 1989
+  year: 1990
   painting_index: 48
 
 canvas_preparation:

@@ -1,4 +1,4 @@
-# Season 8, Episode 13 — "Northern Lights" (1987)
+# Season 8, Episode 13 — "Northern Lights" (1986)
 
 ## 1. Composition
 - Snow-covered mountain peak dominating the left-center background

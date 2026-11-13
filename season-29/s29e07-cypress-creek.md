@@ -1,4 +1,4 @@
-# Season 29, Episode 7 — "Cypress Creek" (1992)
+# Season 29, Episode 7 — "Cypress Creek" (1993)
 
 ## 1. Composition
 - Towering cypress trees dominate the foreground with strong vertical trunks draped in Spanish moss
@@ -85,7 +85,7 @@ episode:
   season: 29
   episode: 7
   title: "Cypress Creek"
-  year: 1992
+  year: 1993
   painting_index: 379
 
 canvas_preparation:

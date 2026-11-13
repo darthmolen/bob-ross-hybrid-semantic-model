@@ -1,4 +1,4 @@
-# Season 4, Episode 7 — "Cabin in the Woods" (1985)
+# Season 4, Episode 7 — "Cabin in the Woods" (1984)
 
 ---
 
@@ -109,7 +109,7 @@ episode:
   season: 4
   episode: 7
   title: "Cabin in the Woods"
-  year: 1985
+  year: 1984
   painting_index: 249
 
 canvas_preparation:

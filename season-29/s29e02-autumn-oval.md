@@ -1,4 +1,4 @@
-# Season 29, Episode 2 — "Autumn Oval" (1992)
+# Season 29, Episode 2 — "Autumn Oval" (1993)
 
 ## 1. Composition
 - Distant layered mountains receding into a misty, golden-rose sky
@@ -82,7 +82,7 @@ episode:
   season: 29
   episode: 2
   title: "Autumn Oval"
-  year: 1992
+  year: 1993
   painting_index: 374
 
 canvas_preparation:

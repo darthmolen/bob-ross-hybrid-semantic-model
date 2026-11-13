@@ -1,4 +1,4 @@
-# Season 9, Episode 6 — "Secluded Beach" (1985)
+# Season 9, Episode 6 — "Secluded Beach" (1986)
 
 ---
 
@@ -115,7 +115,7 @@ episode:
   season: 9
   episode: 6
   title: "Secluded Beach"
-  year: 1985
+  year: 1986
   painting_index: 182
 
 canvas_preparation:

@@ -1,4 +1,4 @@
-# Season 19, Episode 7 — "Covered Bridge Oval" (1989)
+# Season 19, Episode 7 — "Covered Bridge Oval" (1990)
 
 ## 1. Composition
 
@@ -106,7 +106,7 @@ episode:
   season: 19
   episode: 7
   title: "Covered Bridge Oval"
-  year: 1989
+  year: 1990
   painting_index: 50
 
 canvas_preparation:

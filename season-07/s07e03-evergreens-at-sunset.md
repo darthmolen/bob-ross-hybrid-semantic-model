@@ -1,4 +1,4 @@
-# Season 7, Episode 3 — "Evergreens at Sunset" (1986)
+# Season 7, Episode 3 — "Evergreens at Sunset" (1985)
 
 ## 1. Composition
 This painting showcases a dramatic sunset vista framed by silhouetted evergreen trees. The composition is anchored by two prominent foreground trees—one on the left and one on the right—that create a natural frame for the scene. Multiple layers of coniferous trees recede into the distance, establishing strong vertical elements throughout. A misty valley or fog bank occupies the middle ground, suggesting either ground fog or low-lying clouds. The sky dominates the upper half with sweeping horizontal cloud formations that catch the sunset's glow. Small grassy elements punctuate the snowy foreground. The overall archetype is a **sunset vista with framing trees**, emphasizing depth through atmospheric perspective and silhouetted layering.
@@ -91,7 +91,7 @@ episode:
   season: 7
   episode: 3
   title: "Evergreens at Sunset"
-  year: 1986
+  year: 1985
   painting_index: 205
 
 canvas_preparation:

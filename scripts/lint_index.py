@@ -39,6 +39,27 @@ MASK_VOCAB = re.compile(
 CLEAR_VOCAB = re.compile(r"liquid clear", re.I)
 LIQUID_WHITE = re.compile(r"liquid white", re.I)
 
+# Original PBS air year by season. The CSV has no date column, so this is the ground
+# truth for `year:`. Source: Wikipedia, "List of The Joy of Painting episodes"
+# (premiere/finale dates). Four seasons straddle New Year; AIR_YEAR_SPLIT maps
+# (season, episode) -> year for the episodes on the minority side of the split.
+AIR_YEAR = {
+    1: 1983, 2: 1983, 3: 1984, 4: 1984, 5: 1985, 6: 1985, 7: 1985, 8: 1986,
+    9: 1986, 10: 1986, 11: 1987, 12: 1987, 13: 1987, 14: 1988, 15: 1988, 16: 1988,
+    17: 1989, 18: 1989, 19: 1990, 20: 1990, 21: 1990, 22: 1991, 23: 1991, 24: 1992,
+    25: 1992, 26: 1993, 27: 1993, 28: 1993, 29: 1993, 30: 1993, 31: 1994,
+}
+AIR_YEAR_SPLIT = {
+    (11, 1): 1986,                                   # Dec 31, 1986
+    (14, 1): 1987,                                   # Dec 30, 1987
+    **{(26, e): 1992 for e in range(1, 6)},          # Dec 1-29, 1992
+    **{(30, e): 1994 for e in range(7, 14)},         # Jan-Feb 1994
+}
+
+
+def air_year(season: int, episode: int) -> int:
+    return AIR_YEAR_SPLIT.get((season, episode), AIR_YEAR[season])
+
 
 def prose_of(text: str) -> str:
     """Everything outside the trailing yaml fence."""
@@ -177,6 +198,20 @@ def check(path, row, tags, cols, text) -> list[tuple[str, str]]:
         out.append(("features-missing", "no searchable_features block"))
     elif not [ln for ln in fm.group(1).splitlines() if ln.strip().startswith("- ")]:
         out.append(("features-empty", "searchable_features has no entries"))
+
+    # --- rule 9: year must be the original air year. Seasons 2-30 had been stamped with
+    # a guessed year, often one or two off, which made "when did X start" answers wrong.
+    m = FILE_RE.search(os.path.basename(path))
+    if m:
+        want = air_year(int(m.group(1)), int(m.group(2)))
+        got = scalar(block, "year")
+        if got is None:
+            out.append(("year-missing", "no year in the metadata block"))
+        elif got.strip('"') != str(want):
+            out.append(("year-mismatch", f"entry says {got}, aired {want}"))
+        h1 = re.search(r"\((\d{4})(?:-\d{4})?\)", text.split("\n", 1)[0])
+        if h1 and h1.group(0) != f"({want})":
+            out.append(("year-heading", f"heading says {h1.group(0)}, aired {want}"))
 
     return [(rule, msg) for rule, msg in out if rule not in waived]
 

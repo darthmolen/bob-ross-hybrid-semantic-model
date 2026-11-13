@@ -1,4 +1,4 @@
-# Season 8, Episode 1 — "Misty Rolling Hills" (1987)
+# Season 8, Episode 1 — "Misty Rolling Hills" (1986)
 
 ## 1. Composition
 - Gently undulating hills cascade from foreground to midground in golden and purple tones

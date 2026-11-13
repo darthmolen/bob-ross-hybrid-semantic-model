@@ -1,4 +1,4 @@
-# Season 9, Episode 12 — "Mountain by the Sea" (1985)
+# Season 9, Episode 12 — "Mountain by the Sea" (1986)
 
 ## 1. Composition
 
@@ -90,7 +90,7 @@ episode:
   season: 9
   episode: 12
   title: "Mountain by the Sea"
-  year: 1985
+  year: 1986
   painting_index: 188
 
 canvas_preparation:

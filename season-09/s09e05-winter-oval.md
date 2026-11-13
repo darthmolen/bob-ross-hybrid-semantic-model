@@ -1,4 +1,4 @@
-# Season 9, Episode 5 — "Winter Oval" (1985)
+# Season 9, Episode 5 — "Winter Oval" (1986)
 
 ## 1. Composition
 
@@ -94,7 +94,7 @@ episode:
   season: 9
   episode: 5
   title: "Winter Oval"
-  year: 1985
+  year: 1986
   painting_index: 181
 
 canvas_preparation:

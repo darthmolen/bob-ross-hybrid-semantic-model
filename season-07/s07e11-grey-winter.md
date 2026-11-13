@@ -1,4 +1,4 @@
-# Season 7, Episode 11 — "Grey Winter" (1986)
+# Season 7, Episode 11 — "Grey Winter" (1985)
 
 ## 1. Composition
 This ethereal winter landscape features a misty mountain valley framed by snow-laden evergreen trees on both sides. The center opens to a fog-filled vista where distant evergreen forests emerge as dark silhouettes through thick atmospheric haze. A snow-covered foreground suggests a frozen stream or snowy bank leading into the misty depths. The composition follows a classic "window" archetype, where foreground trees frame a mysterious central view, creating a portal-like effect into the foggy wilderness beyond.
@@ -44,7 +44,7 @@ episode:
   season: 7
   episode: 11
   title: "Grey Winter"
-  year: 1986
+  year: 1985
   painting_index: 214
   youtube_url: "https://www.youtube.com/embed/sS-hNYgDUak"
 

@@ -1,4 +1,4 @@
-# Season 10, Episode 3 — "Twin Falls" (1988)
+# Season 10, Episode 3 — "Twin Falls" (1986)
 
 ## 1. Composition
 The painting features twin cascading waterfalls in the immediate foreground, pouring over dark rocky outcrops into a calm lake or river system. The waterfalls serve as the primary focal point, positioned slightly left of center. Beyond the water, rolling hills with golden-green meadows sweep upward into the middle distance, creating a valley formation. The left side is anchored by a tall, dark evergreen tree in silhouette, while the right side features lighter, fuller deciduous foliage. The sky displays dramatic cloud formations with a visible rainbow arcing through the right quadrant. The horizon line sits high in the composition, emphasizing the expansive landscape beyond the intimate foreground. **Compositional archetype: Vertical cascade gateway leading into horizontal valley vista.**
@@ -72,7 +72,7 @@ episode:
   season: 10
   episode: 3
   title: "Twin Falls"
-  year: 1988
+  year: 1986
   painting_index: 165
 
 canvas_preparation:

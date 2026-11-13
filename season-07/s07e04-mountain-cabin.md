@@ -1,4 +1,4 @@
-# Season 7, Episode 4 — "Mountain Cabin" (1986)
+# Season 7, Episode 4 — "Mountain Cabin" (1985)
 
 ## 1. Composition
 This intimate lakeside composition centers on a weathered wooden cabin perched on a small rocky peninsula or island in the left third of the canvas. A simple wooden dock extends from the cabin's base into the calm water. The structure is surrounded by bright yellow-green deciduous bushes and foliage that contrast sharply with the deep blue-green evergreen forest massing across the entire background. The serene lake dominates the lower half and right side of the painting, its surface mirror-smooth and reflecting both the cabin and surrounding vegetation. A soft atmospheric mist hangs over the water, creating a dreamy transition between the lake surface and the distant treeline. The sky peeks through in the upper right corner with subtle blue tones. This is a **lakeside cabin archetype** with strong horizontal banding and a clear focal point structure positioned in the left foreground.
@@ -53,7 +53,7 @@ episode:
   season: 7
   episode: 4
   title: "Mountain Cabin"
-  year: 1986
+  year: 1985
   painting_index: 206
   youtube_url: "https://www.youtube.com/embed/E3IAMvO8GyM"
 

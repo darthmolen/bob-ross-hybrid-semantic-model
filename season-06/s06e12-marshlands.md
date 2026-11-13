@@ -1,4 +1,4 @@
-# Season 6, Episode 12 — "Marshlands" (1986)
+# Season 6, Episode 12 — "Marshlands" (1985)
 
 ## 1. Composition
 
@@ -95,7 +95,7 @@ episode:
   season: 6
   episode: 12
   title: "Marshlands"
-  year: 1986
+  year: 1985
   painting_index: 228
 
 canvas_preparation:

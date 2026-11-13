@@ -1,4 +1,4 @@
-# Season 5, Episode 3 — "Mountain Blossoms" (1987)
+# Season 5, Episode 3 — "Mountain Blossoms" (1985)
 
 ---
 
@@ -108,7 +108,7 @@ episode:
   season: 5
   episode: 3
   title: "Mountain Blossoms"
-  year: 1986
+  year: 1985
   painting_index: 232
 
 canvas_preparation:

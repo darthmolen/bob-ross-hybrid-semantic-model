@@ -1,4 +1,4 @@
-# Season 7, Episode 12 — "Dock Scene" (1986)
+# Season 7, Episode 12 — "Dock Scene" (1985)
 
 ## 1. Composition
 This painting features two weathered wooden dock structures dominating the right-center composition, rendered with pronounced vertical planking and textural detail. A small evergreen tree anchors the left side between the buildings, providing organic contrast to the geometric architecture. The background dissolves into soft, misty atmosphere suggesting water or fog, while the sky occupies the upper third with billowing clouds. The structures include visible windows and doorways that add depth and narrative interest. The overall compositional archetype is **waterfront architecture with atmospheric recession**, centering human-made forms against natural elements.
@@ -51,7 +51,7 @@ episode:
   season: 7
   episode: 12
   title: "Dock Scene"
-  year: 1986
+  year: 1985
   painting_index: 215
   youtube_url: "https://www.youtube.com/embed/4KYxkqlzyqM"
 

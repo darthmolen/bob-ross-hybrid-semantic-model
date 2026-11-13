@@ -1,4 +1,4 @@
-# Season 23, Episode 13 — "Winter Bliss" (1992)
+# Season 23, Episode 13 — "Winter Bliss" (1991)
 
 ## 1. Composition
 - Majestic snow-capped mountain range commanding the upper half, with prominent peak adorned in brilliant white snow against sculptural blue-gray shadows
@@ -78,7 +78,7 @@ episode:
   season: 23
   episode: 13
   title: "Winter Bliss"
-  year: 1992
+  year: 1991
   painting_index: 307
 
 canvas_preparation:

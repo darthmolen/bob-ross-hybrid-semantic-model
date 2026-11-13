@@ -1,4 +1,4 @@
-# Season 26, Episode 11 — "Storm's A Comin" (1992)
+# Season 26, Episode 11 — "Storm's A Comin" (1993)
 
 ## 1. Composition
 - Oval-format seascape with dramatic storm approaching
@@ -89,7 +89,7 @@ episode:
   season: 26
   episode: 11
   title: "Storm's A Comin"
-  year: 1992
+  year: 1993
   painting_index: 344
 
 canvas_preparation:

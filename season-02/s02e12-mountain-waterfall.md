@@ -1,4 +1,4 @@
-# Season 2, Episode 12 — "Mountain Waterfall" (1983-1984)
+# Season 2, Episode 12 — "Mountain Waterfall" (1983)
 
 ## 1. Composition
 
@@ -102,7 +102,7 @@ episode:
   season: 2
   episode: 12
   title: "Mountain Waterfall"
-  year: 1984
+  year: 1983
   painting_index: 280
 
 canvas_preparation:

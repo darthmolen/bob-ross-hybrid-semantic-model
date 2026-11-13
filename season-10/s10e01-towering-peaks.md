@@ -1,4 +1,4 @@
-# Season 10, Episode 1 — "Towering Peaks" (1988)
+# Season 10, Episode 1 — "Towering Peaks" (1986)
 
 ## 1. Composition
 The painting features a monumental snow-capped mountain peak dominating the center background, flanked by misty gray mountain ranges that create depth through atmospheric perspective. A pristine alpine lake occupies the midground, providing mirror-like reflections of the mountain and sky. Dark evergreen conifers anchor the left side and distant treeline, while vibrant yellow-green deciduous foliage frames both left and right edges, creating a natural gateway. The sky displays bright cerulean blue with billowing white cumulus clouds. The composition follows the **mountain-lake reflection archetype with natural foliage framing**, creating a portal-like view into a pristine wilderness sanctuary.
@@ -60,7 +60,7 @@ episode:
   season: 10
   episode: 1
   title: "Towering Peaks"
-  year: 1988
+  year: 1986
   painting_index: 163
 
 canvas_preparation:

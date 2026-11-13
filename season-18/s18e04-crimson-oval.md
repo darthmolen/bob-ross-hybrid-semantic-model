@@ -1,4 +1,4 @@
-# Season 18, Episode 4 — "Crimson Oval" (1988)
+# Season 18, Episode 4 — "Crimson Oval" (1989)
 
 ## 1. Composition
 
@@ -65,7 +65,7 @@ episode:
   season: 18
   episode: 4
   title: "Crimson Oval"
-  year: 1988
+  year: 1989
   painting_index: 61
 
 canvas_preparation:

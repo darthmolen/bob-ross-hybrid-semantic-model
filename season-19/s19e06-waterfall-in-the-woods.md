@@ -1,4 +1,4 @@
-# Season 19, Episode 6 — "Waterfall in the Woods" (1989)
+# Season 19, Episode 6 — "Waterfall in the Woods" (1990)
 
 ## 1. Composition
 
@@ -92,7 +92,7 @@ episode:
   season: 19
   episode: 6
   title: "Waterfall in the Woods"
-  year: 1989
+  year: 1990
   painting_index: 49
 
 canvas_preparation:

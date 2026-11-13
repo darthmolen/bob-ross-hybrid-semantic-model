@@ -1,4 +1,4 @@
-# Season 19, Episode 3 — "Final Embers of Sunlight" (1989)
+# Season 19, Episode 3 — "Final Embers of Sunlight" (1990)
 
 ## 1. Composition
 
@@ -109,7 +109,7 @@ episode:
   season: 19
   episode: 3
   title: "Final Embers of Sunlight"
-  year: 1989
+  year: 1990
   painting_index: 46
 
 canvas_preparation:

@@ -1,4 +1,4 @@
-# Season 2, Episode 3 — "Ebony Sea" (1983-1984)
+# Season 2, Episode 3 — "Ebony Sea" (1983)
 
 ---
 
@@ -120,7 +120,7 @@ episode:
   season: 2
   episode: 3
   title: "Ebony Sea"
-  year: 1984
+  year: 1983
   painting_index: 271
 
 canvas_preparation:

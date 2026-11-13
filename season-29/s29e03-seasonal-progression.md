@@ -1,4 +1,4 @@
-# Season 29, Episode 3 — "Seasonal Progression" (1992)
+# Season 29, Episode 3 — "Seasonal Progression" (1993)
 
 ## 1. Composition
 - Split canvas composition divided vertically down the center, creating two distinct seasonal worlds
@@ -89,7 +89,7 @@ episode:
   season: 29
   episode: 3
   title: "Seasonal Progression"
-  year: 1992
+  year: 1993
   painting_index: 375
 
 canvas_preparation:

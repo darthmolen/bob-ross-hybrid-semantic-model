@@ -1,4 +1,4 @@
-# Season 29, Episode 9 — "Storm on the Horizon" (1992)
+# Season 29, Episode 9 — "Storm on the Horizon" (1993)
 
 ## 1. Composition
 - Two tropical palm trees anchor the left foreground, their fronds silhouetted against the dramatic sky
@@ -85,7 +85,7 @@ episode:
   season: 29
   episode: 9
   title: "Storm on the Horizon"
-  year: 1992
+  year: 1993
   painting_index: 381
 
 canvas_preparation:

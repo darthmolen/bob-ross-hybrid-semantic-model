@@ -1,4 +1,4 @@
-# Season 6, Episode 5 — "Secluded Forest" (1986)
+# Season 6, Episode 5 — "Secluded Forest" (1985)
 
 ## 1. Composition
 
@@ -91,7 +91,7 @@ episode:
   season: 6
   episode: 5
   title: "Secluded Forest"
-  year: 1986
+  year: 1985
   painting_index: 221
 
 canvas_preparation:

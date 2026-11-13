@@ -1,4 +1,4 @@
-# Season 8, Episode 6 — "Bubbling Mountain Brook" (1987)
+# Season 8, Episode 6 — "Bubbling Mountain Brook" (1986)
 
 ## 1. Composition
 - Massive snow-covered mountain with purple-blue shadowed faces dominates the background
