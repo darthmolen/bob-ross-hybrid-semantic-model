@@ -65,7 +65,7 @@ Master searchable list of all 403 "Joy of Painting" episodes with semantic tags 
 | 4 | 3 | Majestic Mountains | alpine valley with dominant pe.. | high altitude spring with.. | dramatic foreground .. | direct diagonal.. | [📄](season-04/s04e03-majestic-mountains.md) |
 | 4 | 4 | Winter Sawscape | centered reflective with asymm.. | cool dominant winter blue.. | layered horizontal w.. | diffused winter.. | [📄](season-04/s04e04-winter-sawscape.md) |
 | 4 | 5 | Evening Seascape | turbulent coastal bilateral | nocturnal oceanic | layered wave progres.. | evening ambient.. | [📄](season-04/s04e05-evening-seascape.md) |
-| 4 | 6 | Warm Summer Day | misty forest corridor | golden woodland luminosity | atmospheric perspect.. | diffused backli.. | [📄](season-04/s04e06-warm-summer-day.md) |
+| 4 | 6 | Warm Summer Day | misty lakeside woodland | pink and gold pastel haze | atmospheric fade | diffused pink m.. | [📄](season-04/s04e06-warm-summer-day.md) |
 | 4 | 7 | Cabin in the Woods | forest enclosure with ethereal.. | ethereal forest mysticism.. | atmospheric perspect.. | diffused atmosp.. | [📄](season-04/s04e07-cabin-in-the-woods.md) |
 | 4 | 8 | Wetlands | symmetrical wetland corridor w.. | autumn wetland with muted.. | atmospheric recessio.. | overcast diffus.. | [📄](season-04/s04e08-wetlands.md) |
 | 4 | 9 | Cool Waters | framed alpine lake with season.. | cool alpine waters agains.. | clear atmospheric la.. | bright diffused.. | [📄](season-04/s04e09-cool-waters.md) |
@@ -750,10 +750,10 @@ Master searchable list of all 403 "Joy of Painting" episodes with semantic tags 
 - **Link**: [season-04/s04e05-evening-seascape.md](season-04/s04e05-evening-seascape.md)
 
 ### Episode 6: "Warm Summer Day"
-- **Composition**: misty forest corridor
-- **Palette**: golden woodland luminosity
-- **Depth Style**: atmospheric perspective
-- **Lighting**: diffused backlighting
+- **Composition**: misty lakeside woodland
+- **Palette**: pink and gold pastel haze
+- **Depth Style**: atmospheric fade
+- **Lighting**: diffused pink morning glow
 - **Link**: [season-04/s04e06-warm-summer-day.md](season-04/s04e06-warm-summer-day.md)
 
 ### Episode 7: "Cabin in the Woods"
