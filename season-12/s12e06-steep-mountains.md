@@ -1,4 +1,4 @@
-# Season 12, Episode 6 — "Steep Mountains" (1990)
+# Season 12, Episode 6 — "Steep Mountains" (1987)
 
 ## 1. Composition
 - Dramatic jagged mountain range dominates the background with steep, angular peaks
@@ -94,7 +94,7 @@ episode:
   season: 12
   episode: 6
   title: "Steep Mountains"
-  year: 1990
+  year: 1987
   painting_index: 142
 
 canvas_preparation:

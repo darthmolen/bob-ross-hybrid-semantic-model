@@ -1,4 +1,4 @@
-# Season 2, Episode 9 — "Black and White Seascape" (1983-1984)
+# Season 2, Episode 9 — "Black and White Seascape" (1983)
 
 ## 1. Composition
 
@@ -96,7 +96,7 @@ episode:
   season: 2
   episode: 9
   title: "Black and White Seascape"
-  year: 1984
+  year: 1983
   painting_index: 277
 
 canvas_preparation:

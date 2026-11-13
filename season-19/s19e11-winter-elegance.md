@@ -1,4 +1,4 @@
-# Season 19, Episode 11 — "Winter Elegance" (1989)
+# Season 19, Episode 11 — "Winter Elegance" (1990)
 
 ## 1. Composition
 
@@ -102,7 +102,7 @@ episode:
   season: 19
   episode: 11
   title: "Winter Elegance"
-  year: 1989
+  year: 1990
   painting_index: 54
 
 canvas_preparation:

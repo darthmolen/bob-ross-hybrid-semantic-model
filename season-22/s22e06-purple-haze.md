@@ -1,4 +1,4 @@
-# Season 22, Episode 6 — "Purple Haze" (1990)
+# Season 22, Episode 6 — "Purple Haze" (1991)
 
 ## 1. Composition
 A woodland clearing opens to reveal an otherworldly sky drenched in purple and violet tones. The scene is framed by trees on both sides: a tall deciduous tree with golden autumn foliage dominates the left, while clusters of evergreens and deciduous trees in blues, greens, and frosted highlights populate the right and background. A luminous glow emanates from the center of the composition, suggesting either sunrise or sunset filtered through atmospheric haze. The foreground features a gentle grassy meadow that leads the eye into the misty woodland interior. Distant trees appear as soft silhouettes within the purple atmosphere, creating multiple layers of depth.
@@ -44,7 +44,7 @@ episode:
   season: 22
   episode: 6
   title: "Purple Haze"
-  year: 1990
+  year: 1991
   painting_index: 6
 
 canvas_preparation:

@@ -1,4 +1,4 @@
-# Season 10, Episode 9 — "Mountain Oval" (1988)
+# Season 10, Episode 9 — "Mountain Oval" (1986)
 
 ## 1. Composition
 This painting features a dramatic mountain range with multiple jagged, snow-capped peaks dominating the center and background. A serene lake stretches across the foreground, creating mirror-like reflections of the surrounding landscape. Dark evergreen trees cluster on the left shore, providing depth and scale, while distinctive white-barked birch trees anchor the right foreground. The sky displays soft pink and lavender tones blending into pale blue, suggesting dawn or dusk lighting. The entire scene is contained within an elegant oval vignette that softens the edges and creates an intimate, focused viewing experience. Compositional archetype: **Vignetted alpine lake scene with asymmetrical tree framing**.
@@ -38,7 +38,7 @@ episode:
   season: 10
   episode: 9
   title: "Mountain Oval"
-  year: 1988
+  year: 1986
   painting_index: 172
 
 canvas_preparation:

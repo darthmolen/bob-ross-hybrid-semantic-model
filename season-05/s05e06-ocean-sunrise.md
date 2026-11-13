@@ -1,4 +1,4 @@
-# Season 5, Episode 6 — "Ocean Sunrise" (1987)
+# Season 5, Episode 6 — "Ocean Sunrise" (1985)
 
 ---
 
@@ -108,7 +108,7 @@ episode:
   season: 5
   episode: 6
   title: "Ocean Sunrise"
-  year: 1986
+  year: 1985
   painting_index: 235
 
 canvas_preparation:

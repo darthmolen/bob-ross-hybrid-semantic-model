@@ -1,4 +1,4 @@
-# Season 18, Episode 11 — "Enchanted Forest" (1988)
+# Season 18, Episode 11 — "Enchanted Forest" (1989)
 
 ## 1. Composition
 
@@ -105,7 +105,7 @@ episode:
   season: 18
   episode: 11
   title: "Enchanted Forest"
-  year: 1988
+  year: 1989
   painting_index: 68
 
 canvas_preparation:

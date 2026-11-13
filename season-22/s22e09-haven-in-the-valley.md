@@ -1,4 +1,4 @@
-# Season 22, Episode 9 — "Haven in the Valley" (1990)
+# Season 22, Episode 9 — "Haven in the Valley" (1991)
 
 ## 1. Composition
 Commanding snow-capped mountain range dominates the background with multiple jagged peaks rendered in blue-grays and bright whites, creating a majestic alpine barrier. A tranquil lake stretches horizontally through the middle ground, its dark blue surface reflecting the surrounding landscape. Rolling foothills covered in vibrant spring green vegetation cascade down from the mountain base, punctuated by rounded deciduous tree forms. The right side features tall, stately evergreen trees that frame the scene and establish vertical contrast. A small rustic cabin nestles near the shoreline in the lower right, connected by a gentle path. The entire composition is contained within a distinctive oval vignette format against a neutral background. Compositional archetype: **Mountain sanctuary with lakeside refuge in oval frame**
@@ -43,7 +43,7 @@ episode:
   season: 22
   episode: 9
   title: "Haven in the Valley"
-  year: 1990
+  year: 1991
   painting_index: 9
 
 canvas_preparation:

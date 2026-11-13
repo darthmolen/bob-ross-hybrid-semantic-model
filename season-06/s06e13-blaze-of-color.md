@@ -1,4 +1,4 @@
-# Season 6, Episode 13 — "Blaze of Color" (1986)
+# Season 6, Episode 13 — "Blaze of Color" (1985)
 
 ## 1. Composition
 
@@ -92,7 +92,7 @@ episode:
   season: 6
   episode: 13
   title: "Blaze of Color"
-  year: 1986
+  year: 1985
   painting_index: 229
 
 canvas_preparation:

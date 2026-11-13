@@ -1,4 +1,4 @@
-# Season 5, Episode 5 — "Quiet Pond" (1987)
+# Season 5, Episode 5 — "Quiet Pond" (1985)
 
 ---
 
@@ -106,7 +106,7 @@ episode:
   season: 5
   episode: 5
   title: "Quiet Pond"
-  year: 1986
+  year: 1985
   painting_index: 234
 
 canvas_preparation:

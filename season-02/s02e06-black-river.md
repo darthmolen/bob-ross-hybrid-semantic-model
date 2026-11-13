@@ -1,4 +1,4 @@
-# Season 2, Episode 6 — "Black River" (1984)
+# Season 2, Episode 6 — "Black River" (1983)
 
 ---
 
@@ -104,7 +104,7 @@ episode:
   season: 2
   episode: 6
   title: "Black River"
-  year: 1984
+  year: 1983
   painting_index: 274
 
 canvas_preparation:

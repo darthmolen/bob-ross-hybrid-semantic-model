@@ -1,4 +1,4 @@
-# Season 29, Episode 13 — "Woodman's Retreat" (1992)
+# Season 29, Episode 13 — "Woodman's Retreat" (1993)
 
 ## 1. Composition
 - Majestic snow-capped mountain range dominates the background with a prominent jagged peak on the left and secondary peak on the right
@@ -85,7 +85,7 @@ episode:
   season: 29
   episode: 13
   title: "Woodman's Retreat"
-  year: 1992
+  year: 1993
   painting_index: 385
 
 canvas_preparation:

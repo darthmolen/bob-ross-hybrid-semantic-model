@@ -1,4 +1,4 @@
-# Season 18, Episode 6 — "Majestic Peaks" (1988)
+# Season 18, Episode 6 — "Majestic Peaks" (1989)
 
 ## 1. Composition
 
@@ -97,7 +97,7 @@ episode:
   season: 18
   episode: 6
   title: "Majestic Peaks"
-  year: 1988
+  year: 1989
   painting_index: 63
 
 canvas_preparation:

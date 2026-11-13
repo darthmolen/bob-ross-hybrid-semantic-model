@@ -1,4 +1,4 @@
-# Season 30, Episode 3 — "Winter's Peace" (1994)
+# Season 30, Episode 3 — "Winter's Peace" (1993)
 
 ## 1. Composition
 A winter landscape dominated by a vast frozen lake or snow-covered meadow stretching toward distant treelines beneath a vibrant sunset sky. The foreground features gently rolling snow with a rustic cabin tucked into the left side, partially sheltered by a frost-laden deciduous tree. Tall evergreens frame the scene on both left and right, their snow-heavy branches creating vertical anchors. The middle ground reveals the expansive frozen surface meeting a dark forest silhouette at the horizon. Above, dramatic cloud formations catch the last rays of daylight in bands of crimson and coral against a deepening blue sky. Compositional archetype: **Framed winter refuge beneath chromatic sunset**
@@ -43,7 +43,7 @@ episode:
   season: 30
   episode: 3
   title: "Winter's Peace"
-  year: 1994
+  year: 1993
   painting_index: 388
 
 canvas_preparation:

@@ -1,4 +1,4 @@
-# Season 2, Episode 2 — "Winter Sun" (1983-1984)
+# Season 2, Episode 2 — "Winter Sun" (1983)
 
 ## 1. Composition
 
@@ -101,7 +101,7 @@ episode:
   season: 2
   episode: 2
   title: "Winter Sun"
-  year: 1984
+  year: 1983
   painting_index: 270
 
 canvas_preparation:

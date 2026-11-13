@@ -1,4 +1,4 @@
-# Season 18, Episode 10 — "Double Oval Stream" (1988)
+# Season 18, Episode 10 — "Double Oval Stream" (1989)
 
 ## 1. Composition
 
@@ -100,7 +100,7 @@ episode:
   season: 18
   episode: 10
   title: "Double Oval Stream"
-  year: 1988
+  year: 1989
   painting_index: 67
 
 canvas_preparation:

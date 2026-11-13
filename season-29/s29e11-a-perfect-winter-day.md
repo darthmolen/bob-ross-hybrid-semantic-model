@@ -1,4 +1,4 @@
-# Season 29, Episode 11 — "A Perfect Winter Day" (1992)
+# Season 29, Episode 11 — "A Perfect Winter Day" (1993)
 
 ## 1. Composition
 - Majestic snow-capped mountain dominates the center background, its peaks rendered with dramatic light and shadow
@@ -82,7 +82,7 @@ episode:
   season: 29
   episode: 11
   title: "A Perfect Winter Day"
-  year: 1992
+  year: 1993
   painting_index: 383
 
 canvas_preparation:

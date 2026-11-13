@@ -522,7 +522,7 @@ Master searchable list of all 403 "Joy of Painting" episodes with semantic tags 
 
 ---
 
-## Season 2 (1983-1984)
+## Season 2 (1983)
 
 ### Episode 1: "Meadow Lake"
 - **Composition**: mountain-lake-meadow composition with seasonal autumn colors
@@ -712,7 +712,7 @@ Master searchable list of all 403 "Joy of Painting" episodes with semantic tags 
 
 ---
 
-## Season 4 (1984-1985)
+## Season 4 (1984)
 
 ### Episode 1: "Purple Splendor"
 - **Composition**: framed winter refuge
@@ -902,7 +902,7 @@ Master searchable list of all 403 "Joy of Painting" episodes with semantic tags 
 
 ---
 
-## Season 6 (1985-1986)
+## Season 6 (1985)
 
 ### Episode 1: "Blue River"
 - **Composition**: mirror-lake reflection
@@ -997,7 +997,7 @@ Master searchable list of all 403 "Joy of Painting" episodes with semantic tags 
 
 ---
 
-## Season 7 (1986)
+## Season 7 (1985)
 
 ### Episode 1: "Winter Cabin"
 - **Composition**: TBD
@@ -1092,7 +1092,7 @@ Master searchable list of all 403 "Joy of Painting" episodes with semantic tags 
 
 ---
 
-## Season 8 (1986-1987)
+## Season 8 (1986)
 
 ### Episode 1: "Misty Rolling Hills"
 - **Composition**: TBD
@@ -1187,7 +1187,7 @@ Master searchable list of all 403 "Joy of Painting" episodes with semantic tags 
 
 ---
 
-## Season 9 (1987)
+## Season 9 (1986)
 
 ### Episode 1: "Winter Evergreens"
 - **Composition**: winter evergreen gateway
@@ -1282,7 +1282,7 @@ Master searchable list of all 403 "Joy of Painting" episodes with semantic tags 
 
 ---
 
-## Season 10 (1987-1988)
+## Season 10 (1986)
 
 ### Episode 1: "Towering Peaks"
 - **Composition**: mountain-lake reflection archetype with natural foliage framing
@@ -1377,7 +1377,7 @@ Master searchable list of all 403 "Joy of Painting" episodes with semantic tags 
 
 ---
 
-## Season 11 (1988)
+## Season 11 (1986-1987)
 
 ### Episode 1: "Mountain Stream"
 - **Composition**: Alpine Valley Stream Corridor
@@ -1472,7 +1472,7 @@ Master searchable list of all 403 "Joy of Painting" episodes with semantic tags 
 
 ---
 
-## Season 12 (1988-1989)
+## Season 12 (1987)
 
 ### Episode 1: "Golden Knoll"
 - **Composition**: pastoral valley scene with strong diagonal movement
@@ -1567,7 +1567,7 @@ Master searchable list of all 403 "Joy of Painting" episodes with semantic tags 
 
 ---
 
-## Season 13 (1989)
+## Season 13 (1987)
 
 ### Episode 1: "Rolling Hills"
 - **Composition**: Layered Mountain Valley with Lake Reflection
@@ -1662,7 +1662,7 @@ Master searchable list of all 403 "Joy of Painting" episodes with semantic tags 
 
 ---
 
-## Season 14 (1989-1990)
+## Season 14 (1987-1988)
 
 ### Episode 1: "Distant Mountains"
 - **Composition**: mountain lake with foreground vegetation framing
@@ -1852,7 +1852,7 @@ Master searchable list of all 403 "Joy of Painting" episodes with semantic tags 
 
 ---
 
-## Season 16 (1989)
+## Season 16 (1988)
 
 ### Episode 1: "Two Seasons"
 - **Composition**: Split Season Diptych
@@ -1947,7 +1947,7 @@ Master searchable list of all 403 "Joy of Painting" episodes with semantic tags 
 
 ---
 
-## Season 17 (1989-1990)
+## Season 17 (1989)
 
 ### Episode 1: "Golden Mist Oval"
 - **Composition**: Oval Vignette
@@ -2042,7 +2042,7 @@ Master searchable list of all 403 "Joy of Painting" episodes with semantic tags 
 
 ---
 
-## Season 18 (1990)
+## Season 18 (1989)
 
 ### Episode 1: "Half-Oval Vignette"
 - **Composition**: Half Oval Lake Vista with Evergreen Sentinels
@@ -2137,7 +2137,7 @@ Master searchable list of all 403 "Joy of Painting" episodes with semantic tags 
 
 ---
 
-## Season 19 (1990-1991)
+## Season 19 (1990)
 
 ### Episode 1: "Snowfall Magic"
 - **Composition**: Minimalist Winter Snowscape with Birch Trees
@@ -2232,7 +2232,7 @@ Master searchable list of all 403 "Joy of Painting" episodes with semantic tags 
 
 ---
 
-## Season 20 (1991)
+## Season 20 (1990)
 
 ### Episode 1: "Mystic Mountain"
 - **Composition**: Mountain With Misty Valley
@@ -2327,7 +2327,7 @@ Master searchable list of all 403 "Joy of Painting" episodes with semantic tags 
 
 ---
 
-## Season 21 (1991-1992)
+## Season 21 (1990)
 
 ### Episode 1: "Valley View"
 - **Composition**: Mountain Valley Gateway
@@ -2422,7 +2422,7 @@ Master searchable list of all 403 "Joy of Painting" episodes with semantic tags 
 
 ---
 
-## Season 22 (1992)
+## Season 22 (1991)
 
 ### Episode 1: "Autumn Images"
 - **Composition**: portal framing with seasonal contrast
@@ -2517,7 +2517,7 @@ Master searchable list of all 403 "Joy of Painting" episodes with semantic tags 
 
 ---
 
-## Season 23 (1992-1993)
+## Season 23 (1991)
 
 ### Episode 1: "Frosty Winter Morn"
 - **Composition**: cabin refuge in balanced winter solitude
@@ -2612,7 +2612,7 @@ Master searchable list of all 403 "Joy of Painting" episodes with semantic tags 
 
 ---
 
-## Season 24 (1993)
+## Season 24 (1992)
 
 ### Episode 1: "Gray Mountain"
 - **Composition**: bilateral mountain lake sunset with evergreen framing
@@ -2707,7 +2707,7 @@ Master searchable list of all 403 "Joy of Painting" episodes with semantic tags 
 
 ---
 
-## Season 25 (1993-1994)
+## Season 25 (1992)
 
 ### Episode 1: "Hide A Way Cove"
 - **Composition**: mountain lake sanctuary framed by evergreen forest
@@ -2802,7 +2802,7 @@ Master searchable list of all 403 "Joy of Painting" episodes with semantic tags 
 
 ---
 
-## Season 26 (1994)
+## Season 26 (1992-1993)
 
 ### Episode 1: "In the Stillness of Morning"
 - **Composition**: Framing gateway
@@ -2897,7 +2897,7 @@ Master searchable list of all 403 "Joy of Painting" episodes with semantic tags 
 
 ---
 
-## Season 27 (1994)
+## Season 27 (1993)
 
 ### Episode 1: "Twilight Beauty"
 - **Composition**: oval-vignetted winter twilight vista
@@ -2992,7 +2992,7 @@ Master searchable list of all 403 "Joy of Painting" episodes with semantic tags 
 
 ---
 
-## Season 28 (1994)
+## Season 28 (1993)
 
 ### Episode 1: "Fisherman's Trail"
 - **Composition**: Mountain lake with evergreen framing
@@ -3087,7 +3087,7 @@ Master searchable list of all 403 "Joy of Painting" episodes with semantic tags 
 
 ---
 
-## Season 29 (1994)
+## Season 29 (1993)
 
 ### Episode 1: "Island in the Wilderness"
 - **Composition**: island sanctuary composition
@@ -3182,7 +3182,7 @@ Master searchable list of all 403 "Joy of Painting" episodes with semantic tags 
 
 ---
 
-## Season 30 (1994)
+## Season 30 (1993-1994)
 
 ### Episode 1: "Babbling Brook"
 - **Composition**: Forest cathedral with focal tree

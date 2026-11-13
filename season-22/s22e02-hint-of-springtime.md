@@ -1,4 +1,4 @@
-# Season 22, Episode 2 — "Hint of Springtime" (1990)
+# Season 22, Episode 2 — "Hint of Springtime" (1991)
 
 ## 1. Composition
 A majestic snow-capped mountain range commands the background, its peaks rendered in white and cool gray against a gradient sky that transitions from blue to soft pink and coral. A serene turquoise lake spreads across the foreground, its glassy surface reflecting the mountain grandeur above. The left side features two towering evergreen trees standing sentinel, while a dense treeline of darker conifers creates a horizontal band across the middle ground. Patches of light spring-green vegetation emerge along the waterline, hinting at seasonal renewal. Dark landmasses frame both sides of the lake, creating natural boundaries that guide the eye toward the central mountain vista.
@@ -50,7 +50,7 @@ episode:
   season: 22
   episode: 2
   title: "Hint of Springtime"
-  year: 1990
+  year: 1991
   painting_index: 15
 
 canvas_preparation:

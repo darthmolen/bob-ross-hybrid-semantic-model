@@ -1,4 +1,4 @@
-# Season 4, Episode 2 — "Tranquil Valley" (1985)
+# Season 4, Episode 2 — "Tranquil Valley" (1984)
 
 ---
 
@@ -106,7 +106,7 @@ episode:
   season: 4
   episode: 2
   title: "Tranquil Valley"
-  year: 1985
+  year: 1984
   painting_index: 244
 
 canvas_preparation:

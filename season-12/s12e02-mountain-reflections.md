@@ -1,4 +1,4 @@
-# Season 12, Episode 2 — "Mountain Reflections" (1990)
+# Season 12, Episode 2 — "Mountain Reflections" (1987)
 
 ## 1. Composition
 - Majestic snow-capped mountain dominating the center-background, rising prominently against a brilliant blue sky
@@ -84,7 +84,7 @@ episode:
   season: 12
   episode: 2
   title: "Mountain Reflections"
-  year: 1990
+  year: 1987
   painting_index: 138
 
 canvas_preparation:

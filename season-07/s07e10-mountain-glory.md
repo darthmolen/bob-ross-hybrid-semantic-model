@@ -1,4 +1,4 @@
-# Season 7, Episode 10 — "Mountain Glory" (1986)
+# Season 7, Episode 10 — "Mountain Glory" (1985)
 
 ## 1. Composition
 This alpine landscape features a majestic mountain range dominating the background, with multiple snow-capped peaks rising against a bright blue sky dotted with soft white clouds. The midground presents a golden meadow valley that transitions from bright yellow-green in the foreground to deeper tones toward the mountain base. Four prominent evergreen trees (likely spruce or pine) anchor the composition—two on the left and two on the right—creating a natural frame that draws the eye toward the mountain glory beyond. Dark rocky outcroppings punctuate the mountain faces between snow fields. The overall compositional archetype is a classic alpine vista with bilateral tree framing, creating depth through layered horizontal zones from meadow to mountain.
@@ -54,7 +54,7 @@ episode:
   season: 7
   episode: 10
   title: "Mountain Glory"
-  year: 1986
+  year: 1985
   painting_index: 213
   youtube_url: "https://www.youtube.com/embed/0M9pwLHRR2c"
 

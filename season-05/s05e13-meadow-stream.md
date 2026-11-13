@@ -1,4 +1,4 @@
-# Season 5, Episode 13 — "Meadow Stream" (1987)
+# Season 5, Episode 13 — "Meadow Stream" (1985)
 
 ---
 
@@ -108,7 +108,7 @@ episode:
   season: 5
   episode: 13
   title: "Meadow Stream"
-  year: 1986
+  year: 1985
   painting_index: 242
 
 canvas_preparation:

@@ -1,4 +1,4 @@
-# Season 10, Episode 5 — "Ocean Breeze" (1988)
+# Season 10, Episode 5 — "Ocean Breeze" (1986)
 
 ## 1. Composition
 This seascape features a dramatic sky-dominant composition with a small dark rocky outcropping on the left where white surf crashes against volcanic stone. The ocean extends across the lower half with rolling waves and white-capped breakers moving toward the viewer. Massive billowing cumulus clouds fill approximately 60% of the canvas, their pink-mauve tones contrasting against patches of bright blue sky. No vegetation or structures are present—this is pure ocean and sky. The horizon line sits in the middle third, creating balance between the powerful cloudscape above and the rhythmic waves below. **Compositional archetype: Classic seascape with dramatic sky dominance and minimal land features.**
@@ -67,7 +67,7 @@ episode:
   season: 10
   episode: 5
   title: "Ocean Breeze"
-  year: 1988
+  year: 1986
   painting_index: 167
 
 canvas_preparation:

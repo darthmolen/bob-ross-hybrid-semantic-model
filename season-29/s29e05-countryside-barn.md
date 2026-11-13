@@ -1,4 +1,4 @@
-# Season 29, Episode 5 — "Countryside Barn" (1992)
+# Season 29, Episode 5 — "Countryside Barn" (1993)
 
 ## 1. Composition
 - Rolling green hills create gentle, undulating landforms that frame the central subject
@@ -87,7 +87,7 @@ episode:
   season: 29
   episode: 5
   title: "Countryside Barn"
-  year: 1992
+  year: 1993
   painting_index: 377
 
 canvas_preparation:

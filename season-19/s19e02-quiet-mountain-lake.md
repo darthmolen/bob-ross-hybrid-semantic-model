@@ -1,4 +1,4 @@
-# Season 19, Episode 2 — "Quiet Mountain Lake" (1989)
+# Season 19, Episode 2 — "Quiet Mountain Lake" (1990)
 
 ## 1. Composition
 
@@ -90,7 +90,7 @@ episode:
   season: 19
   episode: 2
   title: "Quiet Mountain Lake"
-  year: 1989
+  year: 1990
   painting_index: 45
 
 canvas_preparation:

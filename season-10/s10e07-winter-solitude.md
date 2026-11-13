@@ -1,4 +1,4 @@
-# Season 10, Episode 7 — "Winter Solitude" (1988)
+# Season 10, Episode 7 — "Winter Solitude" (1986)
 
 ## 1. Composition
 The painting features a minimalist winter landscape with gently rolling snow-covered hills creating soft, undulating forms across the canvas. Bare deciduous trees—most prominently a dark silhouetted tree on the left and smaller skeletal trees scattered throughout—stand as stark vertical elements against the flowing horizontal terrain. The sky displays soft pink and lavender tones with gentle cloud formations, creating an atmospheric canopy. No water features or human structures appear in this scene, emphasizing the isolation suggested by the title. The composition follows a **minimalist winter landscape archetype with gentle curves and vertical counterpoints**.
@@ -58,7 +58,7 @@ episode:
   season: 10
   episode: 7
   title: "Winter Solitude"
-  year: 1988
+  year: 1986
   painting_index: 170
 
 canvas_preparation:

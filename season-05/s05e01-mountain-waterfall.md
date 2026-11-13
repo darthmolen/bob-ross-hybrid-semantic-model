@@ -1,4 +1,4 @@
-# Season 5, Episode 1 — "Mountain Waterfall" (1987)
+# Season 5, Episode 1 — "Mountain Waterfall" (1985)
 
 ---
 
@@ -111,7 +111,7 @@ episode:
   season: 5
   episode: 1
   title: "Mountain Waterfall"
-  year: 1986
+  year: 1985
   painting_index: 230
 
 canvas_preparation:

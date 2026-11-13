@@ -1,4 +1,4 @@
-# Season 29, Episode 1 — "Island in the Wilderness" (1992)
+# Season 29, Episode 1 — "Island in the Wilderness" (1993)
 
 ## 1. Composition
 - A tranquil lake fills the scene, with an **island of pine trees** positioned in the **center-right** as the focal point
@@ -84,7 +84,7 @@ episode:
   season: 29
   episode: 1
   title: "Island in the Wilderness"
-  year: 1992
+  year: 1993
   painting_index: 373
 
 canvas_preparation:

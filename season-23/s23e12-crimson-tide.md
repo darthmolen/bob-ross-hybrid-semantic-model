@@ -1,4 +1,4 @@
-# Season 23, Episode 12 — "Crimson Tide" (1992)
+# Season 23, Episode 12 — "Crimson Tide" (1991)
 
 ## 1. Composition
 - Dramatic seascape dominated by turbulent ocean waves rolling toward the viewer
@@ -73,7 +73,7 @@ episode:
   season: 23
   episode: 12
   title: "Crimson Tide"
-  year: 1992
+  year: 1991
   painting_index: 306
 
 canvas_preparation:

@@ -1,4 +1,4 @@
-# Season 8, Episode 2 — "Lakeside Cabin" (1987)
+# Season 8, Episode 2 — "Lakeside Cabin" (1986)
 
 ## 1. Composition
 - Oval-framed vignette enclosing a tranquil lakeside scene

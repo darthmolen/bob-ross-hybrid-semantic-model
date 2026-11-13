@@ -1,4 +1,4 @@
-# Season 12, Episode 13 — "Winter Mountain" (1990)
+# Season 12, Episode 13 — "Winter Mountain" (1987)
 
 ## 1. Composition
 - Majestic snow-covered mountain peak dominates the background, with dramatic angular faces and pristine white summits
@@ -84,7 +84,7 @@ episode:
   season: 12
   episode: 13
   title: "Winter Mountain"
-  year: 1990
+  year: 1987
   painting_index: 149
 
 canvas_preparation:

@@ -1,4 +1,4 @@
-# Season 10, Episode 6 — "Autumn Woods" (1988)
+# Season 10, Episode 6 — "Autumn Woods" (1986)
 
 ## 1. Composition
 The composition features a dramatic mountain backdrop dominating the upper third, with towering gray-white peaks rendered in vertical strokes. A serene lake occupies the lower foreground, serving as a mirror for the autumn landscape above. The middle ground showcases a dense forest of evergreen conifers interspersed with deciduous trees displaying vibrant fall foliage in golden yellows and burnt oranges. Autumn trees with glowing warm-toned leaves frame both the left and right edges, creating natural borders that guide the eye toward the central mountain mass. The sky presents active cloud formations in white and gray-blue tones, adding atmospheric drama. This exemplifies the **mountain lake with seasonal forest frame** archetype.
@@ -58,7 +58,7 @@ episode:
   season: 10
   episode: 6
   title: "Autumn Woods"
-  year: 1988
+  year: 1986
   painting_index: 168
 
 canvas_preparation:

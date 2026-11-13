@@ -1,4 +1,4 @@
-# Season 10, Episode 2 — "Cabin at Sunset" (1988)
+# Season 10, Episode 2 — "Cabin at Sunset" (1986)
 
 ## 1. Composition
 The painting presents a classic pastoral scene anchored by a rustic cabin with a vibrant red roof positioned in the middle-left quadrant. Rolling grassy hills create gentle undulating landforms that flow from foreground to midground. Evergreen conifers punctuate the composition—misty, atmospheric trees on the left fade into fog, while bold, dark green specimens frame the right side. A wooden rail fence cuts diagonally through the foreground, creating dynamic movement and leading the eye toward the cabin. The sky dominates the upper half with a spectacular sunset displaying dramatic gradations from warm golds and pinks to cool purples and blues. Distant mountains or hills emerge softly through atmospheric haze in the background. No water features are present, allowing the terrestrial elements to command full attention. Compositional archetype: **Diagonal pastoral with human habitation as focal anchor beneath celestial drama**.
@@ -50,7 +50,7 @@ episode:
   season: 10
   episode: 2
   title: "Cabin at Sunset"
-  year: 1988
+  year: 1986
   painting_index: 164
 
 canvas_preparation:

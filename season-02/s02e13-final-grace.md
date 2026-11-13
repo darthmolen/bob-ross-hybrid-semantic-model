@@ -1,4 +1,4 @@
-# Season 2, Episode 13 — "Final Grace" (1983-1984)
+# Season 2, Episode 13 — "Final Grace" (1983)
 
 ## 1. Composition
 
@@ -104,7 +104,7 @@ episode:
   season: 2
   episode: 13
   title: "Final Grace"
-  year: 1984
+  year: 1983
   painting_index: 281
 
 canvas_preparation:

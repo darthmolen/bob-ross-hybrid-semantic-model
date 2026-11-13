@@ -1,4 +1,4 @@
-# Season 22, Episode 13 — "Silent Forest" (1990)
+# Season 22, Episode 13 — "Silent Forest" (1991)
 
 ## 1. Composition
 The painting presents an intimate forest interior dominated by tall, slender tree trunks that rise vertically through the frame. Four to five prominent birch or aspen trees occupy the foreground and midground, their pale bark creating strong vertical elements against a darker background. Behind these light-trunked trees lies a dense evergreen forest rendered in deep blue-greens, suggesting fir or spruce trees receding into atmospheric depth. Delicate foliage—likely deciduous tree canopy—appears at the upper portion in yellow-greens and warm tones, while subtle ground vegetation is suggested at the base. The composition creates a rhythmic pattern of vertical lines that draw the eye upward through the forest space. Compositional archetype: **Vertical forest interior with rhythmic tree trunks**
@@ -38,7 +38,7 @@ episode:
   season: 22
   episode: 13
   title: "Silent Forest"
-  year: 1990
+  year: 1991
   painting_index: 13
 
 canvas_preparation:

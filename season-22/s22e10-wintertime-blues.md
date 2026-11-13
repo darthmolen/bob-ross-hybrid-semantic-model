@@ -1,4 +1,4 @@
-# Season 22, Episode 10 — "Wintertime Blues" (1990)
+# Season 22, Episode 10 — "Wintertime Blues" (1991)
 
 ## 1. Composition
 A majestic winter mountain landscape dominates the composition, with a dramatic range of purple-blue peaks rising across the background horizon. Below the mountains, a misty valley floor appears as a frozen lake or snow-covered clearing, shrouded in layers of blue atmospheric haze. Distant evergreen trees populate the valley, rendered as dark vertical strokes against the blue mist. The foreground features snow-laden bushes and vegetation along the lower edge, while tall evergreen trees frame both the left and right sides, their branches heavily frosted with snow. Above, a bright blue sky hosts billowing white cumulus clouds. The scene presents a classic mountain valley vista framed by winter-dressed conifers.
@@ -50,7 +50,7 @@ episode:
   season: 22
   episode: 10
   title: "Wintertime Blues"
-  year: 1990
+  year: 1991
   painting_index: 10
 
 canvas_preparation:

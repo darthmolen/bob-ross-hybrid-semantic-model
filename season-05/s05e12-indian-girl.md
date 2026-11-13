@@ -1,4 +1,4 @@
-# Season 5, Episode 12 — "Indian Girl" (1987)
+# Season 5, Episode 12 — "Indian Girl" (1985)
 
 ---
 
@@ -113,7 +113,7 @@ episode:
   season: 5
   episode: 12
   title: "Indian Girl"
-  year: 1986
+  year: 1985
   painting_index: 241
 
 canvas_preparation:

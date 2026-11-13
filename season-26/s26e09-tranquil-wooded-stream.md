@@ -1,4 +1,4 @@
-# Season 26, Episode 9 — "Tranquil Wooded Stream" (1992)
+# Season 26, Episode 9 — "Tranquil Wooded Stream" (1993)
 
 ## 1. Composition
 - Intimate woodland stream scene with dramatic backlighting creating a luminous portal effect
@@ -84,7 +84,7 @@ episode:
   season: 26
   episode: 9
   title: "Tranquil Wooded Stream"
-  year: 1992
+  year: 1993
   painting_index: 342
 
 canvas_preparation:

@@ -1,4 +1,4 @@
-# Season 26, Episode 8 — "Early Autumn" (1992)
+# Season 26, Episode 8 — "Early Autumn" (1993)
 
 ## 1. Composition
 - Towering craggy mountain dominates the center background, rendered with dramatic lavender-gray highlights and deep shadow crevices
@@ -76,7 +76,7 @@ episode:
   season: 26
   episode: 8
   title: "Early Autumn"
-  year: 1992
+  year: 1993
   painting_index: 341
 
 canvas_preparation:

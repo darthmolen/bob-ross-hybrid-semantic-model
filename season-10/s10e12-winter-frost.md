@@ -1,4 +1,4 @@
-# Season 10, Episode 12 — "Winter Frost" (1988)
+# Season 10, Episode 12 — "Winter Frost" (1986)
 
 ## 1. Composition
 This winter landscape features a majestic snow-covered mountain range dominating the background, with a serene frozen lake spreading across the center. The left side hosts a cluster of dark evergreen trees with a small cabin nestled at their base, while the right foreground presents bare winter trees reaching upward. Snow banks frame the lower composition, and a luminous yellow sun hangs in the upper right sky, casting soft winter light across the entire scene. The water creates a mirror-like reflection of the mountains and atmospheric conditions above. **Compositional archetype: Classic mountain lake refuge with triadic balance between evergreen forest, alpine peaks, and winter waterscape.**
@@ -58,7 +58,7 @@ episode:
   season: 10
   episode: 12
   title: "Winter Frost"
-  year: 1988
+  year: 1986
   painting_index: 175
 
 canvas_preparation:

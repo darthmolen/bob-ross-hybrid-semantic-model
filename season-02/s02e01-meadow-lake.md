@@ -1,4 +1,4 @@
-# Season 2, Episode 1 — "Meadow Lake" (1983-1984)
+# Season 2, Episode 1 — "Meadow Lake" (1983)
 
 ## 1. Composition
 
@@ -93,7 +93,7 @@ episode:
   season: 2
   episode: 1
   title: "Meadow Lake"
-  year: 1984
+  year: 1983
   painting_index: 269
 
 canvas_preparation:

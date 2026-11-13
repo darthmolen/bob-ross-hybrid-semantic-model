@@ -1,4 +1,4 @@
-# Season 4, Episode 5 — "Evening Seascape" (1985)
+# Season 4, Episode 5 — "Evening Seascape" (1984)
 
 ---
 
@@ -99,7 +99,7 @@ episode:
   season: 4
   episode: 5
   title: "Evening Seascape"
-  year: 1985
+  year: 1984
   painting_index: 247
 
 canvas_preparation:

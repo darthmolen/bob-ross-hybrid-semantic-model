@@ -1,4 +1,4 @@
-# Season 26, Episode 13 — "Evening at the Falls" (1992)
+# Season 26, Episode 13 — "Evening at the Falls" (1993)
 
 ## 1. Composition
 - Dominant central waterfall cascading through a vertical gorge
@@ -81,7 +81,7 @@ episode:
   season: 26
   episode: 13
   title: "Evening at the Falls"
-  year: 1992
+  year: 1993
   painting_index: 346
 
 canvas_preparation:

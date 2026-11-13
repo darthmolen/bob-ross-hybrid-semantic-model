@@ -1,4 +1,4 @@
-# Season 2, Episode 10 — "Lazy River" (1983-1984)
+# Season 2, Episode 10 — "Lazy River" (1983)
 
 ---
 
@@ -114,7 +114,7 @@ episode:
   season: 2
   episode: 10
   title: "Lazy River"
-  year: 1984
+  year: 1983
   painting_index: 278
 
 canvas_preparation:

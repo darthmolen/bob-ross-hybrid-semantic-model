@@ -1,4 +1,4 @@
-# Season 4, Episode 8 — "Wetlands" (1985)
+# Season 4, Episode 8 — "Wetlands" (1984)
 
 ---
 
@@ -99,7 +99,7 @@ episode:
   season: 4
   episode: 8
   title: "Wetlands"
-  year: 1985
+  year: 1984
   painting_index: 250
 
 canvas_preparation:

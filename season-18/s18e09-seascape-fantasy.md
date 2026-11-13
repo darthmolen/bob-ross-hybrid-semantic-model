@@ -1,4 +1,4 @@
-# Season 18, Episode 9 — "Seascape Fantasy" (1988)
+# Season 18, Episode 9 — "Seascape Fantasy" (1989)
 
 ## 1. Composition
 
@@ -92,7 +92,7 @@ episode:
   season: 18
   episode: 9
   title: "Seascape Fantasy"
-  year: 1988
+  year: 1989
   painting_index: 66
 
 canvas_preparation:

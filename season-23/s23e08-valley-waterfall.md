@@ -1,4 +1,4 @@
-# Season 23, Episode 8 — "Valley Waterfall" (1992)
+# Season 23, Episode 8 — "Valley Waterfall" (1991)
 
 ## 1. Composition
 - Dramatic waterfall cascading down the center, creating the primary focal point
@@ -85,7 +85,7 @@ episode:
   season: 23
   episode: 8
   title: "Valley Waterfall"
-  year: 1992
+  year: 1991
   painting_index: 302
 
 canvas_preparation:

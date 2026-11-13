@@ -1,4 +1,4 @@
-# Season 12, Episode 3 — "Secluded Mountain" (1990)
+# Season 12, Episode 3 — "Secluded Mountain" (1987)
 
 ## 1. Composition
 - Two prominent mountain peaks dominate the background: a snow-capped peak on the right and a sunlit green slope on the left
@@ -89,7 +89,7 @@ episode:
   season: 12
   episode: 3
   title: "Secluded Mountain"
-  year: 1990
+  year: 1987
   painting_index: 139
 
 canvas_preparation:

@@ -1,4 +1,4 @@
-# Season 23, Episode 6 — "Rivers Peace" (1992)
+# Season 23, Episode 6 — "Rivers Peace" (1991)
 
 ## 1. Composition
 - Winding river flowing from background to foreground as central focus
@@ -85,7 +85,7 @@ episode:
   season: 23
   episode: 6
   title: "Rivers Peace"
-  year: 1992
+  year: 1991
   painting_index: 300
 
 canvas_preparation:

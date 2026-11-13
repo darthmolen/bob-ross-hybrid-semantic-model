@@ -1,4 +1,4 @@
-# Season 4, Episode 9 — "Cool Waters" (1985)
+# Season 4, Episode 9 — "Cool Waters" (1984)
 
 ---
 
@@ -107,7 +107,7 @@ episode:
   season: 4
   episode: 9
   title: "Cool Waters"
-  year: 1985
+  year: 1984
   painting_index: 251
 
 canvas_preparation:

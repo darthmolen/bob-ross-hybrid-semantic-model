@@ -1,4 +1,4 @@
-# Season 2, Episode 4 — "Shades of Grey" (1983-1984)
+# Season 2, Episode 4 — "Shades of Grey" (1983)
 
 ## 1. Composition
 
@@ -100,7 +100,7 @@ episode:
   season: 2
   episode: 4
   title: "Shades of Grey"
-  year: 1984
+  year: 1983
   painting_index: 272
 
 canvas_preparation:

@@ -1,4 +1,4 @@
-# Season 8, Episode 4 — "Waterside Way" (1987)
+# Season 8, Episode 4 — "Waterside Way" (1986)
 
 ## 1. Composition
 - Winding dirt path curves through center leading toward calm lake

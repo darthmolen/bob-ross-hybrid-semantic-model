@@ -1,4 +1,4 @@
-# Season 26, Episode 6 — "An Arctic Winter Day" (1992)
+# Season 26, Episode 6 — "An Arctic Winter Day" (1993)
 
 ## 1. Composition
 - Two massive snow-covered mountain peaks frame the scene in bilateral symmetry, creating natural sentinels
@@ -85,7 +85,7 @@ episode:
   season: 26
   episode: 6
   title: "An Arctic Winter Day"
-  year: 1992
+  year: 1993
   painting_index: 339
 
 canvas_preparation:

@@ -1,4 +1,4 @@
-# Season 23, Episode 4 — "Reflections of Gold" (1992)
+# Season 23, Episode 4 — "Reflections of Gold" (1991)
 
 ## 1. Composition
 - Oval vignette format creates a natural window into an autumn forest scene
@@ -83,7 +83,7 @@ episode:
   season: 23
   episode: 4
   title: "Reflections of Gold"
-  year: 1992
+  year: 1991
   painting_index: 298
 
 canvas_preparation:

@@ -1,4 +1,4 @@
-# Season 4, Episode 12 — "Autumn Days" (1985)
+# Season 4, Episode 12 — "Autumn Days" (1984)
 
 ---
 
@@ -97,7 +97,7 @@ episode:
   season: 4
   episode: 12
   title: "Autumn Days"
-  year: 1985
+  year: 1984
   painting_index: 254
 
 canvas_preparation:

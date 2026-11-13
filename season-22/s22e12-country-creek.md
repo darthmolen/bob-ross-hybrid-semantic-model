@@ -1,4 +1,4 @@
-# Season 22, Episode 12 — "Country Creek" (1990)
+# Season 22, Episode 12 — "Country Creek" (1991)
 
 ## 1. Composition
 A secluded forest creek flows through the heart of a dense woodland sanctuary. Towering dark evergreens frame both sides of the composition, creating a natural corridor that draws the eye toward the center. The creek emerges from a misty background, tumbling over rocks in the middle distance before flowing forward through the foreground. Two luminous deciduous trees with golden-yellow foliage stand as radiant sentinels in the midground, their bright leaves catching filtered sunlight breaking through the canopy. Large weathered boulders anchor the left and right foreground, their dark masses providing structural weight. The background dissolves into atmospheric haze where tall conifers fade into soft grays. The sky remains hidden beneath the forest canopy, intensifying the intimate, enclosed feeling.
@@ -44,7 +44,7 @@ episode:
   season: 22
   episode: 12
   title: "Country Creek"
-  year: 1990
+  year: 1991
   painting_index: 12
 
 canvas_preparation:

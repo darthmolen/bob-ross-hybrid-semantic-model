@@ -1,4 +1,4 @@
-# Season 6, Episode 1 — "Blue River" (1986)
+# Season 6, Episode 1 — "Blue River" (1985)
 
 ## 1. Composition
 
@@ -94,7 +94,7 @@ episode:
   season: 6
   episode: 1
   title: "Blue River"
-  year: 1986
+  year: 1985
   painting_index: 217
 
 canvas_preparation:

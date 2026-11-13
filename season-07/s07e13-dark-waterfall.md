@@ -1,4 +1,4 @@
-# Season 7, Episode 13 — "Dark Waterfall" (1986)
+# Season 7, Episode 13 — "Dark Waterfall" (1985)
 
 ## 1. Composition
 This dramatic forest scene features a vertical cascade waterfall positioned in the misty background, framed by two prominent dark tree trunks in the foreground that create a natural window into the scene. A rushing stream flows diagonally from the background waterfall through the center, creating white-water rapids over rocky terrain. Dark rocky outcrops flank both sides of the composition, with the left side hosting yellowy-green deciduous foliage and the right side showing darker evergreen vegetation. The sky appears as purple-lavender atmospheric haze filtering through the mist and trees. The overall compositional archetype is a **framed forest sanctuary with vertical and horizontal water elements** creating a tunnel-like view into a hidden wilderness.
@@ -54,7 +54,7 @@ episode:
   season: 7
   episode: 13
   title: "Dark Waterfall"
-  year: 1986
+  year: 1985
   painting_index: 216
   youtube_url: "https://www.youtube.com/embed/VqMbL00eZqw"
 

@@ -1,4 +1,4 @@
-# Season 9, Episode 3 — "Red Sunset" (1985)
+# Season 9, Episode 3 — "Red Sunset" (1986)
 
 ## 1. Composition
 
@@ -108,7 +108,7 @@ episode:
   season: 9
   episode: 3
   title: "Red Sunset"
-  year: 1985
+  year: 1986
   painting_index: 179
 
 canvas_preparation:

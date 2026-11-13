@@ -1,4 +1,4 @@
-# Season 4, Episode 4 — "Winter Sawscape" (1985)
+# Season 4, Episode 4 — "Winter Sawscape" (1984)
 
 ---
 
@@ -102,7 +102,7 @@ episode:
   season: 4
   episode: 4
   title: "Winter Sawscape"
-  year: 1985
+  year: 1984
   painting_index: 246
 
 canvas_preparation:

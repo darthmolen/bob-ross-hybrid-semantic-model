@@ -1,4 +1,4 @@
-# Season 6, Episode 10 — "Country Life" (1986)
+# Season 6, Episode 10 — "Country Life" (1985)
 
 ## 1. Composition
 
@@ -91,7 +91,7 @@ episode:
   season: 6
   episode: 10
   title: "Country Life"
-  year: 1986
+  year: 1985
   painting_index: 226
 
 canvas_preparation:

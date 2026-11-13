@@ -1,4 +1,4 @@
-# Season 2, Episode 11 — "Black Waterfall" (1983-1984)
+# Season 2, Episode 11 — "Black Waterfall" (1983)
 
 ---
 
@@ -118,7 +118,7 @@ episode:
   season: 2
   episode: 11
   title: "Black Waterfall"
-  year: 1984
+  year: 1983
   painting_index: 279
 
 canvas_preparation:

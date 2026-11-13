@@ -1,4 +1,4 @@
-# Season 29, Episode 6 — "Mountain Lake Falls" (1992)
+# Season 29, Episode 6 — "Mountain Lake Falls" (1993)
 
 ## 1. Composition
 - Towering snow-capped mountain range dominates the upper two-thirds, featuring multiple jagged peaks with dramatic shadows and highlights
@@ -82,7 +82,7 @@ episode:
   season: 29
   episode: 6
   title: "Mountain Lake Falls"
-  year: 1992
+  year: 1993
   painting_index: 378
 
 canvas_preparation:

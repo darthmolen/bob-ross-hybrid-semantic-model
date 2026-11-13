@@ -1,4 +1,4 @@
-# Season 23, Episode 3 — "Mountain Ridge Lake" (1992)
+# Season 23, Episode 3 — "Mountain Ridge Lake" (1991)
 
 ## 1. Composition
 - Majestic mountain peaks frame a valley floor of rolling green meadows
@@ -74,7 +74,7 @@ episode:
   season: 23
   episode: 3
   title: "Mountain Ridge Lake"
-  year: 1992
+  year: 1991
   painting_index: 297
 
 canvas_preparation:

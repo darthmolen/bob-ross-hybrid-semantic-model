@@ -1,4 +1,4 @@
-# Season 12, Episode 11 — "Soft Mountain Glow" (1990)
+# Season 12, Episode 11 — "Soft Mountain Glow" (1987)
 
 ## 1. Composition
 - Majestic snow-capped mountain dominates the background with a prominent central peak
@@ -86,7 +86,7 @@ episode:
   season: 12
   episode: 11
   title: "Soft Mountain Glow"
-  year: 1990
+  year: 1987
   painting_index: 147
 
 canvas_preparation:

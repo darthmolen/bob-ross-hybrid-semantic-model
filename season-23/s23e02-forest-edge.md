@@ -1,4 +1,4 @@
-# Season 23, Episode 2 — "Forest Edge" (1992)
+# Season 23, Episode 2 — "Forest Edge" (1991)
 
 ## 1. Composition
 - Dominant dark tree anchors the left foreground, trunk textured with vertical striations and reaching bare branches across the upper canvas
@@ -78,7 +78,7 @@ episode:
   season: 23
   episode: 2
   title: "Forest Edge"
-  year: 1992
+  year: 1991
   painting_index: 296
 
 canvas_preparation:

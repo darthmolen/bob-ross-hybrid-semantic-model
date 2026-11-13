@@ -1,4 +1,4 @@
-# Season 10, Episode 13 — "Lakeside Cabin" (1988)
+# Season 10, Episode 13 — "Lakeside Cabin" (1986)
 
 ## 1. Composition
 The painting presents a classic diagonal division between land and water, with a rolling grassy hillside dominating the left side and a calm lake filling the right. A stone path winds up the verdant slope, leading the eye toward a small rustic cabin nestled among golden-green deciduous trees in the midground. Tall trees with luminous yellow-green foliage frame the left side, their trunks creating strong vertical elements. The background dissolves into misty, atmospheric hills rendered in soft gray-blues, creating deep spatial recession. White cumulus clouds drift across a bright blue sky, adding vertical interest to the upper register. The cabin, positioned just left of center, serves as the focal anchor between the terrestrial and aquatic realms. Compositional archetype: **Diagonal land-water division with central architectural anchor**.
@@ -50,7 +50,7 @@ episode:
   season: 10
   episode: 13
   title: "Lakeside Cabin"
-  year: 1988
+  year: 1986
   painting_index: 176
 
 canvas_preparation:

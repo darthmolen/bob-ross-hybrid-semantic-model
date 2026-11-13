@@ -1,4 +1,4 @@
-# Season 22, Episode 5 — "Russet Winter" (1990)
+# Season 22, Episode 5 — "Russet Winter" (1991)
 
 ## 1. Composition
 A snow-blanketed clearing anchors the foreground, its surface sculpted with gentle undulations and shadowed footpaths. A weathered dark barn stands right-of-center, its snow-laden roof catching ambient light against the warm misty background. The left foreground features a stark bare tree with gnarled branches reaching into the luminous sky. Frozen grasses and dormant shrubs emerge from the snow base, while the background dissolves into layers of bare winter trees veiled by atmospheric haze in warm russet and amber tones. The composition creates a classic winter vignette: **rustic shelter within a glowing winter woodland**.
@@ -43,7 +43,7 @@ episode:
   season: 22
   episode: 5
   title: "Russet Winter"
-  year: 1990
+  year: 1991
   painting_index: 5
 
 canvas_preparation:

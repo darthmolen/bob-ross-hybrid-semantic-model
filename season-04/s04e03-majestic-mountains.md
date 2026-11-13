@@ -1,4 +1,4 @@
-# Season 4, Episode 3 — "Majestic Mountains" (1985)
+# Season 4, Episode 3 — "Majestic Mountains" (1984)
 
 ---
 
@@ -98,7 +98,7 @@ episode:
   season: 4
   episode: 3
   title: "Majestic Mountains"
-  year: 1985
+  year: 1984
   painting_index: 245
 
 canvas_preparation:

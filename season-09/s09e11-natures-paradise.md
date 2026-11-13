@@ -1,4 +1,4 @@
-# Season 9, Episode 11 — "Nature's Paradise" (1985)
+# Season 9, Episode 11 — "Nature's Paradise" (1986)
 
 ## 1. Composition
 
@@ -102,7 +102,7 @@ episode:
   season: 9
   episode: 11
   title: "Nature's Paradise"
-  year: 1985
+  year: 1986
   painting_index: 187
 
 canvas_preparation:

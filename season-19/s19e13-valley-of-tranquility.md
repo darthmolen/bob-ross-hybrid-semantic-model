@@ -1,4 +1,4 @@
-# Season 19, Episode 13 — "Valley of Tranquility" (1989)
+# Season 19, Episode 13 — "Valley of Tranquility" (1990)
 
 ## 1. Composition
 
@@ -90,7 +90,7 @@ episode:
   season: 19
   episode: 13
   title: "Valley of Tranquility"
-  year: 1989
+  year: 1990
   painting_index: 57
 
 canvas_preparation:

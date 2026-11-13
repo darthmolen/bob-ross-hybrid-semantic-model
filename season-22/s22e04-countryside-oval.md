@@ -1,4 +1,4 @@
-# Season 22, Episode 4 — "Countryside Oval" (1990)
+# Season 22, Episode 4 — "Countryside Oval" (1991)
 
 ## 1. Composition
 A pastoral countryside scene presented within an oval vignette, framed against a dark background. Distant purple-blue mountains anchor the horizon beneath a brilliant sky filled with white cumulus clouds. A lush green meadow stretches across the middle ground, punctuated by a small rustic fence that draws the eye toward the mountains. In the foreground, a tranquil pond reflects the sky, its banks dotted with scattered rocks and grasses. Framing trees create natural boundaries—a weathered deciduous tree with pale, reaching branches on the left, and rich evergreens on both sides that echo the oval's curve. The composition follows a **framed pastoral vista archetype**, presenting an idyllic window into serene countryside.
@@ -43,7 +43,7 @@ episode:
   season: 22
   episode: 4
   title: "Countryside Oval"
-  year: 1990
+  year: 1991
   painting_index: 4
 
 canvas_preparation:

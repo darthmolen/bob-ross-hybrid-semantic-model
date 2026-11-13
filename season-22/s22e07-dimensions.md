@@ -1,4 +1,4 @@
-# Season 22, Episode 7 — "Dimensions" (1990)
+# Season 22, Episode 7 — "Dimensions" (1991)
 
 ## 1. Composition
 The painting presents a remarkable meta-composition: a framed mountain landscape positioned within a larger wilderness scene. The inner painting depicts snow-capped mountain peaks rising above a misty blue lake, with a rocky peninsula extending into the water and crowned by evergreen trees. This framed scene is surrounded by an outer reality featuring prominent evergreen trees on the right, a bare deciduous tree with reaching branches on the left, and glimpses of water and verdant foliage framing the white-bordered painting within. The white frame itself becomes a structural element, creating a window effect that separates two dimensional planes.
@@ -44,7 +44,7 @@ episode:
   season: 22
   episode: 7
   title: "Dimensions"
-  year: 1990
+  year: 1991
   painting_index: 7
 
 canvas_preparation:

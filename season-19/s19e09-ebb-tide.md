@@ -1,4 +1,4 @@
-# Season 19, Episode 9 — "Ebb Tide" (1989)
+# Season 19, Episode 9 — "Ebb Tide" (1990)
 
 ## 1. Composition
 
@@ -103,7 +103,7 @@ episode:
   season: 19
   episode: 9
   title: "Ebb Tide"
-  year: 1989
+  year: 1990
   painting_index: 52
 
 canvas_preparation:

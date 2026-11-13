@@ -1,4 +1,4 @@
-# Season 12, Episode 5 — "Black Seascape" (1990)
+# Season 12, Episode 5 — "Black Seascape" (1987)
 
 ## 1. Composition
 - Turbulent nighttime ocean with massive rolling waves dominating the canvas
@@ -83,7 +83,7 @@ episode:
   season: 12
   episode: 5
   title: "Black Seascape"
-  year: 1990
+  year: 1987
   painting_index: 141
 
 canvas_preparation:

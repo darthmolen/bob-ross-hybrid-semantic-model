@@ -1,4 +1,4 @@
-# Season 7, Episode 8 — "Mountain Splendor" (1986)
+# Season 7, Episode 8 — "Mountain Splendor" (1985)
 
 ## 1. Composition
 This painting showcases a majestic snow-capped mountain as its central focal point, rising dramatically against a warm glowing sky. A serene lake in the midground creates a perfect mirror for the mountain's grandeur, while the foreground features a rocky shoreline with a small meandering stream. The left side is anchored by deciduous trees with yellow-green autumn foliage mixed with darker evergreens, while the right side displays silhouetted conifers. A single evergreen tree stands prominently on the right edge. The scene embodies the classic **mountain lake sanctuary archetype** with strong vertical emphasis from the peak balanced by horizontal water elements.
@@ -41,7 +41,7 @@ episode:
   season: 7
   episode: 8
   title: "Mountain Splendor"
-  year: 1986
+  year: 1985
   painting_index: 211
   youtube_url: "https://www.youtube.com/embed/GhOGZMpPUSE"
 

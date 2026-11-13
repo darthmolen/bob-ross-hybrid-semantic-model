@@ -1,4 +1,4 @@
-# Season 6, Episode 11 — "Western Expanse" (1986)
+# Season 6, Episode 11 — "Western Expanse" (1985)
 
 ## 1. Composition
 
@@ -94,7 +94,7 @@ episode:
   season: 6
   episode: 11
   title: "Western Expanse"
-  year: 1986
+  year: 1985
   painting_index: 227
 
 canvas_preparation:

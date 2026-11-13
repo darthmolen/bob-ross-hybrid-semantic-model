@@ -1,4 +1,4 @@
-# Season 26, Episode 12 — "Sunset Aglow" (1992)
+# Season 26, Episode 12 — "Sunset Aglow" (1993)
 
 ## 1. Composition
 - Snow-capped mountain range forming the background horizon line
@@ -74,7 +74,7 @@ episode:
   season: 26
   episode: 12
   title: "Sunset Aglow"
-  year: 1992
+  year: 1993
   painting_index: 345
 
 canvas_preparation:

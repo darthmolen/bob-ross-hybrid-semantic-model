@@ -1,4 +1,4 @@
-# Season 5, Episode 11 — "Autumn Glory" (1987)
+# Season 5, Episode 11 — "Autumn Glory" (1985)
 
 ---
 
@@ -107,7 +107,7 @@ episode:
   season: 5
   episode: 11
   title: "Autumn Glory"
-  year: 1986
+  year: 1985
   painting_index: 240
 
 canvas_preparation:

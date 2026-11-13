@@ -1,4 +1,4 @@
-# Season 18, Episode 1 — "Half-Oval Vignette" (1988)
+# Season 18, Episode 1 — "Half-Oval Vignette" (1989)
 
 ## 1. Composition
 
@@ -104,7 +104,7 @@ episode:
   season: 18
   episode: 1
   title: "Half-Oval Vignette"
-  year: 1988
+  year: 1989
   painting_index: 58
 
 canvas_preparation:

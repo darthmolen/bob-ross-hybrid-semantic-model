@@ -1,4 +1,4 @@
-# Season 7, Episode 2 — "Secluded Lake" (1986)
+# Season 7, Episode 2 — "Secluded Lake" (1985)
 
 ## 1. Composition
 This painting presents a classic lakeside retreat with a distinctive autumn palette. The composition features a calm lake at center, framed by tall evergreen trees on both left and right sides creating natural vertical anchors. A prominent dead snag rises in the center-right, adding dramatic contrast to the living foliage. The foreground is defined by a rocky shoreline with scattered stones and boulders extending into the water. Misty blue-gray mountains recede into the background, establishing atmospheric depth. Small autumn-colored bushes and shrubs cluster along the shore, introducing warm orange and golden tones. The overall archetype is a **pastoral lake sanctuary with seasonal transition**.
@@ -61,7 +61,7 @@ episode:
   season: 7
   episode: 2
   title: "Secluded Lake"
-  year: 1986
+  year: 1985
   painting_index: 204
   youtube_url: "https://www.youtube.com/embed/2OxSJcFvpoU"
 

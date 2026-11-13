@@ -1,4 +1,4 @@
-# Season 30, Episode 5 — "A Copper Winter" (1994)
+# Season 30, Episode 5 — "A Copper Winter" (1993)
 
 ## 1. Composition
 A misty winter forest scene anchored by a striking contrast between warm atmospheric tones and cold winter elements. Tall birch trees with distinctive white bark and dark markings frame the composition on both sides, their slender trunks rising vertically through the scene. A blue-toned evergreen stands prominently in the left foreground, providing chromatic opposition to the pervasive warmth. The middle ground features copper-hued bushes and undergrowth partially covered by snow, while the background dissolves into a luminous, fog-shrouded forest of vertical tree forms creating atmospheric depth. The snowy ground plane establishes the foreground, its cool whites contrasting with the warm, glowing atmosphere above.
@@ -47,7 +47,7 @@ episode:
   season: 30
   episode: 5
   title: "A Copper Winter"
-  year: 1994
+  year: 1993
   painting_index: 390
 
 canvas_preparation:

@@ -1,4 +1,4 @@
-# Season 4, Episode 1 — "Purple Splendor" (1985)
+# Season 4, Episode 1 — "Purple Splendor" (1984)
 
 ---
 
@@ -99,7 +99,7 @@ episode:
   season: 4
   episode: 1
   title: "Purple Splendor"
-  year: 1985
+  year: 1984
   painting_index: 243
 
 canvas_preparation:

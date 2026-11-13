@@ -1,4 +1,4 @@
-# Season 8, Episode 11 — "Mountain Range" (1987)
+# Season 8, Episode 11 — "Mountain Range" (1986)
 
 ## 1. Composition
 - Massive snow-covered mountain range dominates the background with prominent central peak

@@ -1,4 +1,4 @@
-# Season 7, Episode 5 — "Portrait of Sally" (1986)
+# Season 7, Episode 5 — "Portrait of Sally" (1985)
 
 ## 1. Composition
 The portrait presents a frontal view of a female figure set against a loosely rendered forest background. The subject wears a distinctive white or light-colored head covering or bonnet and dark clothing, creating strong tonal contrast. The face is positioned in the upper-center of the canvas with the figure occupying the middle ground. The background features impressionistic green foliage and darker tree forms that frame the subject without competing for attention. This follows a classical portrait archetype with environmental context—subject-dominant with atmospheric setting.
@@ -44,7 +44,7 @@ episode:
   season: 7
   episode: 5
   title: "Portrait of Sally"
-  year: 1986
+  year: 1985
   painting_index: 208
   youtube_url: "https://www.youtube.com/embed/MHJB0IBnuD4"
 

@@ -1,4 +1,4 @@
-# Season 8, Episode 9 — "Majestic Pine" (1987)
+# Season 8, Episode 9 — "Majestic Pine" (1986)
 
 ## 1. Composition
 - Three prominent evergreen pine trees framing the scene

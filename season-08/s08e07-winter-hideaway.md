@@ -1,4 +1,4 @@
-# Season 8, Episode 7 — "Winter Hideaway" (1987)
+# Season 8, Episode 7 — "Winter Hideaway" (1986)
 
 ## 1. Composition
 - Snow-covered landscape with gentle rolling terrain

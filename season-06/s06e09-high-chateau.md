@@ -1,4 +1,4 @@
-# Season 6, Episode 9 — "High Chateau" (1986)
+# Season 6, Episode 9 — "High Chateau" (1985)
 
 ---
 
@@ -112,7 +112,7 @@ episode:
   season: 6
   episode: 9
   title: "High Chateau"
-  year: 1986
+  year: 1985
   painting_index: 225
 
 canvas_preparation:

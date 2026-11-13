@@ -1,4 +1,4 @@
-# Season 26, Episode 10 — "Purple Mountain Range" (1992)
+# Season 26, Episode 10 — "Purple Mountain Range" (1993)
 
 ## 1. Composition
 - **Landforms**: Dramatic multi-peaked mountain range with distinctive purple-mauve coloration; angular peaks with snow highlights; strong diagonal ridgelines creating triangular silhouettes
@@ -76,7 +76,7 @@ episode:
   season: 26
   episode: 10
   title: "Purple Mountain Range"
-  year: 1992
+  year: 1993
   painting_index: 343
 
 canvas_preparation:

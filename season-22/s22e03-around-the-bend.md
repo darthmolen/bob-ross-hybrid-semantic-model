@@ -1,4 +1,4 @@
-# Season 22, Episode 3 — "Around the Bend" (1990)
+# Season 22, Episode 3 — "Around the Bend" (1991)
 
 ## 1. Composition
 
@@ -80,7 +80,7 @@ episode:
   season: 22
   episode: 3
   title: "Around the Bend"
-  year: 1990
+  year: 1991
   painting_index: 16
 
 canvas_preparation:
